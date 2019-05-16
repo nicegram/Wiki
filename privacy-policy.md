@@ -64,4 +64,4 @@ Due to the feature of the Application and the direct relationship with the serve
 ## REQUISITES OF THE TRUSTEE
 Name: Sergey Akentev
 
-Email & Technical support: support@nicegram.app
+Email & Technical support: <a href="MAILTO:support@nicegram.app">support@nicegram.app</a>
