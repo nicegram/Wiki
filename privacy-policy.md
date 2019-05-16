@@ -4,7 +4,7 @@
 
 Nicegram does not transfer any user data or device information to anyone and uses the Telegram API, so for more details, please read the <a href="https://telegram.org/privacy" target="_blank">Telegram Privacy Policy</a>.
 
-Our client’s open source code is available at https://github.com/nicegram/ to comply with the Telegram API terms of use and the GNU GPL licenses.
+Our client’s open source code is available at <a href="https://github.com/nicegram/" target="_blank">https://github.com/nicegram/</a> to comply with the Telegram API terms of use and the GNU GPL licenses.
 
 Using the mobile application “Nicegram” (hereinafter referred to as the Application), which is a branch project (fork) of the Telegram messenger, which operates on the basis of its open API, has additional functionality and design elements, the user (hereinafter referred to as the User) accepts this agreement (hereinafter referred to as the Agreement) regulating the rules for using the Application, the procedure for purchasing paid services in the Application, the responsibility of the parties and other relations related to the use of the Application.
 
