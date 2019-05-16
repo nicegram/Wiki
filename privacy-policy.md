@@ -16,7 +16,7 @@ Due to the feature of the Application and the direct relationship with the serve
 * 1.1. According to the text of the Agreement, as well as in connection with the relationship between the Rights Holder and the Application User, the following terms and definitions apply.
   * 1.1.1. User - a capable adult physical person (or legal representative of a minor), who has passed the registration procedure in the Application, has civil law and capacity, is able, in accordance with the legislation of the Russian Federation, to acquire rights and bear obligations on its behalf and act as a party to the Agreement.
   * 1.1.2. Store - application store “App Store”, through which the User installed and launched the Application on his device.
-  * 1.1.3. Nice Features – A computer program built into the Application (such as Chat Tabs Filter, Save to Cloud button and etc.) that extends user experience.
+  * 1.1.3. Nice Features – A computer program built into the Application (such as Chat Tabs Filter, Save to Telegram Cloud function and etc.) that extends user experience.
 * 1.2. Other terms used in the Agreement and / or in relations arising from it are subject to interpretation in accordance with the legislation of the Russian Federation, and in the absence of their interpretation in the legislation in accordance with the customs of business and scientific doctrine.
 ## 2. GENERAL PROVISIONS
 * 2.1. When using the Application, the User undertakes to comply with the Agreement, with all its integral parts, including the current legislation of the Russian Federation and international agreements, the rules of the Shops, other legal acts interrelated with the functioning of the Application.
