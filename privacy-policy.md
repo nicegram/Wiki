@@ -54,7 +54,7 @@ Due to the feature of the Application and the direct relationship with the serve
 ## 7. INTELLECTUAL PROPERTY
 * 7.1. The design elements, all Nice Features and other objects missing in the Telegram interface are subject to the exclusive rights of the Copyright Holder.
 * 7.2. The user is granted a personal non-exclusive and non-transferable right to use the Application on his device, provided that neither the User himself nor any other persons with the assistance of him will: - copy or modify the software; - create software-derived programs; - disassemble and examine the software in order to obtain program codes; - violate the rights of third parties; - to sell, assign, lease, transfer to third parties in any other form the rights with respect to the software provided to the User under the Agreement; - modify services, including in order to obtain unauthorized access to them.
-* 7.4. In the event of the discovery of a violation of intellectual property rights, incomplete information, inaccuracies or errors in the application, the respective copyright holder shall, in the pretrial order, contact "Telegram" by e-mail: dmca@telegram.org, "Telegram" is responsible for all cases.
+* 7.4. In the event of the discovery of a violation of intellectual property rights, incomplete information, inaccuracies or errors in the application, the respective copyright holder shall, in the pretrial order, contact "Telegram" by e-mail: <a href="mailto:dmca@telegram.org">dmca@telegram.org</a>, "Telegram" is responsible for all cases.
 * 7.5. In any case, Rightholder doesn't bear any responsibility on any intellectual property violation, where intellectual property provided by "Telegram" (for example, chat bots' content, public groups' and channels' content, etc.) 
 ## 8. FINAL PROVISIONS
 * 8.1. All disagreements or disputes that may arise between the parties to the Agreement should be resolved in the pretrial order through negotiations, the sending of claim letters. The deadline for responding to a claim is 10 (ten) business days. Claims of the User are accepted and considered by the Copyright Holder only in writing.
@@ -64,4 +64,4 @@ Due to the feature of the Application and the direct relationship with the serve
 ## REQUISITES OF THE TRUSTEE
 Name: Sergey Akentev
 
-Contact & Technical support: support@nicegram.app
+Contact & Technical support: <a href="mailto:support@nicegram.app">support@nicegram.app</a>
