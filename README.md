@@ -12,5 +12,5 @@ Check out <a href="https://telegra.ph/Meet-Nicegram-04-04" target="_blank">Niceg
 
 <a href="https://t.me/nicegramchat" target="_blank">Telegram Chat</a>
 
-<a href="privacy-policy.md" target="_blank">Privacy Policy</a>
+<a href="privacy-policy" target="_blank">Privacy Policy</a>
 
