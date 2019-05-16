@@ -3,12 +3,12 @@
 Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, careful code optimization and unique features that deliver a whole new level of experience you can’t refuse!
 
 ### Main features
-Check out [Nicegram Starting Guide](https://telegra.ph/Meet-Nicegram-04-04)
+Check out <a href="https://telegra.ph/Meet-Nicegram-04-04" target="_blank">Nicegram Starting Guide</a>
 
 ### Links
 
-[Telegram Channel](https://t.me/nicegramapp)
+<a href="https://t.me/nicegramapp" target="_blank">Telegram Channel</a>
 
-[Telegram Chat](https://t.me/nicegramchat)
+<a href="https://t.me/nicegramchat" target="_blank">Telegram Chat</a>
 
-[Download](https://nicegram.app/download)
+<a href="https://www.nicegram.app/download" target="_blank">Download</a>
