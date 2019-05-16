@@ -4,9 +4,9 @@
 
 Nicegram does not transfer any user data or device information to anyone and uses the Telegram API, so for more details, please read the <a href="https://telegram.org/privacy" target="_blank">Telegram Privacy Policy</a>.
 
-Our client’s open source code is available at <a href="https://github.com/nicegram" target="_blank">https://github.com/nicegram</a> to comply with the Telegram API terms of use and the GNU GPL licenses.
+Our client's open source code is available at <a href="https://github.com/nicegram" target="_blank">https://github.com/nicegram</a> to comply with the Telegram API terms of use and the GNU GPL licenses.
 
-Using the mobile application “Nicegram” (hereinafter referred to as the Application), which is a branch project (fork) of the Telegram messenger, which operates on the basis of its open API, has additional functionality and design elements, the user (hereinafter referred to as the User) accepts this agreement (hereinafter referred to as the Agreement) regulating the rules for using the Application, the procedure for purchasing paid services in the Application, the responsibility of the parties and other relations related to the use of the Application.
+Using the mobile application "Nicegram" (hereinafter referred to as the Application), which is a branch project (fork) of the Telegram messenger, which operates on the basis of its open API, has additional functionality and design elements, the user (hereinafter referred to as the User) accepts this agreement (hereinafter referred to as the Agreement) regulating the rules for using the Application, the procedure for purchasing paid services in the Application, the responsibility of the parties and other relations related to the use of the Application.
 
 The developer and copyright holder of the Application is Sergey Akentev (hereinafter the Rightholder), however, the application is based on the Telegram API, operates through servers and services owned by Telegram, thus the exclusive right of the Rightholder applies to the results of intellectual activity and equated to them means of individualization, not affected by the terms of use of the API "Telegram".
 
@@ -15,7 +15,7 @@ Due to the feature of the Application and the direct relationship with the serve
 ## 1. TERMS AND DEFINITIONS
 * 1.1. According to the text of the Agreement, as well as in connection with the relationship between the Rights Holder and the Application User, the following terms and definitions apply.
   * 1.1.1. User - a capable adult physical person (or legal representative of a minor), who has passed the registration procedure in the Application, has civil law and capacity, is able, in accordance with the legislation of the Russian Federation, to acquire rights and bear obligations on its behalf and act as a party to the Agreement.
-  * 1.1.2. Store - application store “App Store”, through which the User installed and launched the Application on his device.
+  * 1.1.2. Store - application store "App Store", through which the User installed and launched the Application on his device.
   * 1.1.3. Nice Features – A computer program built into the Application (such as Chat Tabs Filter, Save to Telegram Cloud function and etc.) that extends user experience.
 * 1.2. Other terms used in the Agreement and / or in relations arising from it are subject to interpretation in accordance with the legislation of the Russian Federation, and in the absence of their interpretation in the legislation in accordance with the customs of business and scientific doctrine.
 ## 2. GENERAL PROVISIONS
