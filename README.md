@@ -7,7 +7,7 @@ I've used Bootstrap to make this website, it's kinda lightweight so it should wo
 This file feels like a placeholder for the license but, eh i'm not really expert with ``README`` files
 # License
 
-``Copyright 2019  Ryosuke Fujimori``
+``Copyright 2019  Ryosuke Takarushi / takarushi``
 
 ``Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:``
 
