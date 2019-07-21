@@ -1,5 +1,3 @@
-<meta name="yandex-verification" content="bfcafc040673553f" />
-
 ## Welcome to Nicegram
 
 Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, careful code optimization and unique features that deliver a whole new level of experience you can’t refuse!
