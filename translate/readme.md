@@ -37,4 +37,29 @@ Please, do not translate `chats` section, just refer to `/chats`
 You can use [this folder](https://github.com/nicegram/nicegram.github.io/tree/master/faq) as example.
 
 
+#### Header Anchors (FAQs) and etc.
+
+Small python script that will create a header which you can insert in table of contents. (not sure if works for chinese)
+
+Online: https://repl.it/repls/SpecificIndigoOperatingsystem
+
+
+Local:
+
+```python
+import string
+
+
+def sanitize(s):
+    return "#" + s.lower().translate(str.maketrans('', '', string.punctuation)).replace(' ', '-')
+
+
+while True:
+    st = input('Enter header: ')
+    print('\n')
+    print(sanitize(st))
+    print('\n')
+```
+
+
 Thank you in advance!
