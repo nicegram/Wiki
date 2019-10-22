@@ -1,10 +1,10 @@
-## Nicegram FAQ
-![image](images/banner.png)
-
+# Nicegram FAQ
 _Here are answers to frequently asked questions about the Nicegram - modified Telegram app for iOS.  If you did not find the answer to your question, then please reach us at_ [_@NicegramChat_](https://t.me/nicegramchat)
 
+![image](images/banner.png)
 
-### TABLE OF CONTENTS
+
+## TABLE OF CONTENTS
 
 *   [Nicegram features](#what-features-does-nicegram-offer-over-the-official-telegram-app)
 *   [Download](#download)
