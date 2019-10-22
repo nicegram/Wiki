@@ -20,10 +20,9 @@ Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, c
 - [Функции](/features/ru)
 - [FAQ](/faq/ru)
 - [Разблокировка чатов](/unblock/ru)
-- [Перевод](/translate/ru)
 
 ## Translate
 Everybody welcomed to [Translate](/translate) Nicegram App and Website
 
 
-Nicegram also have transparent <a href="privacy-policy" target="_blank">Privacy Policy</a>
+Nicegram also have a <a href="privacy-policy" target="_blank">Privacy Policy</a>
