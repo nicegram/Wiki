@@ -78,7 +78,7 @@ Tabiki... uygulamadan çıkmak için kaydırın ve tekrar açın.
 
 > [_Yukarı dön_](#İçindekiler)
 
-## Nasıl yeni özellik öerilir?
+## Nasıl yeni özellik önerilir?
 
 [vote.nicegram.app](https://vote.nicegram.app/) websitesini kullanın.
 
