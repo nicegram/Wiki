@@ -13,7 +13,7 @@ _Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık
 *   [Nicegram Debug çalışmıyor](#Nicegram-debug-neden-artık-çalışmıyor)
 *   [Nicegram nasıl yeniden başlatılır?](#Nicegramı-nasıl-yeniden-başlatırım)
 *   [Nicegram Özelliği Öner](#nasıl-yeni-özellik-önerilir)
-*   [Hatalar](#nicegramda-bir-hatayı-nasıl-bildirebilirim)
+*   [Hatalar](#nicegramda-bir-hatayı-nasıl-bildiririm)
 *   [Bildirimden yanıtla veya Resim önizleme çalışmıyor](#Neden-resimlerin-önizlemesini-göremiyor-veya-bildirimden-yanıtlayamıyorum)
 *   [Apple Watch Uygulaması eksikliği](#Neden-Nicegram-için-Apple-Watch-Uygulaması-yok)
 *   [MacOS için Nicegram](#MacOS-için-Nicegramı-nasıl-alırım)
