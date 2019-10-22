@@ -40,6 +40,8 @@ Please, do not translate `chats` section, just refer to `/chats`
 
 You can use [this folder](https://github.com/nicegram/nicegram.github.io/tree/master/ru) with Russian translation as example.
 
+[Example Pull Request](https://github.com/nicegram/nicegram.github.io/pull/1) for addding Turkish translation.
+
 
 ### Header Anchors (FAQs).
 
