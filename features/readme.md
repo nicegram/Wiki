@@ -28,6 +28,7 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 - **Nicegram is not only NICE. It is SAFE to use.** Don’t just take my word for it. Go and check yourself the source code at: [https://github.com/nicegram](https://github.com/nicegram)
 
 ### Nicegram also provides features:
+- "Skip read history" - don't send "read" mark in chats. Activates via Debug menu, tap 15x times on settings icon.
 - Confirmation before starting a secret chat, sharing your contact info, and calling
 - In-built Simplified and Traditional Chinese translations
 - Open links in external browsers: Chrome, Yandex, DuckDuckGo, Alook, Opener and more
