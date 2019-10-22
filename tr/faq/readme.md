@@ -6,12 +6,12 @@ _Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık
 
 ## İÇİNDEKİLER
 
-*   [Nicegram özellikleri](#nicegram-resmi-Telegram-uygulamasından-farklı-olarak-hangi-özellikleri-sunuyor)
+*   [Nicegram özellikleri](#nicegram-resmi-Telegram-uygulamasindan-farkli-olarak-hangi-özellikleri-sunuyor)
 *   [İndir](#indir)
 *   [Topluluk (sohbetler & kanallar)](#topluluk-sohbetler-ve-kanallar)
-*   [Engel kaldırma](#engellenmiş-sohbetlere-basıl-erişilir)
-*   [Nicegram Debug çalışmıyor](#nicegram-debug-neden-artık-çalışmıyor)
-*   [Nicegram nasıl yeniden başlatılır?](#nicegram'ı-nasıl-yeniden-başlatırım)
+*   [Engel kaldırma](#engellenmis-sohbetlere-nasil-erisilir)
+*   [Nicegram Debug çalışmıyor](#nicegram-debug-neden-artik-calismiyor)
+*   [Nicegram nasıl yeniden başlatılır?](#nicegrami-nasil-yeniden-baslatirim)
 *   [Nicegram Özelliği Öner](#nasıl-yeni-özellik-önerilir)
 *   [Hatalar](#nicegram'da-bir-hatayı-nasıl-bildirebilirim)
 *   [Bildirimden yanıtla veya Resim önizleme çalışmıyor](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications)
