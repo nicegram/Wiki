@@ -2,15 +2,28 @@
 
 Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, careful code optimization and unique features that deliver a whole new level of experience you can’t refuse!
 
-### Main features
-Check out <a href="https://telegra.ph/Meet-Nicegram-04-04" target="_blank">Nicegram Starting Guide</a>
 
-### Links
-<a href="https://www.nicegram.app/download" target="_blank">Download</a>
+<a href="https://itunes.apple.com/app/id1457369322" target="_blank">Download Nicegram in AppStore</a>
 
 <a href="https://t.me/nicegramapp" target="_blank">Telegram Channel</a>
 
 <a href="https://t.me/nicegramchat" target="_blank">Telegram Chat</a>
 
-<a href="privacy-policy" target="_blank">Privacy Policy</a>
 
+## Articles
+### English 🇬🇧
+- [Features](/features)
+- [FAQ](/faq)
+- [Chats Unblock](/unblock)
+
+### Русский 🇷🇺
+- [Функции](/features/ru)
+- [FAQ](/faq/ru)
+- [Разблокировка чатов](/unblock/ru)
+- [Перевод](/translate/ru)
+
+## Translate
+Everybody welcomed to [Translate](/translate) Nicegram App and Website
+
+
+Nicegram also have transparent <a href="privacy-policy" target="_blank">Privacy Policy</a>
