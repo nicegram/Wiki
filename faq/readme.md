@@ -38,7 +38,7 @@ _Here are answers to frequently asked questions about the Nicegram - modified Te
 *   In-built Simplified and Traditional Chinese translations
 *   Open links in more browsers: Chrome, Yandex, DuckDuckGo, Alook, and more
 
-For more features please read article [Meet Nicegram](/Meet-Nicegram-04-04)
+For more features please read article [Meet Nicegram](../features)
 
 > [_Back to top_](#table-of-contents)
 
