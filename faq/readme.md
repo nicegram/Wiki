@@ -21,7 +21,7 @@ _Here are answers to frequently asked questions about the Nicegram - modified Te
 *   [Nicegram BETA](#why-cant-i-join-the-testflight-beta)
 *   [When is Nicegram Update?](#why-hasnt-nicegram-been-updated-with-the-newest-features-from-telegram)
 *   [Privacy Policy](#privacy-policy)
-*   [Source Code](#source-сode)
+*   [Source Code](#source-code)
 *   [Translate Nicegram](#translate-nicegram)
 *   [Donate](#donate)
 *   [Links](#links)
