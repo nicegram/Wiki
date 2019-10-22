@@ -6,25 +6,25 @@ _Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık
 
 ## İçindekiler
 
-*   [Nicegram özellikleri](#Nicegram-resmi-Telegram-uygulamasından-farklı-olarak-hangi-özellikleri-sunuyor)
-*   [İndir](#İndir)
+*   [Nicegram özellikleri](#nicegram-resmi-telegram-uygulamasından-farklı-olarak-hangi-özellikleri-sunuyor)
+*   [İndir](#i̇ndir)
 *   [Topluluk (sohbetler & kanallar)](#topluluk-sohbetler-ve-kanallar)
 *   [Engel kaldırma](#engellenmiş-sohbetlere-nasıl-erişilir)
-*   [Nicegram Debug çalışmıyor](#Nicegram-debug-neden-artık-çalışmıyor)
-*   [Nicegram nasıl yeniden başlatılır?](#Nicegramı-nasıl-yeniden-başlatırım)
+*   [Nicegram Debug çalışmıyor](#nicegram-debug-neden-artık-çalışmıyor)
+*   [Nicegram nasıl yeniden başlatılır?](#nicegramı-nasıl-yeniden-başlatırım)
 *   [Nicegram Özelliği Öner](#nasıl-yeni-özellik-önerilir)
 *   [Hatalar](#nicegramda-bir-hatayı-nasıl-bildiririm)
-*   [Bildirimden yanıtla veya Resim önizleme çalışmıyor](#Neden-resimlerin-önizlemesini-göremiyor-veya-bildirimden-yanıtlayamıyorum)
-*   [Apple Watch Uygulaması eksikliği](#Neden-Nicegram-için-Apple-Watch-Uygulaması-yok)
-*   [MacOS için Nicegram](#MacOS-için-Nicegramı-nasıl-alırım)
-*   [Android için Nicegram](#Android-için-Nicegramı-nasıl-alırım)
-*   [Nicegram BETA](#Testflight-betaya-neden-katılamıyorum)
-*   [Nicegram Güncellemesi ne zaman?](#Neden-Nicegram-Telegramdan-en-yeni-güncellemelerle-güncellenmiyor)
+*   [Bildirimden yanıtla veya Resim önizleme çalışmıyor](#neden-resimlerin-önizlemesini-göremiyor-veya-bildirimden-yanıtlayamıyorum)
+*   [Apple Watch Uygulaması eksikliği](#neden-nicegram-için-apple-watch-uygulaması-yok)
+*   [MacOS için Nicegram](#macos-için-nicegramı-nasıl-alırım)
+*   [Android için Nicegram](#android-için-nicegramı-nasıl-alırım)
+*   [Nicegram BETA](#testflight-betadan-neden-kaldırıldım)
+*   [Nicegram Güncellemesi ne zaman?](#neden-nicegram-telegramdan-en-yeni-güncellemelerle-güncellenmiyor)
 *   [Gizlilik Politikası](#gizlilik-politikası)
 *   [Kaynak Kodu](#kaynak-kodu)
-*   [Nicegram'ı Çevirin](#Nicegramı-çevirin)
-*   [Bağış Yapın](#Bağış-yapın)
-*   [Bağlantılar](#Bağlantılar)
+*   [Nicegram'ı Çevirin](#nicegramı-çevirin)
+*   [Bağış Yapın](#bağış-yapın)
+*   [Bağlantılar](#bağlantılar)
 
 ## Nicegram, resmi Telegram uygulamasından farklı olarak hangi özellikleri sunuyor?
 
@@ -40,7 +40,7 @@ _Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık
 
 Daha fazla özellik için, lütfen [Nicegram ile Tanışın](/tr/features) makalesini okuyun
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 
 ## İndir
@@ -49,20 +49,20 @@ Daha fazla özellik için, lütfen [Nicegram ile Tanışın](/tr/features) makal
 *   TestFlight [BETA] - [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   IPA [SADECE Jailbreak!] - [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 
 ## Topluluk Sohbetler ve Kanallar
 
 Sohbet ve kanalların [listesi](/chats)
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Engellenmiş sohbetlere nasıl erişilir?
 
 Sohbetlere erişmek için [engel kaldırma rehberini](/tr/unblock) takip edin.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Nicegram Debug neden artık çalışmıyor?
 
@@ -70,13 +70,13 @@ Apple bu özelliği öğrendi ve Nicegram'ı [AppStore Kurallarına](https://dev
 
 Lütfen yukarıdaki [engel kaldırma yöntemini](#Engellenmiş-sohbetlere-nasıl-erişilir) kullanın, debug mod ile aynı şekilde çalışıyor.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Nicegram'ı nasıl yeniden başlatırım?
 
 Tabiki... uygulamadan çıkmak için kaydırın ve tekrar açın.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Nasıl yeni özellik önerilir?
 
@@ -88,7 +88,7 @@ NG'de görmek istediğiniz özellikleri beğenin.
 
 [Telegram API Kullanım Koşulları'na](https://core.telegram.org/api/terms) veya [AppStore Kuralları'na](https://developer.apple.com/app-store/review/guidelines/) karşı gelen herhangi bir özellik (çevrimiçi durumu gizleme, silinen mesajları görme) reddedilecek!
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Nicegram'da bir hatayı nasıl bildiririm?
 
@@ -120,53 +120,53 @@ Nicegram'ın sürüm ve inşa numaralarını ayarlar ikonuna 10 kez hızlıca do
 
 `X.XX` sürüm numarasıdır. `(YY)` inşa numarasıdır.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Neden resimlerin önizlemesini göremiyor veya bildirimden yanıtlayamıyorum?
 
-There are bugs in Telegram’s servers that only appear when you are using an unofficial app like Nicegram. One of these bugs is particularly annoying: you will receive a push notification saying “You have a new message!” every time someone sends a message in a group you are in, even if the group is muted. In order to work around this, Nicegram has a setting (that defaults to `on`) called “Disable Unwanted Notifications.” Because of the way notification replies and notification previews work, disabling these potentially unwanted notifications also disables those features.
+Telegram’ın sunucularında, yalnızca Nicegram gibi resmi olmayan bir uygulama kullanırken ortaya çıkan hatalar var. Bu hatalardan biri özellikle can sıkıcıdır: herhangi biri bir grupta mesaj gönderdiğinde, grup sessiz olsa bile “Yeni bir mesajınız var!” diyen bir uyarı mesajı alacaksınız. Bu sorunu çözmek için Nicegram'ın “İstenmeyen Bildirimleri Devre Dışı Bırakın” olarak adlandırılan bir ayarı (varsayılan olarak `açık`) vardır. Bildirim yanıtlama ve bildirim önizlemelerinin çalışma şekli nedeniyle, bu olası istenmeyen bildirimleri devre dışı bırakmak da bu özellikleri devre dışı bırakır.
 
-If you don’t mind the extra notifications, you can turn off that setting in Nicegram **Settings → Nicegram → Disable Unwanted Notifications**. You will then need to reboot your phone for the setting to take effect. (It involves getting a new configuration for the Apple Push Notification Service, which Apple sends hourly or on reboot.)
+Fazladan bildirimleri umursamıyorsanız, Nicegram'da bu ayarı kapatabilirsiniz **Ayarlar → Nicegram → İstenmeyen Bildirimleri Devre Dışı Bırakın**. Ayarın etkili olması için telefonunuzu yeniden başlatmanız gerekir. (Apple'ın saatlik veya yeniden başlatırken gönderdiği Apple Push Bildirim Hizmeti için yeni bir yapılandırma almayı içerir.)
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Neden Nicegram için Apple Watch Uygulaması yok?
 
 Geliştirici şu anki sistemi kullanarak onu derleyemiyor. Uygun makine ve testler için gerçek Apple Watch almak için 2-3 bin dolarlık bir bağış gerekli. (simülasyon yeterli değil).  
 Ayrıca Watch uygulaması süper değiştirilebilir değil.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## MacOS için Nicegram'ı nasıl alırım?
 
 MacOS için Nicegram yok. [Resmi kaynakları](https://github.com/overtake/TelegramSwift) kullanarak yapmak daha iyi. Geliştiricinin şimdilik MacOs sürümü için bir planı yok, üzgünüz.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Android için Nicegram'ı nasıl alırım?
 
 Nicegram sadece iOS için mevcut. Başka bir Android Telegram uygulaması istiyorsanız, [Play Store'da] birkaç alternatif var (https://play.google.com/store/search?q=Telegram&c=apps). İnsanlar [Plus Messenger'ı](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US) seviyor gibi görünüyor.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## TestFlight betaya neden katılamıyorum?
 
 TestFlight betaları 10,000 testçi ile sınırlıdır. Muhtemelen tüm beta yerleri doludur. Eğer birkaç gün sonra yeni yerler açılmazsa, [Nicegram grubunda](https://t.me/nicegramchat) TestFlight betanın dolu olduğunu ve katılmak istediğinizi bildirin. Geliştirici yakınlarda güncelleme yapmayan testçileri temizleyecek, böylece yeni testçiler katılabilir.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## TestFlight betadan neden kaldırıldım?
 
 Nicegram için beta yerleri fazla talep görüyor. Yakınlarda betanızı güncellemediyseniz, geliştici sizi diğerlerinin katılabilmesi için atacak.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Neden Nicegram Telegram'dan en yeni güncellemelerle güncellenmiyor?
 
 Nicegram genel olarak resmi Telegram uygulamasının bir kopyasıdır. Bununla birlikte, resmi uygulamayı yapan geliştiriciler, Nicegram’ın hoş özelliklerini bozacak şekilde sürümlerini sık sık değiştiriyor. Bilerek yaptıklarını düşünmüyoruz; uygulama yazmak zordur. Geliştiricimiz, resmi Telegram uygulamasında yapılan yeni değişikliklerin Nicegram’a mümkün olan en kısa sürede dahil edilmesini sağlamak için elinden geleni yapıyor.
 Sadece bekleyin.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Gizlilik Politikası
 
@@ -177,13 +177,13 @@ TL;DR - Nicegram, Telegram API tabanlı bir uygulamadır. Nicegram kötü olmaz 
 
 [my.nicegram.app](https://my.nicegram.app/) websitesini veya [@Nicegram_bot](http://t.me/Nicegram_bot)'u kullanıyorsanız, sadece herkese açık olan verilerinizi Nicegram'a veriyorsunuz, bu yüzden uygulama websitesinde ayarladığınız ayarlarınızı getirebiliyor.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Kaynak Kodu
 
 [https://github.com/nicegram](https://github.com/nicegram) adresinde incelemek için özgürsünüz.
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Nicegram'ı Çevirin
 
@@ -191,7 +191,7 @@ TL;DR - Nicegram, Telegram API tabanlı bir uygulamadır. Nicegram kötü olmaz 
 
 Poeditor.com - [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.com/join/project/tiFNs5DvZp)
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Bağış Yapın
 
@@ -199,10 +199,10 @@ Patreon - [https://www.patreon.com/nicegram](https://www.patreon.com/nicegram)
 
 Diğer yollar - [@Kylmakalle](https://t.me/Kylmakalle) (Geliştirici)
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
 
 ## Bağlantılar
 
 _Burada bir şeyler olacak_
 
-> [_Yukarı dön_](#İçindekiler)
+> [_Yukarı dön_](#i̇çindekiler)
