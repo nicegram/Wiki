@@ -7,7 +7,7 @@ _Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık
 ## İÇİNDEKİLER
 
 *   [Nicegram özellikleri](#Nicegram-resmi-Telegram-uygulamasından-farklı-olarak-hangi-özellikleri-sunuyor)
-*   [İndir](#indir)
+*   [İndir](#İndir)
 *   [Topluluk (sohbetler & kanallar)](#topluluk-sohbetler-ve-kanallar)
 *   [Engel kaldırma](#engellenmiş-sohbetlere-nasıl-erişilir)
 *   [Nicegram Debug çalışmıyor](#Nicegram-debug-neden-artık-çalışmıyor)
