@@ -24,7 +24,11 @@ Steps to translate:
 
 3) **Recommendation:** Try to use local `images` folder instead of link to images, because some hostings can be blocked in your country.
 
-4) Submit a pull-request and ping [@Kylmakalle](https://t.me/Kylmakalle)
+5) Add links to [main page](https://github.com/nicegram/nicegram.github.io/blob/master/README.md) if you've done a new translation.
+
+6) Submit a pull-request and ping [@Kylmakalle](https://t.me/Kylmakalle)
+
+Please, do not translate `chats` section.
 
 You can use [this repo](https://github.com/nicegram/nicegram.github.io/tree/master/faq) as example.
 
