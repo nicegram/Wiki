@@ -6,25 +6,25 @@ _Тут ответы на частозадаваемые вопросы про N
 
 ## СОДЕРЖАНИЕ
 
-*   [Функции Nicegram](#what-features-does-nicegram-offer-over-the-official-telegram-app)
-*   [Скачать](#download)
-*   [Сообщество (чаты & каналы)](#community-chats-and-channels)
-*   [Разблокировка чатов](#how-to-access-blocked-chats)
-*   [Nicegram Дебаг не работает](#why-doesnt-nicegram-debug-work-anymore)
-*   [Как перезапустить Nicegram?](#how-do-i-restart-nicegram)
-*   [Предложить функцию для Nicegram](#how-to-suggest-new-feature)
-*   [Баги](#how-do-i-report-a-bug-in-nicegram)
-*   [Ответ через уведомление не работает](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications)
-*   [Нет приложения для Apple Watch](#why-there-is-no-apple-watch-app-for-nicegram)
-*   [Nicegram для MacOS](#how-do-i-get-nicegram-for-macos)
-*   [Nicegram для Android](#how-do-i-get-nicegram-for-android)
-*   [Nicegram БЕТА](#why-cant-i-join-the-testflight-beta)
-*   [Когда обновление Nicegram?](#why-hasnt-nicegram-been-updated-with-the-newest-features-from-telegram)
-*   [Политика конфиденциальности](#privacy-policy)
-*   [Исходный код](#source-Code)
-*   [Перевести Nicegram](#translate-nicegram)
-*   [Пожертвования](#donate)
-*   [Ссылки](#links)
+*   [Функции Nicegram](#какие-функции-имеет-nicegram-по-сравнению-с-telegram)
+*   [Скачать](#скачать)
+*   [Сообщество (чаты & каналы)](#чаты-и-каналы-сообщества)
+*   [Разблокировка чатов](#как-разблокировать-чаты)
+*   [Nicegram Дебаг не работает](#почему-nicegram-дебаг-больше-не-работает)
+*   [Как перезапустить Nicegram?](#как-перезапустить-nicegram)
+*   [Предложить функцию для Nicegram](#как-предложить-функцию)
+*   [Баги](#как-сообщить-о-баге-в-nicegram)
+*   [Превью/Ответ через уведомление не работает](#почему-превьюответ-через-уведомление-не-работает)
+*   [Нет приложения для Apple Watch](#почему-нет-приложения-apple-watch-для-nicegram)
+*   [Nicegram для MacOS](#как-установить-nicegram-на-macos)
+*   [Nicegram для Android](#как-установить-nicegram-для-android)
+*   [Nicegram БЕТА](#почему-я-не-могу-попасть-в-testflight-бету)
+*   [Когда обновление Nicegram?](#когда-обновление-nicegram)
+*   [Политика конфиденциальности](#политика-конфиденциальности)
+*   [Исходный код](#исходный-код)
+*   [Перевести Nicegram](#перевести-nicegram)
+*   [Пожертвования](#пожертвования)
+*   [Ссылки](#ссылки)
 
 ## Какие функции имеет Nicegram по сравнению с Telegram?
 
@@ -38,9 +38,9 @@ _Тут ответы на частозадаваемые вопросы про N
 *   Встроенные переводы Китайского (нахрена только?)
 *   Открытие ссылок вовнешних браузерах (а не встроенным Safari) Chrome, Yandex, DuckDuckGo, Alook, и другие
 
-Список всех функцийв статье [Встречайте Nicegram](../features)
+Список всех функций в статье [Встречайте Nicegram](/ru/features)
 
-> [_Наверх_](#table-of-contents)
+> [_Наверх_](#содержание)
 
 
 ## Скачать
@@ -49,170 +49,163 @@ _Тут ответы на частозадаваемые вопросы про N
 *   TestFlight [БЕТА] - [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   IPA [Только для Jailbreak!] - [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
-> [_Наверх_](#table-of-contents)
+> [_Наверх_](#содержание)
 
 
 ## Чаты и каналы сообщества
 
-*   🇬🇧 Official Channel: [@nicegramapp](https://t.me/nicegramapp)
-*   🇬🇧 English chat: [@nicegramchat](https://t.me/nicegramchat)
-*   🇬🇧 Developer Blog (insides & beta): [@nicegramdev](https://t.me/nicegramdev)
-*   🇷🇺 Русскоязычный чат: [@nicegram_ru](https://t.me/nicegram_ru)
-*   🇨🇳 Nicegram 中文讨论组: [@nicegram_cn](https://t.me/nicegram_cn)
-*   🇹🇼 Nicegram 臺灣討論群: [@nicegram_tw](https://t.me/nicegram_tw)
-*   🇮🇹 Nicegram Italia: [@nicegram_it](https://t.me/nicegram_it)
-*   🇪🇸 Nicegram Español: [@nicegram_es](https://t.me/nicegram_es)
-*   🇩🇪 Nicegram Deutsch: [@nicegram_de](https://t.me/nicegram_de)
-*   🇮🇷 Nicegram Persian Channel: [@nicegram_fa](http://t.me/nicegram_fa)
-*   🇮🇷 Nicegram Persian Chat: [https://t.me/joinchat/BZq6jw10HFkJ9Hxn7lzwqw](https://t.me/joinchat/BZq6jw10HFkJ9Hxn7lzwqw)
+[Список](/chats) чатов и каналов
 
-> [_Наверх_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## How to access blocked chats?
+## Как разблокировать чаты?
 
-Follow Guide at [https://telegra.ph/Nicegram-NSFW-09-24](/Nicegram-NSFW-09-24) to unlock chats
+Используй [гайд по разблокировке](/ru/unblock)
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## Why doesn’t Nicegram Debug work anymore?
+## Почему Nicegram Дебаг больше не работает?
 
-Apple found out about this feature and forced Nicegram to comply [AppStore Guidelines](https://developer.apple.com/app-store/review/guidelines/).
+Один человек пожаловался в Apple и приложение пришлось изменить чтобы оно соответствовало [правилам Appstore](https://developer.apple.com/app-store/review/guidelines/).
 
-Please use [Unblock method](#how-to-access-blocked-chats) above, it works same as debug mode.
+Вы можете использовать [Метод разблокировки](#почему-nicegram-дебаг-больше-не-работает) выше, он работает.
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## How do I restart Nicegram?
+## Как перезапустить Nicegram?
 
-Well... just swipe to kill app and open it again.
+Штош... просто свайпните приложение вверх и откройте его снова.
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## How to suggest new feature?
+## Как предложить функцию?
 
-Use [vote.nicegram.app](https://vote.nicegram.app/) website.
+Поьзуйтесь Англоязычным сайтом [vote.nicegram.app](https://vote.nicegram.app/).
 
-Please, take look at Approved and Rejected requests. Don't suggest duplicates!
+Обратите внимание на принятые и отклненные предложения! Не советуйте то, что уже советовали.
 
-Like features that you want to see in NG.
+Лайкайте фишки которые вы бы хотели увидеть в Nicegram.
 
-Any features that violates [Telegram API Terms Of Service](https://core.telegram.org/api/terms) (hidden online status, seeing deleted messages) or [AppStore Guidelines](https://developer.apple.com/app-store/review/guidelines/) will be rejected!
+В крайнем случае, спрашивайте в [_чате_](https://t.me/nicegram_ru)
 
-> [_Back to top_](#table-of-contents)
+Любые функции, которые нарушают [Условия использования Telegram API](https://core.telegram.org/api/terms) (скрытый статус онлайна, просмотр удаленных сообщений) или [правила AppStore](https://developer.apple.com/app-store/review/guidelines/) будут отклонены!
 
-## How do I report a bug in Nicegram?
+> [_Наверх_](#содержание)
 
-Most bugs in Nicegram are also bugs in the official Telegram app.
+## Как сообщить о баге в Nicegram?
 
-So please, report bugs experienced **ONLY WITH NICEGRAM-RELATED FEATURES,** like folders, tabs and etc.
+Большинство багов в Nicegram это баги официального клиенты.
 
-Due to some reasons, Nicegram can have some bugs that's not under it's control, like:
+В связи с этим, принимаются жалобы на баги связанные **ТОЛЬКО С УНИКАЛЬНЫМИ ФУНКЦИЯМИ NICEGRAM,** такие как папки, вкладки и т.д
 
-*   Can't reply to notification or see media preview. ([FIX](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications))
-*   **Random crashes**
-*   Telegram calls does not work in background.
-*   Nicegram refreshes chats too long and does not do it in background.
-*   My live location not updated while app is in background.
-*   Nicegram fails to send message in background.
-*   Notifications not removed if message read/deleted.
-*   Nicegram does not connect/connects too long, while official app is OK (here you can try to use proxy also).
-*   Impossible to leave chat from chat info (You can leave via dialog list)
+По некоторым причинам, определенные баги нельзя пофиксить, например:
 
-If the issue you have found isn’t listed above, send a message in [the Nicegram Chat](https://t.me/nicegramchat) with every piece of information listed below. 
+*   Невозможно ответить на сообщение из уведомления ([Как пофиксить](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications))
+*   **Случайные вылеты**
+*   Telegram звонки не работают в фоне.
+*   Nicegram загружает чаты долго или не работает без прокси/vpn.
+*   Живая локация не обновляется в фоне.
+*   Nicegram не отправляет сообщения в фоне
+*   Уведомления не чистятся если прочитаны в другом клиенте или удалены.
+*   Невозможно покинуть чат/канал из описания (Можно покинуть из списка диалогов)
 
-1.  The #bug hashtag.
-2.  A short but complete description of the bug. (You may also include a video or picture demonstrating the bug, if you think it would help.)
-3.  What version of iOS you are using (13.1.3, 12.4.1, etc.).
-4.  What version of Nicegram you are using (5.11, 5.10, etc.).
-5.  What build number of Nicegram you are using (66, etc.).
+Если вашей проблемы тут нет, то пишите в [чат](https://t.me/nicegram_ru) с информацией по шаблону ниже
 
-You can find the version and build number of Nicegram by tapping the settings gear 10 times quickly and then scrolling to the bottom of the screen. You should see `com.nicegram.Telegram-iOS` and `X.XX (YY)`. 
+1.  Тэг #bug.
+2.  Короткое и понятное описание бага (можно с видео/скриншотом)
+3.  Версия iOS (13.1.3, 12.4.1, итд.).
+4.  Версия Nicegram (5.11, 5.10, итд.).
+5.  Сборка (билд) Nicegram (66, итд.).
 
-`X.XX` is the version number. `(YY)` is the build number.
+Версию и сборку можно найти, быстро нажав 15 раз на иконку настроек. В открывшемся меню пролистать вниз. Вы увидите `com.nicegram.Telegram-iOS` и `X.XX (YY)`. 
 
-> [_Back to top_](#table-of-contents)
+`X.XX` номер версии. `(YY)` номер сборки.
 
-## Why can’t I see previews of images in notifications or reply from notifications?
+> [_Наверх_](#содержание)
 
-There are bugs in Telegram’s servers that only appear when you are using an unofficial app like Nicegram. One of these bugs is particularly annoying: you will receive a push notification saying “You have a new message!” every time someone sends a message in a group you are in, even if the group is muted. In order to work around this, Nicegram has a setting (that defaults to `on`) called “Disable Unwanted Notifications.” Because of the way notification replies and notification previews work, disabling these potentially unwanted notifications also disables those features.
+## Почему Превью/Ответ через уведомление не работает?
 
-If you don’t mind the extra notifications, you can turn off that setting in Nicegram **Settings → Nicegram → Disable Unwanted Notifications**. You will then need to reboot your phone for the setting to take effect. (It involves getting a new configuration for the Apple Push Notification Service, which Apple sends hourly or on reboot.)
+На серверах Telegram есть баг, из-за которого ИНОГДА кастомным клиентам приходят уведомления из замьюченных чатов. Чтобы этого избежать, была сделана опция в настройках.
 
-> [_Back to top_](#table-of-contents)
+К сожалению, опция отключает некоторые полезные функции типа превью медии, ответ на сообщения из нотификации и др.
 
-## Why there is no Apple Watch app for Nicegram?
+Если у вас все хорошо с уведомлениями, то эту опцию можно выключить в **Настройки > Nicegram**. Желательно после этого произвести ребут устройства и подождать некоторое время чтобы настройка применилась на сервере.
 
-Developer can't compile it using current setup. A donation for about $2-3k required to get a proper machine + real Apple Watch for tests (simulator is not enough).  
-Also, Watch app is not super modifiable.
+> [_Наверх_](#содержание)
 
-> [_Back to top_](#table-of-contents)
+## Почему нет приложения Apple Watch для Nicegram?
 
-## How do I get Nicegram for MacOS?
+Разработчик не может скомпилить его на своей технике, а новый iMac + Apple Watch стоят дорого.
+Да и не особо сдались эти часики.
 
-There's no Nicegram for MacOS. It's better to make it from scratch using [official sources](https://github.com/overtake/TelegramSwift). Developer has no plans for MacOs version for now, sorry.
+> [_Наверх_](#содержание)
 
-> [_Back to top_](#table-of-contents)
+## Как установить Nicegram на MacOS?
 
-## How do I get Nicegram for Android?
+Nicegram для MacOS не существует. Проще модифицировать клиент самостоятельно из [исходников](https://github.com/overtake/TelegramSwift). Пока нет планов создавать MacOs модификацию.
 
-Nicegram is only available for iOS. If you want another Android Telegram app, there are many alternatives [in the Play Store](https://play.google.com/store/search?q=Telegram&c=apps). People seem to like [Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US).
+Из десктоп клиентов могу порекомендовать Telegreat, там еасть вкладки как минимум.
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## Why can’t I join the TestFlight beta?
+## Как установить Nicegram для Android?
 
-TestFlight betas are limited to 10,000 testers. It is very likely that all the beta slots are full. If no new slots have opened up after a few days, politely state in [the Nicegram Chat](https://t.me/nicegramchat) that the TestFlight beta is full and you would like to join. The developer will clear out beta testers who have not updated the app recently so that new testers can join.
+Nicegram доступен только для iOS. если нужен другой клиент, есть много альтернатив в [Play Store](https://play.google.com/store/search?q=Telegram&c=apps). Многим нравится [Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US).
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## Why was I removed from the TestFlight beta?
+## Почему я не могу попасть в TestFlight бету?
 
-Beta slots for Nicegram are in high demand. If you have not updated your beta copy of Nicegram recently, the developer will remove you so that other testers may join the beta.
+Бета Testflight ограничена 10.000 пользователями. Время от времени она чистится от неактивных. Можете вежливо спросить в [чате](https://t.me/nicegram_ru)
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## Why hasn’t Nicegram been updated with the newest features from Telegram?
+## Почему я был удален из Testflight беты?
 
-Nicegram is mostly a copy of the official Telegram app. However, the developers making the official app frequently change their version in ways that break Nicegram’s nice features. We don’t think they’re doing it on purpose; writing apps is hard. Our developer does his best to make sure that new changes to the official Telegram app are incorporated into Nicegram as fast as possible.  
-Just wait.
+Из за неактивности, вы можете попробовать зайти по [ссылке](#скачать) снова.
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## Privacy Policy
+## Когда обновление Nicegram?
 
-Nicegram is safe enough. But if you care, there's additional link[  
+Nicegram это по большей части просто копия оригинального приложения. Чтобы обновиться, нужно ожидать исходники от команды Telegram. 
+Короче, нужно только подождать.
+
+> [_Наверх_](#содержание)
+
+## Политика Конфиденциальности
+
+Nicegram безопасен.Но если вас волнует, в подробностях описано по ссылке [  
 https://nicegram.app/privacy-policy](https://nicegram.app/privacy-policy)
 
-TL;DR - Nicegram is a fork based on Telegram API. Nicegram does not act bad and don't track, store and share your sensitive data.  
+Коротко - Nicegram это кастом на базе Telegram API. Nicegram не собирает сообщения/номера телефонов и тд.
 
-If you're unblocking chats and using website [my.nicegram.app](https://my.nicegram.app/) or [@Nicegram_bot](http://t.me/Nicegram_bot), you're providing your only publicly visible data to Nicegram, so app can fetch your settings that you've set on a website.
+Если вы разблокируете чаты через сайт [my.nicegram.app](https://my.nicegram.app/) или [@Nicegram_bot](http://t.me/Nicegram_bot), вы передаете Nicegram свои публично видимые данные (имя, юзернейм, id), чтобы потом приложение могло синхроонизировать настройки
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## Source Code
+## Исходный код
 
-Feel free to check it at [https://github.com/nicegram](https://github.com/nicegram)
+Можете проверить тут [https://github.com/nicegram](https://github.com/nicegram)
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## Translate Nicegram
+## Перевести Nicegram
 
-Translation Guilde - [https://telegra.ph/Translate-Nicegram-05-28](/Translate-Nicegram-05-28)
+[Гайд по переводу (Англ.)](/translate)
 
-Poeditor.com - [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.com/join/project/tiFNs5DvZp)
+> [_Наверх_](#содержание)
 
-> [_Back to top_](#table-of-contents)
-
-## Donate
+## Пожертвования
 
 Patreon - [https://www.patreon.com/nicegram](https://www.patreon.com/nicegram)
 
-Other ways - [@Kylmakalle](https://t.me/Kylmakalle) (Developer)
+Другие способы - [@Kylmakalle](https://t.me/Kylmakalle) (Разработчик)
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)
 
-## Links
+## Ссылки
 
-_Some stuff will be there_
+_Тут что-то будет_
 
-> [_Back to top_](#table-of-contents)
+> [_Наверх_](#содержание)

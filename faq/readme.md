@@ -21,7 +21,7 @@ _Here are answers to frequently asked questions about the Nicegram - modified Te
 *   [Nicegram BETA](#why-cant-i-join-the-testflight-beta)
 *   [When is Nicegram Update?](#why-hasnt-nicegram-been-updated-with-the-newest-features-from-telegram)
 *   [Privacy Policy](#privacy-policy)
-*   [Source Code](#source-Code)
+*   [Source Code](#source-сode)
 *   [Translate Nicegram](#translate-nicegram)
 *   [Donate](#donate)
 *   [Links](#links)
@@ -187,7 +187,7 @@ Feel free to check it at [https://github.com/nicegram](https://github.com/nicegr
 
 ## Translate Nicegram
 
-Translation Guilde - [https://telegra.ph/Translate-Nicegram-05-28](/Translate-Nicegram-05-28)
+[Translation Guilde](/translate)
 
 Poeditor.com - [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.com/join/project/tiFNs5DvZp)
 
