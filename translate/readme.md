@@ -45,7 +45,7 @@ You can use [this folder](https://github.com/nicegram/nicegram.github.io/tree/ma
 
 Small python script that will create a header which you can insert in table of contents. (not sure if works for chinese)
 
-Online: https://repl.it/repls/SpecificIndigoOperatingsystem (hit Run)
+Online: [https://repl.it/repls/SpecificIndigoOperatingsystem](https://repl.it/repls/SpecificIndigoOperatingsystem) (hit Run)
 
 
 Local:
