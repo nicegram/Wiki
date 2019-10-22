@@ -10,6 +10,8 @@ Welcome to Nicegram – fast, secure and nice messaging app. Imagine the mix of 
 
 - **Get more focus with Folders & Tabs.** Group chats by topic you want, or split them by type - channels, bots, private and more. Be productive on the messaging fields!
 
+- **Forwarding without Author**
+
 - **Hide unused Tabs.** Decide whether you need to hide or show Contacts and Calls tabs at the bottom of your app.
 
 - **Switch between seven accounts.** Multiple accounts now mean more than three, that’s limited in a standard Telegram app.
@@ -24,6 +26,15 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 - **Admin like a boss.** Restrict users faster than a bullet. Long tap a message and proceed to an exception menu. Control exception duration down to the second.
 
 - **Nicegram is not only NICE. It is SAFE to use.** Don’t just take my word for it. Go and check yourself the source code at: [https://github.com/nicegram](https://github.com/nicegram)
+
+### Nicegram also provides features:
+- Confirmation before starting a secret chat, sharing your contact info, and calling
+- In-built Simplified and Traditional Chinese translations
+- Open links in external browsers: Chrome, Yandex, DuckDuckGo, Alook, Opener and more
+- Any links, usernames, phone numbers are clickable in users' bio
+- Shows ID in chat info
+- Hide phone number in settings menu
+- Hides proxy sponsored channels (Yes, it's available in official app too, but Nicegram makes it easier)
 
 Don't forget to subscribe to [Nicegram channel](https://t.me/nicegramapp) for latest updates and insights. Join [Nicegram Chat](https://t.me/nicegramchat) to discuss app and share your thoughts about new **nice** features you want to suggest.
 

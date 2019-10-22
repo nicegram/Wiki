@@ -36,7 +36,7 @@ _Here are answers to frequently asked questions about the Nicegram - modified Te
 *   Up to 7 accounts
 *   Confirmation before starting a secret chat, sharing your contact info, and calling
 *   In-built Simplified and Traditional Chinese translations
-*   Open links in more browsers: Chrome, Yandex, DuckDuckGo, Alook, and more
+*   Open links in external browsers: Chrome, Yandex, DuckDuckGo, Alook, and more
 
 For more features please read article [Meet Nicegram](../features)
 
