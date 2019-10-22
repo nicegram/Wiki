@@ -54,17 +54,7 @@ For more features please read article [Meet Nicegram](../features)
 
 ## Community Chats and Channels
 
-*   🇬🇧 Official Channel: [@nicegramapp](https://t.me/nicegramapp)
-*   🇬🇧 English chat: [@nicegramchat](https://t.me/nicegramchat)
-*   🇬🇧 Developer Blog (insides & beta): [@nicegramdev](https://t.me/nicegramdev)
-*   🇷🇺 Русскоязычный чат: [@nicegram_ru](https://t.me/nicegram_ru)
-*   🇨🇳 Nicegram 中文讨论组: [@nicegram_cn](https://t.me/nicegram_cn)
-*   🇹🇼 Nicegram 臺灣討論群: [@nicegram_tw](https://t.me/nicegram_tw)
-*   🇮🇹 Nicegram Italia: [@nicegram_it](https://t.me/nicegram_it)
-*   🇪🇸 Nicegram Español: [@nicegram_es](https://t.me/nicegram_es)
-*   🇩🇪 Nicegram Deutsch: [@nicegram_de](https://t.me/nicegram_de)
-*   🇮🇷 Nicegram Persian Channel: [@nicegram_fa](http://t.me/nicegram_fa)
-*   🇮🇷 Nicegram Persian Chat: [https://t.me/joinchat/BZq6jw10HFkJ9Hxn7lzwqw](https://t.me/joinchat/BZq6jw10HFkJ9Hxn7lzwqw)
+[List](/chats) of chats and channels
 
 > [_Back to top_](#table-of-contents)
 
