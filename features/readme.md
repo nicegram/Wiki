@@ -1,0 +1,30 @@
+# Meet Nicegram
+
+Welcome to Nicegram – fast, secure and nice messaging app. Imagine the mix of powerful **Telegram API**, careful **code optimization** and **unique features** that deliver a whole new level of experience you can’t refuse!
+
+
+#### Nicegram returns you the joy of pure communication:
+
+- **Forget about unnecessary censorship.** You will no longer end up in a situation when someone knows better which groups, channels or bots you should or should not interact with.
+
+- **Get more focus with Folders & Tabs.** Group chats by topic you want, or split them by type - channels, bots, private and more. Be productive on the messaging fields!
+
+- **Hide unused Tabs.** Decide whether you need to hide or show Contacts and Calls tabs at the bottom of your app.
+
+- **Switch between seven accounts.** Multiple accounts now mean more than three, that’s limited in a standard Telegram app.
+
+- **Instantly Save Messages** to your Cloud with a single tap.
+
+- **Make your messages Nice**. Format text with URLs, hide long and scary links in a pretty words. Now, creating fancy posts isn't a dream.
+
+- **Lost a Pin, But Not Forever.** Retrieve any hidden pinned message in any chat, now it's possible.  
+You're an admin and want to get rid of the pinned message that plays on your nerves? You can simply hide it just for yourself, not only for everyone.
+
+- **Admin like a boss.** Restrict users faster than a bullet. Long tap a message and proceed to an exception menu. Control exception duration down to the second.
+
+- **Nicegram is not only NICE. It is SAFE to use.** Don’t just take my word for it. Go and check yourself the source code at: [https://github.com/nicegram](https://github.com/nicegram)
+
+Don't forget to subscribe to [Nicegram channel](https://t.me/nicegramapp) for latest updates and insights. Join [Nicegram Chat](https://t.me/nicegramchat) to discuss app and share your thoughts about new **nice** features you want to suggest.
+
+Download [Nicegram in AppStore](https://itunes.apple.com/app/id1457369322)
+
