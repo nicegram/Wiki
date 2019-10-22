@@ -2,7 +2,7 @@
 
 Быстрый, безопасный и просто крутой Telergam с оптимизацией кода и уникальными функциями  - это про Nicegram. 
 
-![image](../../images/NicegramGrid.png)
+![image](../../features/images/NicegramGrid.png)
 
 ## Nicegram предоставляет функции для улучшенного общения:
 
