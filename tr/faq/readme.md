@@ -38,7 +38,7 @@ _Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık
 *   Dahili Basitleştirilmiş ve Geleneksel Çince çeviriler
 *   Bağlantıları harici tarayıcılarda açma: Chrome, Yandex, DuckDuckGo, Alook ve daha fazlası
 
-Daha fazla özellik için, lütfen [Nicegram ile Tanışın](../features) makalesini okuyun
+Daha fazla özellik için, lütfen [Nicegram ile Tanışın](/tr/features) makalesini okuyun
 
 > [_Yukarı dön_](#İçindekiler)
 
@@ -60,7 +60,7 @@ Sohbet ve kanalların [listesi](/chats)
 
 ## Engellenmiş sohbetlere nasıl erişilir?
 
-Sohbetlere erişmek için [engel kaldırma rehberini](/unblock) takip edin.
+Sohbetlere erişmek için [engel kaldırma rehberini](/tr/unblock) takip edin.
 
 > [_Yukarı dön_](#İçindekiler)
 
