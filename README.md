@@ -16,7 +16,7 @@ Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, c
 - [Chats Unblock](/unblock)
 
 ## Translate
-Everybody welcomed to [Translate](/translate) Nicegram App and Website
+Everybody welcome to [Translate](/translate) Nicegram App and Website
 
 
 Nicegram also have a <a href="privacy-policy" target="_blank">Privacy Policy</a>
