@@ -26,7 +26,7 @@ _Here are answers to frequently asked questions about the Nicegram - modified Te
 *   [Donate](#donate)
 *   [Links](#links)
 
-### What features does Nicegram offer over the official Telegram app?
+## What features does Nicegram offer over the official Telegram app?
 
 *   Configurable chat tabs for filtering your chats: Admin, Bots, Channels, Groups, Users, Unread, Unumted
 *   Folders for chats
@@ -43,7 +43,7 @@ For more features please read article [Meet Nicegram](../features)
 > [_Back to top_](#table-of-contents)
 
 
-### Download
+## Download
 
 *   AppStore - [https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)
 *   TestFlight [BETA] - [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
@@ -52,7 +52,7 @@ For more features please read article [Meet Nicegram](../features)
 > [_Back to top_](#table-of-contents)
 
 
-### Community Chats and Channels
+## Community Chats and Channels
 
 *   🇬🇧 Official Channel: [@nicegramapp](https://t.me/nicegramapp)
 *   🇬🇧 English chat: [@nicegramchat](https://t.me/nicegramchat)
@@ -68,13 +68,13 @@ For more features please read article [Meet Nicegram](../features)
 
 > [_Back to top_](#table-of-contents)
 
-### How to access blocked chats?
+## How to access blocked chats?
 
 Follow Guide at [https://telegra.ph/Nicegram-NSFW-09-24](/Nicegram-NSFW-09-24) to unlock chats
 
 > [_Back to top_](#table-of-contents)
 
-### Why doesn’t Nicegram Debug work anymore?
+## Why doesn’t Nicegram Debug work anymore?
 
 Apple found out about this feature and forced Nicegram to comply [AppStore Guidelines](https://developer.apple.com/app-store/review/guidelines/).
 
@@ -82,13 +82,13 @@ Please use [Unblock method](#how-to-access-blocked-chats) above, it works same a
 
 > [_Back to top_](#table-of-contents)
 
-### How do I restart Nicegram?
+## How do I restart Nicegram?
 
 Well... just swipe to kill app and open it again.
 
 > [_Back to top_](#table-of-contents)
 
-### How to suggest new feature?
+## How to suggest new feature?
 
 Use [vote.nicegram.app](https://vote.nicegram.app/) website.
 
@@ -100,7 +100,7 @@ Any features that violates [Telegram API Terms Of Service](https://core.telegram
 
 > [_Back to top_](#table-of-contents)
 
-### How do I report a bug in Nicegram?
+## How do I report a bug in Nicegram?
 
 Most bugs in Nicegram are also bugs in the official Telegram app.
 
@@ -132,7 +132,7 @@ You can find the version and build number of Nicegram by tapping the settings ge
 
 > [_Back to top_](#table-of-contents)
 
-### Why can’t I see previews of images in notifications or reply from notifications?
+## Why can’t I see previews of images in notifications or reply from notifications?
 
 There are bugs in Telegram’s servers that only appear when you are using an unofficial app like Nicegram. One of these bugs is particularly annoying: you will receive a push notification saying “You have a new message!” every time someone sends a message in a group you are in, even if the group is muted. In order to work around this, Nicegram has a setting (that defaults to `on`) called “Disable Unwanted Notifications.” Because of the way notification replies and notification previews work, disabling these potentially unwanted notifications also disables those features.
 
@@ -140,45 +140,45 @@ If you don’t mind the extra notifications, you can turn off that setting in Ni
 
 > [_Back to top_](#table-of-contents)
 
-### Why there is no Apple Watch app for Nicegram?
+## Why there is no Apple Watch app for Nicegram?
 
 Developer can't compile it using current setup. A donation for about $2-3k required to get a proper machine + real Apple Watch for tests (simulator is not enough).  
 Also, Watch app is not super modifiable.
 
 > [_Back to top_](#table-of-contents)
 
-### How do I get Nicegram for MacOS?
+## How do I get Nicegram for MacOS?
 
 There's no Nicegram for MacOS. It's better to make it from scratch using [official sources](https://github.com/overtake/TelegramSwift). Developer has no plans for MacOs version for now, sorry.
 
 > [_Back to top_](#table-of-contents)
 
-### How do I get Nicegram for Android?
+## How do I get Nicegram for Android?
 
 Nicegram is only available for iOS. If you want another Android Telegram app, there are many alternatives [in the Play Store](https://play.google.com/store/search?q=Telegram&c=apps). People seem to like [Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US).
 
 > [_Back to top_](#table-of-contents)
 
-### Why can’t I join the TestFlight beta?
+## Why can’t I join the TestFlight beta?
 
 TestFlight betas are limited to 10,000 testers. It is very likely that all the beta slots are full. If no new slots have opened up after a few days, politely state in [the Nicegram Chat](https://t.me/nicegramchat) that the TestFlight beta is full and you would like to join. The developer will clear out beta testers who have not updated the app recently so that new testers can join.
 
 > [_Back to top_](#table-of-contents)
 
-### Why was I removed from the TestFlight beta?
+## Why was I removed from the TestFlight beta?
 
 Beta slots for Nicegram are in high demand. If you have not updated your beta copy of Nicegram recently, the developer will remove you so that other testers may join the beta.
 
 > [_Back to top_](#table-of-contents)
 
-### Why hasn’t Nicegram been updated with the newest features from Telegram?
+## Why hasn’t Nicegram been updated with the newest features from Telegram?
 
 Nicegram is mostly a copy of the official Telegram app. However, the developers making the official app frequently change their version in ways that break Nicegram’s nice features. We don’t think they’re doing it on purpose; writing apps is hard. Our developer does his best to make sure that new changes to the official Telegram app are incorporated into Nicegram as fast as possible.  
 Just wait.
 
 > [_Back to top_](#table-of-contents)
 
-### Privacy Policy
+## Privacy Policy
 
 Nicegram is safe enough. But if you care, there's additional link[  
 https://nicegram.app/privacy-policy](https://nicegram.app/privacy-policy)
@@ -189,13 +189,13 @@ If you're unblocking chats and using website [my.nicegram.app](https://my.nicegr
 
 > [_Back to top_](#table-of-contents)
 
-### Source Code
+## Source Code
 
 Feel free to check it at [https://github.com/nicegram](https://github.com/nicegram)
 
 > [_Back to top_](#table-of-contents)
 
-### Translate Nicegram
+## Translate Nicegram
 
 Translation Guilde - [https://telegra.ph/Translate-Nicegram-05-28](/Translate-Nicegram-05-28)
 
@@ -203,7 +203,7 @@ Poeditor.com - [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.c
 
 > [_Back to top_](#table-of-contents)
 
-### Donate
+## Donate
 
 Patreon - [https://www.patreon.com/nicegram](https://www.patreon.com/nicegram)
 
@@ -211,7 +211,7 @@ Other ways - [@Kylmakalle](https://t.me/Kylmakalle) (Developer)
 
 > [_Back to top_](#table-of-contents)
 
-### Links
+## Links
 
 _Some stuff will be there_
 
