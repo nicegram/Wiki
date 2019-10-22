@@ -70,7 +70,7 @@ For more features please read article [Meet Nicegram](../features)
 
 ## How to access blocked chats?
 
-Follow Guide at [https://telegra.ph/Nicegram-NSFW-09-24](/Nicegram-NSFW-09-24) to unlock chats
+Follow [Unblock guide](/unblock) to access chats
 
 > [_Back to top_](#table-of-contents)
 
