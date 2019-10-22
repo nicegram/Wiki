@@ -30,7 +30,7 @@ Steps to translate:
 
 Please, do not translate `chats` section.
 
-You can use [this repo](https://github.com/nicegram/nicegram.github.io/tree/master/faq) as example.
+You can use [this folder](https://github.com/nicegram/nicegram.github.io/tree/master/faq) as example.
 
 
 Thank you in advance!
