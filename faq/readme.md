@@ -42,10 +42,7 @@ _Here are answers to frequently asked questions about the Nicegram - modified Te
 
 For more features please read article [Meet Nicegram](/Meet-Nicegram-04-04)
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ back to top</a></b>
-</div>
-<br/>
+[Back to top](#table-of-contents)
 
 ### Download
 
