@@ -18,6 +18,8 @@ Ping [@Kylmakalle](https://t.me/Kylmakalle) if you've done a new translation, so
 It's hard to control translations via [telegra.ph](https://telegra.ph) or other platforms. So now Nicegram using this website.
 
 Steps to translate:
+0) Fork this repo
+
 1) Create new `<lang>` folder with `readme.md`. Translation will be available at `https://nicegram.app/<lang>`
 
 2) For each article create separated folder. Translation will be available at `https://nicegram.app/<lang>/<folder>`
@@ -34,10 +36,10 @@ Steps to translate:
 
 Please, do not translate `chats` section, just refer to `/chats`
 
-You can use [this folder](https://github.com/nicegram/nicegram.github.io/tree/master/faq) as example.
+You can use [this folder](https://github.com/nicegram/nicegram.github.io/tree/master/ru) with Russian translation as example.
 
 
-#### Header Anchors (FAQs) and etc.
+### Header Anchors (FAQs).
 
 Small python script that will create a header which you can insert in table of contents. (not sure if works for chinese)
 
