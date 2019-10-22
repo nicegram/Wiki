@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
 webmaster_verifications:
   yandex: bfcafc040673553f
-  
+
+google_analytics: UA-148372418-3
+
 title: Nicegram
 email: support@nicegram.app
 
