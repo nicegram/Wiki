@@ -29,9 +29,10 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 - "Skip read history" - don't send "read" mark in chats. Activates via Debug menu, tap 15x times on settings icon, scroll down.
 - Confirmation before starting a secret chat, sharing your contact info, and calling
 - In-built Simplified and Traditional Chinese translations
+- Copy monospace text in one tap (like on Android)
 - Open links in external browsers: Chrome, Yandex, DuckDuckGo, Alook, Opener and more
 - Any links, usernames, phone numbers are clickable in users' bio
-- Shows ID in chat info
+- Shows ID in chat info. Tap on ID to copy it
 - Hide phone number in settings menu
 - Hides proxy sponsored channels (Yes, it's available in official app too, but Nicegram makes it easier)
 
