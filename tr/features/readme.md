@@ -1,45 +1,45 @@
-# Meet Nicegram
+# Nicegram ile Tanışın
 
-Welcome to Nicegram – fast, secure and nice messaging app. Imagine the mix of powerful **Telegram API**, careful **code optimization** and **unique features** that deliver a whole new level of experience you can’t refuse!
+Nicegram'a hoş geldiniz – hızlı, güvenli ve iyi mesaşlaşma uygulaması. Reddetmeyeceğiniz yepyeni bir deneyim düzeyi sunan güçlü **Telegram API**, dikkatli **kod optimizasyonu** ve **benzersiz özelliklerin** karışımını hayal edin!
 
 ![image](images/NicegramGrid.png)
 
-## Nicegram returns you the joy of pure communication:
+## Nicegram saf iletişim eğlencesini size geri veriyor:
 
-- **Forget about unnecessary censorship.** You will no longer end up in a situation when someone knows better which groups, channels or bots you should or should not interact with. [Read more](/unblock)
+- **Gereksiz sansürü unutun.** Birisi hangi grup, kanal veya botlarla etkileşime girmeniz veya girmemeniz gerektiğini daha iyi bilen bir durumda olmayacak. [Daha fazla oku](/tr/unblock)
 
-- **Get more focus with Folders & Tabs.** Group chats by topic you want, or split them by type - channels, bots, private and more. Be productive on the messaging fields! To create folder: Left Corner - **Edit > New Folder**
+- **Klasör & Sekmeler ile daha fazla odaklanın.** Grup sohbetlerini istediğiniz konuya göre gruplayın ya da türe göre ayırın - kanallar, botlar, özel ve daha fazlası. Mesajlaşma alanlarında üretken olun! Klasör oluşturmak için: Sol Köşe - **Düzenle > Yeni Klasör**
 
-- **Forwarding without Author**
+- **Yazar olmadan iletme**
 
-- **Hide unused Tabs.** Decide whether you need to hide or show Contacts and Calls tabs at the bottom of your app.
+- **Kullanılmayan sekmeleri gizleme.** Decide whether you need to hide or show Contacts and Calls tabs at the bottom of your app.
 
-- **Switch between seven accounts.** Multiple accounts now mean more than three, that’s limited in a standard Telegram app.
+- **Yedi hesap arasında geçiş** Standart Telegram uygulamasında sınırlı olan çoklu hesaplar artık üçten fazla.
 
-- **Instantly Save Messages** to your Cloud with a single tap.
+- **Mesajları anında kaydete** tek dokunuşla bulutunuza.
 
-- **Lost a Pin, But Not Forever.** Retrieve any hidden pinned message in any chat, now it's possible.  
-You're an admin and want to get rid of the pinned message that plays on your nerves? You can simply hide it just for yourself, not only for everyone.
+- **Sabiti kaybet, ama sonsuza dek değil.** Herhangi bir sohbette gizlenmiş sabit mesajı geri getirin, artık mümkün.
+Siz bir yöneticisiniz ve sinirlerinizde çalan sabit mesajdan kurtulmak mı istiyorsunuz? Sadece kendiniz için gizleyebilirsiniz, herkes için değil.
 
-- **Admin like a boss.** Restrict users faster than a bullet. Long tap a message and proceed to an exception menu. Control exception duration down to the second.
+- **Patron gibi yönetici.** Kullanıcıları bir mermiden daha hızlı kısıtlayın. Bir mesaja uzun dokunun ve bir istisna menüsüne ilerleyin. İstisna süresini ikinciye kadar kontrol edin.
 
-- **Nicegram is not only NICE. It is SAFE to use.** Don’t just take my word for it. Go and check yourself the source code at: [https://github.com/nicegram](https://github.com/nicegram)
+- **Nicegram sadece İYİ değil. Onu kullanmak GÜVENLİ.** Sadece benim sözümü dikkate almayın. Gidin ve kaynak kodunda kendiniz kontrol edin: [https://github.com/nicegram](https://github.com/nicegram)
 
-### Nicegram also provides features:
-- "Skip read history" - don't send "read" mark in chats. Activates via Debug menu, tap 15x times on settings icon, scroll down.
-- Confirmation before starting a secret chat, sharing your contact info, and calling
-- In-built Simplified and Traditional Chinese translations
-- Open links in external browsers: Chrome, Yandex, DuckDuckGo, Alook, Opener and more
-- Any links, usernames, phone numbers are clickable in users' bio
-- Shows ID in chat info
-- Hide phone number in settings menu
-- Hides proxy sponsored channels (Yes, it's available in official app too, but Nicegram makes it easier)
+### Nicegram ayrıca bu özelliklere sahip:
+- "Geçmişi okumayı atla" - sohbetlerde "okundu" işareti göndermeyin. Debug menüsünden aktif edin, ayarlar ikonuna 15 kez dokunun, aşağıya kaydırın.
+- Gizli sohbet başlatmadan, kişi bilginizi paylaşmadan ve aramadan önce onay.
+- Dahili Basitleştirilmiş ve Geleneksel Çince çeviriler.
+- Bağlantıları harici tarayıcıda açma: Chrome, Yandex, DuckDuckGo, Alook, Opener ve daha fazlası.
+- Herhangi bir bağlantı, kullanıcı adı, telefon numarası kullanıcıların hakkında kısmında tıklanabilir
+- Sohbet bilgisinde ID'yi gösterme
+- Ayarlar menüsünde telefon numarası gizleme
+- Vekil sunucu sponsoru kanalları gizleme (Evet, resmi uygulamada da mevcut, ama Nicegram daha kolay yaptı)
 
 
-Love features so much?
+Bu özellikleri sevdiniz mi?
 
-You can donate to Nicegram! [https://patreon.com/nicegram](https://patreon.com/nicegram)
+Nicegram'a bağış yapabilirsiniz! [https://patreon.com/nicegram](https://patreon.com/nicegram)
 
-Download [Nicegram in AppStore](https://itunes.apple.com/app/id1457369322)
+[Nicegram'ı AppStore'da](https://itunes.apple.com/app/id1457369322) indir
 
-Don't forget to subscribe to [Nicegram channel](https://t.me/nicegramapp) for latest updates and insights. Join [Nicegram Chat](https://t.me/nicegramchat) to discuss app and share your thoughts about new **nice** features you want to suggest.
+Son güncellemeler için [Nicegram kanalına](https://t.me/nicegramapp) abone olmayı unutmayın. Uygulamayı tartışmak ve önermek istediğiniz yeni **iyi** özellikler hakkında düşüncelerinizi paylaşmak için [Nicegram grubuna](https://t.me/nicegramchat) katılın.
