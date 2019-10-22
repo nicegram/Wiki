@@ -44,7 +44,7 @@ For more features please read article [Meet Nicegram](/Meet-Nicegram-04-04)
 
 <br/>
 <div align="right">
-    <b><a href="#TABLE-OF-CONTENTS">↥ back to top</a></b>
+    <b><a href="#table-of-contents">↥ back to top</a></b>
 </div>
 <br/>
 
