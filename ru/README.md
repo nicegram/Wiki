@@ -7,6 +7,6 @@
 <a href="https://t.me/nicegram_ru" target="_blank">Telegram Чат</a>
 
 ## Статьи
-- [Функции](/features)
-- [FAQ](/faq)
-- [Разблокировка чатов](/unblock)
+- [Функции](/ru/features)
+- [FAQ](/ru/faq)
+- [Разблокировка чатов](/ru/unblock)

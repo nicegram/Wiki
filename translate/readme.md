@@ -18,17 +18,21 @@ Ping [@Kylmakalle](https://t.me/Kylmakalle) if you've done a new translation, so
 It's hard to control translations via [telegra.ph](https://telegra.ph) or other platforms. So now Nicegram using this website.
 
 Steps to translate:
-1) Create new `<lang>` folder with `readme.md` for in `<article>` folder. Translation will be available at [nicegram.app/\<article\>/](https://nicegram.app/article)`<lang>`
+1) Create new `<lang>` folder with `readme.md`. Translation will be available at `https://nicegram.app/<lang>`
 
-2) If you're translating images too, create folder `images` inside. If not, you can reference original (english) images with string like `../images/banner.png`
+2) For each article create separated folder. Translation will be available at `https://nicegram.app/<lang>/<folder>`
 
-3) **Recommendation:** Try to use local `images` folder instead of link to images, because some hostings can be blocked in your country.
+3) For referencing other article, use `[Text](/<lang>/article)`
 
-5) Add links to [main page](https://github.com/nicegram/nicegram.github.io/blob/master/README.md) if you've done a new translation.
+4) If you're translating images too, create folder `images` inside. If not, you can reference original (english) images with string like `../../faq/images/banner.png`
 
-6) Submit a pull-request and ping [@Kylmakalle](https://t.me/Kylmakalle)
+5) **Recommendation:** Try to use local `images` folder instead of images url, because some hostings can be blocked in your country.
 
-Please, do not translate `chats` section.
+6) Add article links to main page if you've done a new translation.
+
+7) Submit a pull-request and ping [@Kylmakalle](https://t.me/Kylmakalle)
+
+Please, do not translate `chats` section, just refer to `/chats`
 
 You can use [this folder](https://github.com/nicegram/nicegram.github.io/tree/master/faq) as example.
 
