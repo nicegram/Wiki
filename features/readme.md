@@ -2,8 +2,9 @@
 
 Welcome to Nicegram – fast, secure and nice messaging app. Imagine the mix of powerful **Telegram API**, careful **code optimization** and **unique features** that deliver a whole new level of experience you can’t refuse!
 
+![image](images/NicegramGrid.png)
 
-#### Nicegram returns you the joy of pure communication:
+## Nicegram returns you the joy of pure communication:
 
 - **Forget about unnecessary censorship.** You will no longer end up in a situation when someone knows better which groups, channels or bots you should or should not interact with.
 
