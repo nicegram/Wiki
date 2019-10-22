@@ -15,7 +15,7 @@ Ping [@Kylmakalle](https://t.me/Kylmakalle) if you've done a new translation, so
 
 ## Translate Articles
 
-It's hard to control translations via [telegra.ph](https://telegra.ph) or other platforms.
+It's hard to control translations via [telegra.ph](https://telegra.ph) or other platforms. So now Nicegram using this website.
 
 Steps to translate:
 1) Create new `<lang>` folder with `readme.md` for in `<article>` folder. Translation will be available at [nicegram.app/\<article\>/](https://nicegram.app/article)`<lang>`
