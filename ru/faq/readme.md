@@ -1,7 +1,7 @@
 # Nicegram FAQ
 _Тут ответы на частозадаваемые вопросы про Nicegram - модифицированное приложение Telegram для iOS. Если вы не нашли тут ответа, напишите в чат_ [_@nicegram_ru_](https://t.me/nicegram_ru)
 
-![image](../../images/banner.png)
+![image](../../faq/images/banner.png)
 
 
 ## СОДЕРЖАНИЕ
