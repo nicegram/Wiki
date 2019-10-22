@@ -145,7 +145,7 @@ MacOS için Nicegram yok. [Resmi kaynakları](https://github.com/overtake/Telegr
 
 ## Android için Nicegram'ı nasıl alırım?
 
-Nicegram sadece iOS için mevcut. Başka bir Android Telegram uygulaması istiyorsanız, [Play Store'da] birkaç alternatif var (https://play.google.com/store/search?q=Telegram&c=apps). İnsanlar [Plus Messenger'ı](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US) seviyor gibi görünüyor.
+Nicegram sadece iOS için mevcut. Başka bir Android Telegram uygulaması istiyorsanız, [Play Store'da](https://play.google.com/store/search?q=Telegram&c=apps) birkaç alternatif var. İnsanlar [Plus Messenger'ı](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US) seviyor gibi görünüyor.
 
 > [_Yukarı dön_](#i̇çindekiler)
 
