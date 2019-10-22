@@ -6,12 +6,10 @@ _Here are answers to frequently asked questions about the Nicegram - modified Te
 
 ### TABLE OF CONTENTS
 
-
-
 *   [Nicegram features](#what-features-does-nicegram-offer-over-the-official-telegram-app)
 *   [Download](#download)
 *   [Community (chats & channels)](#community-chats-and-channels)
-*   [Unblock chats](#how-to-access-blocked-chats?)
+*   [Unblock chats](#how-to-access-blocked-chats)
 *   [Nicegram Debug does not work](#why-doesnt-nicegram-debug-work-anymore)
 *   [How to restart Nicegram?](#how-do-i-restart-nicegram)
 *   [Suggest Nicegram Feature](#how-to-suggest-new-feature)
@@ -44,6 +42,7 @@ For more features please read article [Meet Nicegram](/Meet-Nicegram-04-04)
 
 > [_Back to top_](#table-of-contents)
 
+
 ### Download
 
 *   AppStore - [https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)
@@ -51,6 +50,7 @@ For more features please read article [Meet Nicegram](/Meet-Nicegram-04-04)
 *   IPA [Jailbreak ONLY!] - [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
 > [_Back to top_](#table-of-contents)
+
 
 ### Community Chats and Channels
 
@@ -78,7 +78,7 @@ Follow Guide at [https://telegra.ph/Nicegram-NSFW-09-24](/Nicegram-NSFW-09-24) t
 
 Apple found out about this feature and forced Nicegram to comply [AppStore Guidelines](https://developer.apple.com/app-store/review/guidelines/).
 
-Please use [Unblock method](#How-to-access-blocked-chats?) above, it works same as debug mode.
+Please use [Unblock method](#how-to-access-blocked-chats) above, it works same as debug mode.
 
 > [_Back to top_](#table-of-contents)
 
@@ -108,7 +108,7 @@ So please, report bugs experienced **ONLY WITH NICEGRAM-RELATED FEATURES,** like
 
 Due to some reasons, Nicegram can have some bugs that's not under it's control, like:
 
-*   Can't reply to notification or see media preview. ([FIX](#Why-can%E2%80%99t-I-see-previews-of-images-in-notifications-or-reply-from-notifications?))
+*   Can't reply to notification or see media preview. ([FIX](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications))
 *   **Random crashes**
 *   Telegram calls does not work in background.
 *   Nicegram refreshes chats too long and does not do it in background.
