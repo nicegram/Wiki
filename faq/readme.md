@@ -42,7 +42,7 @@ _Here are answers to frequently asked questions about the Nicegram - modified Te
 
 For more features please read article [Meet Nicegram](/Meet-Nicegram-04-04)
 
-[Back to top](#table-of-contents)
+> [_Back to top_](#table-of-contents)
 
 ### Download
 
@@ -50,7 +50,7 @@ For more features please read article [Meet Nicegram](/Meet-Nicegram-04-04)
 *   TestFlight [BETA] - [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   IPA [Jailbreak ONLY!] - [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Community Chats and Channels
 
@@ -66,13 +66,13 @@ For more features please read article [Meet Nicegram](/Meet-Nicegram-04-04)
 *   🇮🇷 Nicegram Persian Channel: [@nicegram_fa](http://t.me/nicegram_fa)
 *   🇮🇷 Nicegram Persian Chat: [https://t.me/joinchat/BZq6jw10HFkJ9Hxn7lzwqw](https://t.me/joinchat/BZq6jw10HFkJ9Hxn7lzwqw)
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### How to access blocked chats?
 
 Follow Guide at [https://telegra.ph/Nicegram-NSFW-09-24](/Nicegram-NSFW-09-24) to unlock chats
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Why doesn’t Nicegram Debug work anymore?
 
@@ -80,13 +80,13 @@ Apple found out about this feature and forced Nicegram to comply [AppStore Guide
 
 Please use [Unblock method](#How-to-access-blocked-chats?) above, it works same as debug mode.
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### How do I restart Nicegram?
 
 Well... just swipe to kill app and open it again.
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### How to suggest new feature?
 
@@ -98,7 +98,7 @@ Like features that you want to see in NG.
 
 Any features that violates [Telegram API Terms Of Service](https://core.telegram.org/api/terms) (hidden online status, seeing deleted messages) or [AppStore Guidelines](https://developer.apple.com/app-store/review/guidelines/) will be rejected!
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### How do I report a bug in Nicegram?
 
@@ -130,7 +130,7 @@ You can find the version and build number of Nicegram by tapping the settings ge
 
 `X.XX` is the version number. `(YY)` is the build number.
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Why can’t I see previews of images in notifications or reply from notifications?
 
@@ -138,45 +138,45 @@ There are bugs in Telegram’s servers that only appear when you are using an un
 
 If you don’t mind the extra notifications, you can turn off that setting in Nicegram **Settings → Nicegram → Disable Unwanted Notifications**. You will then need to reboot your phone for the setting to take effect. (It involves getting a new configuration for the Apple Push Notification Service, which Apple sends hourly or on reboot.)
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Why there is no Apple Watch app for Nicegram?
 
 Developer can't compile it using current setup. A donation for about $2-3k required to get a proper machine + real Apple Watch for tests (simulator is not enough).  
 Also, Watch app is not super modifiable.
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### How do I get Nicegram for MacOS?
 
 There's no Nicegram for MacOS. It's better to make it from scratch using [official sources](https://github.com/overtake/TelegramSwift). Developer has no plans for MacOs version for now, sorry.
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### How do I get Nicegram for Android?
 
 Nicegram is only available for iOS. If you want another Android Telegram app, there are many alternatives [in the Play Store](https://play.google.com/store/search?q=Telegram&c=apps). People seem to like [Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US).
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Why can’t I join the TestFlight beta?
 
 TestFlight betas are limited to 10,000 testers. It is very likely that all the beta slots are full. If no new slots have opened up after a few days, politely state in [the Nicegram Chat](https://t.me/nicegramchat) that the TestFlight beta is full and you would like to join. The developer will clear out beta testers who have not updated the app recently so that new testers can join.
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Why was I removed from the TestFlight beta?
 
 Beta slots for Nicegram are in high demand. If you have not updated your beta copy of Nicegram recently, the developer will remove you so that other testers may join the beta.
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Why hasn’t Nicegram been updated with the newest features from Telegram?
 
 Nicegram is mostly a copy of the official Telegram app. However, the developers making the official app frequently change their version in ways that break Nicegram’s nice features. We don’t think they’re doing it on purpose; writing apps is hard. Our developer does his best to make sure that new changes to the official Telegram app are incorporated into Nicegram as fast as possible.  
 Just wait.
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Privacy Policy
 
@@ -187,13 +187,13 @@ TL;DR - Nicegram is a fork based on Telegram API. Nicegram does not act bad and 
 
 If you're unblocking chats and using website [my.nicegram.app](https://my.nicegram.app/) or [@Nicegram_bot](http://t.me/Nicegram_bot), you're providing your only publicly visible data to Nicegram, so app can fetch your settings that you've set on a website.
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Source Code
 
 Feel free to check it at [https://github.com/nicegram](https://github.com/nicegram)
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Translate Nicegram
 
@@ -201,7 +201,7 @@ Translation Guilde - [https://telegra.ph/Translate-Nicegram-05-28](/Translate-Ni
 
 Poeditor.com - [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.com/join/project/tiFNs5DvZp)
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Donate
 
@@ -209,10 +209,10 @@ Patreon - [https://www.patreon.com/nicegram](https://www.patreon.com/nicegram)
 
 Other ways - [@Kylmakalle](https://t.me/Kylmakalle) (Developer)
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
 
 ### Links
 
 _Some stuff will be there_
 
-> [_Back to top ⬆️_](#TABLE-OF-CONTENTS)
+> [_Back to top_](#table-of-contents)
