@@ -9,11 +9,11 @@ _Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık
 *   [Nicegram özellikleri](#nicegram-resmi-Telegram-uygulamasından-farklı-olarak-hangi-özellikleri-sunuyor)
 *   [İndir](#indir)
 *   [Topluluk (sohbetler & kanallar)](#topluluk-sohbetler-ve-kanallar)
-*   [Engel kaldırma](#how-to-access-blocked-chats)
-*   [Nicegram Debug çalışmıyor](#why-doesnt-nicegram-debug-work-anymore)
-*   [Nicegram nasıl yeniden başlatılır?](#how-do-i-restart-nicegram)
-*   [Nicegram Özelliği Öner](#nasil-yeni-ozellik-onerilir)
-*   [Hatalar](#nicegram'da-bir-hatayi-nasil-bildirebilirim)
+*   [Engel kaldırma](#engellenmiş-sohbetlere-basıl-erişilir)
+*   [Nicegram Debug çalışmıyor](#nicegram-debug-neden-artık-çalışmıyor)
+*   [Nicegram nasıl yeniden başlatılır?](#nicegram'ı-nasıl-yeniden-başlatırım)
+*   [Nicegram Özelliği Öner](#nasıl-yeni-özellik-önerilir)
+*   [Hatalar](#nicegram'da-bir-hatayı-nasıl-bildirebilirim)
 *   [Bildirimden yanıtla veya Resim önizleme çalışmıyor](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications)
 *   [Apple Watch Uygulaması eksikliği](#why-there-is-no-apple-watch-app-for-nicegram)
 *   [MacOS için Nicegram](#how-do-i-get-nicegram-for-macos)
@@ -40,7 +40,7 @@ _Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık
 
 Daha fazla özellik için, lütfen [Nicegram ile Tanışın](../features) makalesini okuyun
 
-> [_Yukarı dön_](#table-of-contents)
+> [_Yukarı dön_](#içindekiler)
 
 
 ## İndir
@@ -49,20 +49,20 @@ Daha fazla özellik için, lütfen [Nicegram ile Tanışın](../features) makale
 *   TestFlight [BETA] - [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   IPA [SADECE Jailbreak!] - [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
-> [_Yukarı dön_](#table-of-contents)
+> [_Yukarı dön_](#içindekiler)
 
 
-## Community Chats and Channels
+## Topluluk Sohbetler ve Kanallar
 
 [List](/chats) of chats and channels
 
-> [_Back to top_](#table-of-contents)
+> [_Yukarı dön_](#içindekiler)
 
-## How to access blocked chats?
+## Engellenmiş sohbetlere nasıl erişilir?
 
-Follow [Unblock guide](/unblock) to access chats
+Sohbetlere erişmek için [engel kaldırma rehberini](/unblock) takip edin.
 
-> [_Back to top_](#table-of-contents)
+> [_Yukarı dön_](#içindekiler)
 
 ## Why doesn’t Nicegram Debug work anymore?
 
@@ -70,7 +70,7 @@ Apple found out about this feature and forced Nicegram to comply [AppStore Guide
 
 Please use [Unblock method](#how-to-access-blocked-chats) above, it works same as debug mode.
 
-> [_Back to top_](#table-of-contents)
+> [_Yukarı dön_](#içindekiler)
 
 ## How do I restart Nicegram?
 
