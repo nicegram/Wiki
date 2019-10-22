@@ -1,4 +1,4 @@
-# Nicegram SSS
+# Nicegram FAQ
 _Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık sorulan sorulara cevaplar var. Sorunuza cevap bulamadıysanız, lütfen bize_ [_@NicegramChat_](https://t.me/nicegramchat) grubundan ulaşın.
 
 ![image](images/banner.png)
