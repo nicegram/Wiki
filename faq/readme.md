@@ -6,7 +6,7 @@ _Here are answers to frequently asked questions about the Nicegram - modified Te
 
 ### TABLE OF CONTENTS
 
-_Use ⬆️ to get back there._
+
 
 *   [Nicegram features](#What-features-does-Nicegram-offer-over-the-official-Telegram-app?)
 *   [Download](#Download)
@@ -42,7 +42,6 @@ _Use ⬆️ to get back there._
 
 For more features please read article [Meet Nicegram](/Meet-Nicegram-04-04)
 
-<br/>
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
 </div>
