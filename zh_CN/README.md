@@ -13,7 +13,7 @@
 
 
 ## 文章
-- [功能](/features)
+- [功能](/zh_CN/features)
 - [常见问题（FAQ）](/faq)
 - [频道/群组限制解锁](/unblock)
 
