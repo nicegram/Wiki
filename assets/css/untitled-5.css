@@ -1,0 +1,9 @@
+section.features .feature-item i {
+  font-size: 80px;
+  display: block;
+  margin-bottom: 15px;
+  background: linear-gradient(270deg,#2f4499,#4199ea);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+

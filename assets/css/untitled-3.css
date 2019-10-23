@@ -1,0 +1,10 @@
+header.masthead {
+  position: relative;
+  width: 100%;
+  padding-top: 150px;
+  padding-bottom: 100px;
+  color: #fff;
+  background: #2f4499;
+  background: linear-gradient(270deg,#4199ea,#2f4499);
+}
+
