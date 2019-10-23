@@ -6,7 +6,7 @@ _Here are answers to frequently asked questions about Nicegram, a modified Teleg
 
 ## Table of Contents
 
-*   [Nicegram Features](#what-features-does-nicegram-offer-over-the-official-telegram-app)
+*   [Nicegram Features](#nicegram-features)
 *   [Download](#download)
 *   [Community Chats and Channels](#community-chats-and-channels)
 *   [How do I access blocked chats?](#how-do-i-access-blocked-chats)
