@@ -1,97 +1,86 @@
-# Nicegram Chats Unblock
-_Stuck on that? Nicegram to help._
+# Nicegram Chat Unblock Guide
+_Stuck at this message? Nicegram can help._
 
 ![](https://graph.org/file/da435e3224a811ef027e3.png)
 
+You can access certain unavailable chats in Nicegram.  
+Due to [App Store Guidelines][app-store-guidelines], you must enable this setting outside of the Nicegram app.
+
+There are **three** ways to do this.
+
+This guide only works for **Nicegram 5.11 (59)** and later! If you’re using an older version, [download or update Nicegram from the App Store][nicegram-app-store].
 
 
-You can access some unavailable chats in Nicegram.  
-Due to [AppStore Rules](https://developer.apple.com/app-store/review/guidelines/#user-generated-content), you must enable this setting outside of the Nicegram app.  
+## 1. Via Telegram Bot
 
-There are multiple ways to do it.
-
-This works only for **Nicegram 5.11 (59)** and later!
-
-Download or Update [Nicegram in AppStore](https://itunes.apple.com/app/id1457369322)
-
-
-
-## 1) Via Telegram bot.
-
-*   Open [@Nicegram_bot](https://t.me/nicegram_bot) using official Telegram app or Web. (**You can't open it in Nicegram app!**)
-*   Change settings using buttons.
-*   Restart Nicegram (kill and open app)
+1.   Open [@Nicegram_bot](https://t.me/nicegram_bot) using any official Telegram app (including [web.telegram.org](https://web.telegram.org)). **You cannot open the bot in Nicegram due to App Store Guidelines!**
+2.   Tap the buttons to change your settings.
+3.   [Restart Nicegram][force-close] (kill and reopen the app).
 
 ![](https://graph.org/file/6d9bd5b7ac7032fe332d2.png)
 
+> The bot is available **only** via official Telegram app or [Telegram Web](https://web.telegram.org).
 
-> Bot is available ONLY via official Telegram app or Web
+## 2. Via Nicegram Website
 
-## 2) Via Nicegram Website
+1.   Go to [https://my.nicegram.app](https://my.nicegram.app/).
+2.   Login using “Login with Telegram” widget.  
+    The Nicegram website can’t access your private data like your phone number or your messages.
+3.   Toggle the switches to change your settings.
+4.   Tap Save.
+5.   [Restart Nicegram][force-close] (kill and reopen the app).
 
-*   Go to [https://my.nicegram.app](https://my.nicegram.app/)
-*   Login using "Login with Telegram" widget.  
-    Website can't access your private data like phone number and messages. Don't worry.
-*   Change settings and Save
-*   Restart Nicegram (kill and open app)
 ![](https://graph.org/file/d9b045ab0ccea7b34d77a.png)
 
-
-> Website get your Name, Username and Profile Picture only
+> The Nicegram website only sees your Name, Username, and Profile Picture.
 
 
 ![](https://graph.org/file/2b06327ddd85fcf389532.png)
 
+> Settings saved. Remember to [restart Nicegram][force-close]!
 
-> Settings saved. remember to restart app!
 
+## 3. Via Nicegram Website & Bot
 
-## 3) Via Nicegram Website & Bot
+_Useful if the web Telegram Widget does not work for you._
 
-_Useful if web Telegram Widget is unavailable for you_
-
-*   Open [@Nicegram_bot](https://t.me/nicegram_bot) using official Telegram app or Web. (**You can't open it in Nicegram app!**)
+1.   Open [@Nicegram_bot](https://t.me/nicegram_bot) using official Telegram app or Web. **You cannot open the bot in Nicegram due to App Store Guidelines!**
 
 <aside>OR</aside>
 
-*   Open message with login button - [https://t.me/nicegramchat/35207](https://t.me/nicegramchat/35207)
+1.   Open this message with login button: [https://t.me/nicegramchat/35207](https://t.me/nicegramchat/35207)
+2.   Instantly login to the website using “🆖Nicegram Login” button
+3.   Change settings and Save
+4.   [Restart Nicegram][force-close] (kill and open app)
 
-*   Instantly login to website using "🆖Nicegram Login" button
-*   Change settings and Save
-*   Restart Nicegram (kill and open app)
+### Additional Notes
 
-### P. S.
+* These settings only affect one account.  **If you use multiple accounts** and want to see sensitive content in all of them, **you need to repeat these steps for each account.**
+* The “Nicegram Debug” option from older versions is no longer used. You do not need to tap quickly on the settings icon. Nicegram automatically syncs your settings on start.
+* Some chats may be blocked globally by Telegram—there’s no way to unblock them.
+* Users from China, India, Kazakhstan, Uzbekistan and others can face **region blocks**. To access region-blocked chats, you need to create account with a phone number from an unblocked region. One way to do this is with a <abbr title="Voice over Internet Protocol">VoIP</abbr> number. To find out how to do this, [Google it](https://www.google.com/search?q=voip+number+for+telegram). Here’s what it looks like when a chat is region blocked:
+	![](https://graph.org/file/b1931dc681ecd967f0300.png)
+* If you’re an owner of a region-blocked chat/bot/channel, contact Telegram support. Nicegram can’t help you.  
 
-1) In case you're using multiple accounts, you should enable this option for each account.
+### “Unavailable in Nicegram”
 
-2) Previous "Nicegram Debug" option is not used now. You don't need to tap fast on settings icon. App automatically sync your settings on start.
-
-3) Some chats may be blocked globally by Telegram - there's no way to unblock them.
-
-4) Also, users from China, India, Kazakhstan, Uzbekistan and others can face **Region Block**. To access such chats, you need to create account with sim-card from another region. For example, can use sms/voip numbers. Just [Google it](https://www.google.com/search?q=voip+number+for+telegram).
-
-![](https://graph.org/file/b1931dc681ecd967f0300.png)
-
-> Region Blocked chat 
-
-5) If you're an owner of such chat/bot/channel, contact Telegram support. Nicegram can't help you.  
-
-### P. P. S.
-
-Some chats may be inaccessible even in Nicegram due to [AppStore Rules](https://developer.apple.com/app-store/review/guidelines/#user-generated-content)
+Some chats may be inaccessible even in Nicegram due to the [App Store Guidelines][app-store-guidelines]. These chats are blocked with the message “Unavailable in Nicegram.”
 
 
 ![](https://graph.org/file/7796b20c4dc34c28221d4.png)
 
-> Sorry about that
+> Sorry about that.
 
-Love this feature so much?
+<hr>
 
-You can donate to Nicegram! [https://patreon.com/nicegram](https://patreon.com/nicegram)
+Love this feature? You can donate to Nicegram! [https://patreon.com/nicegram](https://patreon.com/nicegram)
 
-Download [Nicegram in AppStore](https://itunes.apple.com/app/id1457369322)
+Download [Nicegram in the App Store][nicegram-app-store]
 
-More [Nicegram Features](/features)
+[More Nicegram Features](/features)
 
-Don't forget to subscribe to [Nicegram channel](https://t.me/nicegramapp) for latest updates and insights. Join [Nicegram Chat](https://t.me/nicegramchat) to discuss app and share your thoughts about new **nice** features you want to suggest.
+Don’t forget to subscribe to the [Nicegram channel](https://t.me/nicegramapp) for the latest updates and insights. You can also join the [Nicegram Chat](https://t.me/nicegramchat) to discuss the app and share your thoughts about new **nice** features.
 
+[app-store-guidelines]: https://developer.apple.com/app-store/review/guidelines/#user-generated-content
+[nicegram-app-store]: https://itunes.apple.com/app/id1457369322
+[force-close]: https://support.apple.com/en-us/HT201330
