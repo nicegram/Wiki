@@ -1,29 +1,30 @@
 # Nicegram 常见问题（FAQ）
-_这里有一些关于 Nicegram （一款 iOS 上的 Telegram 修改版 App）的常见问题的回答。如果您没有找到想问的问题的答案，请到_ [_Nicegram 中文群组_](https://t.me/nicegram_cn) _中联系我们。_
+_这里有一些对于 Nicegram（一款 iOS 上的 Telegram 修改版 App）常见问题的回复。如果您没有找到想问的问题的答案，请到_ [_Nicegram 中文群组_](https://t.me/nicegram_cn) _中联系我们。_
 
 ![Nicegram](/faq/images/banner.png)
 
 
 ## 目录
 
-*   [Nicegram 功能](#nicegram-features)
-*   [下载](#download)
-*   [官方社区：群组和频道](#community-chats-and-channels)
-*   [我如何进入受限群组/频道？](#how-do-i-access-blocked-chats)
-*   [为何 Nicegram Debug 不再有效？](#why-doesnt-nicegram-debug-work-anymore)
-*   [我如何重启 Nicegram？](#how-do-i-restart-nicegram)
-*   [我如何提一个有关新功能的建议？](#how-to-suggest-new-feature)
-*   [我如何反馈 Nicegram 中的 Bug？](#how-do-i-report-a-bug-in-nicegram)
-*   [为何我在通知中看不到预览图/无法回复消息？](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications)
-*   [为何没有 Apple Watch 版 Nicegram App](#why-there-is-no-apple-watch-app-for-nicegram)
-*   [我如何获取 MacOS 版 Nicegram](#how-do-i-get-nicegram-for-macos)
-*   [我如何获取 Android 版 Nicegram](#how-do-i-get-nicegram-for-android)
-*   [为何我无法加入 TestFlight 测试？](#why-cant-i-join-the-testflight-beta)
-*   [Nicegram 何时会更新？](#why-hasnt-nicegram-been-updated-with-the-newest-features-from-telegram)
-*   [隐私政策](#privacy-policy)
-*   [源代码](#source-code)
-*   [翻译 Nicegram](#translate-nicegram)
-*   [赞助](#donate)
+*   [Nicegram 功能](#nicegram-功能)
+*   [下载](#下载)
+*   [官方社区：群组和频道](#官方社区：群组和频道)
+*   [我如何进入受限群组/频道？](#我如何进入受限群组/频道？)
+*   [为何 Nicegram Debug 不再有效？](#为何-nicegram-debug-不再有效？)
+*   [我如何重启 Nicegram？](#我如何重启-nicegram？)
+*   [我如何提一个有关新功能的建议？](#我如何提一个有关新功能的建议？)
+*   [我如何反馈 Nicegram 中的 Bug？](#我如何反馈-nicegram-中的-bug？)
+*   [为何我在通知中看不到预览图或是无法回复消息？](#为何我在通知中看不到预览图或是无法回复消息？)
+*   [为何没有 Apple Watch 版 Nicegram App](#为何没有-apple-watch-版-nicegram-app)
+*   [我如何获取 MacOS 版 Nicegram](#我如何获取-macos-版-nicegram)
+*   [我如何获取 Android 版 Nicegram](#我如何获取-android-版-nicegram)
+*   [为何我无法加入 TestFlight 测试？](#为何我无法加入-testflight-测试？)
+*   [为何我被开发者从 TestFlight 测试中移除了？](#为何我被开发者从-testflight-测试中移除了？)
+*   [为何 Nicegram 还没有更新并加入 Telegram 新增的功能？](#为何-nicegram-还没有更新并加入-telegram-新增的功能？)
+*   [隐私政策](#隐私政策)
+*   [源代码](#源代码)
+*   [翻译 Nicegram](#翻译-nicegram)
+*   [赞助](#赞助)
 
 ## Nicegram 功能
 
@@ -39,7 +40,7 @@ _这里有一些关于 Nicegram （一款 iOS 上的 Telegram 修改版 App）�
 
 了解更多功能，请查阅 [认识 Nicegram](/zh_CN/features)！
 
-> [_返回顶部_](#table-of-contents)
+> [_返回目录_](#目录)
 
 
 ## 下载
@@ -48,36 +49,36 @@ _这里有一些关于 Nicegram （一款 iOS 上的 Telegram 修改版 App）�
 *   TestFlight（测试版）：[https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   `.ipa`（仅适用于已越狱系统）：[https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
-> [_返回顶部_](#table-of-contents)
+> [_返回目录_](#目录)
 
 
 ## 官方社区：群组和频道
 
 列表在单独的页面中：[官方群组和频道一览](/chats) 
 
-> [_返回顶部_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## 如何进入受限群组/频道？
+## 我如何进入受限群组/频道？
 
 请按照[解除限制教程](/zh_CN/unblock)来操作
 
-> [_返回顶部_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## Why doesn’t Nicegram Debug work anymore?
+## 为何 Nicegram Debug 不再有效？
 
 Apple found out about it and forced Nicegram to remove it in order to comply with the [App Store Guidelines](https://developer.apple.com/app-store/review/guidelines/).
 
 Instead, please follow the [Unblock Guide](/unblock) to access blocked chats.
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## How do I restart Nicegram?
+## 我如何重启 Nicegram？
 
 [Force close it](https://support.apple.com/en-us/HT201330) (swipe it up in the app switcher) and then open it again.
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## How do I suggest a new feature?
+## 我如何提一个有关新功能的建议？
 
 Go to [vote.nicegram.app](https://vote.nicegram.app/).
 
@@ -87,9 +88,9 @@ Like features that you want to see in Nicegram.
 
 Any feature that violates the [Telegram API Terms Of Service](https://core.telegram.org/api/terms) (hidden online status, seeing deleted messages) or the [App Store Guidelines](https://developer.apple.com/app-store/review/guidelines/) will be rejected!
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## How do I report a bug in Nicegram?
+## 我如何反馈 Nicegram 中的 Bug？
 
 Most bugs in Nicegram are also bugs in the official Telegram app. **We only accept bug reports for Nicegram-related features,** like folders and tabs.
 
@@ -118,55 +119,55 @@ You can find the version and build number of Nicegram by tapping the settings ge
 
 `X.XX` is the version number. `(YY)` is the build number.
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## Why can’t I see previews of images in notifications or reply from notifications?
+## 为何我在通知中看不到预览图或是无法回复消息？
 
 There are bugs in Telegram’s servers that only appear when you are using an unofficial app like Nicegram. One of these bugs is particularly annoying: you will receive a push notification saying "You have a new message!" every time someone sends a message in a group you are in, even if the group is muted. In order to work around this, Nicegram has a setting (that defaults to `on`) called "Disable Unwanted Notifications." Because of the way notification replies and notification previews work, disabling these potentially unwanted notifications also disables those features.
 
 If you don’t mind the extra notifications, you can turn off that setting in **Nicegram Settings → Nicegram → Disable Unwanted Notifications**. You will then need to reboot your phone for the setting to take effect. (It involves getting a new configuration for the Apple Push Notification Service, which Apple sends hourly or on reboot.)
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## Why is there no Apple Watch app for Nicegram?
+## 为何没有 Apple Watch 版 Nicegram App
 
 The developer can’t compile it using his current setup. A donation of about USD 2,000–3,000 is required to get a proper Mac and a real Apple Watch for testing (the Watch simulator is not enough). Also, the Watch app is not usefully modifiable.
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## How do I get Nicegram for macOS?
+## 我如何获取 MacOS 版 Nicegram
 
 Nicegram is not available for macOS. However, you can use [Telegram macOS](https://telegram.org/macos). The non–App Store version does not have sensitive content restrictions.
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## How do I get Nicegram for Android?
+## 我如何获取 Android 版 Nicegram
 
 Nicegram is only available for iOS. If you want another Android Telegram app, there are many alternatives [in the Play Store](https://play.google.com/store/search?q=Telegram&c=apps). People seem to like [Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US).
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## Why can’t I join the TestFlight beta?
+## 为何我无法加入 TestFlight 测试？
 
 TestFlight betas are limited to 10,000 testers. It is very likely that all the beta slots are full. If no new slots have opened up after a few days, politely state in [the Nicegram Chat](https://t.me/nicegramchat) that the TestFlight beta is full and you would like to join. The developer will clear out beta testers who have not updated the app recently so that new testers can join.
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## Why was I removed from the TestFlight beta?
+## 为何我被开发者从 TestFlight 测试中移除了？
 
 Beta slots for Nicegram are in high demand. If you have not updated your beta copy of Nicegram recently, the developer will remove you so that other testers may join the beta.
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## Why hasn’t Nicegram been updated with the newest features from Telegram?
+## 为何 Nicegram 还没有更新并加入 Telegram 新增的功能？
 
 Nicegram is mostly a copy of the official Telegram app. However, the developers making the official app frequently change their version in ways that break Nicegram’s nice features. We don’t think they’re doing it on purpose; writing apps is hard. Our developer does his best to make sure that new changes to the official Telegram app are incorporated into Nicegram as fast as possible.
 
 Just be patient and wait.
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
-## Privacy Policy
+## 隐私政策
 
 Nicegram’s privacy policy can be found here: [https://nicegram.app/privacy-policy](https://nicegram.app/privacy-policy)
 
@@ -174,13 +175,13 @@ TL;DR: Nicegram is a fork of the official Telegram app for iOS and is based on t
 
 If you unblock chats using the website ([my.nicegram.app](https://my.nicegram.app/)) or the bot ([@Nicegram_bot](http://t.me/Nicegram_bot)), Nicegram’s servers store only publicly visible data (your Telegram user ID) so that the app can fetch your settings.
 
-> [_Back to top_](#table-of-contents)
+> [_返回目录_](#目录)
 
 ## 源代码
 
 Nicegram 的源代码存放在 GitHub 上：[https://github.com/nicegram](https://github.com/nicegram)
 
-> [_返回顶部_](#table-of-contents)
+> [_返回目录_](#目录)
 
 ## 翻译 Nicegram
 
@@ -188,7 +189,7 @@ Nicegram 的源代码存放在 GitHub 上：[https://github.com/nicegram](https:
 
 Poeditor.com -> [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.com/join/project/tiFNs5DvZp)
 
-> [_返回顶部_](#table-of-contents)
+> [_返回目录_](#目录)
 
 ## 赞助
 
@@ -196,4 +197,4 @@ Patreon -> [https://www.patreon.com/nicegram](https://www.patreon.com/nicegram)
 
 其他方式 -> [@Kylmakalle](https://t.me/Kylmakalle)（开发者）
 
-> [_返回顶部_](#table-of-contents)
+> [_返回目录_](#目录)
