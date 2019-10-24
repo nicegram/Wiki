@@ -1,5 +1,5 @@
 # Nicegram 受限群组/频道解除限制教程
-_Stuck at this message? Nicegram can help._
+_被这个提示所困扰？Nicegram 能够帮助您。_
 
 ![](https://graph.org/file/da435e3224a811ef027e3.png)
 
@@ -13,7 +13,7 @@ _Stuck at this message? Nicegram can help._
 
 ## 1. 通过 Telegram 机器人
 
-1.   用任意 Telegram 官方 App 来打开机器人 [@Nicegram_bot](https://t.me/nicegram_bot)（包括 [Telegram 网页版](https://web.telegram.org)）。**根据 App Store 审核指南，您不能在 Nicegram 中打开这个机器人！**
+1.   用任意 Telegram 官方 App 来使用机器人 [@Nicegram_bot](https://t.me/nicegram_bot)（包括 [Telegram 网页版](https://web.telegram.org)）。**根据 App Store 审核指南，您不能在 Nicegram 中使用这个机器人！**
 2.   点击按钮更改您的设置。
 3.   [重启 Nicegram][force-close]（结束进程并重新打开 App）。
 
@@ -44,7 +44,7 @@ _Stuck at this message? Nicegram can help._
 
 _如果网站上的 Telegram 小组件无效，这个方法应该有用。_
 
-1.   用 Telegram 官方 App 或网页版来打开机器人 [@Nicegram_bot](https://t.me/nicegram_bot) 。**根据 App Store 审核指南，您不能在 Nicegram 中打开这个机器人！**
+1.   用 Telegram 官方 App 或网页版来使用机器人 [@Nicegram_bot](https://t.me/nicegram_bot) 。**依据 App Store 审核指南，您不能在 Nicegram 中使用这个机器人！**
 
 <aside>或者</aside>
 
