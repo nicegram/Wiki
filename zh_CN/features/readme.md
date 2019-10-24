@@ -23,14 +23,14 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 
 - **像 Boss 一样进行管理。** 在群组内限制用户的速度比子弹还快。长按一条消息即可调出控制菜单。管控群组内异常事态所需时间能降至秒级。
 
-- **Nicegram 不仅很美观，而且还很安全。** 可别光听我的一面之词，您可以亲自去 Github 上检查 Nicegram 的源代码： [https://github.com/nicegram](https://github.com/nicegram)
+- **Nicegram 不仅很美观，而且还很安全。** 可别光听我的一面之词，您可以亲自去 Github 上检查 Nicegram 的源代码：[https://github.com/nicegram](https://github.com/nicegram)
 
 ### Nicegram 也提供了以下功能：
 - "Skip read history" —— 在聊天中不发送“已读”标记。启用方法：连续点击 15 次设置图标，打开 Debug 菜单，往下翻即可看到该项设置。
 - 在开始私密聊天/分享您的联系信息/语音通话前进行确认操作
-- 内置了“简体中文”与“繁体中文”
+- 内置了“简体中文”和“繁体中文”两种语言
 - 一键复制等宽文字（如在 Android 上）
-- 可在 Chrome/Yandex/DuckDuckGo/Alook/Opener 及更多外部浏览器中打开链接
+- 可在 Chrome / Yandex / DuckDuckGo / Alook / Opener 及更多外部浏览器中打开链接
 - 用户个人资料中的任意链接、用户名、电话号码现可点击
 - 在聊天信息中显示 ID，点击可复制 ID
 - 隐藏设置菜单中的电话号码
@@ -41,6 +41,6 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 
 您可以在 [Patreon 平台](https://patreon.com/nicegram) 上赞助 Nicegram！
 
-下载 [AppStore 中的 Nicegram](https://itunes.apple.com/app/id1457369322)
+下载 [AppStore 中的 Nicegram](https://itunes.apple.com/app/id1457369322)（中国区商店暂无法上架）
 
 别忘了订阅 [Nicegram 官方频道](https://t.me/nicegramapp) 以获取最近更新并深入了解这款 App。加入 [Nicegram 中文群组](https://t.me/nicegram_cn)，和大家一起交流探讨。您有些什么关于新功能的**好点子**也可以在群组里分享给我们。
