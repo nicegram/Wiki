@@ -5,11 +5,11 @@
 
 <a href="https://itunes.apple.com/app/id1457369322" target="_blank">📱 在 AppStore 中下载 Nicegram （中国区商店暂无法上架）</a>
 
-<a href="https://t.me/nicegramapp" target="_blank">官方频道</a>
+<a href="https://t.me/nicegramapp" target="_blank">Nicegram 官方频道</a>
 
-<a href="https://t.me/nicegramchat" target="_blank">聊天群组（英文）</a>
+<a href="https://t.me/nicegramchat" target="_blank">Nicegram 英文群组</a>
 
-<a href="https://t.me/nicegram_cn" target="_blank">聊天群组（中文）</a>
+<a href="https://t.me/nicegram_cn" target="_blank">Nicegram 中文群组</a>
 
 
 ## 文章
