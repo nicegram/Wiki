@@ -26,7 +26,7 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 - **Nicegram 不仅很美观，而且还很安全。** 可别光听我的一面之词，您可以亲自去 GitHub 上检查 Nicegram 的源代码：[https://github.com/nicegram](https://github.com/nicegram)
 
 ### Nicegram 也提供了以下功能：
-- "Skip read history" —— 在聊天中不发送“已读”标记。启用方法：连续点击 15 次设置图标，打开 Debug 菜单，往下翻即可看到该项设置。
+- "Skip read history" —— 在聊天中不发送“已读”标记。启用方法：连续点击 10 次设置图标，打开 Debug 菜单，往下翻即可看到该项设置。
 - 在开始私密聊天/分享您的联系信息/语音通话前进行确认操作
 - 内置了“简体中文”和“繁体中文”两种语言
 - 一键复制等宽文字（如在 Android 上）
