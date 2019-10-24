@@ -8,19 +8,19 @@ _这里有一些对于 Nicegram（一款 iOS 上的 Telegram 修改版 App）常
 
 *   [Nicegram 功能](#nicegram-功能)
 *   [下载](#下载)
-*   [官方社区：群组和频道](#官方社区：群组和频道)
-*   [我如何进入受限群组/频道？](#我如何进入受限群组/频道？)
-*   [为何 Nicegram Debug 不再有效？](#为何-nicegram-debug-不再有效？)
-*   [我如何重启 Nicegram？](#我如何重启-nicegram？)
-*   [我如何提一个有关新功能的建议？](#我如何提一个有关新功能的建议？)
-*   [我如何反馈 Nicegram 中的 Bug？](#我如何反馈-nicegram-中的-bug？)
-*   [为何我在通知中看不到预览图或是无法回复消息？](#为何我在通知中看不到预览图或是无法回复消息？)
-*   [为何没有 Apple Watch 版 Nicegram App](#为何没有-apple-watch-版-nicegram-app)
-*   [我如何获取 MacOS 版 Nicegram](#我如何获取-macos-版-nicegram)
-*   [我如何获取 Android 版 Nicegram](#我如何获取-android-版-nicegram)
-*   [为何我无法加入 TestFlight 测试？](#为何我无法加入-testflight-测试？)
-*   [为何我被开发者从 TestFlight 测试中移除了？](#为何我被开发者从-testflight-测试中移除了？)
-*   [为何 Nicegram 还没有更新并加入 Telegram 新增的功能？](#为何-nicegram-还没有更新并加入-telegram-新增的功能？)
+*   [官方社区：群组和频道](#官方社区群组和频道)
+*   [我如何进入受限群组/频道？](#我如何进入受限群组频道)
+*   [为何 Nicegram Debug 不再有效？](#为何-nicegram-debug-不再有效)
+*   [我如何重启 Nicegram？](#我如何重启-nicegram)
+*   [我如何提一个有关新功能的建议？](#我如何提一个有关新功能的建议)
+*   [我如何反馈 Nicegram 中的 Bug？](#我如何反馈-nicegram-中的-bug)
+*   [为何我在通知中看不到预览图或是无法回复消息？](#为何我在通知中看不到预览图或是无法回复消息)
+*   [为何没有 Apple Watch 版 Nicegram App？](#为何没有-apple-watch-版-nicegram-app)
+*   [我如何获取 MacOS 版 Nicegram？](#我如何获取-macos-版-nicegram)
+*   [我如何获取 Android 版 Nicegram？](#我如何获取-android-版-nicegram)
+*   [为何我无法加入 TestFlight 测试？](#为何我无法加入-testflight-测试)
+*   [为何我被开发者从 TestFlight 测试中移除了？](#为何我被开发者从-testflight-测试中移除了)
+*   [为何 Nicegram 还没有更新并加入 Telegram 新增的功能？](#为何-nicegram-还没有更新并加入-telegram-新增的功能)
 *   [隐私政策](#隐私政策)
 *   [源代码](#源代码)
 *   [翻译 Nicegram](#翻译-nicegram)
@@ -129,19 +129,19 @@ If you don’t mind the extra notifications, you can turn off that setting in **
 
 > [_返回目录_](#目录)
 
-## 为何没有 Apple Watch 版 Nicegram App
+## 为何没有 Apple Watch 版 Nicegram App？
 
 The developer can’t compile it using his current setup. A donation of about USD 2,000–3,000 is required to get a proper Mac and a real Apple Watch for testing (the Watch simulator is not enough). Also, the Watch app is not usefully modifiable.
 
 > [_返回目录_](#目录)
 
-## 我如何获取 MacOS 版 Nicegram
+## 我如何获取 MacOS 版 Nicegram？
 
 Nicegram is not available for macOS. However, you can use [Telegram macOS](https://telegram.org/macos). The non–App Store version does not have sensitive content restrictions.
 
 > [_返回目录_](#目录)
 
-## 我如何获取 Android 版 Nicegram
+## 我如何获取 Android 版 Nicegram？
 
 Nicegram is only available for iOS. If you want another Android Telegram app, there are many alternatives [in the Play Store](https://play.google.com/store/search?q=Telegram&c=apps). People seem to like [Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US).
 
