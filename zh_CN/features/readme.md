@@ -1,6 +1,6 @@
 # 认识 Nicegram
 
-欢迎使用 Nicegram —— 一款快速、安全而又美观的即时通讯应用。不妨想象一下，这款结合了强大的 **Telegram API**、精心**优化过的代码**以及**独特功能**的应用，能为您带来多么难以抗拒的<del>船新</del>全新体验！ 
+欢迎使用 Nicegram —— 一款快速、安全而又美观的即时通讯 App。不妨想象一下，这款结合了强大的 **Telegram API**、精心**优化过的代码**以及**独特功能**的 App，能为您带来多么难以抗拒的<del>船新</del>全新体验！ 
 
 ![预览图](/features/images/NicegramGrid.png)
 
@@ -23,7 +23,7 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 
 - **像 Boss 一样进行管理。** 在群组内限制用户的速度比子弹还快。长按一条消息即可调出控制菜单。管控群组内异常事态所需时间能降至秒级。
 
-- **Nicegram 不仅很美观，而且还很安全。** 别光听我的一面之词，您可以自己去检查 Nicegram 的源代码： [https://github.com/nicegram](https://github.com/nicegram)
+- **Nicegram 不仅很美观，而且还很安全。** 可别光听我的一面之词，您可以亲自去 Github 上检查 Nicegram 的源代码： [https://github.com/nicegram](https://github.com/nicegram)
 
 ### Nicegram 也提供了以下功能：
 - "Skip read history" —— 在聊天中不发送“已读”标记。启用方法：连续点击 15 次设置图标，打开 Debug 菜单，往下翻即可看到该项设置。
@@ -34,7 +34,7 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 - 用户个人资料中的任意链接、用户名、电话号码现可点击
 - 在聊天信息中显示 ID，点击可复制 ID
 - 隐藏设置菜单中的电话号码
-- 隐藏代理赞助商频道（官方应用中也提供了该功能，只不过 Nicegram 中更易于操作）
+- 隐藏代理赞助商频道（Telegram 中也提供了该功能，只不过在 Nicegram 中更易于操作）
 
 
 喜欢这些功能吗？
@@ -43,4 +43,4 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 
 下载 [AppStore 中的 Nicegram](https://itunes.apple.com/app/id1457369322)
 
-别忘了订阅[官方频道](https://t.me/nicegramapp)以获取最近更新并深入了解这款应用。加入[聊天群组（英文）](https://t.me/nicegramchat)，大家一起交流探讨，您有些什么关于新功能的**好点子**也可以在这里分享给我们。
+别忘了订阅[官方频道](https://t.me/nicegramapp)以获取最近更新并深入了解这款 App。加入[聊天群组（英文）](https://t.me/nicegramchat)，大家一起交流探讨，您有些什么关于新功能的**好点子**也可以在这里分享给我们。
