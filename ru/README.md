@@ -10,3 +10,4 @@
 - [Функции](/ru/features)
 - [FAQ](/ru/faq)
 - [Разблокировка чатов](/ru/unblock)
+- [История версий](/ru/changelog)
