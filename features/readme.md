@@ -41,6 +41,6 @@ Love features so much?
 
 You can donate to Nicegram! [https://patreon.com/nicegram](https://patreon.com/nicegram)
 
-Download [Nicegram in AppStore](https://itunes.apple.com/app/id1457369322)
+Download [Nicegram in App Store](https://itunes.apple.com/app/id1457369322)
 
 Don't forget to subscribe to [Nicegram channel](https://t.me/nicegramapp) for latest updates and insights. Join [Nicegram Chat](https://t.me/nicegramchat) to discuss app and share your thoughts about new **nice** features you want to suggest.
