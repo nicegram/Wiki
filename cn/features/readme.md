@@ -6,7 +6,7 @@
 
 ## Nicegram 给您带来纯粹沟通的乐趣：
 
-- **忘掉那些没必要的审查。** You will no longer end up in a situation when someone knows better which groups, channels or bots you should or should not interact with. [了解更多](/zh_CN/unblock)
+- **忘掉那些没必要的审查。** You will no longer end up in a situation when someone knows better which groups, channels or bots you should or should not interact with. [了解更多](/cn/unblock)
 
 - **利用分组和标签页变得更专注。** 可以按您想要的话题对聊天进行分组，或是按类型（频道、机器人、私人等等）分开。在消息栏上提高生产力！如何创建分组：左上角 -> **编辑 -> 新建分组**
 

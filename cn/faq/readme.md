@@ -38,7 +38,7 @@ _这里有一些对于 Nicegram（一款 iOS 上的 Telegram 修改版 App）常
 *   内置了"简体中文"和"繁体中文"两种语言
 *   可在 Chrome / Yandex / DuckDuckGo / Alook / Opener 及更多外部浏览器中打开链接
 
-了解更多功能，请查阅 [认识 Nicegram](/zh_CN/features)！
+了解更多功能，请查阅 [认识 Nicegram](/cn/features)！
 
 > [_返回目录_](#目录)
 
@@ -60,7 +60,7 @@ _这里有一些对于 Nicegram（一款 iOS 上的 Telegram 修改版 App）常
 
 ## 我如何进入受限群组/频道？
 
-请按照 [解除限制教程](/zh_CN/unblock) 来操作，即可进入受限群组/频道
+请按照 [解除限制教程](/cn/unblock) 来操作，即可进入受限群组/频道
 
 > [_返回目录_](#目录)
 
@@ -68,7 +68,7 @@ _这里有一些对于 Nicegram（一款 iOS 上的 Telegram 修改版 App）常
 
 Apple 得知了此功能（进入受限群组/频道）的存在，责令 Nicegram 遵守 [App Store 审核指南](https://developer.apple.com/app-store/review/guidelines/) 并移除此功能。
 
-作为替代方案，请按照 [解除限制教程](/zh_CN/unblock) 来操作，即可进入受限群组/频道。
+作为替代方案，请按照 [解除限制教程](/cn/unblock) 来操作，即可进入受限群组/频道。
 
 > [_返回目录_](#目录)
 

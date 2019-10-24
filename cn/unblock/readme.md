@@ -77,7 +77,7 @@ _如果网站上的 Telegram 小组件无效，这个方法应该有用。_
 
 下载 [App Store 中的 Nicegram][nicegram-app-store]（中国区商店暂无法上架）
 
-[更多 Nicegram 功能](/zh_CN/features)
+[更多 Nicegram 功能](/cn/features)
 
 别忘了订阅 [Nicegram 官方频道](https://t.me/nicegramapp) 以获取最新的更新信息并深入了解这款 App。加入 [Nicegram 中文群组](https://t.me/nicegram_cn)，和大家一起交流探讨。您有些什么关于新功能的**好点子**也可以在群组里分享给我们。
 
