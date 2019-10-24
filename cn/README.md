@@ -5,11 +5,9 @@
 
 <a href="https://itunes.apple.com/app/id1457369322" target="_blank">📱 在 AppStore 中下载 Nicegram（中国区商店暂无法上架）</a>
 
-<a href="https://t.me/nicegramapp" target="_blank">Nicegram 官方频道</a>
+<a href="https://t.me/nicegramapp" target="_blank">Nicegram 官方频道（@nicegramapp）</a>
 
-<a href="https://t.me/nicegramchat" target="_blank">Nicegram 英文群组</a>
-
-<a href="https://t.me/nicegram_cn" target="_blank">Nicegram 中文群组</a>
+<a href="https://t.me/nicegram_cn" target="_blank">Nicegram 中文群组（@nicegram_cn）</a>
 
 
 ## 文章
@@ -21,4 +19,4 @@
 欢迎各位前来协助 [翻译](/translate) Nicegram 的 App 和网站
 
 
-Nicegram <a href="privacy-policy" target="_blank">隐私政策</a>
+Nicegram 的<a href="privacy-policy" target="_blank">隐私政策</a>
