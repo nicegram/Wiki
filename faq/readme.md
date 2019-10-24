@@ -171,9 +171,9 @@ Just be patient and wait.
 
 Nicegram’s privacy policy can be found here: [https://nicegram.app/privacy-policy](https://nicegram.app/privacy-policy)
 
-TL;DR: Nicegram is a fork of the official Telegram app for iOS and is based on the Telegram API. Nicegram does not act maliciously and it does not track or share your sensitive data.
+TL;DR: Nicegram is a fork of the official Telegram app for iOS and is based on the Telegram API. **Nicegram does not act maliciously and it does not track or share your sensitive data.**
 
-If you unblock chats using the website ([my.nicegram.app](https://my.nicegram.app/)) or the bot ([@Nicegram_bot](http://t.me/Nicegram_bot)), Nicegram’s servers store only publicly visible data (your Telegram user ID) so that the app can fetch your settings.
+If you unblock chats using the website ([my.nicegram.app](https://my.nicegram.app/)) or the bot ([@Nicegram_bot](http://t.me/Nicegram_bot)), **Nicegram’s servers store only publicly visible data (your Telegram user ID) so that the app can fetch your settings.**
 
 > [_Back to top_](#table-of-contents)
 
