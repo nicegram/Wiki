@@ -15,7 +15,7 @@
 ## 文章
 - [功能](/zh_CN/features)
 - [常见问题（FAQ）](/zh_CN/faq)
-- [查看受限群组/频道](/zh_CN/unblock)
+- [进入受限群组/频道](/zh_CN/unblock)
 
 ## 翻译
 欢迎各位前来协助 [翻译](/translate) Nicegram 的 App 和网站

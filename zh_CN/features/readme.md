@@ -8,7 +8,7 @@
 
 - **忘掉那些没必要的审查。** You will no longer end up in a situation when someone knows better which groups, channels or bots you should or should not interact with. [了解更多](/zh_CN/unblock)
 
-- **利用分组和标签页变得更专注。** 可以按您想要的话题对聊天进行分组，或是按类型（频道、机器人、私人等等）分开。在消息栏上提高生产力！如何创建分组：左上角 - **编辑 -> 新建分组**
+- **利用分组和标签页变得更专注。** 可以按您想要的话题对聊天进行分组，或是按类型（频道、机器人、私人等等）分开。在消息栏上提高生产力！如何创建分组：左上角 -> **编辑 -> 新建分组**
 
 - **无引用转发**
 
@@ -23,7 +23,7 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 
 - **像 Boss 一样进行管理。** 在群组内限制用户的速度比子弹还快。长按一条消息即可调出控制菜单。管控群组内异常事态所需时间能降至秒级。
 
-- **Nicegram 不仅很美观，而且还很安全。** 可别光听我的一面之词，您可以亲自去 Github 上检查 Nicegram 的源代码：[https://github.com/nicegram](https://github.com/nicegram)
+- **Nicegram 不仅很美观，而且还很安全。** 可别光听我的一面之词，您可以亲自去 GitHub 上检查 Nicegram 的源代码：[https://github.com/nicegram](https://github.com/nicegram)
 
 ### Nicegram 也提供了以下功能：
 - "Skip read history" —— 在聊天中不发送“已读”标记。启用方法：连续点击 15 次设置图标，打开 Debug 菜单，往下翻即可看到该项设置。
