@@ -45,7 +45,7 @@ You can use [this folder](https://github.com/nicegram/nicegram.github.io/tree/ma
 
 ### Header Anchors (FAQs).
 
-Small python script that will create a header which you can insert in table of contents. (not sure if works for chinese)
+Small python script that will create a header which you can insert in table of contents. (not sure if works for Chinese here, but GitHub actually supports Chinese characters in header anchors)
 
 Online: [https://repl.it/repls/SpecificIndigoOperatingsystem](https://repl.it/repls/SpecificIndigoOperatingsystem) (hit Run)
 
