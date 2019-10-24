@@ -19,7 +19,8 @@ _Here are answers to frequently asked questions about Nicegram, a modified Teleg
 *   [How do I get Nicegram for macOS?](#how-do-i-get-nicegram-for-macos)
 *   [How do I get Nicegram for Android?](#how-do-i-get-nicegram-for-android)
 *   [Why can’t I join the TestFlight beta?](#why-cant-i-join-the-testflight-beta)
-*   [When will Nicegram update?](#why-hasnt-nicegram-been-updated-with-the-newest-features-from-telegram)
+*   [Why was I removed from the TestFlight beta?](#why-was-i-removed-from-the-testflight-beta)
+*   [Why hasn’t Nicegram been updated with the newest features from Telegram?](#why-hasnt-nicegram-been-updated-with-the-newest-features-from-telegram)
 *   [Privacy Policy](#privacy-policy)
 *   [Source Code](#source-code)
 *   [Translate Nicegram](#translate-nicegram)
@@ -184,7 +185,7 @@ Nicegram’s source code is on GitHub: [https://github.com/nicegram](https://git
 
 ## Translate Nicegram
 
-[Translation Guilde](/translate)
+[Translation Guide](/translate)
 
 Poeditor.com - [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.com/join/project/tiFNs5DvZp)
 
