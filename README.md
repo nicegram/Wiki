@@ -14,6 +14,7 @@ Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, c
 - [Features](/features)
 - [FAQ](/faq)
 - [Chats Unblock](/unblock)
+- [Version History](/changelog)
 
 ## Translate
 Everybody welcome to [Translate](/translate) Nicegram App and Website
