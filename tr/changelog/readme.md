@@ -10,7 +10,7 @@
 - Çeviriler senkronize edildi
 
 ### v 5.12.1 (77)
-- Kaçırılan mesajlarda bildirim. Uzun bir süreden sonra (uyku, çalışma vb.) uygulamayı açtığınızda, Nicegram okunmamış özel mesajların ve bahselmelerin bir listesini gösterecek. Süre Premium ayarlarından yapılandırılabilir.
+- Kaçırılan mesajlarda bildirim. Uzun bir süreden sonra (uyku, çalışma vb.) uygulamayı açtığınızda, Nicegram okunmamış özel mesajların ve bahsedilmelerin bir listesini gösterecek. Süre Premium ayarlarından yapılandırılabilir.
 
 ### v 5.12.1 (76)
 - Bir şey düzeltildi
