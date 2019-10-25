@@ -68,7 +68,7 @@ Sohbetlere erişmek için [engel kaldırma rehberini](/tr/unblock) takip edin.
 
 Apple bu özelliği öğrendi ve Nicegram'ı [AppStore Kurallarına](https://developer.apple.com/app-store/review/guidelines/) uymaya zorladı.
 
-Lütfen yukarıdaki [engel kaldırma yöntemini](#Engellenmiş-sohbetlere-nasıl-erişilir) kullanın, debug mod ile aynı şekilde çalışıyor.
+Lütfen yukarıdaki [engel kaldırma yöntemini](#engellenmiş-sohbetlere-nasıl-erişilir) kullanın, debug mod ile aynı şekilde çalışıyor.
 
 > [_Yukarı dön_](#i̇çindekiler)
 
@@ -98,7 +98,7 @@ Bu yüzden lütfen, klasörler, sekmeler vb. gibi **SADECE NICEGRAM İLE İLGİL
 
 Bazı sebepler nedeniyle Nicegram şunlar gibi kontrolü altında olmayan hatalara sahip:
 
-*   Bildirimden yanıtlanamıyor veya medya önizlemesi görülemiyor. ([ÇÖZÜLDÜ](#Neden-resimlerin-önizlemesini-göremiyor-veya-bildirimden-yanıtlayamıyorum))
+*   Bildirimden yanıtlanamıyor veya medya önizlemesi görülemiyor. ([ÇÖZÜLDÜ](#neden-resimlerin-önizlemesini-göremiyor-veya-bildirimden-yanıtlayamıyorum))
 *   **Rastgele çökmeler**
 *   Telegram aramaları arkaplanda çalışmıyor.
 *   Nicegram sohbet yenilemesi çok uzun ve arkaplanda yenilemiyor.
