@@ -98,7 +98,7 @@ Bu yüzden lütfen, klasörler, sekmeler vb. gibi **SADECE NICEGRAM İLE İLGİL
 
 Bazı sebepler nedeniyle Nicegram şunlar gibi kontrolü altında olmayan hatalara sahip:
 
-*   Bildirimden yanıtlanamıyor veya medya önizlemesi görülemiyor. ([ÇÖZÜLDÜ](#Neden-resimlerin-önizlemesini-göremiyor-veya-bildirimden-yanıtlayamıyorum))
+*   Bildirimden yanıtlanamıyor veya medya önizlemesi görülemiyor. ([ÇÖZÜLDÜ](#neden-resimlerin-önizlemesini-göremiyor-veya-bildirimden-yanıtlayamıyorum))
 *   **Rastgele çökmeler**
 *   Telegram aramaları arkaplanda çalışmıyor.
 *   Nicegram sohbet yenilemesi çok uzun ve arkaplanda yenilemiyor.
