@@ -14,3 +14,4 @@ Hızlı, güvenli ve iyi mesaşlaşma uygulaması. Reddetmeyeceğiniz yepyeni bi
 - [Özellikler](/tr/features)
 - [SSS](/tr/faq)
 - [Engel Kaldırma](/tr/unblock)
+- [Sürüm Geçmişi](/tr/changelog)
