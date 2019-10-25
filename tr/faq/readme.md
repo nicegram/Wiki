@@ -68,7 +68,7 @@ Sohbetlere erişmek için [engel kaldırma rehberini](/tr/unblock) takip edin.
 
 Apple bu özelliği öğrendi ve Nicegram'ı [AppStore Kurallarına](https://developer.apple.com/app-store/review/guidelines/) uymaya zorladı.
 
-Lütfen yukarıdaki [engel kaldırma yöntemini](#Engellenmiş-sohbetlere-nasıl-erişilir) kullanın, debug mod ile aynı şekilde çalışıyor.
+Lütfen yukarıdaki [engel kaldırma yöntemini](#engellenmiş-sohbetlere-nasıl-erişilir) kullanın, debug mod ile aynı şekilde çalışıyor.
 
 > [_Yukarı dön_](#i̇çindekiler)
 
