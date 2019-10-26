@@ -6,6 +6,7 @@
 *   🇨🇳 Nicegram 中文讨论组: [@nicegram_cn](https://t.me/nicegram_cn)
 *   🇹🇼 Nicegram 臺灣討論群: [@nicegram_tw](https://t.me/nicegram_tw)
 *   🇮🇹 Nicegram Italia: [@nicegram_it](https://t.me/nicegram_it)
+*   🇹🇷 Nicegram Türkçe: [@nicegram_tr](https://t.me/nicegram_tr)
 *   🇪🇸 Nicegram Español: [@nicegram_es](https://t.me/nicegram_es)
 *   🇩🇪 Nicegram Deutsch: [@nicegram_de](https://t.me/nicegram_de)
 *   🇮🇷 Nicegram Persian Channel: [@nicegram_fa](http://t.me/nicegram_fa)
