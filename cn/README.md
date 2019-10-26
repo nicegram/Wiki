@@ -14,7 +14,7 @@
 - [功能介绍](/cn/features)
 - [常见问题（FAQ）](/cn/faq)
 - [进入受限群组/频道](/cn/unblock)
-- [版本更新历史记录](/cn/changelog)
+- [版本历史](/cn/changelog)
 
 ## 翻译
 欢迎各位前来协助 [翻译](/translate) Nicegram 的 App 和网站

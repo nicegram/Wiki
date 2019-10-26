@@ -1,4 +1,4 @@
-# Nicegram 版本更新历史记录
+# Nicegram 版本历史
 
 [下载 Nicegram](/cn/faq/#下载)
 
