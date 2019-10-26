@@ -1,6 +1,6 @@
 # 认识 Nicegram
 
-欢迎使用 Nicegram —— 一款快速、安全而又美观的即时通讯 App。不妨想象一下，这款结合了强大的 **Telegram API**、精心**优化过的代码**以及**独特功能**的 App，能为您带来多么难以抗拒的<del>船新</del>全新体验！ 
+欢迎使用 Nicegram —— 一款快速、安全而又美观的即时通讯 App。不妨想象一下，这款结合了强大的 **Telegram API**、精心**优化过的代码**以及**特有功能**的 App，能为您带来多么难以抗拒的<del>船新</del>全新体验！ 
 
 ![](/features/images/NicegramGrid.png)
 
@@ -14,7 +14,7 @@
 
 - **隐藏闲置的标签页。** 根据个人需求自行决定是否隐藏或显示应用底栏的「联系人」和「通话」标签页。
 
-- **可在 7 个账号之间切换。** “多账号”现在支持超过 3 个，但在 Telegram 中仍对此有限制。
+- **最多可在七个账号之间切换。** “多账号”现在支持超过 3 个，但在 Telegram 中仍对此有限制。
 
 - **即时消息存储。** 只需轻点一下，即可将信息保存到您的云端。
 
@@ -41,6 +41,6 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 
 您可以在 [Patreon 平台](https://patreon.com/nicegram) 上赞助 Nicegram！
 
-下载 [App Store 中的 Nicegram](https://itunes.apple.com/app/id1457369322)（中国区商店暂无法上架）
+下载 [App Store 中的 Nicegram](https://itunes.apple.com/app/id1457369322)（中国区商店已下架，请前往其他区的商店）
 
-别忘了订阅 [Nicegram 官方频道](https://t.me/nicegramapp) 以获取最新的更新信息并深入了解这款 App。加入 [Nicegram 中文群组](https://t.me/nicegram_cn)，和大家一起交流探讨。您有些什么关于新功能的**好点子**也可以在群组里分享给我们。
+别忘了订阅 [Nicegram 官方频道（@nicegramapp)](https://t.me/nicegramapp) 以获取最新的更新信息并深入了解这款 App。加入 [Nicegram 中文群组（@nicegram_cn)](https://t.me/nicegram_cn)，和大家一起交流探讨。您有些什么关于新功能的**好点子**也可以在群组里分享给我们。

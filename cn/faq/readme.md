@@ -45,7 +45,7 @@ _这里有整理一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App
 
 ## 下载
 
-*   App Store：[https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)（中国区商店暂无法上架）
+*   App Store：[https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)（中国区商店已下架，请前往其他区的商店）
 *   TestFlight（内测版）：[https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   `.ipa`（仅适用于已越狱系统）：[https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
