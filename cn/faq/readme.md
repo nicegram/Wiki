@@ -45,7 +45,7 @@ _这里有整理一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App
 
 ## 下载
 
-*   App Store：[https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)（中国区商店已下架，请前往其他区的商店）
+*   App Store：[https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)（无法上架至中国区 App Store，请移步其他区）
 *   TestFlight（内测版）：[https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   `.ipa`（仅适用于已越狱系统）：[https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
@@ -74,7 +74,7 @@ Apple 得知了此功能（进入受限群组/频道查看敏感内容）的存�
 
 ## 我该如何重启 Nicegram？
 
-先 [强制关闭 App](https://support.apple.com/en-us/HT201330)（在应用切换器中向上轻扫），然后再重新打开它。
+先 [强制关闭 App](https://support.apple.com/zh-cn/HT201330)（在应用切换器中向上轻扫），然后再重新打开它。
 
 > [_返回目录_](#目录)
 
@@ -173,7 +173,7 @@ Nicegram 的隐私政策可以在此查阅：[https://nicegram.app/privacy-polic
 
 TL;DR（总结）：Nicegram 是 iOS 版 Telegram 官方 App 的一个分支，且它基于 Telegram API。**Nicegram 绝不会做出恶意行为，也绝不会跟踪或者共享您的敏感数据。**
 
-如果您要通过网页（[my.nicegram.app](https://my.nicegram.app/)）或机器人（[@Nicegram_bot](http://t.me/Nicegram_bot)）解除受限群组/频道的限制，为了使 App 能够获取到您的设置，**Nicegram 仅会将公开可见的数据（您的 Telegram 用户 ID）存储到服务器上**。
+如果您要通过网页（[my.nicegram.app](https://my.nicegram.app/)）或（[Nicegram 机器人（@Nicegram_bot）](http://t.me/Nicegram_bot)）解除受限群组/频道的限制，为了使 App 能够获取到您的设置，**Nicegram 仅会将公开可见的数据（您的 Telegram 用户 ID）存储到服务器上**。
 
 > [_返回目录_](#目录)
 

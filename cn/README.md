@@ -3,7 +3,7 @@
 这是一款快速、安全而又美观的即时通讯 App。不妨想象一下，这款结合了强大的 Telegram API、精心优化过的代码以及特有功能的 App，能为您带来多么难以抗拒的<del>船新</del>全新体验！
 
 
-<a href="https://itunes.apple.com/app/id1457369322" target="_blank">📱 在 App Store 中下载 Nicegram（中国区商店已下架，请前往其他区的商店）</a>
+<a href="https://itunes.apple.com/app/id1457369322" target="_blank">📱 在 App Store 中下载 Nicegram（无法上架至中国区 App Store，请移步其他区）</a>
 
 <a href="https://t.me/nicegramapp" target="_blank">Nicegram 官方频道（@nicegramapp）</a>
 
@@ -11,7 +11,7 @@
 
 
 ## 文章
-- [了解 Nicegram 功能](/cn/features)
+- [Nicegram 功能介绍](/cn/features)
 - [常见问题（FAQ）](/cn/faq)
 - [进入受限群组/频道](/cn/unblock)
 - [更新日志](/changelog)

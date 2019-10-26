@@ -41,6 +41,6 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 
 您可以在 [Patreon 平台](https://patreon.com/nicegram) 上赞助 Nicegram！
 
-下载 [App Store 中的 Nicegram](https://itunes.apple.com/app/id1457369322)（中国区商店已下架，请前往其他区的商店）
+下载 [App Store 中的 Nicegram](https://itunes.apple.com/app/id1457369322)（无法上架至中国区 App Store，请移步其他区）
 
 别忘了订阅 [Nicegram 官方频道（@nicegramapp)](https://t.me/nicegramapp) 以获取最新的更新信息并深入了解这款 App。加入 [Nicegram 中文群组（@nicegram_cn)](https://t.me/nicegram_cn)，和大家一起交流探讨。您有些什么关于新功能的**好点子**也可以在群组里分享给我们。

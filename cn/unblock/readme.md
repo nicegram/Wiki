@@ -8,7 +8,7 @@ _被这个提示所困扰？Nicegram 能够帮助您。_
 
 目前有**三种**方法可供选择。
 
-该教程仅对 **Nicegram 5.11 (59)** 及更高版本有效！如果您还在使用老版本，请 [从 App Store 中下载或更新 Nicegram][nicegram-app-store]（中国区商店已下架，请前往其他区的商店）。
+该教程仅对 **Nicegram 5.11 (59)** 及更高版本有效！如果您还在使用老版本，请 [从 App Store 中下载或更新 Nicegram][nicegram-app-store]（无法上架至中国区 App Store，请移步其他区）。
 
 
 ## 1. 通过 Telegram 机器人
@@ -75,7 +75,7 @@ _如果网站上的 Telegram 登录组件无效，这个方法应该有用。_
 
 喜欢这些功能吗？您可以在 [Patreon 平台](https://patreon.com/nicegram) 上赞助 Nicegram！
 
-下载 [App Store 中的 Nicegram][nicegram-app-store]（中国区商店已下架，请前往其他区的商店）
+下载 [App Store 中的 Nicegram][nicegram-app-store]（无法上架至中国区 App Store，请移步其他区）
 
 [了解更多 Nicegram 功能](/cn/features)
 
@@ -83,4 +83,4 @@ _如果网站上的 Telegram 登录组件无效，这个方法应该有用。_
 
 [app-store-guidelines]: https://developer.apple.com/app-store/review/guidelines/#user-generated-content
 [nicegram-app-store]: https://itunes.apple.com/app/id1457369322
-[force-close]: https://support.apple.com/en-us/HT201330
+[force-close]: https://support.apple.com/zh-cn/HT201330
