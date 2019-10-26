@@ -7,7 +7,7 @@ Hızlı, güvenli ve iyi mesaşlaşma uygulaması. Reddetmeyeceğiniz yepyeni bi
 
 <a href="https://t.me/nicegramapp" target="_blank">Telegram Kanalı</a>
 
-<a href="https://t.me/nicegramchat" target="_blank">Telegram Grubu</a>
+<a href="https://t.me/nicegram_tr" target="_blank">Telegram Grubu</a>
 
 
 ## Makaleler
