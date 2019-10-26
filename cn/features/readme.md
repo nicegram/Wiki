@@ -30,7 +30,7 @@
 - 在开始私密聊天、分享您的联系信息、语音通话前进行确认操作
 - 内置了“简体中文”和“繁体中文”两种语言
 - 一键复制等宽文字（如在 Android 上）
-- 可在 Chrome / Yandex / DuckDuckGo / Alook / Opener 及更多外部浏览器中打开链接
+- 链接可用外部浏览器（Chrome / Yandex / DuckDuckGo / Alook / Opener 等）打开
 - 用户个人资料中的任意链接、用户名、电话号码现可点击
 - 在聊天信息中显示 ID，点击可复制 ID
 - 隐藏设置菜单中的电话号码

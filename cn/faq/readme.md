@@ -36,7 +36,7 @@ _这里有整理一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App
 *   多达七个账号
 *   在开始私密聊天、分享您的联系信息、语音通话前进行确认
 *   内置了“简体中文”和“繁体中文”两种语言
-*   打开链接可选用外部浏览器：Chrome / Yandex / DuckDuckGo / Alook / Opener 等
+*   链接可用外部浏览器（Chrome / Yandex / DuckDuckGo / Alook / Opener 等）打开
 
 了解更多功能，请查阅 [认识 Nicegram](/cn/features)！
 
