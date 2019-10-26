@@ -4,7 +4,7 @@ _被这个提示所困扰？Nicegram 能够帮助您。_
 ![](https://graph.org/file/da435e3224a811ef027e3.png)
 
 您能在 Nicegram 中进入因受限而不可用的群组/频道。
-依据 [App Store 审核指南][app-store-guidelines]，您只能在 Nicegram App 本体之外启用这个功能。
+依据 [App Store 审核指南][app-store-guidelines]，您只能在 Nicegram App 本体之外进行解锁操作。
 
 目前有**三种**方法可供选择。
 
@@ -13,7 +13,7 @@ _被这个提示所困扰？Nicegram 能够帮助您。_
 
 ## 1. 通过 Telegram 机器人
 
-1.   在任意的 Telegram 官方 App（包括 [Telegram 网页版](https://web.telegram.org)）中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot)。**⚠️注意：依据 App Store 审核指南，无法在 Nicegram 中使用该机器人！**
+1.   在任意 Telegram 官方 App（包括 [Telegram 网页版](https://web.telegram.org)）中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot)。**⚠️注意：依据 App Store 审核指南，无法在 Nicegram 中直接使用该机器人！**
 2.   点击按钮更改您的设置。
 3.   [重启 Nicegram][force-close]（结束进程并重新打开 App）。
 
@@ -44,7 +44,7 @@ _被这个提示所困扰？Nicegram 能够帮助您。_
 
 _如果网站上的 Telegram 登录组件无效，这个方法应该有用。_
 
-1.   在 Telegram 官方 App 或网页版中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot) 。**⚠️注意：依据 App Store 审核指南，无法在 Nicegram 中使用这个机器人！**
+1.   在 Telegram 官方 App 或网页版中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot) 。**⚠️注意：依据 App Store 审核指南，无法在 Nicegram 中直接使用这个机器人！**
 
 <aside>或者</aside>
 
@@ -56,7 +56,7 @@ _如果网站上的 Telegram 登录组件无效，这个方法应该有用。_
 ### 补充说明
 
 * 这些设置仅对单个账号生效。**如果您正在使用多个账号** 且希望在所有账号中都能查看敏感内容，**您需要为每个账号都重复以上操作。**
-* 老版本中的“Nicegram Debug”选项现已不再使用。您没必要再去快速点击设置图标了。Nicegram 在启动时会自动同步您的设置。
+* 老版本中的“Nicegram Debug”选项现已不再使用。您没必要再去快速点击设置图标了。Nicegram 在启动时会自动同步并加载您的设置。
 * 某些会话可能会被 Telegram 全区封禁，这种情况下回天乏术，无法解除限制。
 * 来自中国大陆、印度、哈萨克斯坦、乌兹别克斯坦以及其他地区的用户可能会面临**锁区**。为了进入被锁区的会话, 您需要使用未锁区地区的手机号来创建账号。对此有一种方法，就是使用 <abbr title="Voice over Internet Protocol">VoIP</abbr> 号码。至于怎么弄，[Google 一下你就知道](https://www.google.com/search?q=voip+number+for+telegram)。下图展示了被锁区的会话看上去会是什么样：
 	![](https://graph.org/file/b1931dc681ecd967f0300.png)
@@ -64,7 +64,7 @@ _如果网站上的 Telegram 登录组件无效，这个方法应该有用。_
 
 ### “在 Nicegram 中不可用”
 
-依据 [App Store 审核指南][app-store-guidelines]，有些会话甚至在 Nicegram 中也不可用。这些会话在受限时会显示“在 Nicegram 中不可用”。
+依据 [App Store 审核指南][app-store-guidelines]，有些会话甚至在 Nicegram 中也不可用。这些会话在受限时，会显示“在 Nicegram 中不可用”。
 
 
 ![](https://graph.org/file/7796b20c4dc34c28221d4.png)
