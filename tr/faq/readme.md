@@ -1,5 +1,5 @@
 # Nicegram FAQ
-_Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık sorulan sorulara cevaplar var. Sorunuza cevap bulamadıysanız, lütfen bize_ [_@NicegramChat_](https://t.me/nicegramchat) grubundan ulaşın.
+_Burada Nicegram - iOS için düzenlenmiş Telegram uygulaması - hakkında sık sorulan sorulara cevaplar var. Sorunuza cevap bulamadıysanız, lütfen bize_ [_@nicegram_tr_](https://t.me/nicegram_tr) grubundan ulaşın.
 
 ![image](images/banner.png)
 
@@ -108,7 +108,7 @@ Bazı sebepler nedeniyle Nicegram şunlar gibi kontrolü altında olmayan hatala
 *   Resmi uygulama iyiyken, Nicegram bağlantıları çok uzun sürüyor (burada ayrıca vekil sunucu kullanmayı deneyebilirsiniz).
 *   Sohbetten ayrılmak sohbet bilgisinden imkansız (Sohbet listesi aracılığıyla ayrılabilirsiniz.)
 
-Bulduğunuz sorun yukarıda yoksa, aşağıdaki kriterlere uygun olarak [Nicegram grubuna](https://t.me/nicegramchat) mesaj gönderin. 
+Bulduğunuz sorun yukarıda yoksa, aşağıdaki kriterlere uygun olarak [Nicegram grubuna](https://t.me/nicegram_tr) mesaj gönderin. 
 
 1.  #bug etiketi.
 2.  Hatanın kısa ama tam açıklaması. (Ayrıca hatayı gösteren bir resim ya da videoda gönderebilirsiniz.)
@@ -151,7 +151,7 @@ Nicegram sadece iOS için mevcut. Başka bir Android Telegram uygulaması istiyo
 
 ## TestFlight betaya neden katılamıyorum?
 
-TestFlight betaları 10,000 testçi ile sınırlıdır. Muhtemelen tüm beta yerleri doludur. Eğer birkaç gün sonra yeni yerler açılmazsa, [Nicegram grubunda](https://t.me/nicegramchat) TestFlight betanın dolu olduğunu ve katılmak istediğinizi bildirin. Geliştirici yakınlarda güncelleme yapmayan testçileri temizleyecek, böylece yeni testçiler katılabilir.
+TestFlight betaları 10,000 testçi ile sınırlıdır. Muhtemelen tüm beta yerleri doludur. Eğer birkaç gün sonra yeni yerler açılmazsa, [Nicegram grubunda](https://t.me/nicegram_tr) TestFlight betanın dolu olduğunu ve katılmak istediğinizi bildirin. Geliştirici yakınlarda güncelleme yapmayan testçileri temizleyecek, böylece yeni testçiler katılabilir.
 
 > [_Yukarı dön_](#i̇çindekiler)
 

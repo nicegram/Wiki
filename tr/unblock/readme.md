@@ -93,4 +93,4 @@ Nicegram'a bağış yapabilirsiniz! [https://patreon.com/nicegram](https://patre
 
 Daha Fazla [Nicegram Özelliği](/tr/features)
 
-Son güncellemeler için [Nicegram kanalına](https://t.me/nicegramapp) abone olmayı unutmayın. Uygulamayı tartışmak ve önermek istediğiniz yeni **iyi** özellikler hakkında düşüncelerinizi paylaşmak için [Nicegram grubuna](https://t.me/nicegramchat) katılın.
+Son güncellemeler için [Nicegram kanalına](https://t.me/nicegramapp) abone olmayı unutmayın. Uygulamayı tartışmak ve önermek istediğiniz yeni **iyi** özellikler hakkında düşüncelerinizi paylaşmak için [Nicegram grubuna](https://t.me/nicegram_tr) katılın.

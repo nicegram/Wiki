@@ -2,7 +2,7 @@
 
 [Nicegram İndir](/tr/faq/#i̇ndir)
 
-🍏 - Sürüm AppStore'da mevcut
+🍏 - Uygulama AppStore'da mevcut
 
 ---
 

@@ -42,4 +42,4 @@ Nicegram'a bağış yapabilirsiniz! [https://patreon.com/nicegram](https://patre
 
 [Nicegram'ı AppStore'da](https://itunes.apple.com/app/id1457369322) indir
 
-Son güncellemeler için [Nicegram kanalına](https://t.me/nicegramapp) abone olmayı unutmayın. Uygulamayı tartışmak ve önermek istediğiniz yeni **iyi** özellikler hakkında düşüncelerinizi paylaşmak için [Nicegram grubuna](https://t.me/nicegramchat) katılın.
+Son güncellemeler için [Nicegram kanalına](https://t.me/nicegramapp) abone olmayı unutmayın. Uygulamayı tartışmak ve önermek istediğiniz yeni **iyi** özellikler hakkında düşüncelerinizi paylaşmak için [Nicegram grubuna](https://t.me/nicegram_tr) katılın.
