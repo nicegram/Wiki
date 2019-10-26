@@ -19,5 +19,6 @@
 ## 翻译
 欢迎各位前来协助 [翻译](/translate) Nicegram 的 App 和网站
 
+---
 
 Nicegram <a href="privacy-policy" target="_blank">隐私政策</a>

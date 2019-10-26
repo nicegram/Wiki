@@ -71,7 +71,7 @@ _如果网站上的 Telegram 登录组件无效，这个方法应该有用。_
 
 > 对此我很抱歉，但是我也没有任何办法能够解决。
 
-<hr>
+---
 
 喜欢这些功能吗？您可以在 [Patreon 平台](https://patreon.com/nicegram) 上赞助 Nicegram！
 
