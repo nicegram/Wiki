@@ -43,6 +43,6 @@
 您可以在 [Patreon 平台](https://patreon.com/nicegram) 上赞助 Nicegram！
 
 下载 [App Store 中的 Nicegram](https://apps.apple.com/app/id1457369322)
-> ⚠️注意：中国大陆区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
+> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
 
 别忘了订阅 [Nicegram 官方频道（@nicegramapp)](https://t.me/nicegramapp) 以获取最新的更新信息并深入了解这款 App。加入 [Nicegram 中文群组（@nicegram_cn)](https://t.me/nicegram_cn)，和大家一起交流探讨。您有些什么关于新功能的**好点子**也可以在群组里分享给我们。

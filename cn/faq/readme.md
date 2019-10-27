@@ -1,5 +1,5 @@
 # Nicegram 常见问题（FAQ）
-_这里有整理一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App）常见问题的回答。如果您没有找到想问的问题的答案，请到_ [_Nicegram 中文群组（@nicegram_cn）_](https://t.me/nicegram_cn) _中联系我们。_
+_这里整理了一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App）的常见问题与回答。如果您没有找到想问的问题或答案，请到_ [_Nicegram 中文群组（@nicegram_cn）_](https://t.me/nicegram_cn) _中联系我们。_
 
 ![Nicegram](/faq/images/banner.png)
 
@@ -46,7 +46,7 @@ _这里有整理一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App
 ## 下载
 
 *   App Store：[https://apps.apple.com/app/id1457369322](https://apps.apple.com/app/id1457369322)
-> ⚠️注意：中国大陆区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
+> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
 *   TestFlight（内测版）：[https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   `.ipa`（仅适用于已越狱系统）：[https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
@@ -95,7 +95,7 @@ Apple 得知了此功能（进入受限群组/频道查看敏感内容）的存�
 
 Nicegram 中绝大多数的 Bug 都是源自于 Telegram 官方 App。所以**我们只接收与 Nicegram 特有功能相关的 Bug 反馈**，例如分组和标签页。
 
-以下这些 Bug 是源于 Telegram 且 Nicegram 无法自行修复的：
+以下这些 Bug 是源于 Telegram 且 Nicegram 无法自行修复的，跑来向我们 Nicegram 开发组反馈只会浪费彼此的时间。
 
 *   在通知中看不到预览图或是无法回复消息（[解决方法](#为何我在通知中看不到预览图或是无法回复消息))
 *   **随时出现崩溃**
@@ -103,12 +103,12 @@ Nicegram 中绝大多数的 Bug 都是源自于 Telegram 官方 App。所以**�
 *   长时间处于“更新中……”状态
 *   处于后台时，不更新聊天
 *   处于后台时，不更新实时位置信息
-*   处于后台时，发送消息失败
-*   在消息已读或删除后，通知不消失
+*   处于后台时，消息发送失败
+*   在消息已读或删除后，通知不自动清除
 *   即使官方 App 可以正常使用，Nicegram 也一直处于“连接中……”状态（您可以尝试使用代理）
 *   无法从聊天信息页退出聊天（您可以通过聊天列表退出聊天）
 
-如果您发现的问题不在上述列表之中，请您准备好以下每条信息，然后在 [Nicegram 中文群组（@nicegram_cn)](https://t.me/nicegram_cn) 中反馈给我们。 
+如果您遇到的问题并不在上述列表之中，请您务必准备好以下每条信息，然后在 [Nicegram 中文群组（@nicegram_cn)](https://t.me/nicegram_cn) 中反馈给我们。 
 
 1.  **#bug** 主题标签；
 2.  对 Bug 进行简短而又**完整的说明**；（如果您觉得再附上一段视频或一张图片来演示这个 Bug 能协助我们更好地掌握情况，也是可以的。）
@@ -172,7 +172,7 @@ Nicegram 主要算是 Telegram 官方 App 的一个副本。然而，官方 App 
 
 Nicegram 的隐私政策可以在此查阅：[https://nicegram.app/privacy-policy](https://nicegram.app/privacy-policy)。
 
-TL;DR（总结）：Nicegram 是 iOS 版 Telegram 官方 App 的一个分支，且它基于 Telegram API。**Nicegram 绝不会做出恶意行为，也绝不会跟踪或者共享您的敏感数据。**
+TL;DR（总结）：Nicegram 是 iOS 版 Telegram 官方 App 的一个分支，且它基于 Telegram API 开发。**Nicegram 绝不会做出恶意行为，也绝不会跟踪或者共享您的敏感数据。**
 
 如果您要通过网页（[my.nicegram.app](https://my.nicegram.app/)）或（[Nicegram 机器人（@Nicegram_bot）](http://t.me/Nicegram_bot)）解除受限群组/频道的限制，为了使 App 能够获取到您的设置，**Nicegram 仅会将公开可见的数据（您的 Telegram 用户 ID）存储到服务器上**。
 
