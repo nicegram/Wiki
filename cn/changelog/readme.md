@@ -2,7 +2,8 @@
 
 [下载 Nicegram](/cn/faq/#下载)
 
-🍏 - 包体已上架 App Store（无法上架至中国区 App Store，请移步其他区）
+🍏 - 已上架至 App Store
+> ⚠️注意：中国大陆区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
 
 ---
 

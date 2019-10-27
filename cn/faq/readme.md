@@ -45,7 +45,8 @@ _这里有整理一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App
 
 ## 下载
 
-*   App Store：[https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)（无法上架至中国区 App Store，请移步其他区）
+*   App Store：[https://apps.apple.com/app/id1457369322](https://apps.apple.com/app/id1457369322)
+> ⚠️注意：中国大陆区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
 *   TestFlight（内测版）：[https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   `.ipa`（仅适用于已越狱系统）：[https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
@@ -66,7 +67,7 @@ _这里有整理一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App
 
 ## 为何 Nicegram Debug 不再有效？
 
-Apple 得知了此功能（进入受限群组/频道查看敏感内容）的存在，责令 Nicegram 必须遵守 [App Store 审核指南](https://developer.apple.com/app-store/review/guidelines/) 并移除此功能。
+Apple 得知了此功能（进入受限群组/频道查看敏感内容）的存在，责令 Nicegram 必须遵守 [App Store 审核指南](https://developer.apple.com/cn/app-store/review/guidelines/) 并移除此功能。
 
 作为替代方案，请按照 [解除限制教程](/cn/unblock) 来操作，即可进入受限群组/频道。
 
@@ -86,7 +87,7 @@ Apple 得知了此功能（进入受限群组/频道查看敏感内容）的存�
 
 您可以提一些例如您希望在 Nicegram 中用上的功能。
 
-任何违反了 [Telegram API 服务条款（ToS）](https://core.telegram.org/api/terms) 的功能（隐藏在线状态、查看已撤回消息），或是违反了 [App Store 审核指南](https://developer.apple.com/app-store/review/guidelines/) 的功能，都会被拒！
+任何违反了 [Telegram API 服务条款（ToS）](https://core.telegram.org/api/terms) 的功能（隐藏在线状态、查看已撤回消息），或是违反了 [App Store 审核指南](https://developer.apple.com/cn/app-store/review/guidelines/) 的功能，都会被拒！
 
 > [_返回目录_](#目录)
 
