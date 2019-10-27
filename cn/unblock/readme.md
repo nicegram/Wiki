@@ -8,12 +8,13 @@ _被这个提示所困扰？Nicegram 能够帮助您。_
 
 目前有**三种**方法可供选择。
 
-该教程仅对 **Nicegram 5.11 (59)** 及更高版本有效！如果您还在使用老版本，请 [从 App Store 中下载或更新 Nicegram][nicegram-app-store]（无法上架至中国区 App Store，请移步其他区）。
+该教程仅对 **Nicegram 5.11 (59)** 及更高版本有效！如果您还在使用老版本，请 [从 App Store 中下载或更新 Nicegram][nicegram-app-store]。
+> ⚠️注意：中国大陆区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
 
 
 ## 1. 通过 Telegram 机器人
 
-1.   在任意 Telegram 官方 App（包括 [Telegram 网页版](https://web.telegram.org)）中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot)。**⚠️注意：依据 App Store 审核指南，无法在 Nicegram 中直接使用该机器人！**
+1.   在任意 Telegram 官方 App（包括 [Telegram 网页版](https://web.telegram.org)）中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot)。**⚠️注意：依据 [App Store 审核指南][app-store-guidelines]，无法在 Nicegram 中直接使用该机器人！**
 2.   点击按钮更改您的设置。
 3.   [重启 Nicegram][force-close]（结束进程并重新打开 App）。
 
@@ -44,7 +45,7 @@ _被这个提示所困扰？Nicegram 能够帮助您。_
 
 _如果网站上的 Telegram 登录组件无效，这个方法应该有用。_
 
-1.   在 Telegram 官方 App 或网页版中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot) 。**⚠️注意：依据 App Store 审核指南，无法在 Nicegram 中直接使用这个机器人！**
+1.   在 Telegram 官方 App 或网页版中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot) 。**⚠️注意：依据 [App Store 审核指南][app-store-guidelines]，无法在 Nicegram 中直接使用这个机器人！**
 
 <aside>或者</aside>
 
@@ -75,12 +76,12 @@ _如果网站上的 Telegram 登录组件无效，这个方法应该有用。_
 
 喜欢这些功能吗？您可以在 [Patreon 平台](https://patreon.com/nicegram) 上赞助 Nicegram！
 
-下载 [App Store 中的 Nicegram][nicegram-app-store]（无法上架至中国区 App Store，请移步其他区）
+下载 [App Store 中的 Nicegram][nicegram-app-store]（⚠️注意：无法上架至中国区 App Store，请移步其他区）
 
 [了解更多 Nicegram 功能](/cn/features)
 
 别忘了订阅 [Nicegram 官方频道（@nicegramapp)](https://t.me/nicegramapp) 以获取最新的更新信息并深入了解这款 App。加入 [Nicegram 中文群组（@nicegram_cn)](https://t.me/nicegram_cn)，和大家一起交流探讨。您有些什么关于新功能的**好点子**也可以在群组里分享给我们。
 
-[app-store-guidelines]: https://developer.apple.com/app-store/review/guidelines/#user-generated-content
-[nicegram-app-store]: https://itunes.apple.com/app/id1457369322
+[app-store-guidelines]: https://developer.apple.com/cn/app-store/review/guidelines/#user-generated-content
+[nicegram-app-store]: https://apps.apple.com/app/id1457369322
 [force-close]: https://support.apple.com/zh-cn/HT201330
