@@ -76,7 +76,8 @@ _如果网站上的 Telegram 登录组件无效，这个方法应该有用。_
 
 喜欢这些功能吗？您可以在 [Patreon 平台](https://patreon.com/nicegram) 上赞助 Nicegram！
 
-下载 [App Store 中的 Nicegram][nicegram-app-store]（⚠️注意：无法上架至中国区 App Store，请移步其他区）
+下载 [App Store 中的 Nicegram][nicegram-app-store]
+> ⚠️注意：中国大陆区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
 
 [了解更多 Nicegram 功能](/cn/features)
 
