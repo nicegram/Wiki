@@ -1,10 +1,10 @@
 # Nicegram 受限群组/频道解除限制教程
-_被这个提示所困扰？Nicegram 能够帮得上您。_
+_被图中的提示所困扰？Nicegram 能够帮得上您。_
 
 ![](https://graph.org/file/da435e3224a811ef027e3.png)
 
 您能在 Nicegram 中进入因受限而不可用的群组/频道。
-依据 [App Store 审核指南][app-store-guidelines]，您只能在 Nicegram App 本体之外进行解锁操作。
+依据 [App Store 审核指南][app-store-guidelines]，您只能在 Nicegram 的本体之外进行解锁操作。
 
 目前有**三种**方法可供您选择。
 
@@ -15,10 +15,10 @@ _被这个提示所困扰？Nicegram 能够帮得上您。_
 ## 1. 通过 Telegram 机器人
 
 1.   在任意 Telegram 官方 App（包括 [Telegram 网页版](https://web.telegram.org)）中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot)。**⚠️注意：依据 [App Store 审核指南][app-store-guidelines]，无法在 Nicegram 中直接使用该机器人！**
-2.   点击按钮，即可更改您的设置。
+2.   点击按钮，使得两个按钮中的“❌”都变为“✅”，即可更改您的设置。
 3.   [重启 Nicegram][force-close]（结束进程并重新打开 App）。
 
-![](https://graph.org/file/6d9bd5b7ac7032fe332d2.png)
+![](images/Unblock1.png)
 
 > 该机器人**只能**在 Telegram 官方 App 或 [Telegram 网页版](https://web.telegram.org) 中使用。
 
@@ -41,7 +41,7 @@ _被这个提示所困扰？Nicegram 能够帮得上您。_
 > 设置已保存。记得 [重启 Nicegram][force-close]！
 
 
-## 3. 通过 Nicegram 网站和 Nicegram 机器人
+## 3. 通过 Nicegram 网站与机器人
 
 _如果网站上的 Telegram 登录组件无效，那么这个方法应该有用。_
 
@@ -50,9 +50,13 @@ _如果网站上的 Telegram 登录组件无效，那么这个方法应该有用
 <aside>或者</aside>
 
 1.   打开这条带有登录按钮的消息：[https://t.me/nicegramchat/35207](https://t.me/nicegramchat/35207)。
-2.   点击“🆖Nicegram Login”按钮，立即登录到网站。
+2.   点击“🆖 Nicegram Login”按钮，立即登录到网站。
 3.   更改设置并保存。
 4.   [重启 Nicegram][force-close]（结束进程并重新打开 App）。
+
+![](images/Unblock3.png)
+
+> 在 Telegram 中使用机器人，或是跳转到这条带有登录按钮的消息
 
 ### 补充说明
 
