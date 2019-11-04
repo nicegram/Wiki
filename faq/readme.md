@@ -186,7 +186,7 @@ Nicegram’s source code is on GitHub: [https://github.com/nicegram](https://git
 
 [Translation Guilde](/translate)
 
-Poeditor.com - [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.com/join/project/tiFNs5DvZp)
+Crowdin - [https://translate.nicegram.app](https://translate.nicegram.app)
 
 > [_Back to top_](#table-of-contents)
 

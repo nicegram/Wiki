@@ -9,7 +9,7 @@ Please, Try to look at [official translations](https://translations.telegram.org
 
 Discuss translations in chat if you're not sure.
 
-Translate: [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.com/join/project/tiFNs5DvZp)
+Translate: [https://translate.nicegram.app](https://translate.nicegram.app)
 
 Ping [@Kylmakalle](https://t.me/Kylmakalle) if you've done a new translation, so it will be added in the app.
 

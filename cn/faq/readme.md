@@ -188,7 +188,7 @@ Nicegram 的源代码托管在 GitHub 上：[https://github.com/nicegram](https:
 
 请查阅 [翻译指南](/translate)。
 
-Poeditor.com -> [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.com/join/project/tiFNs5DvZp)
+Crowdin -> [https://translate.nicegram.app](https://translate.nicegram.app)
 
 > [_返回目录_](#目录)
 

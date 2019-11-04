@@ -189,7 +189,7 @@ TL;DR - Nicegram, Telegram API tabanlı bir uygulamadır. Nicegram kötü olmaz 
 
 [Çeviri Rehberi](/translate)
 
-Poeditor.com - [https://poeditor.com/join/project/tiFNs5DvZp](https://poeditor.com/join/project/tiFNs5DvZp)
+Crowdin - [https://translate.nicegram.app](https://translate.nicegram.app)
 
 > [_Yukarı dön_](#i̇çindekiler)
 
