@@ -10,7 +10,7 @@ _这里整理了一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App
 *   [下载](#下载)
 *   [官方社区：群组和频道](#官方社区群组和频道)
 *   [我该如何进入受限群组/频道？](#我该如何进入受限群组频道)
-*   [为何 Nicegram Debug 不再有效？](#为何-nicegram-debug-不再有效)
+*   [为何 Nicegram Debug 不再用于解除限制？](#为何-nicegram-debug-不再用于解除限制)
 *   [我该如何重启 Nicegram？](#我该如何重启-nicegram)
 *   [我该如何提一个有关新功能的建议？](#我该如何提一个有关新功能的建议)
 *   [我该如何反馈 Nicegram 中的 Bug？](#我该如何反馈-nicegram-中的-bug)
@@ -65,9 +65,9 @@ _这里整理了一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App
 
 > [_返回目录_](#目录)
 
-## 为何 Nicegram Debug 不再有效？
+## 为何 Nicegram Debug 不再用于解除限制？
 
-Apple 得知了此功能（进入受限群组/频道查看敏感内容）的存在，责令 Nicegram 必须遵守 [App Store 审核指南](https://developer.apple.com/cn/app-store/review/guidelines/) 并移除此功能。
+Apple 审核团队得知了此功能（利用 App 内置的 Debug 功能进入受限群组/频道以查看敏感内容）的存在，责令 Nicegram 开发者必须遵守 [App Store 审核指南](https://developer.apple.com/cn/app-store/review/guidelines/) 并移除此功能。
 
 作为替代方案，请按照 [解除限制教程](/cn/unblock) 来操作，即可进入受限群组/频道。
 
