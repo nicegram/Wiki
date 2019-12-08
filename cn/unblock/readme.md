@@ -45,9 +45,9 @@ _被图中的提示所困扰？Nicegram 能够帮得上您。_
 
 _如果网站上的 Telegram 登录组件无效，那么这个方法应该有用。_
 
-1.   在以下两步中任选其一进行操作：
-    - 在 Telegram 官方 App 或网页版中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot) 。**⚠️注意：依据 [App Store 审核指南][app-store-guidelines]，无法在 Nicegram 中直接使用这个机器人！**</br>
-    - 打开这条带有登录按钮的消息：[https://t.me/nicegramchat/35207](https://t.me/nicegramchat/35207)。
+1.   在①②中任选其一进行操作：
+        ① 在 Telegram 官方 App 或网页版中使用 [Nicegram 机器人（@Nicegram_bot）](https://t.me/nicegram_bot) 。**⚠️注意：依据 [App Store 审核指南][app-store-guidelines]，无法在 Nicegram 中直接使用这个机器人！**
+        ② 打开这条带有登录按钮的消息：[https://t.me/nicegramchat/35207](https://t.me/nicegramchat/35207)。
 2.   点击“🆖 Nicegram Login”按钮，立即登录到网站。
 3.   更改设置并保存。
 4.   [重启 Nicegram][force-close]（结束进程并重新打开 App）。
