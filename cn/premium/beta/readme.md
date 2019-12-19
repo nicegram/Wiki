@@ -10,9 +10,9 @@
 
 3) 在 Nicegram 的 “设置 -> Premium” 中购买 Premium。
 
-4) 准备好您的购买凭证：App Store 中的交易截图 / 录屏 / Apple 发送的收据邮件。
+4) 准备好您的购买凭证：App Store 中的交易截图，或是 Apple 发送到您的邮箱的收据邮件。
 
-5) 将购买凭证发送给 [Nicegram 内测机器人（@NicegramBetaBot）](https://t.me/NicegramBetaBot) 进行申请。申请格式为：`#ngbeta` + 您的邮箱 + 购买凭证。
+5) 将购买凭证发送给 [Nicegram 内测机器人（@NicegramBetaBot）](https://t.me/NicegramBetaBot) 进行申请。申请格式为：`#ngbeta` + 您的邮箱 + 购买凭证，且必须在**一条消息**内同时包含以上三个要素，否则会因格式不规范而被后台自动过滤掉。发送方法可见[申请发送教程](https://t.me/nicegram_cn/132823)。
 
 
 
