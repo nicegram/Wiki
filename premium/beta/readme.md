@@ -13,6 +13,7 @@ If you get Premium in AppStore, you're eligible to get Premium Beta in Testfligh
 
 5) Send  Proof of payments to [Developer Bot](https://t.me/NicegramBetaBot). Add hashtag `#ngbeta` and email to get an invite!
 
-
+#### ❗️Send info using ONE PHOTO WITH CAPTION, other messages will be ignored!
+![](https://i.imgur.com/bpj4ZwS.png)
 
 Wait until your request will be processed, you will get an email with invite.
