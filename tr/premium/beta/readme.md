@@ -9,7 +9,7 @@ AppStore'dan Premium alırsanız, Testflight'daki Premium Beta için hak kazanı
 
 3) Ayarlar > Premium kısmından Premium'u satın alın.
 
-4) Bir ödeme kanıtı kaydedin - Appstore işlemini ekran görüntüsü, video, Apple'dan satın alma e-postası.
+4) Bir ödeme kanıtı kaydedin - Appstore işleminin ekran görüntüsü, video, Apple'dan satın alma e-postası.
 
 5) Ödeme kanıtını [Geliştirici Botu](https://t.me/NicegramBetaBot)'na gönderin. `#ngbeta` etiketini ve davet almak için e-postayı ekleyin!
 
