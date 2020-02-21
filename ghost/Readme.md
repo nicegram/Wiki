@@ -24,12 +24,13 @@ Ghost Mode feature is just a shortcut for Official Telegram actions.
 So Official Telegram app violates it's own rules? Let's report @Telegram then.
 
 ### Approved (available in stores) applications with Ghost Mode
+- Telegram X (Android)
 - Plus Messenger (Android)
 - BGram (Android)
 - ...
 
 ### Conclusion
-It's not a violation of Telegram TOS, until you can do same in official app.
+Ghost Mode is not a violation of Telegram TOS, until you can do same in official app.
 
 
 
