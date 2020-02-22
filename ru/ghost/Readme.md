@@ -26,7 +26,6 @@
 
 ### Разрешенные (доступные в магазинах приложений) клиенты с Режимом Призрака
 - Telegram X (Android)
-- Plus Messenger (Android)
 - BGram (Android)
 - ...
 
