@@ -3,8 +3,8 @@
 ### How it works?
 When you enable Ghost Mode, app sets your «Last Seen» privacy setting to "Nobody". 
 
-After that, application enables «Chats Preview mode». 
-Ghost Mode activates only for current selected account.
+After that, application enables «Chats Preview mode». It's global setting for entire app. 
+Last seen privacy changes only for current selected account.
 You need to "re-enable" it after you switch to other account.
 
 In preview mode you can enter any chat, but Nicegram will not send read mark to the recipient.
@@ -25,7 +25,6 @@ So Official Telegram app violates it's own rules? Let's report @Telegram then.
 
 ### Approved (available in stores) applications with Ghost Mode
 - Telegram X (Android)
-- Plus Messenger (Android)
 - BGram (Android)
 - ...
 
