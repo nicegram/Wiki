@@ -25,7 +25,6 @@ Yani resmi Telegram uygulaması, kendi kurallarını mı ihlal ediyor? Hadi, o z
 
 ### Hayalet Mod'a sahip olan onaylı (marketlerde bulunan) uygulamalar
 - Telegram X (Android)
-- Plus Messenger (Android)
 - BGram (Android)
 - ...
 
