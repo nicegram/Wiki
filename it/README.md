@@ -25,4 +25,4 @@ Immagina il mix di potenti API Telegram, un'attenta ottimizzazione del codice e 
 Nicegram invita tutti a [tradurre](/it/translate), controllare l'ortografia e suggerire nuove traduzioni o lingue!
 
 
-Nicegram ha anche una [Privacy Policy](privacy-policy.md).
+Nicegram ha anche una [Privacy Policy](/privacy-policy.md).
