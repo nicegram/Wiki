@@ -11,19 +11,19 @@ Immagina il mix di potenti API Telegram, un'attenta ottimizzazione del codice e 
 
 
 ## Articoli
-* [Changelogs](/changelog)
-* [Chat ufficiali](/chats)
-* [FAQ](/faq)
-* [Features](/features)
-* [Ghost mode](/ghost)
-* [Premium Beta](/premium/beta)
+* [Changelogs](/it/changelog)
+* [Chat ufficiali](/it/chats)
+* [FAQ](/it/faq)
+* [Features](/it/features)
+* [Ghost mode](/it/ghost)
+* [Premium Beta](/it/premium/beta)
 * [Privacy Policy](privacy-policy)
-* [Traduci](/translate)
-* [Sblocco Chat](/unblock)
+* [Traduci](/it/translate)
+* [Sblocco Chat](/it/unblock)
 
 
 ## Translate
-Nicegram invita tutti a [tradurre](/translate), controllare l'ortografia e suggerire nuove traduzioni o lingue!
+Nicegram invita tutti a [tradurre](/it/translate), controllare l'ortografia e suggerire nuove traduzioni o lingue!
 
 
 Nicegram ha anche una [Privacy Policy](privacy-policy).

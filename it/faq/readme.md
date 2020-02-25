@@ -38,7 +38,7 @@ _Qui trovate le risposte alle domande più frequenti su Nicegram, un'applicazion
 *   Traduzioni in cinese semplificato e tradizionale integrate
 *   Aprire i link nei browser esterni: Chrome, Yandex, DuckDuckGo, Alook e altro ancora
 
-Per ulteriori caratteristiche, date un'occhiata a [Ecco Nicegram](../features)!
+Per ulteriori caratteristiche, date un'occhiata alle [feature di Nicegram](/it/features)!
 
 > [_Torna su_](#indice)
 
@@ -54,13 +54,13 @@ Per ulteriori caratteristiche, date un'occhiata a [Ecco Nicegram](../features)!
 
 ## Chat e canali internazionali
 
-L'elenco si trova su una pagina separata: [elenco delle chat e dei canali Nicegram](/chats)
+L'elenco si trova su una pagina separata: [elenco delle chat e dei canali Nicegram](/it/chats)
 
 > [_Torna su_](#indice)
 
 ## Come faccio ad accedere alle chat bloccate?
 
-Segui la [guida allo sblocco](/unblock) per accedere alle chat bloccate.
+Segui la [guida allo sblocco](/it/unblock) per accedere alle chat bloccate.
 
 > [_Torna su_](#indice)
 
@@ -68,7 +68,7 @@ Segui la [guida allo sblocco](/unblock) per accedere alle chat bloccate.
 
 Apple lo ha scoperto e ha costretto Nicegram a rimuoverlo per rispettare le [linee guida dell'App Store](https://developer.apple.com/app-store/review/guidelines/).
 
-Invece, si prega di seguire la [guida allo sblocco](/unblock) per accedere alle chat bloccate.
+Invece, si prega di seguire la [guida allo sblocco](/it/unblock) per accedere alle chat bloccate.
 
 > [_Torna su_](#indice)
 
@@ -80,7 +80,7 @@ Invece, si prega di seguire la [guida allo sblocco](/unblock) per accedere alle 
 
 ## Come posso suggerire una nuova funzione?
 
-Vai su [vote.nicegram.app](https://vote.nicegram.app/).
+Vai su https://vote.nicegram.app/.
 
 Guarda le richieste approvate e quelle respinte prima di scrivere la tua. Non suggerire duplicati!
 
@@ -169,31 +169,31 @@ Basta avere pazienza e aspettare.
 
 ## Informativa sulla privacy
 
-L'informativa sulla privacy di Nicegram è disponibile qui: https://nicegram.app/privacy-policy](https://nicegram.app/privacy-policy)
+L'informativa sulla privacy di Nicegram è disponibile qui: [Privacy Policy](privacy-policy)
 
 TL;DR: Nicegram è un fork dell'applicazione ufficiale Telegram per iOS e si basa sulle API Telegram. Nicegram non agisce in modo maligno e non tiene traccia né condivide i vostri dati sensibili.
 
-Se sblocchi le chat utilizzando il sito web ([my.nicegram.app](https://my.nicegram.app/)) o il bot ([@Nicegram_bot](http://t.me/Nicegram_bot)), i server di Nicegram memorizzano solo i dati visibili pubblicamente (il tuo Telegram ID) in modo che l'app possa recuperare le tue impostazioni.
+Se sblocchi le chat utilizzando il sito web (https://my.nicegram.app/) o il bot ([@Nicegram_bot](http://t.me/Nicegram_bot)), i server di Nicegram memorizzano solo i dati visibili pubblicamente (il tuo Telegram ID) in modo che l'app possa recuperare le tue impostazioni.
 
 > [_Torna su_](#indice)
 
 ## Codice sorgente
 
-Il codice sorgente di Nicegram è su GitHub: [https://github.com/nicegram](https://github.com/nicegram)
+Il codice sorgente di Nicegram è su GitHub: https://github.com/nicegram
 
 > [_Torna su_](#indice)
 
 ## Traduci Nicegram
 
-[Traduzione Guilde](/traduzione)
+[Traduci Nicegram!](/it/translate)
 
-Crowdin - [https://translate.nicegram.app](https://translate.nicegram.app)
+Crowdin - https://translate.nicegram.app
 
 > [_Torna su_](#indice)
 
 ## Dona
 
-Patreon - [https://www.patreon.com/nicegram](https://www.patreon.com/nicegram)
+Patreon - https://www.patreon.com/nicegram
 
 Altri modi - [@Kylmakalle](https://t.me/Kylmakalle) (Sviluppatore)
 

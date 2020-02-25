@@ -1,6 +1,6 @@
 # Cronologia versioni Nicegram
 
-[Scarica Nicegram](/faq/#scarica)
+[Scarica Nicegram](/it/faq/#scarica)
 
 🍏 - La build è disponibile sull'App Store
 

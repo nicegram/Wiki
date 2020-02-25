@@ -38,8 +38,8 @@ Benvenuti in Nicegram: un'app di messaggistica rapida, sicura e piacevole. Immag
 - Nascondi i canali sponsorizzati da proxy (Sì, è disponibile anche nell'app ufficiale, ma Nicegram lo rende più facile)
 
 
-Amate Nicegram così tanto?
-Potete donare a Nicegram! [https://patreon.com/nicegram](https://patreon.com/nicegram)
+Ami Nicegram così tanto?
+Potete donare a Nicegram! https://patreon.com/nicegram
 
 Scarica [Nicegram dall'AppStore](https://itunes.apple.com/app/id1457369322)
 
