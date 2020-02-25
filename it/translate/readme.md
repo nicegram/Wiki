@@ -9,7 +9,7 @@ Per favore, guarda le [traduzioni ufficiali](https://translations.telegram.org/e
 
 Discuti le traduzioni nella chat se non siete sicuri.
 
-Traduci: https://translate.nicegram.app](https://translate.nicegram.app)
+Traduci: https://translate.nicegram.app
 
 Mandate un messaggio a [@Kylmakalle](https://t.me/Kylmakalle) se avete fatto una nuova traduzione, sarà aggiunto nell'app.
 

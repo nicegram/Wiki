@@ -1,7 +1,7 @@
 # Nicegram Chat Unblock Guide
 _Bloccato con questo messaggio? Nicegram può aiutare!_
 
-![](/ChannelBlockedPornBubble.png)
+![](images/ChannelBlockedPornBubble.png)
 
 Grazie a Nicegram è possibile visualizzare alcune chat (gruppi, bot, canali) bloccate su iOS.
 A causa delle linee guida di App Store, la procedura di sblocco deve essere eseguita al di fuori dell’app.
@@ -17,7 +17,7 @@ Puoi scaricare Nicegram o verificare se sono disponibili nuove versioni su [AppS
 3.  Apri il [multitasking](https://support.apple.com/it-it/HT202070) e chiudi l’app di Nicegram
 4.  I contenuti bloccati sono ora visualizzabili!
 
-![](/UnlockBot.png)
+![](images/UnlockBot.png)
 
 > Il bot è avviabile solo con l’app ufficiale di [Telegram](https://apps.apple.com/us/app/telegram-messenger/id686449807?uo=4) o via [Web](https://web.telegram.org/). (Non puoi avviare il bot con Nicegram!)
 
@@ -29,12 +29,12 @@ Puoi scaricare Nicegram o verificare se sono disponibili nuove versioni su [AppS
 4.  Apri il [multitasking](https://support.apple.com/it-it/HT202070) e chiudi l’app di Nicegram
 5.  I contenuti bloccati sono ora visualizzabili!
 
-![](/LoginTelegramAuth.png)
+![](images/LoginTelegramAuth.png)
 
 > il sito non può accedere a dati personali come il numero di telefono o i messaggi.
 
 
-![](/MyNicegramAppSettings.png)
+![](images/MyNicegramAppSettings.png)
 
 > Impostazioni salvate. Apri il [multitasking](https://support.apple.com/it-it/HT202070) e chiudi l’app di Nicegram!
 
@@ -56,7 +56,7 @@ _Utile se il login con il widget di Telegram non funziona per te._
 
 * Esistono alcune chat bloccate globalmente da Telegram: non esiste alcun modo di sbloccarle.
 * Gli utenti con numeri di telefono cinesi, indiani, del Kazakhistan o dell’Uzbekistan non possono accedere ad alcuni contenuti a causa di un blocco regionale da parte di Telegram. L’unico modo per accedere a queste chat è quello di utilizzare un numero di telefono di nazionalità differente oppure un numero di un servizio VoIP.
-	![](/ChannelBlockedPornMessage.png)
+	![](images/ChannelBlockedPornMessage.png)
 * Se sei il proprietario di un canale che ha subito uno di questi due blocchi contatta Telegram!
 
 ### “Unavailable in Nicegram”
@@ -64,7 +64,7 @@ _Utile se il login con il widget di Telegram non funziona per te._
 Alcune chat possono essere inaccessibili a causa delle regole di App Store: non esiste alcun modo di sbloccarle.
 
 
-![](/UnavailableInNicegram.png)
+![](images/UnavailableInNicegram.png)
 
 > Scusate
 

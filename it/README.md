@@ -3,11 +3,11 @@
 Immagina il mix di potenti API Telegram, un'attenta ottimizzazione del codice e caratteristiche uniche che offrono un livello completamente nuovo di esperienza
 
 
-[https://apps.apple.com/it/app/nicegram/id1457369322](📱 Scarica Nicegram dall'App Store)
+[📱 Scarica Nicegram dall'App Store](https://apps.apple.com/it/app/nicegram/id1457369322)
 
-[https://t.me/nicegramapp](Canale inglese ufficiale)
+[Canale inglese ufficiale](https://t.me/nicegramapp)
 
-[https://t.me/nicegram_it](Gruppo italiano ufficiale)
+[Gruppo italiano ufficiale](https://t.me/nicegram_it)
 
 
 ## Articoli
