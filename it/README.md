@@ -17,7 +17,6 @@ Immagina il mix di potenti API Telegram, un'attenta ottimizzazione del codice e 
 * [Features](/it/features)
 * [Ghost mode](/it/ghost)
 * [Premium Beta](/it/premium/beta)
-* [Privacy Policy](privacy-policy.md)
 * [Traduci](/it/translate)
 * [Sblocco Chat](/it/unblock)
 
