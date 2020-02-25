@@ -17,7 +17,7 @@ Immagina il mix di potenti API Telegram, un'attenta ottimizzazione del codice e 
 * [Features](/it/features)
 * [Ghost mode](/it/ghost)
 * [Premium Beta](/it/premium/beta)
-* [Privacy Policy](privacy-policy)
+* [Privacy Policy](privacy-policy.md)
 * [Traduci](/it/translate)
 * [Sblocco Chat](/it/unblock)
 
@@ -26,4 +26,4 @@ Immagina il mix di potenti API Telegram, un'attenta ottimizzazione del codice e 
 Nicegram invita tutti a [tradurre](/it/translate), controllare l'ortografia e suggerire nuove traduzioni o lingue!
 
 
-Nicegram ha anche una [Privacy Policy](privacy-policy).
+Nicegram ha anche una [Privacy Policy](privacy-policy.md).

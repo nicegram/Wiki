@@ -169,7 +169,7 @@ Basta avere pazienza e aspettare.
 
 ## Informativa sulla privacy
 
-L'informativa sulla privacy di Nicegram è disponibile qui: [Privacy Policy](privacy-policy)
+L'informativa sulla privacy di Nicegram è disponibile qui: [Privacy Policy](privacy-policy.md)
 
 TL;DR: Nicegram è un fork dell'applicazione ufficiale Telegram per iOS e si basa sulle API Telegram. Nicegram non agisce in modo maligno e non tiene traccia né condivide i vostri dati sensibili.
 
