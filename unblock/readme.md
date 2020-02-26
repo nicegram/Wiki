@@ -1,7 +1,7 @@
 # Nicegram Chat Unblock Guide
 _Stuck at this message? Nicegram can help._
 
-![](https://graph.org/file/da435e3224a811ef027e3.png)
+![](images/ChannelBlockedPornBubble.png)
 
 You can access certain unavailable chats in Nicegram.  
 Due to [App Store Guidelines][app-store-guidelines], you must enable this setting outside of the Nicegram app.
@@ -17,7 +17,7 @@ This guide only works for **Nicegram 5.11 (59)** and later! If you’re using an
 2.   Tap the buttons to change your settings.
 3.   [Restart Nicegram][force-close] (kill and reopen the app).
 
-![](https://graph.org/file/6d9bd5b7ac7032fe332d2.png)
+![](images/UnlockBot.png)
 
 > The bot is available **only** via official Telegram app or [Telegram Web](https://web.telegram.org).
 
@@ -30,12 +30,12 @@ This guide only works for **Nicegram 5.11 (59)** and later! If you’re using an
 4.   Tap Save.
 5.   [Restart Nicegram][force-close] (kill and reopen the app).
 
-![](https://graph.org/file/d9b045ab0ccea7b34d77a.png)
+![](images/LoginTelegramAuth.png)
 
 > The Nicegram website only sees your Name, Username, and Profile Picture.
 
 
-![](https://graph.org/file/2b06327ddd85fcf389532.png)
+![](images/MyNicegramAppSettings.png)
 
 > Settings saved. Remember to [restart Nicegram][force-close]!
 
@@ -59,7 +59,7 @@ _Useful if the web Telegram Widget does not work for you._
 * The “Nicegram Debug” option from older versions is no longer used. You do not need to tap quickly on the settings icon. Nicegram automatically syncs your settings on start.
 * Some chats may be blocked globally by Telegram—there’s no way to unblock them.
 * Users from China, India, Kazakhstan, Uzbekistan and others can face **region blocks**. To access region-blocked chats, you need to create account with a phone number from an unblocked region. One way to do this is with a <abbr title="Voice over Internet Protocol">VoIP</abbr> number. To find out how to do this, [Google it](https://www.google.com/search?q=voip+number+for+telegram). Here’s what it looks like when a chat is region blocked:
-	![](https://graph.org/file/b1931dc681ecd967f0300.png)
+	![](images/ChannelBlockedPornMessage.png)
 * If you’re an owner of a region-blocked chat/bot/channel, contact Telegram support. Nicegram can’t help you.  
 
 ### “Unavailable in Nicegram”
@@ -67,7 +67,7 @@ _Useful if the web Telegram Widget does not work for you._
 Some chats may be inaccessible even in Nicegram due to the [App Store Guidelines][app-store-guidelines]. These chats are blocked with the message “Unavailable in Nicegram.”
 
 
-![](https://graph.org/file/7796b20c4dc34c28221d4.png)
+![](images/UnavailableInNicegram.png)
 
 > Sorry about that.
 
