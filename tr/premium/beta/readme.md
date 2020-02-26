@@ -3,7 +3,7 @@ AppStore'dan Premium alırsanız, Testflight'daki Premium Beta için hak kazanı
 
 ### Premium Beta Almak için Adımlar
 
-1) Testflight'da herkese açık betadan ayrılmak için [Test Etmeyi Durdur](https://i.imgur.com/JnTd94k.png)'u seçin.
+1) Testflight'da herkese açık betadan ayrılmak için [Test Etmeyi Durdur](images/StopTesting.png)'u seçin.
 
 2) [AppStore](https://itunes.apple.com/app/id1457369322)'dan Nicegram'ı yükleyin. (Hesaplarınızın çıkış yapmaması gerekir, ama yine de yedekleme yapın)
 
@@ -14,6 +14,6 @@ AppStore'dan Premium alırsanız, Testflight'daki Premium Beta için hak kazanı
 5) Ödeme kanıtını [Geliştirici Botu](https://t.me/NicegramBetaBot)'na gönderin. `#ngbeta` etiketini ve davet almak için e-postayı ekleyin!
 
 #### ❗️Bilgileri TEK FOTOĞRAF VE AÇIKLAMA kullanarak gönderin, diğer mesajlar otomatik olarak reddedilecek!
-![](https://i.imgur.com/bpj4ZwS.png)
+![](images/SampleRequest.png)
 
 İsteğiniz işlenirken bekleyin, bir davet e-postası alacaksınız.

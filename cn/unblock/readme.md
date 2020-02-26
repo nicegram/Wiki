@@ -1,7 +1,7 @@
 # Nicegram 受限群组/频道解除限制教程
 _被图中的提示所困扰？Nicegram 能够帮得上您。_
 
-![](https://graph.org/file/da435e3224a811ef027e3.png)
+![](images/ChannelBlockedPornBubble.png)
 
 您能在 Nicegram 中进入因受限而不可用的群组/频道。
 依据 [App Store 审核指南][app-store-guidelines]，您只能在 Nicegram 的本体之外进行解锁操作。
@@ -36,7 +36,7 @@ _被图中的提示所困扰？Nicegram 能够帮得上您。_
 > Nicegram 网站仅能获取到您的姓名、用户名和头像。
 
 
-![](https://graph.org/file/2b06327ddd85fcf389532.png)
+![](images/MyNicegramAppSettings.png)
 
 > 设置已保存。记得 [重启 Nicegram][force-close]！
 
@@ -62,7 +62,7 @@ _如果网站上的 Telegram 登录组件无效，那么这个方法应该有用
 * 在新版本中，已不再使用老版本中的“Nicegram Debug”功能来解锁，所以您没必要再去快速点击设置图标调出它了。Nicegram 在启动时会自动同步并加载您在网站上的解锁设置。
 * 某些会话可能会被 Telegram 全区永久封禁，这种情况下回天乏术，无法解除限制。
 * 来自中国大陆、印度、哈萨克斯坦、乌兹别克斯坦以及其他地区的用户可能会面临**锁区**。为了进入被锁区的会话，您需要使用未锁区地区的手机号来创建 Telegram 账号。对此有一种解决方法，就是使用 <abbr title="Voice over Internet Protocol">VoIP</abbr> 号码。至于怎么弄，[Google 一下你就知道](https://www.google.com/search?q=voip+number+for+telegram)。下图展示了被锁区的会话看上去会是什么样：
-	![](https://graph.org/file/b1931dc681ecd967f0300.png)
+	![](images/ChannelBlockedPornMessage.png)
 * 如果您是一个被锁区的聊天群组/机器人/频道的创建者, 请直接去联系 Telegram 的客服，请求他们帮您解除。来找 Nicegram 开发组只会浪费彼此的时间。 
 
 ### 特殊情况：“在 Nicegram 中不可用”
@@ -70,7 +70,7 @@ _如果网站上的 Telegram 登录组件无效，那么这个方法应该有用
 依据 [App Store 审核指南][app-store-guidelines]，就算是在 Nicegram 中，有些会话也不可用。这些会话在受限时，会显示“在 Nicegram 中不可用”。
 
 
-![](https://graph.org/file/7796b20c4dc34c28221d4.png)
+![](images/UnavailableInNicegram.png)
 
 > 对此我很抱歉，但是我也没有任何办法能够解决。
 
