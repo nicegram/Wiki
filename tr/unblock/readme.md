@@ -1,7 +1,7 @@
 # Nicegram Engel Kaldırma
 _Sıkışmış mı? Nicegram yardım eder._
 
-![](https://graph.org/file/da435e3224a811ef027e3.png)
+![](/images/ChannelBlockedPornBubble.png)
 
 
 
@@ -22,7 +22,7 @@ Bu sadece **Nicegram 5.11 (59)** ve üzeri sürümlerde çalışır!
 *   Butonları kullanarak ayarları değiştirin.
 *   Nicegram'ı yeniden başlatın (çıkın ve tekrar açın)
 
-![](https://graph.org/file/6d9bd5b7ac7032fe332d2.png)
+![](/images/UnlockBot.png)
 
 
 > Bot SADECE resmi Telegram uygulaması ve Web sürümü ile kulanılabilir
@@ -34,13 +34,13 @@ Bu sadece **Nicegram 5.11 (59)** ve üzeri sürümlerde çalışır!
     Website, telefon numarası ve mesajlar gibi özel verilerinize erişemez. Endişelenmeyin.
 *   Ayarları değiştirin ve Kaydedin
 *   Nicegram'ı yeniden başlatın (çıkın ve tekrar açın)
-![](https://graph.org/file/d9b045ab0ccea7b34d77a.png)
+![](/images/LoginTelegramAuth.png)
 
 
 > Website sadece adınızı, kullanıcı adınızı ve profil fotoğrafınızı alır
 
 
-![](https://graph.org/file/2b06327ddd85fcf389532.png)
+![](/images/MyNicegramAppSettings.png)
 
 
 > Ayarlar kaydedildi. Uygulamayı yeniden başlatmayı unutmayın!
@@ -70,7 +70,7 @@ _Telegram Login Aracı sizin için kullanılamıyorsa geçerli_
 
 4) Ayrıca Çin, Hindistan, Kazakistan, Özbekistan ve diğer yerlerden kullanıcılar **Bölge Engeli** ile yüzleşiyor. Böyle sohbetlere erişmek için, başka bir bölgenin sim kartıyla hesap açmanız gerekir. Örneğin, sms/voip numaralarını kullanabilirsiniz. Sadece [bunu Google'layın](https://www.google.com/search?q=voip+number+for+telegram).
 
-![](https://graph.org/file/b1931dc681ecd967f0300.png)
+![](/images/ChannelBlockedPornMessage.png)
 
 > Bölge Engelli sohbet
 
@@ -81,7 +81,7 @@ _Telegram Login Aracı sizin için kullanılamıyorsa geçerli_
 Bazı sohbetler [AppStore Kuralları](https://developer.apple.com/app-store/review/guidelines/#user-generated-content) nedeniyle Nicegram'da bile erişelemez olabilir.
 
 
-![](https://graph.org/file/7796b20c4dc34c28221d4.png)
+![](/images/UnavailableInNicegram.png)
 
 > Bunun için üzgünüz
 
