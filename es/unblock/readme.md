@@ -1,7 +1,7 @@
 # Desbloqueo de chats en Nicegram
 _Atrapado en esto?, Nicegram puede ayudar!._
 
-![](images/ChannelBlockedPornBubble.png)
+![](https://graph.org/file/da435e3224a811ef027e3.png)
 
 
 
@@ -22,7 +22,7 @@ Descarga o actualiza [Nicegram en la App Store](https://itunes.apple.com/app/id1
 *   Cambia los ajustes usando los botones del bot.
 *   Reinicia Nicegram (Cierra y vulve a abrir la app)
 
-![](images/UnlockBot.png)
+![](https://graph.org/file/6d9bd5b7ac7032fe332d2.png)
 
 
 > El bot **Solamente** se puede abrir en la app oficial de Telegram o Telegram Web
@@ -40,7 +40,7 @@ Descarga o actualiza [Nicegram en la App Store](https://itunes.apple.com/app/id1
 > El sitio web solo va a tener tu nombre, nombre de usuario y foto de perfil
 
 
-![](images/MyNicegramAppSettings.png)
+![](https://graph.org/file/2b06327ddd85fcf389532.png)
 
 
 > Ajustes guardados!, recuerda reiniciar la app!
@@ -70,7 +70,7 @@ _Util si el widget de Telegram no esta disponible en tu pais_
 
 4) Tambien, usuarios de China, India, Kazakhstan, Uzbekistan y otros, pueden tener un **bloqueo regional**. Para acceder dichos chats, necesitas crear una cuenta con una tarjeta SIM de otra region, solo buscalo por ti mismo.
 
-![](images/ChannelBlockedPornMessage.png)
+![](https://graph.org/file/b1931dc681ecd967f0300.png)
 
 > Chat bloqueado regionalmente 
 
@@ -81,7 +81,7 @@ _Util si el widget de Telegram no esta disponible en tu pais_
 Algunos chats pueden no ser accesible en Nicegram debido a las [Reglas de App Store](https://developer.apple.com/app-store/review/guidelines/#user-generated-content)
 
 
-![](images/UnavailableInNicegram.png)
+![](https://graph.org/file/7796b20c4dc34c28221d4.png)
 
 > Perdon por este error
 
