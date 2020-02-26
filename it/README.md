@@ -1,6 +1,6 @@
-# Benvenuti in Nicegram: un'app di messaggistica rapida, sicura e piacevole.
+# Benvenuti su Nicegram
 
-Immagina il mix di potenti API Telegram, un'attenta ottimizzazione del codice e caratteristiche uniche che offrono un livello completamente nuovo di esperienza
+Un'app di messaggistica rapida, sicura e piacevole. Immagina il mix di potenti API Telegram, un'attenta ottimizzazione del codice e caratteristiche uniche che non potrai rifiutare!
 
 
 [📱 Scarica Nicegram dall'App Store](https://apps.apple.com/it/app/nicegram/id1457369322)
