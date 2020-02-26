@@ -34,6 +34,7 @@ Puoi scaricare Nicegram o verificare se sono disponibili nuove versioni su [AppS
 > Il sito non può accedere a dati personali come il numero di telefono o i messaggi.
 
 
+
 ![](images/MyNicegramAppSettings.png)
 
 > Impostazioni salvate. Apri il [multitasking](https://support.apple.com/it-it/HT202070) e chiudi l’app di Nicegram!
@@ -73,6 +74,7 @@ Alcune chat possono essere inaccessibili a causa delle regole di App Store: non 
 Ami questa feature? Puoi donare a Nicegram! [https://patreon.com/nicegram](https://patreon.com/nicegram)
 
 [Altre caratteristiche di Nicegram](/it/features)
+
 
 Scarica [Nicegram dall'AppStore](https://itunes.apple.com/app/id1457369322)
 
