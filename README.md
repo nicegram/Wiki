@@ -3,21 +3,26 @@
 Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, careful code optimization and unique features that deliver a whole new level of experience you can’t refuse!
 
 
-<a href="https://itunes.apple.com/app/id1457369322" target="_blank">📱 Download Nicegram in AppStore</a>
+[📱 Download Nicegram from the App Store](https://apps.apple.com/it/app/nicegram/id1457369322)
 
-<a href="https://t.me/nicegramapp" target="_blank">Telegram Channel</a>
+[Official Nicegram Channel](https://t.me/nicegramapp)
 
-<a href="https://t.me/nicegramchat" target="_blank">Telegram Chat</a>
+[Official Nicegram Chat](https://t.me/nicegramchat)
 
 
 ## Articles
-- [Features](/features)
-- [FAQ](/faq)
-- [Chats Unblock](/unblock)
-- [Version History](/changelog)
+* [Version History](/changelog)
+* [Official Chats](/chats)
+* [FAQ](/faq)
+* [Features](/features)
+* [Ghost mode](/ghost)
+* [Premium Beta](/premium/beta)
+* [Privacy Policy](privacy-policy.md)
+* [Translate](/translate)
+* [Unblock Chats](/unblock)
 
 ## Translate
-Everybody welcome to [Translate](/translate) Nicegram App and Website
+Everybody is welcome to [Translate](/translate) Nicegram App and Website
 
 
-Nicegram also have a <a href="privacy-policy" target="_blank">Privacy Policy</a>
+Nicegram also has a [Privacy Policy](privacy-policy.md).
