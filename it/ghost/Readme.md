@@ -15,23 +15,5 @@ Se invii o digiti **QUALUNQUE** messaggio a **CHIUNQUE**, il tuo stato online pu
 
 La ghost mode è solo una scorciatoia per le azioni dell'applicazione ufficiale.
 
-### Questo viola il TOS di Telegram?
-1) Il cambio dell' impostazione "Ultimo accesso" viene eseguita con Telegram.
-2) Anteprima della chat senza spunte di lettura disponibile nell'app ufficiale.
-
-### Avete letto il del paragrafo 1.4?
-**"È vietato manomettere gli stati di lettura dei messaggi (implementazione di una "ghost mode")"**.
-
-Quindi l'applicazione ufficiale viola le sue stesse regole? Segnaliamo Telegram allora.
-
-### Applicazioni approvate (disponibili negli store) con la ghost mode
-- Telegram X (Android)
-- BGram (Android)
-- ...
-
-### Conclusione
-La ghost mode non è una violazione di TOS, finché si può fare lo stesso nell'applicazione ufficiale.
-
-
 
 ##### P.S. È ancora una caratteristica sperimentale e tutto può cambiare.
