@@ -12,10 +12,16 @@
 
 
 ## 文章
-- [功能介绍](/cn/features)
-- [常见问题（FAQ）](/cn/faq)
-- [进入受限群组/频道](/cn/unblock)
-- [版本历史](/cn/changelog)
+* [版本历史](/cn/changelog)
+* [官方群组](/chats)
+* [常见问题（FAQ）](/cn/faq)
+* [功能介绍](/cn/features)
+* [隐身模式](/cn/ghost)
+* [Premium 内测组](/premium/beta)
+* [隐私政策](privacy-policy.md)
+* [翻译](/translate)
+* [进入受限群组/频道](/cn/unblock)
+
 
 ## 翻译
 欢迎各位前来协助 [翻译](/translate) Nicegram 的 App 和网站
