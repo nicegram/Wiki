@@ -10,7 +10,7 @@ _Stuck at this message? Nicegram can help._
 
 More info:
 
-https://t.me/nicegramapp/74
+[https://t.me/nicegramapp/74](https://t.me/nicegramapp/74)
 
 
 # OLD UNBLOCK METHOD
