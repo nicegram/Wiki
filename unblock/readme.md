@@ -3,6 +3,18 @@ _Stuck at this message? Nicegram can help._
 
 ![](images/ChannelBlockedPornBubble.png)
 
+
+
+# ❗️ UPDATE FROM 23rd SEPTEMBER 2020 ❗️
+**Telegram banned all chat unblock methods for iOS, including Nicegram.**
+
+More info:
+
+https://t.me/nicegramapp/74
+
+
+# OLD UNBLOCK METHOD
+
 You can access certain unavailable chats in Nicegram.  
 Due to [App Store Guidelines][app-store-guidelines], you must enable this setting outside of the Nicegram app.
 
