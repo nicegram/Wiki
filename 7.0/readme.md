@@ -16,7 +16,7 @@ Due to this long suspension of Nicegram development, I've decided that it's beca
 - Messages translator via GTranslate
 - [Premium] Quick Translate button
 - Ability to hide contacts tab & tab names
-- Fixed theming for alternative tabs
+- Themed bottom folder list
 
 _Other Features are not re-implemented yet 😩_
 
