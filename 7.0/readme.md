@@ -47,7 +47,7 @@ Nicegram missing some background features due to iOS 13+ restrictions
 - Notifications revoke when message was deleted or already seen
 
 ### Region availability
-As a result of some Nicegram features, app was blocked in China region. Apple requires signed document from Chinese gov. All attempts to contact Chinese gov was unsuccessful. As well as publishing another China-specific app in AppStore, Apple treats it as a clone of Nicegram 😔
+As a result of some Nicegram features, app was blocked in China region. Apple requires signed document from Chinese gov. All attempts to contact Chinese gov was unsuccessful. As well as publishing another China-specific app in AppStore on the same account, Apple treats it as a clone of Nicegram 😔
 
 **Solution** for now: Download Nicegram with other AppStore account or join [Nicegram beta](/faq#download)
 
