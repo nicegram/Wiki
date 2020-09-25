@@ -54,7 +54,7 @@ As a result of some Nicegram features, app was blocked in China region. Apple re
 Obtaining Premium via other AppStore account may be possible with AppStore gift cards. Google for more info.
 
 ### Opening t.me links
-iOS does not ask you which app to use for opening links. In case you can't open something via url staright in Nicegram, you can use some third-party shortcuts
+iOS does not ask you which app to use for opening links. In case you can't open something via url staright in Nicegram, you can use third-party shortcuts
 - https://www.icloud.com/shortcuts/38259783116f49d98d5f31f340f4dd78
 - https://www.icloud.com/shortcuts/2c7c009b535145ddac0a02365b10ac33
 
