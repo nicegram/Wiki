@@ -9,7 +9,7 @@ _Stuck at this message? Nicegram can help._
 ## You must update Nicegram to version 7.0.1 or higher!
 
 
-**Because Telegram banned all chat unblock methods for iOS, including Nicegram 6.1.2 and below**
+**Because Telegram banned all chat unblock methods for iOS, including Nicegram 6.1.2, 5.15.5 and below**
 
 More info:
 
