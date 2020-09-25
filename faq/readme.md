@@ -46,6 +46,7 @@ For more features, check out [Meet Nicegram](../features)!
 
 *   App Store: [https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)
 *   TestFlight (beta): [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
+*   TestFlight ([Premium beta](/premium/beta))
 *  `.ipa` (jailbreak only): [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
 > [_Back to top_](#table-of-contents)
