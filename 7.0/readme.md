@@ -64,7 +64,7 @@ App uses `ng://` url scheme
 Let's be honest, Nicegram is not a business and I assume that Premium is kind of a donaton option to support and run Nicegram servers and it's development, so there're some fair rules:
 
 - **$0.99** for new users, until some more features coming soon.
-- **Free** for already premium users (Tap "Restore purchases")
+- **Free** for already premium members (Tap "Restore purchases")
 
 
 **Features:**
