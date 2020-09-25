@@ -9,9 +9,10 @@ Due to this long suspension of Nicegram development, I've decided that it's beca
 
 # Unique Nicegram features 7.0
 
-- [Chats & Messages unblock method](/unblock)
+- [Updated!][Chats & Messages unblock method](/unblock)
 - Forward As Copy (without Author)
 - Save to Cloud button for fast forwarding to your saved messages.
+- Fast user restrict from context menu
 - Support up to 10 accounts
 - Messages translator via GTranslate
 - [Premium] Quick Translate button
