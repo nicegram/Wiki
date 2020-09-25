@@ -60,6 +60,9 @@ iOS does not ask you which app to use for opening links. In case you can't open 
 
 App uses `ng://` url scheme
 
+### Payments
+Telegram servers do not allow third-party apps to make native transactions in App via Apple Pay. You will be always redirected to a web-form.
+
 # Premium
 Let's be honest, Nicegram is not a business and I assume that Premium is kind of a donaton option to support and run Nicegram servers and it's development, so there're some fair rules:
 
