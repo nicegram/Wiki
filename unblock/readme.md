@@ -6,14 +6,17 @@ _Stuck at this message? Nicegram can help._
 
 
 # ❗️ UPDATE FROM 23rd SEPTEMBER 2020 ❗️
-**Telegram banned all chat unblock methods for iOS, including Nicegram.**
+## You must update Nicegram to version 7.0.1 or higher!
+
+
+**Because Telegram banned all chat unblock methods for iOS, including Nicegram 6.1.2 and below**
 
 More info:
 
 [https://t.me/nicegramapp/74](https://t.me/nicegramapp/74)
 
 
-# OLD UNBLOCK METHOD
+# UNBLOCK METHOD
 
 You can access certain unavailable chats in Nicegram.  
 Due to [App Store Guidelines][app-store-guidelines], you must enable this setting outside of the Nicegram app.
