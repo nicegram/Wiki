@@ -77,4 +77,6 @@ It would be bad to not mention all the generous comunity members that help, tran
 Special thanks to @xXMeliodas [for donating Apple Watch](https://t.me/nicegramdev/97) so I'm able to include AW app in Nicegram.
 
 # Roadmap
-You will hear more news soon. Since I have less time on NG now, I need some developer contribution assistance to the project, so updates can be released faster. Contact [@Kylmakalle](https://t.me/Kylmakalle)
+You will hear more news soon. Since I have less time on NG now, I need some developer contribution assistance to the project, so updates can be released faster. 
+
+Contact [@Kylmakalle](https://t.me/Kylmakalle) if you want to be part of a tiny team (which includes only me 😁)
