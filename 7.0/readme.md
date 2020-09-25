@@ -38,9 +38,9 @@ You can setup up to 10 folders with different filters and pin up to 100 chats in
 https://github.com/TelegramMessenger/Telegram-iOS/issues/178
 
 Nicegram missing some background features due to iOS 13+ restrictions
-- Incoming calls in background
+- Incoming calls in background.
 **Solution** - install official Telegram app for calls. You can disable message notifications in iOS system settings to do not have duplicates
-- Live location updates in background
+- Live location updates in background.
 **Solution** - install official Telegram app to share a live location message
 - Messages sync and bage number update in background
 - Datacenter IP updates, which is useful for countries where Telegram may be blocked
