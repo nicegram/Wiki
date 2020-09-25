@@ -9,7 +9,7 @@ Due to this long suspension of Nicegram development, I've decided that it's beca
 
 # Unique Nicegram features 7.0
 
-- [Updated!][Chats & Messages unblock method](/unblock)
+- [**Updated**] [Chats & Messages unblock method](/unblock)
 - Forward As Copy (without Author)
 - Save to Cloud button for fast forwarding to your saved messages.
 - Fast user restrict from context menu
@@ -70,7 +70,6 @@ Let's be honest, Nicegram is not a business and I assume that Premium is kind of
 - **$0.99** for new users, until some more features coming soon.
 - **Free** for already premium members (Tap "Restore purchases")
 
-
 **Features:**
 - Quick Translate button
 - More Coming Soon...
@@ -79,6 +78,10 @@ Let's be honest, Nicegram is not a business and I assume that Premium is kind of
 It would be bad to not mention all the generous comunity members that help, translate, support and spread Nicegram and everything about it.
 
 Special thanks to @xXMeliodas [for donating Apple Watch](https://t.me/nicegramdev/97) so I'm able to include AW app in Nicegram.
+
+# Source Code
+[https://github.com/nicegram/Telegram-iOS](https://github.com/nicegram/Telegram-iOS)
+Branches master (current) and 5.15.5 (old) are available for contribution and inspection.
 
 # Roadmap
 You will hear more news soon. Since I have less time on NG now, I need some developer contribution assistance to the project, so updates can be released faster. 
