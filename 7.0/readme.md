@@ -35,7 +35,7 @@ You can setup up to 10 folders with different filters and pin up to 100 chats in
 
 # Nicegram restrictions
 ### VOIP Pushes
-https://github.com/TelegramMessenger/Telegram-iOS/issues/178
+[https://github.com/TelegramMessenger/Telegram-iOS/issues/178](https://github.com/TelegramMessenger/Telegram-iOS/issues/178)
 
 Nicegram missing some background features due to iOS 13+ restrictions
 - Incoming calls in background.
