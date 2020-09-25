@@ -23,7 +23,7 @@ Due to [App Store Guidelines][app-store-guidelines], you must enable this settin
 
 There are **three** ways to do this.
 
-This guide only works for **Nicegram 5.11 (59)** and later! If you’re using an older version, [download or update Nicegram from the App Store][nicegram-app-store].
+This guide only works for **Nicegram 7.0.1 (1231)** and later! If you’re using an older version, [download or update Nicegram from the App Store][nicegram-app-store].
 
 
 ## 1. Via Telegram Bot
