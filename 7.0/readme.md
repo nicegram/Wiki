@@ -43,7 +43,7 @@ Nicegram missing some background features due to iOS 13+ restrictions
 **Solution** - install official Telegram app for calls. You can disable message notifications in iOS system settings to do not have duplicates
 - Live location updates in background.
 **Solution** - install official Telegram app to share a live location message
-- Messages sync and bage number update in background
+- Messages sync and badge number update in background
 - Datacenter IP updates, which is useful for countries where Telegram may be blocked
 - Notifications revoke when message was deleted or already seen
 
@@ -75,7 +75,7 @@ Let's be honest, Nicegram is not a business and I assume that Premium is kind of
 - More Coming Soon...
 
 # Community
-It would be bad to not mention all the generous comunity members that help, translate, support and spread Nicegram and everything about it.
+It would be bad to not mention all the generous community members that help, translate, support and spread Nicegram and everything about it.
 
 Special thanks to @xXMeliodas [for donating Apple Watch](https://t.me/nicegramdev/97) so I'm able to include AW app in Nicegram.
 
