@@ -1,13 +1,13 @@
 # FAQ di Nicegram
-_Qui trovate le risposte alle domande più frequenti su Nicegram, un'applicazione Telegram modificata per iOS.  Se non avete trovato la risposta alla vostra domanda, chiedeteci su_ [_@nicegram_it_](https://t.me/nicegram_it).
+_Qui molto probabilmente troverai le risposte alle domande più frequenti su Nicegram, un'applicazione Telegram modificata per iOS.  Se non hai trovato la risposta alla tua domanda, chiedici su_ [_@nicegram_it_](https://t.me/nicegram_it).
 
 ![immagine](images/banner.png)
 
 
 ## Indice
 
-*   [Caratteristiche di Nicegram](#caratteristiche_di_nicegram)
-*   [Scarica](#scarica)
+*   [Caratteristiche di Nicegram](#caratteristiche-di-nicegram)
+*   [Scarica](#Scarica)
 *   [Chat e canali internazionali](#chat-e-canali-internazionali)
 *   [Come faccio ad accedere alle chat bloccate?](#come-faccio-ad-accedere-alle-chat-bloccate)
 *   [Perché la funzione di debug non funziona più?](#perche-la-funzione-di-debug-non-funziona-piu)
