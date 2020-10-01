@@ -3,7 +3,7 @@
 It was a long time between Nicegram updates. A lot of things changed and a lot of features were implemented in official Telegram app.
 I also assume lots of users switched to official app as well. But finally, here's something you can hear from Nicegram.
 
-First of all, this update is based on latest TG sources, which is version 7.0.1.
+First of all, this update is based on latest TG sources, which is version 7.0.1 (7.1 will be available very soon!)
 
 Due to this long suspension of Nicegram development, I've decided that it's became too hard to support current app code and it needs to be rewritten, so some features will be re-implemented slowly.
 
