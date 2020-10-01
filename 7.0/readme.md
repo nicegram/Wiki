@@ -75,6 +75,10 @@ Solutions:
 - a) Reboot device or re-login to account. Something should help.
 - b) Can be fixed after some time after update (probably a week).
 
+### How to rollback?
+- You can't, it's iOS. 
+- Or install Jailbreak.
+
 
 # Nicegram restrictions
 ### VOIP Pushes
