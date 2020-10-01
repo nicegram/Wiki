@@ -49,7 +49,7 @@ Nicegram'da bazı arka plan özellikleri iOS 13+ kısıtlamaları yüzünden kay
 ### Bölge kullanılabilirliği
 Bazı Nicegram özelliklerinin bir sonucu olarak, uygulama Çin bölgesinde yasaklandı. Apple, Çin hükümetinden imzalı belge gerektiriyor. Çin hükümetiyle tüm iletişime geçme girişimleri başarısız oldu. AppStore'da aynı hesapta Çin özelinde başka bir uygulama yayınlamakla birlikte Apple, Nicegram kopyası olmakla tehdit ediyor. 😔
 
-**Çözüm** şimdilik: Nicegram'ı diğer AppStore hesabınızla indirin ya da [Nicegram beta](/faq#download)'ya katılın
+**Çözüm** şimdilik: Nicegram'ı diğer AppStore hesabınızla indirin ya da [Nicegram beta](/tr/faq#i̇ndir)'ya katılın
 
 Diğer AppStore hesabıyla alınan Premium, AppStore hediye kartlarıyla mümkün olabilir. Daha fazla bilgi için Google'a başvurun.
 
