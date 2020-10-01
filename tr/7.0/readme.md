@@ -61,7 +61,7 @@ iOS, bağlantıları açmak için hangi uygulamayı kullanacağınızı sormuyor
 Uygulama, `ng://` bağlantı şemasını kullanıyor.
 
 ### Ödemeler
-Telegram sunucuları, Apple Pay ile uygulamada bağımsız ödemeler yapmak için üçüncü parti uygulamalara izin vermiyor. Her zaman bir web formuna yönlendirileceksiniz.
+Telegram sunucuları, Apple Pay ile uygulamada yerel ödemeler yapmak için üçüncü parti uygulamalara izin vermiyor. Her zaman bir web formuna yönlendirileceksiniz.
 
 # Premium
 Hadi dürüst olalım, Nicegram bir işletme değil. Nicegram'ın geliştirmesini sürdürmek, sunucularını ayakta tutmak ve desteklemek için Premium'u bir bağış seçeneği olarak varsayıyorum; bu yüzden birkaç adil yöntem var:
