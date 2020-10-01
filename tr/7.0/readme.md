@@ -8,7 +8,7 @@ Nicegram geliştirmesindeki bu uzun askıya alınma yüzünden, şu anki uygulam
 
 # Benzersiz Nicegram Özellikleri 7.0
 
-- [**Güncellendi**] [Sohbetler & Mesajlar için Engel Kaldırma yöntemi](/unblock)
+- [**Güncellendi**] [Sohbetler & Mesajlar için Engel Kaldırma yöntemi](/tr/unblock)
 - Kopya Olarak İlet (Yazar olmadan)
 - Kayıtlı Mesajlara hızlı iletim için Buluta Kaydet butonu.
 - Sohbet içi menüden hızlı kullanıcı kısıtlama
