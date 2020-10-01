@@ -3,12 +3,16 @@ _Bloccato con questo messaggio? Nicegram può aiutare!_
 
 ![](images/ChannelBlockedPornBubble.png)
 
+## È necessario aggiornare Nicegram alla versione 7.0.1 o maggiore per sbloccare le chat
+
+**Telegram ha bannato tutti i metodi per sbloccare le chat su iOS, includendo Nicegram 6.1.2 e 5.15.5 in giù**
+
 Grazie a Nicegram è possibile visualizzare alcune chat (gruppi, bot, canali) bloccate su iOS.
 A causa delle linee guida di App Store, la procedura di sblocco deve essere eseguita al di fuori dell’app.
 
 Esistono tre modi per farlo: vediamo come!
 
-Puoi scaricare Nicegram o verificare se sono disponibili nuove versioni su [AppStore](https://itunes.apple.com/app/id1457369322)
+**Questa guida funziona solo per Nicegram 7.0.1 (1231) o maggiore! Se stai usando una versione vecchia, [scarica o aggiorna Nicegram dall'App Store](https://itunes.apple.com/app/id1457369322)**
 
 ## 1. Sblocco tramite bot
 
