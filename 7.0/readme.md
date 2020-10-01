@@ -34,21 +34,31 @@ Nicegram also implements alternative design and position for folders list.
 You can setup up to 10 folders with different filters and pin up to 100 chats in each folder. If it's not enough, you might register one more TG account.
 
 # Migration from 5.15.5 and known issues
+
+
 ### Missing Nicegram folders
 Solutions:
 - a) You now can create Telegram folders as described above. There's no automatic way, sorry.
+
+
 ### Missing chats / multiple archives
 Solutions:
 - a) 10 Taps on settings icon (Debug Menu) > Reset Holes
 - b) If a. not helped, try Debug Menu > Clear Database (this should not logout you from accounts. But always create backups)
 - b) Reinstall app
+
+
 ### Infinitiy "Updating..."
 Solutions:
 - a) Try to wait couple of minutes. If it's not fixed, you need to relogin to your account.
 - b) If relogin still stuck you on load, try to add account via debug menu. Debug Menu > Accounts > Login > Production
+
+
 ### Filters on the Tabbar
 Solutions:
 - a) You can enable alternative folders style, it will move them to bottom.
+
+
 ### Can't restore Premium
 - Jaibroken devices may have issues even without any patches installed. It may require complete JB removal to proceed.
 - iOS devices **BELOW iOS 13** (iOS 12.4.1, iOS 10 and etc) may have issues with restoring purchases. Reason unknown. You may update your OS if possible. 
