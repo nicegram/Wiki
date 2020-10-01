@@ -1,6 +1,6 @@
 # Nicegram 7.0
 
-It was a long time between Nicegram updates. A lot of things changed and a lot of feaures was implemented in official Telegram app.
+It was a long time between Nicegram updates. A lot of things changed and a lot of features were implemented in official Telegram app.
 I also assume lots of users switched to official app as well. But finally, here's something you can hear from Nicegram.
 
 First of all, this update is based on latest TG sources, which is version 7.0.1.
