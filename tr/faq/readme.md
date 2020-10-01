@@ -45,9 +45,10 @@ Daha fazla özellik için, lütfen [Nicegram ile Tanışın](/tr/features) makal
 
 ## İndir
 
-*   AppStore - [https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)
-*   TestFlight [BETA] - [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
-*   IPA [SADECE Jailbreak!] - [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
+*   App Store: [https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)
+*   TestFlight (beta): [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
+*   TestFlight ([Premium beta](/tr/premium/beta))
+*  `.ipa` (sadece jailbreak): [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
 > [_Yukarı dön_](#i̇çindekiler)
 
