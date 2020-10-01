@@ -4,7 +4,7 @@ Bu, Nicegram güncellemeleri arasında en uzunuydu. Birçok şey değişti ve re
 
 Her şeyden önce, 7.0.1 (çok yakında 7.1 olacak!) sürümlü en son TG kaynaklarını baz alıyor.
 
-Nicegram geliştirmesindeki bu uzun askıya alınma yüzünden, şu anki uygulama kodunu desteklemenin çok zor olduğunu ve yeniden yazılması gerektiğine karar verdim; bu yüzden bazı özellikler yavaş yavaş yeniden uygulanacak.
+Nicegram geliştirmesindeki bu uzun askıya alınma yüzünden, şu anki uygulama kodunu desteklemenin çok zor olduğuna ve yeniden yazılması gerektiğine karar verdim; bu yüzden bazı özellikler yavaş yavaş yeniden uygulanacak.
 
 # Benzersiz Nicegram Özellikleri 7.0
 
