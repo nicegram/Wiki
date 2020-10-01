@@ -40,7 +40,7 @@ Solutions:
 ### Missing chats / multiple archives
 Solutions:
 - a) 10 Taps on settings icon (Debug Menu) > Reset Holes
-- b) If a. not heloped, try Debug Menu > Clear Database (this will not logout you from accounts. But always create backups)
+- b) If a. not helped, try Debug Menu > Clear Database (this should not logout you from accounts. But always create backups)
 - b) Reinstall app
 ### Infinitiy "Updating..."
 Solutions:
@@ -49,7 +49,7 @@ Solutions:
 ### Filters on the Tabbar
 Solutions:
 - a) You can enable alternative folders style, it will move them to bottom.
-### Can't restore premium
+### Can't restore Premium
 - Jaibroken devices may have issues even without any patches installed. It may require complete JB removal to proceed.
 - iOS devices **BELOW iOS 13** (iOS 12.4.1, iOS 10 and etc) may have issues with restoring purchases. Reason unknown. You may update your OS if possible. 
 
@@ -59,6 +59,11 @@ Solutions:
 
 ### Crashes on iOS 10 and below
 - Try to disable WIFI. Reason unknown.
+
+### Crashes in background
+Solutions:
+- a) Reboot device or re-login to account. Something should help.
+- b) Can be fixed after some time after update (probably a week).
 
 
 # Nicegram restrictions
