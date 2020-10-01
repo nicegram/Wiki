@@ -34,7 +34,7 @@ Farklı klasörlerle 10 klasör oluşturabilir ve her klasörde 100 sohbete kada
 
 
 # Nicegram kısıtlamaları
-### VOIP Pushes
+### VOIP Zorlamaları
 [https://github.com/TelegramMessenger/Telegram-iOS/issues/178](https://github.com/TelegramMessenger/Telegram-iOS/issues/178)
 
 Nicegram'da bazı arka plan özellikleri iOS 13+ kısıtlamaları yüzünden kayboldu.
