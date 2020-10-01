@@ -67,7 +67,7 @@ Telegram servers do not allow third-party apps to make native transactions in Ap
 # Premium
 Let's be honest, Nicegram is not a business and I assume that Premium is kind of a donaton option to support and run Nicegram servers and it's development, so there're some fair rules:
 
-- **$0.99** for new users, until some more features coming soon.
+- **$0.99** ~~$1.99~~ **[50% DISCOUNT]** for new users, until some more features coming soon.
 - **Free** for already premium members (Tap "Restore purchases")
 
 **Features:**
