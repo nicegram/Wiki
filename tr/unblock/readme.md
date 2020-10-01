@@ -8,11 +8,9 @@ _Sıkışmış mı? Nicegram yardım eder._
 Nicegram'da kullanılamayan sohbetlere erişebilirsiniz.  
 [AppStore Kuralları](https://developer.apple.com/app-store/review/guidelines/#user-generated-content) yüzünden, bu ayarları Nicegram uygulamasının dışında etkinleştirmelisiniz.  
 
-Onu yapmak için birkaç yol var.
+Bunu yapmak için **üç** yol var.
 
-Bu sadece **Nicegram 5.11 (59)** ve üzeri sürümlerde çalışır!
-
-[Nicegram'ı AppStore'da](https://itunes.apple.com/app/id1457369322) İndirin veya Güncelleyin
+Bu rehber sadece **Nicegram 7.0.1 (1231)** ve üzeri sürümlerde çalışır! Daha eski bir sürüm kullanıyorsanız, [Nicegram'ı AppStore'da indirin veya güncelleyin](https://itunes.apple.com/app/id1457369322).
 
 
 
