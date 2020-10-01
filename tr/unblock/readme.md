@@ -5,6 +5,20 @@ _Sıkışmış mı? Nicegram yardım eder._
 
 
 
+# ❗️ 23 EYLÜL 2020'DEN İTİBAREN ❗️
+## Nicegram'ı 7.0.1 ya da üzeri sürüme güncellemeniz gerekiyor!
+
+
+**Çünkü Telegram, iOS için Nicegram 6.1.2, 5.15.5 ve altındaki tüm engel kaldırma yöntemlerini engelledi**
+
+Daha fazla bilgi:
+
+[https://t.me/nicegramapp/74](https://t.me/nicegramapp/74)
+
+
+
+# ENGEL KALDIRMA YÖNTEMİ
+
 Nicegram'da kullanılamayan sohbetlere erişebilirsiniz.  
 [AppStore Kuralları](https://developer.apple.com/app-store/review/guidelines/#user-generated-content) yüzünden, bu ayarları Nicegram uygulamasının dışında etkinleştirmelisiniz.  
 
