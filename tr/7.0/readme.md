@@ -4,7 +4,7 @@ Bu, Nicegram güncellemeleri arasında en uzunuydu. Birçok şey değişti ve re
 
 Her şeyden önce, 7.0.1 (çok yakında 7.1 olacak!) sürümlü en son TG kaynaklarını baz alıyor.
 
-Nicegram geliştirmesindeki bu uzun askıya alınma yüzünden, şu anki uygulama kodunu desteklemenin çok zor olduğunu ve yeniden yazılması gerektiğine karar verdim; bu yüzden bazı özellikler yavaş yavaş yeniden uygulanacak.
+Nicegram geliştirmesindeki bu uzun askıya alınma yüzünden, şu anki uygulama kodunu desteklemenin çok zor olduğuna ve yeniden yazılması gerektiğine karar verdim; bu yüzden bazı özellikler yavaş yavaş yeniden uygulanacak.
 
 # Benzersiz Nicegram Özellikleri 7.0
 
@@ -82,7 +82,7 @@ Nicegram'ı ve onun hakkında her şeyi yayan, destekleyen, çeviren, yardım ed
 [https://github.com/nicegram/Telegram-iOS](https://github.com/nicegram/Telegram-iOS)
 master (şu anki) ve 5.15.5 (eski) sürümleri, katkı ve inceleme için kullanılabilir.
 
-# Yol Haritasi
+# Yol Haritası
 Yakında daha fazla haber duyacaksınız. Şu an NG'ye az zamanım olduğu için, projeye birkaç geliştiricinin katkı yardımına ihtiyacım var, böylece güncellemeler daha hızlı gelebilir.
 
 Küçük bir ekibin (sadece benim olduğum 😁) parçası olmak isterseniz, [@Kylmakalle](https://t.me/Kylmakalle) ile iletişime geçin
