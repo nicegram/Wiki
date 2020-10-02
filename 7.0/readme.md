@@ -51,8 +51,9 @@ Solutions:
 
 ### Infinitiy "Updating..."
 Solutions:
-- a) Try to wait couple of minutes. If it's not fixed, you need to relogin to your account.
-- b) If relogin still stuck you on load, try to add account via debug menu. Debug Menu > Accounts > Login > Production
+- a) 10 Taps on settings icon (Debug Menu) > Clear Database (this should not logout you from accounts. But always create backups)
+- b) Try to wait couple of minutes. If it's not fixed, you need to relogin to your account.
+- c) If relogin still stuck you on load, try to add account via debug menu. Debug Menu > Accounts > Login > Production
 
 
 ### Filters on the Tabbar
@@ -61,28 +62,18 @@ Solutions:
 
 
 ### Can't restore Premium
-- Jaibroken devices may have issues even without any patches installed. It may require complete JB removal to proceed.
+- Jaibroken devices may have issues even without any patches installed. It may require complete JB removal (rebooting device or so) to proceed.
 - iOS devices **BELOW iOS 13** (iOS 12.4.1, iOS 10 and etc) may have issues with restoring purchases. Reason unknown. You may update your OS if possible. 
 
 Solutions:
 - a) Try to tap "Buy" again. It will not charge you.
 - b) Make sure you're using proper AppStore account.
 
-Solution for JB (by @day_forum):
+Solution for JB (by @pancakeufo):
 
 - 1) Disable LocaliAPStore or similar tweaks if you have them
 
-- 2) Add repository https://repo.co.kr/ in cydia
-
-- 3) Install “A-Bypass” 1.3.5 version
-
-- 4) Respring
-
-- 5) Settings > A-Bypass > Turn ON for Nicegram
-
-- 6) Respring
-
-- 7) (Optionaly) Reinstall Nicegram if it does not work.
+- 2) Drop your JB status with rebooting
 
 ### Crashes on iOS 10 and below
 - Try to disable WIFI. Reason unknown.
