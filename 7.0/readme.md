@@ -70,11 +70,17 @@ Solutions:
 
 Solution for JB (by @day_forum):
 1) Disable LocaliAPStore or similar tweaks if you have them
+
 2) Add repository https://repo.co.kr/ in cydia
+
 3) Install “A-Bypass” 1.3.5 version
+
 4) Respring
+
 5) Settings > A-Bypass > Turn ON for Nicegram
+
 6) Respring
+
 7) (Optionaly) Reinstall Nicegram if it does not work.
 
 ### Crashes on iOS 10 and below
