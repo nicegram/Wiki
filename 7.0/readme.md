@@ -50,6 +50,8 @@ Solutions:
 
 
 ### Infinitiy "Updating..."
+Possible issue due to bug inTelegram sources. Should be resolved on 7.1 version (soon).
+
 Solutions:
 - a) 10 Taps on settings icon (Debug Menu) > Clear Database (this should not logout you from accounts. But always create backups)
 - b) Try to wait couple of minutes. If it's not fixed, you need to relogin to your account.
