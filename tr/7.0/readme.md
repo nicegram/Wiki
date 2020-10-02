@@ -58,12 +58,12 @@ Farklı klasörlerle 10 klasör oluşturabilir ve her klasörde 100 sohbete kada
 
 ### Sekme Çubuğundaki Filtreler
 Çözümler:
-- a) Altenatif klasör stilini etkinleştirebilirsiniz, bu onları alta taşıyacak.
+- a) Alternatif klasör stilini etkinleştirebilirsiniz, bu onları alta taşıyacak.
 
 
 ### Premium'u Geri Yükleyemiyorum
 - Jailbreak'li cihazlar herhangi bir yama yüklenmese bile sorun yaşayabilir. JB'i tamamen kaldırmanız gerekebilir (cihazı yeniden başlatma ve benzeri).
-- **iOS 13 altındaki** (iOS 12.4.1, iOS 10 and etc) iOS cihazlar, satın alım yükleme sorunu yaşayabilir. Nedeni bilinmiyor. Mümkünse sisteminizi güncelleyebilirsiniz. 
+- **iOS 13 altındaki** (iOS 12.4.1, iOS 10 ve benzeri) iOS cihazlar, satın alım yükleme sorunu yaşayabilir. Nedeni bilinmiyor. Mümkünse sisteminizi güncelleyebilirsiniz. 
 
 Çözümler:
 - a) "Satın Al"a tekrar dokunmayı deneyin. Ücret almayacaktır.
