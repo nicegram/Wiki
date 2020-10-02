@@ -33,8 +33,9 @@ Nicegram also implements alternative design and position for folders list.
 
 You can setup up to 10 folders with different filters and pin up to 100 chats in each folder. If it's not enough, you might register one more TG account.
 
-# Migration from 5.15.5 and known issues
-
+<h1 id="migrate">
+  Migration from 5.15.5 and known issues
+</h1>
 
 ### Missing Nicegram folders
 Solutions:
@@ -66,6 +67,15 @@ Solutions:
 Solutions:
 - a) Try to tap "Buy" again. It will not charge you.
 - b) Make sure you're using proper AppStore account.
+
+Solution for JB (by @day_forum):
+1) Disable LocaliAPStore or similar tweaks if you have them
+2) Add repository https://repo.co.kr/ in cydia
+3) Install “A-Bypass” 1.3.5 version
+4) Respring
+5) Settings > A-Bypass > Turn ON for Nicegram
+6) Respring
+7) (Optionaly) Reinstall Nicegram if it does not work.
 
 ### Crashes on iOS 10 and below
 - Try to disable WIFI. Reason unknown.
