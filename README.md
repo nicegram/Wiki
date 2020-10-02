@@ -11,6 +11,7 @@ Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, c
 
 
 ## Articles
+* [Nicegram 7.0](/7.0)
 * [Version History](/changelog)
 * [Official Chats](/chats)
 * [FAQ](/faq)
