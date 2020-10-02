@@ -11,6 +11,7 @@ Hızlı, güvenli ve iyi mesaşlaşma uygulaması. Reddetmeyeceğiniz yepyeni bi
 
 
 ## Makaleler
+- [Nicegram 7.0](/tr/7.0)
 - [Özellikler](/tr/features)
 - [SSS](/tr/faq)
 - [Engel Kaldırma](/tr/unblock)

@@ -46,7 +46,7 @@ Solutions:
 Solutions:
 - a) 10 Taps on settings icon (Debug Menu) > Reset Holes
 - b) If a. not helped, try Debug Menu > Clear Database (this should not logout you from accounts. But always create backups)
-- b) Reinstall app
+- c) Reinstall app
 
 
 ### Infinitiy "Updating..."

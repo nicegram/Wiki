@@ -33,6 +33,61 @@ Ayrıca Nicegram, klasör listesi için alternatif tasarım ve konum uyguluyor.
 Farklı klasörlerle 10 klasör oluşturabilir ve her klasörde 100 sohbete kadar sabitleyebilirsiniz. Yeterli değilse, birden fazla TG hesabını açmalısınız.
 
 
+<h1 id="geçiş">
+  5.15.5'den Geçiş ve Bilinen Sorunlar
+</h1>
+
+### Kayıp Nicegram klasörleri
+Çözümler:
+- a) Yukarıda belirtilen hata için Telegram klasörleri oluşturabilirsiniz. Otomatik bir yolu yok, üzgünüm.
+
+
+### Kayıp sohbetler / çoklu arşivler
+Çözümler:
+- a) Ayarlan ikonuna 10 kez dokunun (Debug Menü) > Reset Holes
+- b) a maddesi işe yaramadıysa, Debug Menü > Clear Database (bunun hesaplarınızdan çıkış yapmaması gerekir. Yine de her zaman yedek oluşturun)
+- c) Uygulamayı yeniden yükleyin
+
+
+### Sonsuz "Güncelleniyor..."
+Çözümler:
+- a) Ayarlar ikonuna 10 kez dokunun (Debug Menü) > Clear Database (bunun hesaplarınızdan çıkış yapmaması gerekir. Yine de her zaman yedek oluşturun)
+- b) Birkaç dakika bekleyin. Düzelmediyse, hesabınıza yeniden giriş yapmanız gerekir.
+- c) Yeniden giriş yapmak hala sorunu çözmediyse, hesabı debug menüsü ile eklemeyi deneyin. Debug Menü > Accounts > Login > Production
+
+
+### Sekme Çubuğundaki Filtreler
+Çözümler:
+- a) Alternatif klasör stilini etkinleştirebilirsiniz, bu onları alta taşıyacak.
+
+
+### Premium'u Geri Yükleyemiyorum
+- Jailbreak'li cihazlar herhangi bir yama yüklenmese bile sorun yaşayabilir. JB'i tamamen kaldırmanız gerekebilir (cihazı yeniden başlatma ve benzeri).
+- **iOS 13 altındaki** (iOS 12.4.1, iOS 10 ve benzeri) iOS cihazlar, satın alım yükleme sorunu yaşayabilir. Nedeni bilinmiyor. Mümkünse sisteminizi güncelleyebilirsiniz. 
+
+Çözümler:
+- a) "Satın Al"a tekrar dokunmayı deneyin. Ücret almayacaktır.
+- b) AppStore hesabınızı kurallara uygun olarak kullandığınızdan emin olun.
+
+JB için çözüm (@pancakeufo sayesinde):
+
+- 1) LocaliAPStore veya ona sahip olan benzeri ayarları devre dış bırakın
+
+- 2) Yeniden başlatarak JB durumunuzu kaldırın
+
+### iOS 10 ve altındaki çökmeler
+- Wi-Fi'ı devre dışı bırakmayı deneyin. Nedeni bilinmiyor.
+
+### Arka plandaki çökmeler
+Çözümler:
+- a) Cihazı yeniden başlatın ya da hesaba yeniden giriş yapın. Yardımcı olabilir.
+- b) Güncellemeden bir süre sonra düzelebilir (muhtemelen bir hafta).
+
+### Nasıl geri döndürülür?
+- Yapamazsınız, iOS'ta.
+- Ya da Jailbreak yükleyin.
+
+
 # Nicegram kısıtlamaları
 ### VOIP Zorlamaları
 [https://github.com/TelegramMessenger/Telegram-iOS/issues/178](https://github.com/TelegramMessenger/Telegram-iOS/issues/178)
