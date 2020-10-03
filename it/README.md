@@ -21,3 +21,6 @@ Un'app di messaggistica rapida, sicura e piacevole. Immagina il mix di potenti A
 * [Privacy Policy](../privacy-policy.md)
 * [Traduci](/it/translate)
 * [Sblocco Chat](/it/unblock)
+
+
+[Privacy Policy](privacy-policy.md).
