@@ -25,14 +25,64 @@ _Le altre funzioni saranno reimplementate al più presto_ 😩
 
 Preferisco le soluzioni ufficiali da parte di Telegram, invece di doverle implementare rischiando di non far funzionare l'app come quella ufficiale. Nel futuro se Telegram implementerà delle funzioni di Nicegram verrà adottata la funzione sviluppata ufficialmente.
 
-### Cartelle, filtri e pchat fissate illimitate
+### Cartelle, filtri e chat fissate illimitate
 Telegram ha aggiunto il supporto ufficiale per le cartelle!
 Purtroppo, non è possibile esportare le cartelle di Nicegram a quelle di Telegram ufficiali, dovrai farlo manualmente
 
 Nicegram implementa anche design e posizioni alternative per la lista delle cartelle
 
-Puoi screare fino a 10 cartelle con diversi filtri e puoi fissare fino a 100 chat per ogni cartella.
+Puoi creare fino a 10 cartelle con diversi filtri e puoi fissare fino a 100 chat per ogni cartella.
 
+<h1 id="migrate">
+  Migrazione e aggiornamento dalla versione 5.15.5 e problemi noti
+</h1>
+
+### Cartelle personalizzate di nicegram
+- a) Ora puoi creare le cartelle supportate nativamente da Telegram. Non c'è una modalità automatica, scusa :(
+
+
+### Chat mancanti/archivi duplicati
+- a) Fai 10 tocchi sull'icona delle impostazioni > Reset Holes
+- b) Se il passaggio sopra non ha funzionato, fai 10 tocchi sull'icona delle impostazioni > Clear Database (non dovrebbe farti loggare fuori dagli account, ma non è una sicurezza)
+- c) Se il passaggio sopra non ha funzionato, reinstalla l'app
+
+
+### "Updating..." costantemente presente
+Problema probabilmente causato dalle sorgenti di Telegram. Dovrebbe essere risolto nella versione 7.1
+
+- a) Fai 10 tocchi sull'icona delle impostazioni > Clear Database (non dovrebbe farti loggare fuori dagli account, ma non è una sicurezza)
+- b) Se il passaggio sopra non ha funzionato, fai logout e login sul tuo account.
+- c) Se il passaggio sopra non ha funzionato, aggiungi l'account facendo 10 tocchi sull'icona delle impostazioni > Accounts > Login > Production
+
+
+### Filtri sulle Tab
+- Puoi attivare la visualizazione delle Tab in modo alternativo facendo 10 tocchi sull'icona delle impostazioni > Alternative Folder Style
+
+
+### Premium non viene abilitato anche se l'hai già acquistato
+- a) I device Jailbroken potrebbero avere dei problemi anche senza nessun Tweak installato.
+
+Soluzione per gli utenti **Jailbroken** (trovata da @pancakeufo <3):
+
+- 1) Disabilita LocaliAPStore o tweak simili
+
+- 2) Riavvia il tuo device per disabilitare temporaneamente il tuo jailbreak.
+
+
+- I device **SOTTO iOS 13** potrebbero avere problemi quando c'è bisogno di ripristinare gli acquisti. Non ho nessuna idea del perché ¯\\\_(ツ)_/¯, su questo non ho nessun potere, mi spiace... L'unica soluzione possibile è aggiornare iOS.
+
+
+### Crash su iOS 10 o sotto
+- Prova a disabilitare il WiFi. Non ho nessuna idea del perché, su questo non ho nessun potere, mi spiace...
+
+### Crash a caso in background
+- a) Riavvia il dispositivo oppure fai logout e login.
+- b) Dovrebbe fixarsi dopo un pò di tempo.
+
+
+### Aiuto, come torno alla versione precedente?
+- Non puoi, **è iOS cosa ti aspetti? ¯\\\_(ツ)_/¯**
+- Esegui il Jailbreak, chiedi più informazioni sul gruppo
 
 # Restrizioni di Nicegram
 ### Aggiornamenti VOIP

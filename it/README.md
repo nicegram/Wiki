@@ -11,6 +11,7 @@ Un'app di messaggistica rapida, sicura e piacevole. Immagina il mix di potenti A
 
 
 ## Articoli
+* [Nicegram 7.0](/it/7.0)
 * [Changelogs](/it/changelog)
 * [Chat ufficiali](/it/chats)
 * [FAQ](/it/faq)
@@ -21,8 +22,5 @@ Un'app di messaggistica rapida, sicura e piacevole. Immagina il mix di potenti A
 * [Traduci](/it/translate)
 * [Sblocco Chat](/it/unblock)
 
-## Translate
-Nicegram invita tutti i suoi utenti a [tradurre](/it/translate), controllare l'ortografia e suggerire nuove traduzioni o lingue!
 
-
-Nicegram ha anche una [Privacy Policy](../privacy-policy.md).
+[Privacy Policy](privacy-policy.md).
