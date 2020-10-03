@@ -25,13 +25,13 @@ _Le altre funzioni saranno reimplementate al più presto_ 😩
 
 Preferisco le soluzioni ufficiali da parte di Telegram, invece di doverle implementare rischiando di non far funzionare l'app come quella ufficiale. Nel futuro se Telegram implementerà delle funzioni di Nicegram verrà adottata la funzione sviluppata ufficialmente.
 
-### Cartelle, filtri e pchat fissate illimitate
+### Cartelle, filtri e chat fissate illimitate
 Telegram ha aggiunto il supporto ufficiale per le cartelle!
 Purtroppo, non è possibile esportare le cartelle di Nicegram a quelle di Telegram ufficiali, dovrai farlo manualmente
 
 Nicegram implementa anche design e posizioni alternative per la lista delle cartelle
 
-Puoi screare fino a 10 cartelle con diversi filtri e puoi fissare fino a 100 chat per ogni cartella.
+Puoi creare fino a 10 cartelle con diversi filtri e puoi fissare fino a 100 chat per ogni cartella.
 
 <h1 id="migrate">
   Migrazione e aggiornamento dalla versione 5.15.5 e problemi noti
