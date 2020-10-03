@@ -82,7 +82,7 @@ Soluzione per gli utenti **Jailbroken** (trovata da @pancakeufo <3):
 
 ### Aiuto, come torno alla versione precedente?
 - Non puoi, **è iOS cosa ti aspetti? ¯\\\_(ツ)_/¯**
-- Esegui il Jailbreak, entra [qui](qui) per avere più informazioni
+- Esegui il Jailbreak, chiedi più informazioni sul gruppo
 
 # Restrizioni di Nicegram
 ### Aggiornamenti VOIP
