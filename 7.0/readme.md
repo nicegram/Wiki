@@ -42,7 +42,7 @@ Solutions:
 - a) You now can create Telegram folders as described above. There's no automatic way, sorry.
 
 
-### Missing chats / multiple archives
+### Missing chats / multiple archives / bugged pinned chats
 Solutions:
 - a) 10 Taps on settings icon (Debug Menu) > Reset Holes
 - b) If a. not helped, try Debug Menu > Clear Database (this should not logout you from accounts. But always create backups)
