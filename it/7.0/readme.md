@@ -41,14 +41,14 @@ Puoi creare fino a 10 cartelle con diversi filtri e puoi fissare fino a 100 chat
 - a) Ora puoi creare le cartelle supportate nativamente da Telegram. Non c'è una modalità automatica, scusa :(
 
 
-### Chat mancanti/archivi duplicati
+### Chat mancanti, archivi duplicati oppure chat fissate buggate
 - a) Fai 10 tocchi sull'icona delle impostazioni > Reset Holes
 - b) Se il passaggio sopra non ha funzionato, fai 10 tocchi sull'icona delle impostazioni > Clear Database (non dovrebbe farti loggare fuori dagli account, ma non è una sicurezza)
 - c) Se il passaggio sopra non ha funzionato, reinstalla l'app
 
 
 ### "Updating..." costantemente presente
-Problema probabilmente causato dalle sorgenti di Telegram. Dovrebbe essere risolto nella versione 7.1
+Il problema era dovuto al codice sorgente fornito da Telegram. **Aggiorna alla versione 7.1**
 
 - a) Fai 10 tocchi sull'icona delle impostazioni > Clear Database (non dovrebbe farti loggare fuori dagli account, ma non è una sicurezza)
 - b) Se il passaggio sopra non ha funzionato, fai logout e login sul tuo account.
