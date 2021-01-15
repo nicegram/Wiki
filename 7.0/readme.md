@@ -42,7 +42,7 @@ Solutions:
 - a) You now can create Telegram folders as described above. There's no automatic way, sorry.
 
 
-### Missing chats / multiple archives
+### Missing chats / multiple archives / bugged pinned chats
 Solutions:
 - a) 10 Taps on settings icon (Debug Menu) > Reset Holes
 - b) If a. not helped, try Debug Menu > Clear Database (this should not logout you from accounts. But always create backups)
@@ -50,10 +50,10 @@ Solutions:
 
 
 ### Infinitiy "Updating..."
-Possible issue due to bug inTelegram sources. Should be resolved on 7.1 version (soon).
+Issue due to bug in Telegram sources. **Update to 7.1 version.**
 
 Solutions:
-- a) 10 Taps on settings icon (Debug Menu) > Clear Database (this should not logout you from accounts. But always create backups)
+- a) 10 Taps on settings icon (Debug Menu) > Clear Database & Cache (this should not logout you from accounts. But always create backups)
 - b) Try to wait couple of minutes. If it's not fixed, you need to relogin to your account.
 - c) If relogin still stuck you on load, try to add account via debug menu. Debug Menu > Accounts > Login > Production
 
