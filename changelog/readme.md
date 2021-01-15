@@ -2,12 +2,61 @@
 
 [Download Nicegram](/faq/#download)
 
-🍏 - Build is available in AppStore
+🍏 - The most recent build is available on the Appstore
 
 ---
 
-### 7.0.1 Sep 30, 2020
+### 7.3.1 Jan 14, 2021
+In this update Nicegram delivers missing features that loved by everyone!
 
+Also providing better experience for Premium users.
+
+
+- [Premium] Jump to last selected folder after app restart
+
+- Show Profile ID for users/groups/channels
+
+- Pull down settings menu to see your own ID
+
+- Approximate Registration Date with improved algorithm for users & bots
+
+- Send messages with "Enter" keyboard button
+
+- Start Round Video with Rear camera
+
+- Mute chat options for 1, 4, 8, 24 and 48 hours
+
+- Keep Media up to 1 hour, 1 day or 3 days
+
+- Hide phone number in settings
+
+- Instant Passcode/Face ID/Touch ID lock
+
+- Hide other Account name in Notification (for multiple accounts)
+
+- Bugfixes as well :)
+
+
+Subscribe to @nicegramapp for updates and promocode giveaways!
+
+### 7.3 Dec 31, 2020
+Nicegram now supports 7.3 sources with Voice Chats in Groups, Announce Messages with Siri and more!
+
+This also includes some fixes for Premium on non-latest devices and improvements for translator.
+
+### 7.2 Nov 2, 2020
+Nicegram now supports 7.2 sources including Pinned Messages 2.0, Improved Live Locations, Playlists and More!
+
+Bugfix for messages translator included.
+
+### 7.1 Oct 9, 2020
+Nicegram now based on 7.1 sources, with videocalls, comments and supports Apple Watch app. iOS 14 bugfixes included
+
+
+A lot of features have changed, please visit https://nicegram.app/7.0/ for details.
+
+
+### 7.0.1 Sep 30, 2020
 Nicegram now based on 7.0 sources and supports Apple Watch app.
 
 A lot of features have changed, please visit https://nicegram.app/7.0/ for details.
