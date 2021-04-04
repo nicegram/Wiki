@@ -1,5 +1,5 @@
 # Apple Device Check
 
-Python library that protects apps from API & Content abuse, based on [Apple DeviceCheck API](https://developer.apple.com/documentation/devicecheck/accessing_and_modifying_per-device_data)
+Python library based on [Apple DeviceCheck API] that protects apps from API & Content abuse, affordong ability to validate, update and query anonymous device data on Apple Servers. (https://developer.apple.com/documentation/devicecheck/accessing_and_modifying_per-device_data)
 
 https://github.com/Kylmakalle/devicecheck
