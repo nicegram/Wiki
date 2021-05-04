@@ -1,47 +1,46 @@
 # FAQ di Nicegram
+
 _Qui molto probabilmente troverai le risposte alle domande più frequenti su Nicegram, un'applicazione Telegram modificata per iOS.  Se non hai trovato la risposta alla tua domanda, chiedici su_ [_@nicegram_it_](https://t.me/nicegram_it).
 
 ![immagine](images/banner.png)
 
-
 ## Indice
 
-*   [Caratteristiche di Nicegram](#caratteristiche-di-nicegram)
-*   [Scarica](#Scarica)
-*   [Chat e canali internazionali](#chat-e-canali-internazionali)
-*   [Come faccio ad accedere alle chat bloccate?](#come-faccio-ad-accedere-alle-chat-bloccate)
-*   [Perché la funzione di debug non funziona più?](#perche-la-funzione-di-debug-non-funziona-piu)
-*   [Come faccio a riavviare Nicegram?](#come-faccio-a-riavviare-nicegram)
-*   [Come posso suggerire una nuova funzione?](#come-posso-suggerire-una-nuova-funzione)
-*   [Come faccio a segnalare un bug su Nicegram?](#come-faccio-a-segnalare-un-bug-su-nicegram)
-*   [Perché non riesco a vedere le anteprime delle immagini nelle notifiche o a rispondere alle notifiche?](#perche-non-riesco-a-vedere-le-anteprime-delle-immagini-nelle-notifiche-o-a-rispondere-alle-notifiche)
-*   [Perché non c'è un'app per Apple Watch?](#perche-non-ce-un-app-per-apple-watch)
-*   [Come posso ottenere Nicegram per macOS?](#come-posso-ottenere-nicegram-per-macos)
-*   [Come posso ottenere Nicegram per Android?](#come-posso-ottenere-nicegram-per-android)
-*   [Perché non posso unirmi alla beta TestFlight?](#perche-non-posso-unirmi-alla-beta-testflight)
-*   [Perché sono stato rimosso dalla beta TestFlight?](#perche-sono-stato-rimosso-dalla-beta-testflight)
-*   [Quando si aggiornerà Nicegram?](#quando-si-aggiornera-nicegram)
-*   [Informativa sulla privacy](#informativa-sulla-privacy)
-*   [Codice sorgente](#codice-sorgente)
-*   [Traduci Nicegram](#traduci-nicegram)
-*   [Dona](#dona)
+* [Caratteristiche di Nicegram](#caratteristiche-di-nicegram)
+* [Scarica](#Scarica)
+* [Chat e canali internazionali](#chat-e-canali-internazionali)
+* [Come faccio ad accedere alle chat bloccate?](#come-faccio-ad-accedere-alle-chat-bloccate)
+* [Perché la funzione di debug non funziona più?](#perche-la-funzione-di-debug-non-funziona-piu)
+* [Come faccio a riavviare Nicegram?](#come-faccio-a-riavviare-nicegram)
+* [Come posso suggerire una nuova funzione?](#come-posso-suggerire-una-nuova-funzione)
+* [Come faccio a segnalare un bug su Nicegram?](#come-faccio-a-segnalare-un-bug-su-nicegram)
+* [Perché non riesco a vedere le anteprime delle immagini nelle notifiche o a rispondere alle notifiche?](#perche-non-riesco-a-vedere-le-anteprime-delle-immagini-nelle-notifiche-o-a-rispondere-alle-notifiche)
+* [Perché non c'è un'app per Apple Watch?](#perche-non-ce-un-app-per-apple-watch)
+* [Come posso ottenere Nicegram per macOS?](#come-posso-ottenere-nicegram-per-macos)
+* [Come posso ottenere Nicegram per Android?](#come-posso-ottenere-nicegram-per-android)
+* [Perché non posso unirmi alla beta TestFlight?](#perche-non-posso-unirmi-alla-beta-testflight)
+* [Perché sono stato rimosso dalla beta TestFlight?](#perche-sono-stato-rimosso-dalla-beta-testflight)
+* [Quando si aggiornerà Nicegram?](#quando-si-aggiornera-nicegram)
+* [Informativa sulla privacy](#informativa-sulla-privacy)
+* [Codice sorgente](#codice-sorgente)
+* [Traduci Nicegram](#traduci-nicegram)
+* [Dona](#dona)
 
 ## Caratteristiche di Nicegram
 
-*   Tab configurabili per filtrare le vostre chat: Admin, Bot, Canali, Gruppi, Utenti, Non letti, Non mutati
-*   Cartelle per le chat
-*   Inoltro senza firma
-*   Sblocca le chat e i canali bloccati
-*   Nascondi le tab non utilizzate
-*   Fino a 7 account
-*   Conferma prima di iniziare una chat segreta, condividere le informazioni di un contatto e chiamare
-*   Traduzioni in cinese semplificato e tradizionale integrate
-*   Aprire i link nei browser esterni: Chrome, Yandex, DuckDuckGo, Alook e altro ancora
+* Tab configurabili per filtrare le vostre chat: Admin, Bot, Canali, Gruppi, Utenti, Non letti, Non mutati
+* Cartelle per le chat
+* Inoltro senza firma
+* Sblocca le chat e i canali bloccati
+* Nascondi le tab non utilizzate
+* Fino a 7 account
+* Conferma prima di iniziare una chat segreta, condividere le informazioni di un contatto e chiamare
+* Traduzioni in cinese semplificato e tradizionale integrate
+* Aprire i link nei browser esterni: Chrome, Yandex, DuckDuckGo, Alook e altro ancora
 
 Per ulteriori caratteristiche, date un'occhiata alle [feature di Nicegram](/it/features)!
 
 > [_Torna su_](#indice)
-
 
 ## Scarica
 
@@ -50,7 +49,6 @@ Per ulteriori caratteristiche, date un'occhiata alle [feature di Nicegram](/it/f
 * `.ipa` (solo jailbreak): [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
 > [_Torna su_](#indice)
-
 
 ## Chat e canali internazionali
 
@@ -80,7 +78,7 @@ Invece, si prega di seguire la [guida allo sblocco](/it/unblock) per accedere al
 
 ## Come posso suggerire una nuova funzione?
 
-Vai su https://vote.nicegram.app/.
+Vai su <https://vote.nicegram.app/>.
 
 Guarda le richieste approvate e quelle respinte prima di scrivere la tua. Non suggerire duplicati!
 
@@ -96,26 +94,26 @@ La maggior parte dei bug in Nicegram sono anche bug dell'app ufficiale di Telegr
 
 Ci sono alcuni bug che Nicegram non può risolvere:
 
-*   Non è possibile vedere le anteprime delle immagini nelle notifiche o a rispondere alle notifiche ([work-around](#perche-non-riesco-a-vedere-le-anteprime-delle-immagini-nelle-notifiche-o-a-rispondere-alle-notifiche))
-*   **Crash casuali**
-*   Le chiamate audio non funzionano in backgroud
-*   "Aggiornamento..." per molto tempo
-*   Non vengono aggiornate le chat in background
-*   La posizione live non si aggiorna in backround
-*   Mancato invio di messaggi in background
-*   Le notifiche non scompaiono se il messaggio viene letto o cancellato
-*   "Connessione..." per sempre, anche se l'applicazione ufficiale è OK (si può provare a utilizzare un proxy)
-*   Impossibile lasciare la chat dalla schermata delle informazioni della chat
+* Non è possibile vedere le anteprime delle immagini nelle notifiche o a rispondere alle notifiche ([work-around](#perche-non-riesco-a-vedere-le-anteprime-delle-immagini-nelle-notifiche-o-a-rispondere-alle-notifiche))
+* **Crash casuali**
+* Le chiamate audio non funzionano in backgroud
+* "Aggiornamento..." per molto tempo
+* Non vengono aggiornate le chat in background
+* La posizione live non si aggiorna in backround
+* Mancato invio di messaggi in background
+* Le notifiche non scompaiono se il messaggio viene letto o cancellato
+* "Connessione..." per sempre, anche se l'applicazione ufficiale è OK (si può provare a utilizzare un proxy)
+* Impossibile lasciare la chat dalla schermata delle informazioni della chat
 
-Se il problema che avete trovato non è elencato sopra, inviate un messaggio sulla [chat italiana di Nicegram](https://t.me/nicegram_it) con tutte le informazioni elencate qui sotto. 
+Se il problema che avete trovato non è elencato sopra, inviate un messaggio sulla [chat italiana di Nicegram](https://t.me/nicegram_it) con tutte le informazioni elencate qui sotto.
 
-1.  L'hashtag **#bug**.
-2.  Una breve ma **completa descrizione** del bug. (Puoi anche includere un video o una foto che dimostri il bug, se pensi che possa essere d'aiuto).
-3.  Quale **versione di iOS** stai usando (13.1.3, 12.4.1, ecc.).
-4.  Quale **versione di Nicegram** stai usando (5.11, 5.10, ecc.).
-5.  Quale **numero di Nicegram** stai usando (66, ecc.).
+1. L'hashtag **#bug**.
+2. Una breve ma **completa descrizione** del bug. (Puoi anche includere un video o una foto che dimostri il bug, se pensi che possa essere d'aiuto).
+3. Quale **versione di iOS** stai usando (13.1.3, 12.4.1, ecc.).
+4. Quale **versione di Nicegram** stai usando (5.11, 5.10, ecc.).
+5. Quale **numero di Nicegram** stai usando (66, ecc.).
 
-Potete trovare la versione e il numero di build di Nicegram toccando l'ingranaggio delle impostazioni 10 volte velocemente e poi scorrendo fino alla parte inferiore dello schermo. Dovreste vedere `com.nicegram.Telegram-iOS` e `X.XX (YY)`. 
+Potete trovare la versione e il numero di build di Nicegram toccando l'ingranaggio delle impostazioni 10 volte velocemente e poi scorrendo fino alla parte inferiore dello schermo. Dovreste vedere `com.nicegram.Telegram-iOS` e `X.XX (YY)`.
 
 `X.XX` è il numero della versione. `(YY)` è il numero della build.
 
@@ -173,13 +171,13 @@ L'informativa sulla privacy di Nicegram è disponibile qui: [Privacy Policy](pri
 
 TL;DR: Nicegram è un fork dell'applicazione ufficiale Telegram per iOS e si basa sulle API Telegram. Nicegram non agisce in modo maligno e non tiene traccia né condivide i vostri dati sensibili.
 
-Se sblocchi le chat utilizzando il sito web (https://my.nicegram.app/) o il bot ([@Nicegram_bot](http://t.me/Nicegram_bot)), i server di Nicegram memorizzano solo i dati visibili pubblicamente (il tuo Telegram ID) in modo che l'app possa recuperare le tue impostazioni.
+Se sblocchi le chat utilizzando il sito web (<https://my.nicegram.app/>) o il bot ([@Nicegram_bot](http://t.me/Nicegram_bot)), i server di Nicegram memorizzano solo i dati visibili pubblicamente (il tuo Telegram ID) in modo che l'app possa recuperare le tue impostazioni.
 
 > [_Torna su_](#indice)
 
 ## Codice sorgente
 
-Il codice sorgente di Nicegram è su GitHub: https://github.com/nicegram
+Il codice sorgente di Nicegram è su GitHub: <https://github.com/nicegram>
 
 > [_Torna su_](#indice)
 
@@ -187,13 +185,13 @@ Il codice sorgente di Nicegram è su GitHub: https://github.com/nicegram
 
 [Traduci Nicegram!](/it/translate)
 
-Crowdin - https://translate.nicegram.app
+Crowdin - <https://translate.nicegram.app>
 
 > [_Torna su_](#indice)
 
 ## Dona
 
-Patreon - https://www.patreon.com/nicegram
+Patreon - <https://www.patreon.com/nicegram>
 
 Altri modi - [@Kylmakalle](https://t.me/Kylmakalle) (Sviluppatore)
 

@@ -1,6 +1,7 @@
 # Ghost mode su Nicegram
 
-### Come funziona?
+## Come funziona?
+
 Quando si attiva la ghost mode, l'app imposta l'impostazione della privacy "Ultimo accesso" su "Nessuno".
 
 Dopodiché, l'applicazione abilita la "Modalità Anteprima delle chat". Si tratta di un'impostazione globale per l'intera app.
@@ -15,5 +16,4 @@ Se invii o digiti **QUALUNQUE** messaggio a **CHIUNQUE**, il tuo stato online pu
 
 La ghost mode è solo una scorciatoia per le azioni dell'applicazione ufficiale.
 
-
-##### P.S. È ancora una caratteristica sperimentale e tutto può cambiare.
+### P.S. È ancora una caratteristica sperimentale e tutto può cambiare

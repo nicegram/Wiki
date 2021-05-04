@@ -2,9 +2,9 @@
 
 Benvenuti in Nicegram: un'app di messaggistica rapida, sicura e piacevole. Immagina il mix di potenti API Telegram, un'attenta ottimizzazione del codice e caratteristiche uniche che offrono un livello completamente nuovo di esperienza che non puoi rifiutare!
 
-![immagine](images/NicegramGrid.png)
+![Immagine di presentazione](images/NicegramGrid.png)
 
-## Nicegram ti restituisce la gioia della pura comunicazione:
+## Nicegram ti restituisce la gioia della pura comunicazione
 
 - Dimentica l'inutile censura. Non finirete più nella situazione in cui qualcuno sa meglio di voi con quali gruppi, canali o bot dovreste o non dovreste interagire.
 
@@ -24,9 +24,10 @@ Benvenuti in Nicegram: un'app di messaggistica rapida, sicura e piacevole. Immag
 
 - Amministra come un CEO. Limita gli utenti più velocemente di un proiettile. Tocca a lungo un messaggio e passa al menù delle eccezioni. Ora puoi controllare la durata dell'eccezione fino al secondo.
 
-- Nicegram non è solo NICE, ma è anche SICURO da usare. Non limitarti a crederci sulla parola. Vai a controllare il codice sorgente su GitHub: https://github.com/nicegram
+- Nicegram non è solo NICE, ma è anche SICURO da usare. Non limitarti a crederci sulla parola. Vai a controllare il codice sorgente su GitHub: <https://github.com/nicegram>
 
-### Nicegram fornisce anche le caratteristiche:
+### Nicegram fornisce anche le caratteristiche
+
 - "Salta la storia della lettura" - non inviare il segno "leggi" nelle chat. Si attiva tramite il menu Debug, toccare 15 volte l'icona delle impostazioni, scorrere verso il basso.
 - Conferma prima di iniziare una chat segreta, condividere le informazioni di un contatto e chiamare.
 - Traduzioni in cinese semplificato e tradizionale.
@@ -37,9 +38,8 @@ Benvenuti in Nicegram: un'app di messaggistica rapida, sicura e piacevole. Immag
 - Nascondere il numero di telefono nel menu delle impostazioni.
 - Nascondi i canali sponsorizzati da proxy (Sì, è disponibile anche nell'app ufficiale, ma Nicegram lo rende più facile)
 
-
 Ami Nicegram così tanto?
-Potete donare a Nicegram! https://patreon.com/nicegram
+Potete donare a Nicegram! <https://patreon.com/nicegram>
 
 Scarica [Nicegram dall'AppStore](https://itunes.apple.com/app/id1457369322)
 

@@ -1,9 +1,10 @@
 # Ghost Mode in Nicegram
 
-### How it works?
-When you enable Ghost Mode, app sets your «Last Seen» privacy setting to "Nobody". 
+## How it works?
 
-After that, application enables «Chats Preview mode». It's global setting for entire app. 
+When you enable Ghost Mode, app sets your «Last Seen» privacy setting to "Nobody".
+
+After that, application enables «Chats Preview mode». It's global setting for entire app.
 Last seen privacy changes only for current selected account.
 You need to "re-enable" it after you switch to other account.
 
@@ -14,5 +15,4 @@ If you send or type **ANY** message to **ANYBODY**, your online status may be re
 
 Ghost Mode feature is just a shortcut for Official Telegram actions.
 
-
-##### P.S. It's still an experimental feature and everything may change, you know.
+### P.S. It's still an experimental feature and everything may change, you know

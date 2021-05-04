@@ -4,7 +4,7 @@ Welcome to Nicegram – fast, secure and nice messaging app. Imagine the mix of 
 
 ![image](images/NicegramGrid.png)
 
-## Nicegram returns you the joy of pure communication:
+## Nicegram returns you the joy of pure communication
 
 - **Forget about unnecessary censorship.** You will no longer end up in a situation when someone knows better which groups, channels or bots you should or should not interact with. [Read more](/unblock)
 
@@ -25,7 +25,8 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 
 - **Nicegram is not only NICE. It is SAFE to use.** Don’t just take my word for it. Go and check yourself the source code at: [https://github.com/nicegram](https://github.com/nicegram)
 
-### Nicegram also provides features:
+### Nicegram also provides features
+
 - "Skip read history" - don't send "read" mark in chats. Activates via Debug menu, tap 15x times on settings icon, scroll down.
 - Confirmation before starting a secret chat, sharing your contact info, and calling
 - In-built Simplified and Traditional Chinese translations
@@ -35,7 +36,6 @@ You're an admin and want to get rid of the pinned message that plays on your ner
 - Shows ID in chat info. Tap on ID to copy it
 - Hide phone number in settings menu
 - Hides proxy sponsored channels (Yes, it's available in official app too, but Nicegram makes it easier)
-
 
 Love features so much?
 
