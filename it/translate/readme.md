@@ -1,4 +1,5 @@
 # Traduci Nicegram
+
 Nicegram vuole offrire la migliore esperienza per ogni utente in ogni lingua.
 
 Nicegram invita tutti a tradurre, controllare l'ortografia e suggerire nuove traduzioni o lingue!
@@ -9,7 +10,7 @@ Per favore, guarda le [traduzioni ufficiali](https://translations.telegram.org/e
 
 Discuti le traduzioni nella chat se non siete sicuri.
 
-Traduci: https://translate.nicegram.app
+Traduci: <https://translate.nicegram.app>
 
 Mandate un messaggio a [@Kylmakalle](https://t.me/Kylmakalle) se avete fatto una nuova traduzione, sarà aggiunto nell'app.
 
@@ -18,7 +19,6 @@ Mandate un messaggio a [@Kylmakalle](https://t.me/Kylmakalle) se avete fatto una
 È difficile controllare le traduzioni tramite [telegra.ph](https://telegra.ph) o altre piattaforme, quindi ora Nicegram utilizza questo sito web.
 
 Passi da tradurre:
-
 
 0) Forka/Scaricate [questa repo](https://github.com/nicegram/nicegram.github.io)
 
@@ -42,13 +42,11 @@ Per favore, non tradurre la sezione "chat", ma solo fare riferimento alla sezion
 
 [Esempio di pull-request](https://github.com/nicegram/nicegram.github.io/pull/1).
 
-
-### Indici (FAQ).
+### Indici (FAQ)
 
 Piccolo script in python che creerà un'intestazione che potrete inserire nell'indice. (non so se funziona per il cinese)
 
 Online: [https://repl.it/repls/SpecificIndigoOperatingsystem](https://repl.it/repls/SpecificIndigoOperatingsystem) (clicca Run)
-
 
 Locale:
 
@@ -66,6 +64,5 @@ while True:
     print(sanitize(st))
     print('\n')
 ```
-
 
 Grazie mille in anticipo!

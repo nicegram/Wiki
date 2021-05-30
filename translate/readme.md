@@ -1,4 +1,5 @@
 # Translate Nicegram
+
 Nicegram wants to deliver best experience for every user in every language.
 
 Nicegram invites everyone to Translate, Spellcheck and Suggest new translations or languages!
@@ -18,7 +19,6 @@ Ping [@Kylmakalle](https://t.me/Kylmakalle) if you've done a new translation, so
 It's hard to control translations via [telegra.ph](https://telegra.ph) or other platforms. So now Nicegram using this website.
 
 Steps to translate:
-
 
 0) Fork/Download [this repo](https://github.com/nicegram/nicegram.github.io)
 
@@ -42,13 +42,11 @@ You can use [this folder](https://github.com/nicegram/nicegram.github.io/tree/ma
 
 [Example Pull Request](https://github.com/nicegram/nicegram.github.io/pull/1) for addding Turkish translation.
 
-
-### Header Anchors (FAQs).
+### Header Anchors (FAQs)
 
 Small python script that will create a header which you can insert in table of contents. (not sure if works for chinese)
 
 Online: [https://repl.it/repls/SpecificIndigoOperatingsystem](https://repl.it/repls/SpecificIndigoOperatingsystem) (hit Run)
-
 
 Local:
 
@@ -66,6 +64,5 @@ while True:
     print(sanitize(st))
     print('\n')
 ```
-
 
 Thank you in advance!

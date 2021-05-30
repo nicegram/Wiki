@@ -1,7 +1,8 @@
 # Ottenere la Beta Premium
+
 Se acquisti Premium, hai diritto a ricevere la Beta premium su Testflight
 
-### Passi per ottenere la Beta Premium
+## Passi per ottenere la Beta Premium
 
 1) Scegli [smetti di testare](images/StopTesting.png) su Testflight per lasciare la beta pubblica.
 
@@ -13,7 +14,8 @@ Se acquisti Premium, hai diritto a ricevere la Beta premium su Testflight
 
 5) Inviare la prova di acquisto al [bot apposito](https://t.me/NicegramBetaBot). Aggiungi l'hashtag `#ngbeta` e inserisci un'email valida per ricevere un invito!
 
-#### ❗️ Manda UNA SOLA FOTO CON LA DESCRIZIONE INCORPORATA, gli altri messaggi saranno ignorati!
-![](images/SampleRequest.png)
+## ❗️ Manda UNA SOLA FOTO CON LA DESCRIZIONE INCORPORATA, gli altri messaggi saranno ignorati
+
+![Esempio di richiesta](images/SampleRequest.png)
 
 Aspetta che la tua richiesta venga elaborata, riceverai un'e-mail con l'invito.

@@ -1,56 +1,54 @@
 # Nicegram FAQ
+
 _Here are answers to frequently asked questions about Nicegram, a modified Telegram app for iOS.  If you did not find the answer to your question, please ask us in_ [_@NicegramChat_](https://t.me/nicegramchat).
 
 ![image](images/banner.png)
 
-
 ## Table of Contents
 
-*   [Nicegram Features](#nicegram-features)
-*   [Download](#download)
-*   [Community Chats and Channels](#community-chats-and-channels)
-*   [How do I access blocked chats?](#how-do-i-access-blocked-chats)
-*   [Why doesn’t Nicegram Debug work anymore?](#why-doesnt-nicegram-debug-work-anymore)
-*   [How do I restart Nicegram?](#how-do-i-restart-nicegram)
-*   [How do I suggest a new feature?](#how-do-i-suggest-a-new-feature)
-*   [How do I report a bug in Nicegram?](#how-do-i-report-a-bug-in-nicegram)
-*   [Why can’t I see previews of images in notifications or reply from notifications?](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications)
-*   [Why is there no Apple Watch app for Nicegram?](#why-is-there-no-apple-watch-app-for-nicegram)
-*   [How do I get Nicegram for macOS?](#how-do-i-get-nicegram-for-macos)
-*   [How do I get Nicegram for Android?](#how-do-i-get-nicegram-for-android)
-*   [Why can’t I join the TestFlight beta?](#why-cant-i-join-the-testflight-beta)
-*   [When will Nicegram update?](#why-hasnt-nicegram-been-updated-with-the-newest-features-from-telegram)
-*   [Privacy Policy](#privacy-policy)
-*   [Source Code](#source-code)
-*   [Translate Nicegram](#translate-nicegram)
-*   [Donate](#donate)
+* [Nicegram Features](#nicegram-features)
+* [Download](#download)
+* [Community Chats and Channels](#community-chats-and-channels)
+* [How do I access blocked chats?](#how-do-i-access-blocked-chats)
+* [Why doesn’t Nicegram Debug work anymore?](#why-doesnt-nicegram-debug-work-anymore)
+* [How do I restart Nicegram?](#how-do-i-restart-nicegram)
+* [How do I suggest a new feature?](#how-do-i-suggest-a-new-feature)
+* [How do I report a bug in Nicegram?](#how-do-i-report-a-bug-in-nicegram)
+* [Why can’t I see previews of images in notifications or reply from notifications?](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications)
+* [Why is there no Apple Watch app for Nicegram?](#why-is-there-no-apple-watch-app-for-nicegram)
+* [How do I get Nicegram for macOS?](#how-do-i-get-nicegram-for-macos)
+* [How do I get Nicegram for Android?](#how-do-i-get-nicegram-for-android)
+* [Why can’t I join the TestFlight beta?](#why-cant-i-join-the-testflight-beta)
+* [When will Nicegram update?](#why-hasnt-nicegram-been-updated-with-the-newest-features-from-telegram)
+* [Privacy Policy](#privacy-policy)
+* [Source Code](#source-code)
+* [Translate Nicegram](#translate-nicegram)
+* [Donate](#donate)
 
 ## Nicegram Features
 
-*   Configurable chat tabs for filtering your chats: Admin, Bots, Channels, Groups, Users, Unread, Unumted
-*   Folders for chats
-*   Forwarding without author
-*   Unlock blocked chats & channels
-*   Hide unused tabs
-*   Up to 7 accounts
-*   Confirmation before starting a secret chat, sharing your contact info, and calling
-*   In-built Simplified and Traditional Chinese translations
-*   Open links in external browsers: Chrome, Yandex, DuckDuckGo, Alook, and more
+* Configurable chat tabs for filtering your chats: Admin, Bots, Channels, Groups, Users, Unread, Unumted
+* Folders for chats
+* Forwarding without author
+* Unlock blocked chats & channels
+* Hide unused tabs
+* Up to 7 accounts
+* Confirmation before starting a secret chat, sharing your contact info, and calling
+* In-built Simplified and Traditional Chinese translations
+* Open links in external browsers: Chrome, Yandex, DuckDuckGo, Alook, and more
 
 For more features, check out [Meet Nicegram](../features)!
 
 > [_Back to top_](#table-of-contents)
 
-
 ## Download
 
-*   App Store: [https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)
-*   TestFlight (beta): [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
-*   TestFlight ([Premium beta](/premium/beta))
-*  `.ipa` (jailbreak only): [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
+* App Store: [https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)
+* TestFlight (beta): [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
+* TestFlight ([Premium beta](/premium/beta))
+* `.ipa` (jailbreak only): [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
 > [_Back to top_](#table-of-contents)
-
 
 ## Community Chats and Channels
 
@@ -96,26 +94,26 @@ Most bugs in Nicegram are also bugs in the official Telegram app. **We only acce
 
 There are some bugs that Nicegram cannot fix:
 
-*   Can’t reply from notifications or see media previews in notifications ([work-around](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications))
-*   **Random crashes**
-*   Audio calls not working in the background
-*   “Updating…” for a long time
-*   Not updating chats in the background
-*   Live location not updating in the backround
-*   Failing to send messages in the background
-*   Notifications not disappearing if the message is read or deleted
-*   “Connecting…” forever, even if official app is OK (you can try to use a proxy)
-*   Impossible to leave chat from chat info screen (You can leave via dialog list)
+* Can’t reply from notifications or see media previews in notifications ([work-around](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications))
+* **Random crashes**
+* Audio calls not working in the background
+* “Updating…” for a long time
+* Not updating chats in the background
+* Live location not updating in the backround
+* Failing to send messages in the background
+* Notifications not disappearing if the message is read or deleted
+* “Connecting…” forever, even if official app is OK (you can try to use a proxy)
+* Impossible to leave chat from chat info screen (You can leave via dialog list)
 
-If the issue you have found isn’t listed above, send a message in [the Nicegram Chat](https://t.me/nicegramchat) with every piece of information listed below. 
+If the issue you have found isn’t listed above, send a message in [the Nicegram Chat](https://t.me/nicegramchat) with every piece of information listed below.
 
-1.  The **#bug** hashtag.
-2.  A short but **complete description** of the bug. (You may also include a video or picture demonstrating the bug, if you think it would help.)
-3.  What **version of iOS** you are using (13.1.3, 12.4.1, etc.).
-4.  What **version of Nicegram** you are using (5.11, 5.10, etc.).
-5.  What **build number of Nicegram** you are using (66, etc.).
+1. The **#bug** hashtag.
+2. A short but **complete description** of the bug. (You may also include a video or picture demonstrating the bug, if you think it would help.)
+3. What **version of iOS** you are using (13.1.3, 12.4.1, etc.).
+4. What **version of Nicegram** you are using (5.11, 5.10, etc.).
+5. What **build number of Nicegram** you are using (66, etc.).
 
-You can find the version and build number of Nicegram by tapping the settings gear 10 times quickly and then scrolling to the bottom of the screen. You should see `com.nicegram.Telegram-iOS` and `X.XX (YY)`. 
+You can find the version and build number of Nicegram by tapping the settings gear 10 times quickly and then scrolling to the bottom of the screen. You should see `com.nicegram.Telegram-iOS` and `X.XX (YY)`.
 
 `X.XX` is the version number. `(YY)` is the build number.
 
