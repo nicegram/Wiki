@@ -127,11 +127,6 @@ If you don’t mind the extra notifications, you can turn off that setting in **
 
 > [_Back to top_](#table-of-contents)
 
-## Why is there no Apple Watch app for Nicegram?
-
-The developer can’t compile it using his current setup. A donation of about USD 2,000–3,000 is required to get a proper Mac and a real Apple Watch for testing (the Watch simulator is not enough). Also, the Watch app is not usefully modifiable.
-
-> [_Back to top_](#table-of-contents)
 
 ## How do I get Nicegram for macOS?
 
@@ -141,7 +136,7 @@ Nicegram is not available for macOS. However, you can use [Telegram macOS](https
 
 ## How do I get Nicegram for Android?
 
-Nicegram is only available for iOS. If you want another Android Telegram app, there are many alternatives [in the Play Store](https://play.google.com/store/search?q=Telegram&c=apps). People seem to like [Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US).
+Nicegram was generally available for iOS, but in 2021 we're introducting Nicegram for Android. It may lack of some features for a while, but you will definitely love it! Download [in the Play Store](https://play.google.com/store/apps/details?id=app.nicegram).
 
 > [_Back to top_](#table-of-contents)
 
