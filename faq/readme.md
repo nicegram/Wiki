@@ -15,7 +15,6 @@ _Here are answers to frequently asked questions about Nicegram, a modified Teleg
 * [How do I suggest a new feature?](#how-do-i-suggest-a-new-feature)
 * [How do I report a bug in Nicegram?](#how-do-i-report-a-bug-in-nicegram)
 * [Why can’t I see previews of images in notifications or reply from notifications?](#why-cant-i-see-previews-of-images-in-notifications-or-reply-from-notifications)
-* [Why is there no Apple Watch app for Nicegram?](#why-is-there-no-apple-watch-app-for-nicegram)
 * [How do I get Nicegram for macOS?](#how-do-i-get-nicegram-for-macos)
 * [How do I get Nicegram for Android?](#how-do-i-get-nicegram-for-android)
 * [Why can’t I join the TestFlight beta?](#why-cant-i-join-the-testflight-beta)
