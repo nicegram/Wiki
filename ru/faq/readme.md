@@ -133,12 +133,6 @@ _Тут ответы на частозадаваемые вопросы про N
 
 > [_Наверх_](#содержание)
 
-## Почему нет приложения Apple Watch для Nicegram?
-
-Разработчик не может скомпилить его на своей технике, а новый iMac + Apple Watch стоят дорого.
-Да и не особо сдались эти часики.
-
-> [_Наверх_](#содержание)
 
 ## Как установить Nicegram на MacOS?
 
@@ -150,7 +144,7 @@ Nicegram для MacOS не существует. Проще модифициро
 
 ## Как установить Nicegram для Android?
 
-Nicegram доступен только для iOS. если нужен другой клиент, есть много альтернатив в [Play Store](https://play.google.com/store/search?q=Telegram&c=apps). Многим нравится [Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US).
+Nicegram в основном был доступен только для iOS, но в 2021 году мы представляем Nicegram для Android. Некоторое время в нем могут отсутствовать определенные функции, но вам он обязательно понравится! Скачать [в Play Store] (https://play.google.com/store/apps/details?id=app.nicegram).
 
 > [_Наверх_](#содержание)
 
