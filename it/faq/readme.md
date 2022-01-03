@@ -15,7 +15,6 @@ _Qui molto probabilmente troverai le risposte alle domande più frequenti su Nic
 * [Come posso suggerire una nuova funzione?](#come-posso-suggerire-una-nuova-funzione)
 * [Come faccio a segnalare un bug su Nicegram?](#come-faccio-a-segnalare-un-bug-su-nicegram)
 * [Perché non riesco a vedere le anteprime delle immagini nelle notifiche o a rispondere alle notifiche?](#perche-non-riesco-a-vedere-le-anteprime-delle-immagini-nelle-notifiche-o-a-rispondere-alle-notifiche)
-* [Perché non c'è un'app per Apple Watch?](#perche-non-ce-un-app-per-apple-watch)
 * [Come posso ottenere Nicegram per macOS?](#come-posso-ottenere-nicegram-per-macos)
 * [Come posso ottenere Nicegram per Android?](#come-posso-ottenere-nicegram-per-android)
 * [Perché non posso unirmi alla beta TestFlight?](#perche-non-posso-unirmi-alla-beta-testflight)
@@ -127,12 +126,6 @@ Se non ti preoccupano le notifiche extra, puoi disattivare questa impostazione i
 
 > [_Torna su_](#indice)
 
-## Perché non c'è un'app per Apple Watch?
-
-Lo sviluppatore non può compilarla usando la sua attuale configurazione. È necessaria una donazione di circa 2.000 - 3.000 USD per ottenere un Mac adeguato e un vero Apple Watch da testare (il simulatore di Apple non è sufficiente). Inoltre, l'applicazione Watch non è modificabile in modo utile.
-
-> [_Torna su_](#indice)
-
 ## Come posso ottenere Nicegram per macOS?
 
 Nicegram non è disponibile per macOS. Tuttavia, è possibile utilizzare [Telegram per MacOS](https://telegram.org/macos). La versione non dell'App Store non ha restrizioni sui contenuti sensibili.
@@ -141,7 +134,7 @@ Nicegram non è disponibile per macOS. Tuttavia, è possibile utilizzare [Telegr
 
 ## Come posso ottenere Nicegram per Android?
 
-Nicegram è disponibile solo per iOS. Se vuoi un'altra applicazione Android Telegram, ci sono molte alternative [nel Play Store](https://play.google.com/store/search?q=Telegram&c=apps). Alla gente sembra piacere [Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en_US).
+Nicegram era generalmente disponibile per iOS, ma nel 2021 abbiamo introdotto Nicegram per Android. Potrebbe essere privo di alcune caratteristiche al momento, ma ti piacerà sicuramente! Scaricalo [dal Play Store](https://play.google.com/store/apps/details?id=app.nicegram).
 
 > [_Torna su_](#indice)
 
