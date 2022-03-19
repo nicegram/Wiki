@@ -43,7 +43,8 @@ Per ulteriori caratteristiche, date un'occhiata alle [feature di Nicegram](/it/f
 
 ## Scarica
 
-* App Store: [https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)
+* App Store: [https://apps.apple.com/app/apple-store/id1608870673](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)
+*   Google Play: [https://play.google.com/store/apps/details?id=app.nicegram](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
 * TestFlight (beta): [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 * `.ipa` (solo jailbreak): [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
@@ -186,6 +187,6 @@ Crowdin - <https://translate.nicegram.app>
 
 Patreon - <https://www.patreon.com/nicegram>
 
-Altri modi - [@Kylmakalle](https://t.me/Kylmakalle) (Sviluppatore)
+Altri modi - [@nicegram_official](https://t.me/nicegram_official) (Sviluppatore)
 
 > [_Torna su_](#indice)

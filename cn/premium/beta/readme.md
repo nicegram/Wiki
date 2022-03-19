@@ -5,8 +5,8 @@
 
 1) 在 TestFlight 中找到您先前通过公开链接加入的 Nicegram 内测（公测组），点击最底下红色字的 [停止测试](/images/StopTestingpng) ，退出 Nicegram 公测组。
 
-2) 在 [App Store](https://itunes.apple.com/app/id1457369322) 中下载安装 Nicegram。（此操作应该不会退出您的账号。您可以备份一下以防万一。）
-> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
+2) 在 [App Store](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8) 中下载安装 Nicegram。（此操作应该不会退出您的账号。您可以备份一下以防万一。）
+> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1608870673)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1608870673)、[澳门区](https://apps.apple.com/mo/app/id1608870673)、[台湾区](https://apps.apple.com/tw/app/id1608870673)）App Store。
 
 3) 在 Nicegram 的 “设置 -> Premium” 中购买 Premium。
 

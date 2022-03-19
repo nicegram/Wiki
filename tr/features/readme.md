@@ -40,6 +40,9 @@ Bu özellikleri sevdiniz mi?
 
 Nicegram'a bağış yapabilirsiniz! [https://patreon.com/nicegram](https://patreon.com/nicegram)
 
-[Nicegram'ı AppStore'da](https://itunes.apple.com/app/id1457369322) indir
+[Nicegram'ı AppStore'da](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8) indir
+
+[Nicegram'ı Google Play'da](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web) indir
+
 
 Son güncellemeler için [Nicegram kanalına](https://t.me/nicegramapp) abone olmayı unutmayın. Uygulamayı tartışmak ve önermek istediğiniz yeni **iyi** özellikler hakkında düşüncelerinizi paylaşmak için [Nicegram grubuna](https://t.me/nicegram_tr) katılın.

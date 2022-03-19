@@ -40,7 +40,10 @@
 
 Ты можешь пожертвовать на развитие Nicegram! [https://patreon.com/nicegram](https://patreon.com/nicegram)
 
-Скачать [Nicegram в AppStore](https://itunes.apple.com/app/id1457369322)
+Скачать [Nicegram в AppStore](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)
+
+Скачать [Nicegram в Google Play](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
+
 
 Не забывай подписываться на [канал](https://t.me/nicegramapp) чтобы не пропустить обновления. Заходи в [чат](https://t.me/nicegram_ru) для обсуждения приложения и рекомендаций новых крутых функций.
 

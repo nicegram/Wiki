@@ -3,7 +3,9 @@
 [下载 Nicegram](/cn/faq/#下载)
 
 🍏 - 已上架至 App Store
-> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
+> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)或中国港澳台地区（[香港区](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)、[澳门区](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)、[台湾区](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)）App Store。
+
+🤖 - 已上架至 Google Play(https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
 
 ---
 

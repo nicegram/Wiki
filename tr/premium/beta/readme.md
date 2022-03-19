@@ -5,7 +5,7 @@ AppStore'dan Premium alırsanız, Testflight'daki Premium Beta için hak kazanı
 
 1) Testflight'da herkese açık betadan ayrılmak için [Test Etmeyi Durdur](/images/StopTestingpng)'u seçin.
 
-2) [AppStore](https://itunes.apple.com/app/id1457369322)'dan Nicegram'ı yükleyin. (Hesaplarınızın çıkış yapmaması gerekir, ama yine de yedekleme yapın)
+2) [AppStore](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)'dan Nicegram'ı yükleyin. (Hesaplarınızın çıkış yapmaması gerekir, ama yine de yedekleme yapın)
 
 3) Ayarlar > Premium kısmından Premium'u satın alın.
 

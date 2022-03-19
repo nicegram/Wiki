@@ -43,7 +43,9 @@ Te gusta mucho esta caracteristica?
 
 Puedes donar a Nicegram usando nuestro [Patreon](https://patreon.com/nicegram)
 
-Descarga [Nicegram en la App Store](https://itunes.apple.com/app/id1457369322)
+Descarga [Nicegram en la App Store](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)
+
+Descarga [Nicegram en la Google Play](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
 
 Mas [Caracteristicas de Nicegram](/es/features)
 

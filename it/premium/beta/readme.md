@@ -6,7 +6,8 @@ Se acquisti Premium, hai diritto a ricevere la Beta premium su Testflight
 
 1) Scegli [smetti di testare](images/StopTesting.png) su Testflight per lasciare la beta pubblica.
 
-2) Installa Nicegram via [App Store](https://itunes.apple.com/app/id1457369322). (Non dovrebbe uscire dai tuoi account, ma fai un backup per sicurezza)
+2) Installa Nicegram via [App Store](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8). (Non dovrebbe uscire dai tuoi account, ma fai un backup per sicurezza)
+
 
 3) Acquista Premium tramite Impostazioni > Premium
 

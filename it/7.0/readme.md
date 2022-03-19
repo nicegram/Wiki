@@ -157,4 +157,4 @@ Il branch master (aggiornato) e 5.15.5 (vecchia versione) sono disponibili per e
 
 Riceverai sicuramente molte più notizie presto. Visto che ora ho molto meno tempo, ho bisogno di uno sviluppatore che contribuisca con me al progetto, così gli aggiornamenti verranno sviluppati molto più velocemente.
 
-Se sei interessato contatta [@Kylmakalle](https://t.me/Kylmakalle) e diventa parte di un team piccolissimo (che include solo me 😁)
+Se sei interessato contatta [@nicegram_official](https://t.me/nicegram_official) e diventa parte di un team piccolissimo (che include solo me 😁)

@@ -8,8 +8,11 @@ _被图中的提示所困扰？Nicegram 能够帮得上您。_
 
 目前有**三种**方法可供您选择。
 
-该教程仅对 **Nicegram 5.11 (59)** 及更高版本有效！如果您还在使用老版本，请 [从 App Store 中下载或更新 Nicegram][nicegram-app-store]。
-> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
+该教程仅对 **Nicegram** 及更高版本有效！如果您还在使用老版本，请 [从 App Store 中下载或更新 Nicegram][nicegram-app-store]。
+> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1608870673)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1608870673)、[澳门区](https://apps.apple.com/mo/app/id1608870673)、[台湾区](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)）App Store。
+
+该教程仅对 **Nicegram** 及更高版本有效！如果您还在使用老版本，请 [从 Google Play 中下载或更新 Nicegram][nicegram-google-play]
+> [⚠️注意：中国大陆地区 Google Play 无法下载](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
 
 
 ## 1. 通过 Telegram 机器人
@@ -79,12 +82,16 @@ _如果网站上的 Telegram 登录组件无效，那么这个方法应该有用
 喜欢这些功能吗？您可以在 [Patreon 平台](https://patreon.com/nicegram) 上赞助 Nicegram！
 
 下载 [App Store 中的 Nicegram][nicegram-app-store]
-> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
+> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1608870673)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1608870673)、[澳门区](https://apps.apple.com/mo/app/id1608870673)、[台湾区](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)）App Store。
+
+下载 [Google Play 中的 Nicegram][nicegram-google-play]
+>> ⚠️注意：[中国大陆地区 App Store 无法下载](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
 
 [了解更多 Nicegram 功能](/cn/features)
 
 别忘了订阅 [Nicegram 官方频道（@nicegramapp)](https://t.me/nicegramapp) 以获取最新的更新信息并深入了解这款 App。加入 [Nicegram 中文群组（@nicegram_cn)](https://t.me/nicegram_cn)，和大家一起交流探讨。您有些什么关于新功能的**好点子**也可以在群组里分享给我们。
 
 [app-store-guidelines]: https://developer.apple.com/cn/app-store/review/guidelines/#user-generated-content
-[nicegram-app-store]: https://apps.apple.com/app/id1457369322
+[nicegram-app-store]: https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8
+[nicegram-google-play]: https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web
 [force-close]: https://support.apple.com/zh-cn/HT201330

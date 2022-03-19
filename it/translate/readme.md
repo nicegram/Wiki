@@ -12,7 +12,7 @@ Discuti le traduzioni nella chat se non siete sicuri.
 
 Traduci: <https://translate.nicegram.app>
 
-Mandate un messaggio a [@Kylmakalle](https://t.me/Kylmakalle) se avete fatto una nuova traduzione, sarà aggiunto nell'app.
+Mandate un messaggio a [@nicegram_official](https://t.me/nicegram_official) se avete fatto una nuova traduzione, sarà aggiunto nell'app.
 
 ## Tradurre articoli
 
@@ -34,7 +34,7 @@ Passi da tradurre:
 
 6) Aggiungete i link degli articoli alla pagina principale se avete fatto una nuova traduzione.
 
-7) Invia una pull-request e messaggia privatamente [@Kylmakalle](https://t.me/Kylmakalle)
+7) Invia una pull-request e messaggia privatamente [@nicegram_official](https://t.me/nicegram_official)
 
 Per favore, non tradurre la sezione "chat", ma solo fare riferimento alla sezione "/ chat".
 

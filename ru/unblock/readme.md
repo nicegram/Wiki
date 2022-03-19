@@ -12,7 +12,7 @@ _Nicegram решит проблему._
 
 Метод работает для **Nicegram 5.11 (59)** and выше!
 
-Скачать/Обновить [Nicegram в AppStore](https://itunes.apple.com/app/id1457369322)
+Скачать/Обновить [Nicegram в AppStore](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8) или  [Nicegram в Google Play](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
 
 
 
@@ -90,7 +90,9 @@ VPN/Proxy не помогут!
 
 Ты можешь пожертвовать на развитие Nicegram! [https://patreon.com/nicegram](https://patreon.com/nicegram)
 
-Скачать [Nicegram в AppStore](https://itunes.apple.com/app/id1457369322)
+Скачать [Nicegram в AppStore](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)
+
+Скачать [Nicegram в Google Play](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
 
 Больше [функций Nicegram](/ru/features)
 

@@ -12,7 +12,7 @@ Discuss translations in chat if you're not sure.
 
 Translate: [https://translate.nicegram.app](https://translate.nicegram.app)
 
-Ping [@Kylmakalle](https://t.me/Kylmakalle) if you've done a new translation, so it will be added in the app.
+Ping [@nicegram_official](https://t.me/nicegram_official) if you've done a new translation, so it will be added in the app.
 
 ## Translate Articles
 
@@ -34,7 +34,7 @@ Steps to translate:
 
 6) Add article links to main page if you've done a new translation.
 
-7) Submit a pull-request and ping [@Kylmakalle](https://t.me/Kylmakalle)
+7) Submit a pull-request and ping [@nicegram_official](https://t.me/nicegram_official)
 
 Please, do not translate `chats` section, just refer to `/chats`
 

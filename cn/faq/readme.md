@@ -45,8 +45,9 @@ _这里整理了一些关于 Nicegram（一款 iOS 上的 Telegram 修改版 App
 
 ## 下载
 
-*   App Store：[https://apps.apple.com/app/id1457369322](https://apps.apple.com/app/id1457369322)
-> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1457369322)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1457369322)、[澳门区](https://apps.apple.com/mo/app/id1457369322)、[台湾区](https://apps.apple.com/tw/app/id1457369322)）App Store。
+* App Store: [https://apps.apple.com/app/apple-store/id1608870673](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)
+* Google Play: [https://play.google.com/store/apps/details?id=app.nicegram](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
+> ⚠️注意：中国大陆地区 App Store 无法下载，请移步[美国区](https://apps.apple.com/us/app/id1608870673)或中国港澳台地区（[香港区](https://apps.apple.com/hk/app/id1608870673)、[澳门区](https://apps.apple.com/mo/app/id1608870673)、[台湾区](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)）App Store。
 *   TestFlight（内测版）：[https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   `.ipa`（仅适用于已越狱系统）：[https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
@@ -196,6 +197,6 @@ Crowdin -> [https://translate.nicegram.app](https://translate.nicegram.app)
 
 Patreon -> [https://www.patreon.com/nicegram](https://www.patreon.com/nicegram)
 
-其他方式 -> [@Kylmakalle](https://t.me/Kylmakalle)（开发者 Sergey）
+其他方式 -> [@nicegram_official](https://t.me/nicegram_official
 
 > [_返回目录_](#目录)

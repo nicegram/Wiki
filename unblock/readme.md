@@ -84,12 +84,13 @@ Some chats may be inaccessible even in Nicegram due to the [App Store Guidelines
 
 Love this feature? You can donate to Nicegram! [https://patreon.com/nicegram](https://patreon.com/nicegram)
 
-Download [Nicegram in the App Store][nicegram-app-store]
+Download [Nicegram in the App Store][nicegram-app-store] or [Google Play][nicegram-google-play]
 
 [More Nicegram Features](/features)
 
 Don’t forget to subscribe to the [Nicegram channel](https://t.me/nicegramapp) for the latest updates and insights. You can also join the [Nicegram Chat](https://t.me/nicegramchat) to discuss the app and share your thoughts about new **nice** features.
 
 [app-store-guidelines]: https://developer.apple.com/app-store/review/guidelines/#user-generated-content
-[nicegram-app-store]: https://itunes.apple.com/app/id1457369322
+[nicegram-app-store]: https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8
+[nicegram-google-play]: https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web
 [force-close]: https://support.apple.com/en-us/HT201330

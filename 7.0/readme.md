@@ -164,4 +164,4 @@ Branches master (current) and 5.15.5 (old) are available for contribution and in
 
 You will hear more news soon. Since I have less time on NG now, I need some developer contribution assistance to the project, so updates can be released faster.
 
-Contact [@Kylmakalle](https://t.me/Kylmakalle) if you want to be part of a tiny team (which includes only me 😁)
+Contact [@nicegram_official](https://t.me/nicegram_official) if you want to be part of a tiny team (which includes only me 😁)

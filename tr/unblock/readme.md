@@ -24,7 +24,7 @@ Nicegram'da kullanılamayan sohbetlere erişebilirsiniz.
 
 Bunu yapmak için **üç** yol var.
 
-Bu rehber sadece **Nicegram 7.0.1 (1231)** ve üzeri sürümlerde çalışır! Daha eski bir sürüm kullanıyorsanız, [Nicegram'ı AppStore'da indirin veya güncelleyin](https://itunes.apple.com/app/id1457369322).
+Bu rehber sadece **Nicegram 7.0.1 (1231)** ve üzeri sürümlerde çalışır! Daha eski bir sürüm kullanıyorsanız, [Nicegram'ı AppStore'da](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8), [Nicegram'ı Google Play'da](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web).
 
 
 
@@ -101,7 +101,9 @@ Bu özelliği sevdiniz mi?
 
 Nicegram'a bağış yapabilirsiniz! [https://patreon.com/nicegram](https://patreon.com/nicegram)
 
-[Nicegram'ı AppStore'da](https://itunes.apple.com/app/id1457369322) indirin
+[Nicegram'ı AppStore'da](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8) indirin
+
+[Nicegram'ı Google Play'da](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web) indirin
 
 Daha Fazla [Nicegram Özelliği](/tr/features)
 

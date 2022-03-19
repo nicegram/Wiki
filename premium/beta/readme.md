@@ -6,7 +6,7 @@ If you get Premium in AppStore, you're eligible to get Premium Beta in Testfligh
 
 1) Choose [Stop Testing](images/StopTesting.png) in Testflight to leave public beta.
 
-2) Install Nicegram via [AppStore](https://itunes.apple.com/app/id1457369322). (It should not Log out you from your accounts, but make a backup)
+2) Install Nicegram via [AppStore](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8). (It should not Log out you from your accounts, but make a backup)
 
 3) Buy Premium in Settings > Premium
 

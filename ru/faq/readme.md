@@ -44,7 +44,8 @@ _Тут ответы на частозадаваемые вопросы про N
 
 ## Скачать
 
-*   AppStore - [https://itunes.apple.com/app/id1457369322](https://itunes.apple.com/app/id1457369322)
+*   AppStore - [https://apps.apple.com/app/apple-store/id1608870673](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)
+*   Google Play: [https://play.google.com/store/apps/details?id=app.nicegram](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
 *   TestFlight [БЕТА] - [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl)
 *   IPA [Только для Jailbreak!] - [https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ](https://t.me/joinchat/AAAAAFZneJeI_zyyNQ3ovQ)
 
@@ -193,7 +194,7 @@ https://nicegram.app/privacy-policy](https://nicegram.app/privacy-policy)
 
 Patreon - [https://www.patreon.com/nicegram](https://www.patreon.com/nicegram)
 
-Другие способы - [@Kylmakalle](https://t.me/Kylmakalle) (Разработчик)
+Другие способы - [@nicegram_official](https://t.me/nicegram_official) (Разработчик)
 
 > [_Наверх_](#содержание)
 

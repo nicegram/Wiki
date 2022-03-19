@@ -8,7 +8,7 @@ Our client’s open source code is available at <a href="<https://github.com/nic
 
 Using the mobile application “Nicegram” (hereinafter referred to as the Application), which is a branch project (fork) of the Telegram messenger, which operates on the basis of its open API, has additional functionality and design elements, the user (hereinafter referred to as the User) accepts this agreement (hereinafter referred to as the Agreement) regulating the rules for using the Application, the procedure for purchasing paid services in the Application, the responsibility of the parties and other relations related to the use of the Application.
 
-The developer and copyright holder of the Application is Sergey Akentev (hereinafter the Rightholder), however, the application is based on the Telegram API, operates through servers and services owned by Telegram, thus the exclusive right of the Rightholder applies to the results of intellectual activity and equated to them means of individualization, not affected by the terms of use of the API "Telegram".
+The developer and copyright holder of the Application is  Appvillis UAB (hereinafter the Rightholder), however, the application is based on the Telegram API, operates through servers and services owned by Telegram, thus the exclusive right of the Rightholder applies to the results of intellectual activity and equated to them means of individualization, not affected by the terms of use of the API "Telegram".
 
 Due to the feature of the Application and the direct relationship with the servers and the Telegram equipment, the User accepts as a fact, and the Rights Holder responsibly declares that it does not store, does not intend to store in the future, and does not process the personal data of the Application Users. All personal information of Users is transmitted and processed on servers and equipment of Telegram.
 
@@ -78,6 +78,6 @@ Due to the feature of the Application and the direct relationship with the serve
 
 ## REQUISITES OF THE TRUSTEE
 
-Name: Sergey Akentev
+Name: Appvillis UAB
 
-Email & Technical support: <a href="MAILTO:support@nicegram.app">support@nicegram.app</a>
+Email & Technical support: <a href="MAILTO:support@nicegram.app">nicegram@appvillis.com</a>

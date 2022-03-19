@@ -41,6 +41,9 @@ Benvenuti in Nicegram: un'app di messaggistica rapida, sicura e piacevole. Immag
 Ami Nicegram così tanto?
 Potete donare a Nicegram! <https://patreon.com/nicegram>
 
-Scarica [Nicegram dall'AppStore](https://itunes.apple.com/app/id1457369322)
+Scarica [Nicegram dall'AppStore](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)
+
+Scarica [Nicegram dall'Google Play](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web8)
+
 
 Non dimenticate di unirvi al [canale di Nicegram](https://t.me/nicegramapp) per gli ultimi aggiornamenti e approfondimenti. Unisciti al [gruppo di Nicegram](https://t.me/nicegram_it) per discutere dell'app e condividere i tuoi pensieri sulle nuove funzionalità che vuoi suggerire.

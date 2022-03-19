@@ -5,7 +5,7 @@
 
 1) Выберите [Прекратить тестирование](/images/StopTestingpng) в Testflight, чтоюы выйти из публичной беты.
 
-2) Установите Nicegram через [AppStore](https://itunes.apple.com/app/id1457369322). (Это не должно разлогинить из аккаунтов, но если что вы сами виноваты)
+2) Установите Nicegram через [AppStore](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8). (Это не должно разлогинить из аккаунтов, но если что вы сами виноваты)
 
 3) Купите Premium в Настройки > Премиум
 

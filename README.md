@@ -2,7 +2,8 @@
 
 Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, careful code optimization and unique features that deliver a whole new level of experience you can’t refuse!
 
-[📱 Download Nicegram from the App Store](https://itunes.apple.com/app/id1457369322)
+[🍏 Download Nicegram from the App Store](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)
+[🤖 Download Nicegram from the Google Play](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
 
 [Official Nicegram Channel](https://t.me/nicegramapp)
 
