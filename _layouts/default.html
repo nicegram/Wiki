@@ -1,55 +1,40 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-itunes-app" content="app-id=1457369322, affiliate-data=nicegramapp">
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="apple-itunes-app" content="app-id=1457369322, affiliate-data=nicegramapp">
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XP1L8EYZVV"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'G-XP1L8EYZVV');
-  </script>
-
-  {% seo %}
-  <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-  <!--[if lt IE 9]>
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  <style>
-    @media (max-width:629px) {
-      img#optionalstuff {
-        display: none;
-      }
-    }
-  </style>
-</head>
+    <style>
+        @media (max-width:629px) {
+          img#optionalstuff {
+            display: none;
+          }
+        }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-<body>
-  <div class="wrapper">
-    <header>
-      <h1><a href="{{ " /" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {% if site.logo %}
+          <img id="optionalstuff" src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
 
-      {% if site.logo %}
-      <img id="optionalstuff" src="{{site.logo | relative_url}}" alt="Logo" />
-      {% endif %}
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-      <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><a href="https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8" target="_blank">🍏 Download in AppStore</a></p>
+        </br>
+        <p><a href="https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web" target="_blank">🤖 Download in Google Play</a></p>
 
-      <p><a href="https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8"
-          target="_blank">🍏 Download in AppStore</a></p>
-      </br>
-      <p><a
-          href="https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web"
-          target="_blank">🤖 Download in Google Play</a></p>
-
-      <p class="view">
+        <p class="view">
         <a href="/">🇬🇧 English</a>
         </br>
         <a href="/ru">🇷🇺 Русский</a>
@@ -68,51 +53,47 @@
         </br>
 
         {% if site.github.is_project_page %}
-      <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{
-            site.github.repository_nwo }}</small></a></p>
-      {% endif %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
 
-      {% if site.github.is_user_page %}
-      <p class="view">
+        {% if site.github.is_user_page %}
+        <p class="view">
         <a href="{{ site.github.owner_url }}">⚙️ Source code</a>
         </br>
         <a href="/privacy-policy">📄 Privacy Policy</a>
-      </p>
-      {% endif %}
+        </p>
+        {% endif %}
 
-      {% if site.show_downloads %}
-      <ul class="downloads">
-        <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-        <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-        <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-      </ul>
-      {% endif %}
-    </header>
-    <section>
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+      </header>
+      <section>
 
       {{ content }}
 
-    </section>
-    <!-- <footer>
+      </section>
+      <!-- <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer> -->
-  </div>
-  <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
-  {% if site.google_analytics %}
-  <script>
-    (function (i, s, o, g, r, a, m) {
-      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-        (i[r].q = i[r].q || []).push(arguments)
-      }, i[r].l = 1 * new Date(); a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-    ga('create', '{{ site.google_analytics }}', 'auto');
-    ga('send', 'pageview');
-  </script>
-  {% endif %}
-</body>
-
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
 </html>
