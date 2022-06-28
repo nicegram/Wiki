@@ -1,10 +1,14 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appIDs": [ "ZUU76P392K.com.nicegram.Telegram-iOS.watchkitapp.watchkitextension" ],
-             "components": [ { "/": "/flicktype/*" } ]
-           }
-       ]
-   }
+    "apps": [],
+    "details": [
+      {
+        "appID": "T8B4U4YCDJ.app.nicegram",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      }
+    ]
+  }
 }
