@@ -1,5 +1,10 @@
 # Ghost Mode in Nicegram
 
+## Read me
+
+This functional is no longer supported anymore due to telegram ToS. 
+
+
 ## How it works?
 
 When you enable Ghost Mode, app sets your «Last Seen» privacy setting to "Nobody".
