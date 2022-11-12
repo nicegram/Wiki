@@ -12,7 +12,7 @@ Un'app di messaggistica rapida, sicura e piacevole. Immagina il mix di potenti A
 
 ## Articoli
 
-* [Nicegram 7.0](/it/7.0)
+* [App ufficiali di Nicegram](/it/apps)
 * [Changelogs](/it/changelog)
 * [Chat ufficiali](/it/chats)
 * [FAQ](/it/faq)
