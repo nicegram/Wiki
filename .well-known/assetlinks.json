@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.nicegram",
+        "sha256_cert_fingerprints": [
+          "BC:E0:AB:DC:C3:5D:A8:B0:5C:88:24:DC:60:28:11:71:7C:F9:E8:FA:CF:47:0A:D6:B2:E4:C0:49:A7:F3:A0:CA"
+        ]
+      }
+    }
+  ]
