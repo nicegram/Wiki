@@ -10,6 +10,9 @@ email: nicegram@appvillis.com
 twitter_username: nicegramapp
 github_username:  nicegram
 
+redirect_from:
+  json: false
+
 gems:
   - jekyll-redirect-from
 
