@@ -1,2 +1,2 @@
 Redirect 301 /faq https://nicegram.app/faq
-
+Redirect 301 "faq" "https://nicegram.app/faq"

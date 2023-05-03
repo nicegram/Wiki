@@ -11,5 +11,5 @@ twitter_username: nicegramapp
 github_username:  nicegram
 
 logo: Icon_tr.png
-include: [".well-known"]
+include: [".well-known",".htaccess"]
 
