@@ -4,9 +4,6 @@ webmaster_verifications:
 
 google_analytics: UA-148372418-3
 
-plugins:
-  - jekyll-redirect-from
-
 title: Nicegram
 email: nicegram@appvillis.com
 
@@ -16,5 +13,3 @@ github_username:  nicegram
 logo: Icon_tr.png
 include: [".well-known"]
 
-redirect_from:
-  json: false

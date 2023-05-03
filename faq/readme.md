@@ -1,7 +1,3 @@
----
-redirect_to: http://www.nicegram.app/faq
----
-
 # Nicegram FAQ
 
 _Here are answers to frequently asked questions about Nicegram, a modified Telegram app for iOS.  If you did not find the answer to your question, please ask us in_ [_@NicegramChat_](https://t.me/nicegramchat).
