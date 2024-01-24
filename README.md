@@ -1,30 +1,22 @@
-# Welcome to Nicegram
+---
+description: Open-Source Enhanced Telegram Client
+---
 
-Fast, secure and nice messaging app. Imagine the mix of powerful Telegram API, careful code optimization and unique features that deliver a whole new level of experience you can’t refuse!
+# 👋 Welcome to Nicegram
 
-[🍏 Download Nicegram from the App Store](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154&ct=nicegram.app&mt=8)
+Nicegram is an open-source client built on Telegram's API, offering extended functionalities beyond the standard Telegram app. It integrates advanced features while maintaining the core aspects of Telegram's user-friendly interface and security. As a community-driven project, Nicegram encourages contributions and feedback from its user base, facilitating continuous improvement. The platform is ideal for users looking for an enhanced messaging experience with added privacy and customization options.
 
-[🤖 Download Nicegram from the Google Play](https://play.google.com/store/apps/details?id=app.nicegram&utm_source=nicegram.app&utm_medium=main&utm_campaign=web)
+For more information and latest updates, visit the [Nicegram official website](https://nicegram.app/).
 
-[Official Nicegram Channel](https://t.me/nicegramapp)
+***
 
-[Official Nicegram Chat](https://t.me/nicegramchat)
+**Quick Links:**
 
-## Articles
+* **Download Nicegram:**
+  * [App Store](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154\&ct=nicegram.app\&mt=8)
+  * [Google Play](https://play.google.com/store/apps/details?id=app.nicegram\&utm\_source=nicegram.app\&utm\_medium=main\&utm\_campaign=web)
+* **Community and Contributions:**
+  * [Telegram Channel](https://t.me/nicegramapp)
+  * [GitHub](https://github.com/Nicegram)
 
-* [Nicegram Official Apps](/apps)
-* [Version History](/changelog)
-* [Official Chats](/chats)
-* [FAQ](/faq)
-* [Features](/features)
-* [Ghost mode](/ghost)
-* [Premium Beta](/premium/beta)
-* [Privacy Policy](privacy-policy.md)
-* [Translate](/translate)
-* [Unblock Chats](/unblock)
-
-## Translate
-
-Everybody is welcome to [Translate](/translate) Nicegram App and Website
-
-Nicegram also has a [Privacy Policy](privacy-policy.md).
+\
