@@ -35,5 +35,3 @@ Nicegram Wallet is continuously evolving. With plans to support additional block
 
 **Conclusion:**\
 Nicegram Wallet stands out as a versatile and secure solution for managing digital assets in the Web3 era. With its non-custodial nature, account abstraction, and innovative features like in-chat payments and a dApp marketplace, it provides a comprehensive and user-friendly platform for all your crypto needs. Join the Nicegram Wallet community today and take full control of your digital assets.
-
-Feel free to use this description on your website, app store listings, or promotional materials to effectively communicate the capabilities and benefits of the Nicegram Wallet.
