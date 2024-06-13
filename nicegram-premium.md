@@ -14,7 +14,6 @@ Nicegram Premium is a subscription-based upgrade within the Nicegram app, tailor
    * Enjoy unrestricted access to the [AI assistant](key-features/ai-assistant.md), with no limits or waiting times for AI requests, enhancing your messaging and task management experience.
      * **Built-in AI Assistant (GPT-4 LLM)**: Get intelligent responses and assistance directly in your chats.
      * **Built-in Image Generator (DALL·E 3)**: Generate images right within the app.
-     * **Built-in NSFW Image Generator**: Create NSFW images securely within the app.
 2. **Wisper by OpenAI for Speech2Text:**
    * Utilize Wisper by OpenAI for superior speech-to-text functionality, offering more accurate transcriptions compared to the standard Google option.
 3. **Advanced Features:**
@@ -35,4 +34,3 @@ Nicegram Premium is a subscription-based upgrade within the Nicegram app, tailor
 #### **How to Upgrade to Premium:**
 
 Upgrading to Nicegram Premium is easy. Navigate to the app settings, locate the Premium section, and follow the instructions to activate your subscription.
-

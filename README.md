@@ -1,5 +1,5 @@
 ---
-description: Open-Source Enhanced Telegram Client
+description: Open-Source Enhanced Telegram Client for Web3
 ---
 
 # 👋 Welcome to Nicegram
