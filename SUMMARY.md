@@ -1,7 +1,8 @@
 # Table of contents
 
 * [👋 Welcome to Nicegram](README.md)
-* [🛠 Key Features](key-features/README.md)
+* [🛠️ Key Features](key-features/README.md)
+  * [🔥 Web3 Wallet](key-features/web3-wallet.md)
   * [AI Assistant](key-features/ai-assistant.md)
   * [Nicegram Profile](key-features/nicegram-profile.md)
 * [🌟 Nicegram Premium](nicegram-premium.md)
@@ -10,8 +11,7 @@
   * [Nicegram Profit](earn-opportunities-with-nicegram/nicegram-profit.md)
   * [Referral System](earn-opportunities-with-nicegram/referral-system.md)
   * [Daily Tasks](earn-opportunities-with-nicegram/daily-tasks.md)
-* [ℹ Support Resources](support-resources/README.md)
-  * [Nicegram Virtual Card](support-resources/nicegram-virtual-card.md)
+* [ℹ️ Support Resources](support-resources/README.md)
   * [How to Unblock Guide](support-resources/how-to-unblock-guide.md)
   * [Legal Information](support-resources/legal-information.md)
   * [External Links & Social Media](support-resources/external-links-and-social-media.md)

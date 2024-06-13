@@ -18,5 +18,3 @@ For more information and latest updates, visit the [Nicegram official website](h
 * **Community and Contributions:**
   * [Telegram Channel](https://t.me/nicegramapp)
   * [GitHub](https://github.com/Nicegram)
-
-\
