@@ -1,22 +1,9 @@
----
-description: Open-Source Enhanced Telegram Client for Web3
----
+# Mission
 
-# 👋 Welcome to Nicegram
+Nicegram’s mission is to give users control — over their data, digital assets, and communication. The platform stands on three foundational principles:
 
-Nicegram is an open-source client built on Telegram's API, offering extended functionalities beyond the standard Telegram app. It integrates advanced features while maintaining the core aspects of Telegram's user-friendly interface and security. As a community-driven project, Nicegram encourages contributions and feedback from its user base, facilitating continuous improvement. The platform is ideal for users looking for an enhanced messaging experience with added privacy and customization options.
+1. **Open-Source Freedom** — The app’s source code is publicly available, allowing anyone to review or contribute. This openness ensures transparency, fosters innovation, and makes Nicegram adaptable to user needs.
+2. **Community Ownership** — Nicegram grows with its users. From feature requests to ambassador initiatives and earning programs, the ecosystem rewards participation and feedback, reinforcing a shared sense of ownership.
+3. **Privacy First** — Unlike centralized platforms that monetize user data, Nicegram prioritizes privacy and security. Users maintain full control over their accounts, private keys, and communication without third-party interference.
 
-For more information and latest updates, visit the [Nicegram official website](https://nicegram.app/).
-
-
-
-***
-
-**Quick Links:**
-
-* **Download Nicegram:**
-  * [App Store](https://apps.apple.com/app/apple-store/id1608870673?pt=119567154\&ct=nicegram.app\&mt=8)
-  * [Google Play](https://play.google.com/store/apps/details?id=app.nicegram\&utm\_source=nicegram.app\&utm\_medium=main\&utm\_campaign=web)
-* **Community and Contributions:**
-  * [Telegram Channel](https://t.me/nicegramapp)
-  * [GitHub](https://github.com/Nicegram)
+Together, these pillars make Nicegram a messenger built not just for Web3 users — but by them. It’s an evolving ecosystem that turns everyday communication into a gateway to decentralized finance, AI assistance, and secure self-sovereign interaction.
