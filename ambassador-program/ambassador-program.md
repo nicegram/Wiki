@@ -23,7 +23,7 @@ Ambassadors play a key role in promoting Nicegram, engaging with users, and cont
 * **Special Recognition:**\
   Featured across Nicegram’s official platforms and acknowledged for their contributions.
 * **Community Influence:**\
-  Play a leading role in shaping a community of over **2.8 million Monthly Active Users**
+  Play a leading role in shaping a community of over **9 million Monthly Active Users**
 
 #### **How to Apply**
 

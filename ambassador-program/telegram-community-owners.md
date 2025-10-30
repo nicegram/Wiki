@@ -14,7 +14,7 @@ For Telegram community owners, Nicegram offers unique tools and partnership oppo
 #### **Nicegram Ambassador Program Integration**
 
 * **Join a Global Community:**\
-  Telegram community owners can become part of Nicegram’s **Ambassador Program**, connecting with a global network of over **2.8 million Monthly Active Users (MAU)**.
+  Telegram community owners can become part of Nicegram’s **Ambassador Program**, connecting with a global network of over **9 million Monthly Active Users (MAU)**.
 * **Exclusive Promotion:**\
   Featured placement on Nicegram’s website, app, and the upcoming **Nicegram Hub** — a catalog of Telegram communities.
 * **Token Rewards:**\
