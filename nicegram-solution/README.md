@@ -1,4 +1,10 @@
-# Web3 Financial Messenger
+---
+icon: lightbulb
+---
+
+# Nicegram Solution
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-10-31 at 10.48.19.png" alt=""><figcaption></figcaption></figure>
 
 Nicegram transforms everyday communication into an integrated, financial, and AI-enabled experience — built for the Web3 generation.\
 It takes the best of Telegram’s interface and scale, then layers decentralized infrastructure on top: wallets, payments, identity, and earning systems — all embedded within familiar chats and channels.
