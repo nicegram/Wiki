@@ -1,58 +1,34 @@
 # Table of contents
 
-## Product Overview
-
-* [Mission](README.md)
-* [Open-Source Enhanced Telegram Client for Web3](product-overview/open-source-enhanced-telegram-client-for-web3.md)
-
-## Web3 Wallet
-
-* [Non-Custodial Framework](web3-wallet/non-custodial-framework.md)
-* [Account Abstraction](web3-wallet/account-abstraction.md)
-
-## AI Assistant
-
-* [AI Assistance](ai-assistant/ai-assistance.md)
-* [Accessibility and Integration Within Chats](ai-assistant/accessibility-and-integration-within-chats.md)
-
-## Nicegram Profile
-
-* [Customization and Personalization](nicegram-profile/customization-and-personalization.md)
-* [Nicegram Profit and Rewards](nicegram-profile/nicegram-profit-and-rewards.md)
-* [Referral System](nicegram-profile/referral-system.md)
-
-## Nicegram Premium
-
-* [Subscription Model and Exclusive Features](nicegram-premium/subscription-model-and-exclusive-features.md)
-* [AI Features](nicegram-premium/ai-features.md)
-* [Monthly Gems Bonus and Double Referral Rewards](nicegram-premium/monthly-gems-bonus-and-double-referral-rewards.md)
-
-## Gems - Nicegram’s In-App Currency
-
-* [Earning Gems](gems-nicegrams-in-app-currency/earning-gems.md)
-* [Spending Gems](gems-nicegrams-in-app-currency/spending-gems.md)
-* [Conversion and Transparency](gems-nicegrams-in-app-currency/conversion-and-transparency.md)
-
-## Earn Opportunities
-
-* [Overview](earn-opportunities/overview.md)
-* [Referral System](earn-opportunities/referral-system.md)
-* [Daily Tasks](earn-opportunities/daily-tasks.md)
-* [Cash Prizes and Example Rewards](earn-opportunities/cash-prizes-and-example-rewards.md)
-
-## Legal Information
-
-* [Legal](legal-information/legal.md)
-
-## External Links & Social Media
-
-* [Links & Media](external-links-and-social-media/links-and-media.md)
-
-## Feedback and Contributions
-
-* [Feedback and Contributions](feedback-and-contributions/feedback-and-contributions.md)
-
-## Ambassador Program
-
-* [Ambassador Program](ambassador-program/ambassador-program.md)
-* [Telegram Community Owners](ambassador-program/telegram-community-owners.md)
+* [Introduction](README.md)
+* [Market Overview](market-overview/README.md)
+  * [Problem](market-overview/problem.md)
+  * [Market Opportunity](market-overview/market-opportunity.md)
+  * [Metrics Today](market-overview/metrics-today.md)
+* [The Nicegram Solution](the-nicegram-solution/README.md)
+  * [Web3 Financial Messenger](the-nicegram-solution/web3-financial-messenger.md)
+  * [Core Value Proposition](the-nicegram-solution/core-value-proposition.md)
+  * [Vision: Operating System for Web3 × Social](the-nicegram-solution/vision-operating-system-for-web3-social.md)
+* [Web3 Features and Use Cases](web3-features-and-use-cases/README.md)
+  * [Unified Non-Custodial Wallet](web3-features-and-use-cases/unified-non-custodial-wallet.md)
+  * [Account Abstraction and Secure Recovery](web3-features-and-use-cases/account-abstraction-and-secure-recovery.md)
+  * [On-Chain Access and Embedded dApps](web3-features-and-use-cases/on-chain-access-and-embedded-dapps.md)
+  * [In-Chat Crypto Payments](web3-features-and-use-cases/in-chat-crypto-payments.md)
+  * [Privacy and Double Bottom Mode](web3-features-and-use-cases/privacy-and-double-bottom-mode.md)
+  * [Profiles, Traders, and Multi-Account Flexibility](web3-features-and-use-cases/profiles-traders-and-multi-account-flexibility.md)
+  * [Payments, Wallet, and Trading Layer](web3-features-and-use-cases/payments-wallet-and-trading-layer.md)
+  * [Value for Web3 Users](web3-features-and-use-cases/value-for-web3-users.md)
+* [Gems](gems/README.md)
+  * [How Gems Are Earned](gems/how-gems-are-earned.md)
+  * [How Gems Are Used](gems/how-gems-are-used.md)
+* [Earn: Scroll-to-Earn](earn-scroll-to-earn.md)
+* [Referral System](referral-system.md)
+* [AI Assistant: Lily](ai-assistant-lily/README.md)
+  * [Core Capabilities](ai-assistant-lily/core-capabilities.md)
+  * [Personalized Experience](ai-assistant-lily/personalized-experience.md)
+  * [The Role of AI in Nicegram](ai-assistant-lily/the-role-of-ai-in-nicegram.md)
+* [Community](community/README.md)
+  * [Links & Media](community/links-and-media.md)
+  * [Feedback and Contributions](community/feedback-and-contributions.md)
+  * [Ambassador Program](community/ambassador-program.md)
+  * [Telegram Community Owners](community/telegram-community-owners.md)

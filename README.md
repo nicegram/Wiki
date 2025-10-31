@@ -1,9 +1,26 @@
-# Mission
+---
+icon: flag-checkered
+---
 
-Nicegram’s mission is to give users control — over their data, digital assets, and communication. The platform stands on three foundational principles:
+# Introduction
 
-1. **Open-Source Freedom** — The app’s source code is publicly available, allowing anyone to review or contribute. This openness ensures transparency, fosters innovation, and makes Nicegram adaptable to user needs.
-2. **Community Ownership** — Nicegram grows with its users. From feature requests to ambassador initiatives and earning programs, the ecosystem rewards participation and feedback, reinforcing a shared sense of ownership.
-3. **Privacy First** — Unlike centralized platforms that monetize user data, Nicegram prioritizes privacy and security. Users maintain full control over their accounts, private keys, and communication without third-party interference.
+#### What is Nicegram
 
-Together, these pillars make Nicegram a messenger built not just for Web3 users — but by them. It’s an evolving ecosystem that turns everyday communication into a gateway to decentralized finance, AI assistance, and secure self-sovereign interaction.
+Nicegram is a Web3-native messenger that merges communication, finance, and digital ownership into one seamless ecosystem.\
+Built on the trusted foundation of Telegram’s infrastructure, it extends familiar messaging into the world of decentralized tools — offering users a unified environment for chatting, trading, earning, and managing assets.
+
+By combining social interaction with wallets, payments, and AI utilities, Nicegram transforms how users experience messaging. It’s not just a place to talk — it’s a platform to transact, participate, and grow inside a secure and private interface.
+
+#### Mission and Core Principles
+
+**Mission**\
+To create a universal communication layer for the decentralized internet — connecting billions of users, communities, and services through secure messaging and built-in financial tools.
+
+**Core Principles**
+
+* **Privacy and Control:** Every user retains full ownership of their data, accounts, and assets.
+* **Simplicity and Familiarity:** Nicegram builds upon the experience users already know — no steep learning curve, no friction.
+* **Borderless Access:** One app for all interactions — social, financial, and creative — across multiple blockchains and regions.
+* **Utility and Sustainability:** Designed for real-world use, with earning, trading, and communication converging in a sustainable ecosystem.
+
+Nicegram represents the next evolution of messaging — where privacy meets productivity, and where every conversation can become an opportunity to connect, create, and earn.
