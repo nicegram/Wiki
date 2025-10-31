@@ -20,7 +20,7 @@
 * [Gems](gems/README.md)
   * [How Gems Are Earned](gems/how-gems-are-earned.md)
   * [How Gems Are Used](gems/how-gems-are-used.md)
-* [Earn: Scroll-to-Earn](earn-scroll-to-earn.md)
+* [Engage-to-Earn](engage-to-earn.md)
 * [Referral System](referral-system.md)
 * [AI Assistant: Lily](ai-assistant-lily/README.md)
   * [Core Capabilities](ai-assistant-lily/core-capabilities.md)
