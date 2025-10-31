@@ -1,8 +1,4 @@
----
-icon: coins
----
-
-# Earn: Scroll-to-Earn
+# Scroll-to-Earn
 
 #### Overview
 
