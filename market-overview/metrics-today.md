@@ -11,3 +11,5 @@ Its community-driven foundation has enabled organic growth across global markets
 * Strong presence across **Vietnam, USA, Brazil, Nigeria, Turkey, France, Germany, India, Thailand, and Cambodia**
 
 These metrics confirm Nicegram’s proven mass adoption. With its Web3-native upgrade, the platform is positioned to become the **first large-scale messenger bridging mainstream communication and decentralized finance**.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-10-31 at 11.36.30.png" alt=""><figcaption></figcaption></figure>
