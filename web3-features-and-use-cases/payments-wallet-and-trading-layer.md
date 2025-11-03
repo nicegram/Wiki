@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Payments, Wallet, and Trading Layer
 
 Nicegram extends beyond chat and messaging — it builds a **complete transactional layer** within the communication environment.\
