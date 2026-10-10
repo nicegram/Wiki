@@ -12,7 +12,7 @@
   * [Media and call tools](features/media-and-calls.md)
   * [Profiles, folders, and interface](features/profiles-and-folders.md)
   * [Nicegram AI](features/ai.md)
-  * [Wallet and dApps](features/wallet.md)
+  * [Former wallet](features/wallet.md)
   * [Plans, Gems, and referrals](features/plans-and-rewards.md)
   * [Beta and limited-rollout features](features/beta.md)
 * [Help and safety](help/README.md)

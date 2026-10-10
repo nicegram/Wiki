@@ -1,26 +1,35 @@
+Contract: brand-contract v1
+
 # Nicegram public facts
 
-These are the reusable claims approved for public documentation. “Source-visible”
-means code exists; it does not mean the feature is in every released build.
+Canonical claims updated October 10, 2026. Source-reviewed behavior is separate
+from availability in a shipped app. Existing voice and terminology are retained.
 
-| Fact | Status | Evidence |
-|---|---|---|
-| Nicegram is an independent client built with Telegram APIs | Current | [Official download FAQ](https://nicegram.me/download) |
-| Official downloads are linked from `nicegram.me/download` | Current | [Download page](https://nicegram.me/download) |
-| Multiple accounts, Double Bottom/hidden surfaces, translation, quick replies, call recording, and prerecorded video messages are listed as available | Current public claim | [Download page](https://nicegram.me/download) |
-| AI Assistant and AI Agent Marketplace are labeled beta | Beta | [Download page](https://nicegram.me/download) |
-| Escrow payments and HyperLancer are labeled beta | Beta | [Download page](https://nicegram.me/download) |
-| iOS and Android clients are open-source forks with Nicegram additions | Current | [iOS](https://github.com/nicegram/Nicegram-iOS), [Android](https://github.com/nicegram/Nicegram-Android) |
-| Nicegram iOS currently declares iOS 15 as its minimum | Source-visible | [`Telegram/BUILD:164`](https://github.com/nicegram/Nicegram-iOS/blob/47c59dac6fc6b93b741fbc197c1f79524bfbf65c/Telegram/BUILD#L164) |
-| Nicegram Android currently declares Android 7.0/API 24 as its minimum | Source-visible | [`TMessagesProj/build.gradle:173`](https://github.com/nicegram/Nicegram-Android/blob/76f9b4022e2e3c0108d9722a63aef8f35974b556/TMessagesProj/build.gradle#L173) |
-| Feature visibility can vary by platform, version, plan, region, rollout, and account state | Product behavior | Public store descriptions plus client configuration surfaces |
-| Nicegram and its providers process some data needed for features and analytics | Current | [Privacy Policy](https://nicegram.me/privacy-policy), [App Store privacy details](https://apps.apple.com/app/id1608870673) |
+| Fact | Value | Source | Checked | Review by | Public |
+|---|---|---|---|---|---|
+| product | Independent Telegram client | [Public iOS source](https://github.com/nicegram/Nicegram-iOS) | 2026-10-10 | 2026-11-10 | yes |
+| official download route | nicegram.me/download | [Download](https://nicegram.me/download) | 2026-10-10 | 2026-10-17 | yes |
+| wallet financial functions | Retired; old create/send/swap/dApp instructions are not current | [Wallet update](https://t.me/nicegramapp/1017), operator correction 2026-10-10 | 2026-10-10 | 2026-11-10 | yes |
+| wallet-linked access | Historical sign-in is separate from a financial wallet; recovery not guaranteed | [Wallet update](https://t.me/nicegramapp/1017) | 2026-10-10 | 2026-11-10 | yes |
+| account shop | Public purchase and country-selection flow; no stock or universal subscription benefit promised | [Country selection](https://t.me/nicegramapp/1023) | 2026-10-10 | 2026-10-17 | yes |
+| account transfer | Transfers sessions, not a complete archive of messages/media | [Implementation review](../evidence/product-review-2026-10-10.md) | 2026-10-10 | 2026-11-10 | yes |
+| AI | Client tools remain; available actions/models/usage are conditional, no universal parity or unlimited use | [Implementation review](../evidence/product-review-2026-10-10.md) | 2026-10-10 | 2026-10-17 | yes |
+| ATT earning | Old earning guides are not current instructions; historical balances do not prove new accrual | [ATT update](https://t.me/nicegramapp/1011) | 2026-10-10 | 2026-11-10 | yes |
+| HyperLancer | Working on project relaunch; updates will follow, no date promised | Operator-approved public holding statement, 2026-10-10 | 2026-10-10 | 2026-10-17 | yes |
+| Android source account limits | Options for 10 or 100, not unlimited device capacity | [Implementation review](../evidence/product-review-2026-10-10.md) | 2026-10-10 | 2026-11-10 | yes |
+| platform and service eligibility | Depends on platform, version, plan, region, rollout and account | [Implementation review](../evidence/product-review-2026-10-10.md) | 2026-10-10 | 2026-10-17 | yes |
+
+## Evidence precedence
+
+Use explicit current product corrections and reviewed product implementation
+first, Wiki second, website/store copy last. A source branch or internal note is
+not release evidence. Do not publish private team plans or backend details.
 
 ## Claims not approved
 
-- “Nicegram collects no personal data.”
-- “Every feature is available on every platform.”
-- “Unlimited accounts” without noting device and platform constraints.
-- Any exact AI model name unless it is verified in the current product surface.
-- Guaranteed wallet safety, recovery, returns, or protection from scams.
-- Old Scroll-to-Earn or attention-point accrual as an active program.
+- No personal data collected, perfect privacy, or protection from account bans.
+- Every feature available on every platform or unlimited accounts on every device.
+- Exact AI models or allowances not shown by the current product.
+- Wallet recovery, migration, returns, or current financial functionality.
+- Fresh ATT accrual, campaign entitlement or payout dates inferred from old guides.
+- HyperLancer/escrow currently live, or any relaunch date.

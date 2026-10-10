@@ -8,14 +8,13 @@ Beta features can change, disappear, reset data, or have narrower eligibility th
 generally available messaging tools. A feature listed here is not a promise that it
 will appear on every account.
 
-## Officially labeled beta
+## Availability needs checking
 
 | Feature | What it is | What to expect |
 |---|---|---|
 | AI Assistant | Prompt, writing, analysis, and generation tools | Model, limits, placement, and plan can change |
 | AI Agent Marketplace | A catalog for discovering and using eligible agents | Agent quality, pricing, and availability vary |
-| Escrow payments | A conditional payment flow for eligible work or transactions | Rules, assets, fees, and dispute paths can change |
-| HyperLancer | A Telegram-oriented marketplace for clients, people, and agents | Limited users and incomplete feature coverage are expected |
+| HyperLancer | Work on a project relaunch is underway | Updates will follow; no date or active escrow/payment service promised |
 
 ## Limited-rollout tools
 
@@ -24,9 +23,9 @@ will appear on every account.
   presence, identity, or intent.
 - **Keyword folders and chat analysis** — organization or insight features that can
   require eligible account processing and current consent surfaces.
-- **Account Shop / managed sessions** — source-visible account-session surfaces.
-  General public availability and recovery behavior are not confirmed, so this
-  Help Center does not provide a purchase walkthrough.
+- **Telegram Sessions / Account Shop** — publicly announced purchase flow with
+  country selection. Stock, eligibility and recovery are separate questions; see
+  [Accounts](../getting-started/accounts.md#telegram-sessions-and-account-shop).
 
 ## Desktop source previews
 

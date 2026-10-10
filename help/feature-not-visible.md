@@ -5,7 +5,9 @@ description: Diagnose a Nicegram feature that is documented but missing from you
 # Why can’t I see a Nicegram feature?
 
 Most missing-feature cases come from availability rather than a damaged account.
-Check these causes in order.
+First check whether the feature is [retired](../features/wallet.md). Updating or
+buying a subscription does not restore a retired feature. Otherwise check these
+causes in order.
 
 1. **Platform:** confirm the feature page lists iOS, Android, or Desktop.
 2. **Version:** update from the [official download page](https://nicegram.me/download).
@@ -15,7 +17,7 @@ Check these causes in order.
 5. **Rollout:** beta and limited-rollout tools do not reach every account at once.
 6. **Account state:** some tools require a completed Nicegram service sign-in,
    eligible Telegram account, or specific chat permissions.
-7. **Network/provider:** AI, wallet, translation, and account-insight features can
+7. **Network/provider:** AI, translation, and account-insight features can
    depend on services beyond Telegram messaging.
 
 ## Safe refresh steps

@@ -34,6 +34,13 @@ you have reviewed the [Privacy and data](../help/privacy-and-data.md) guidance.
 vary. Desktop contains separate source-visible translation components but mobile
 parity is not confirmed.
 
-**Sources:** [Official status labels](https://nicegram.me/download) ·
-[Nicegram FAQ](https://nicegram.me/faq) ·
+## If it fails
+
+Report the platform, Nicegram version, language pair, exact action, and error text
+to [support](../help/support.md). Do not send private conversation contents. A
+single error does not identify a global outage, and purchasing another plan is
+not a verified fix. A reported fix in an older version does not establish the
+status of a new regression.
+
+**Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
 [Privacy Policy](https://nicegram.me/privacy-policy)

@@ -48,14 +48,29 @@ the user is reminded to obtain legally required consent.
 prompt or chat context, **then** the app returns a result or explains the limit and
 the page makes third-party processing discoverable before use.
 
-## SCR-009 — Use wallet or Web3 tools
+## SCR-009 — Understand wallet retirement
 
-**Given** the wallet surface is available, **when** the user creates or connects a
-wallet, **then** the app explains the confirmation and recovery model before the
-user moves assets or connects a dApp.
+**Given** a user finds an old wallet guide or asks about the missing wallet,
+**when** they open the wallet page, **then** it explains that financial functionality
+is retired, distinguishes historical sign-in, and provides official support without
+promising recovery or asking for secrets. No current create/send/swap/dApp steps remain.
 
 ## SCR-010 — Resolve a missing feature
 
 **Given** a feature is documented but not visible, **when** the user checks the
 availability guide, **then** they can distinguish platform, version, plan, region,
 rollout, and account-state causes and know where to ask for help.
+
+
+## SCR-011 — Purchase a Telegram session with clear boundaries
+
+**Given** the purchase flow is shown, **when** a user selects a country, **then**
+the help page explains that selection does not promise stock or entitlement. An
+access error routes to support without telling the user to discard working sessions.
+
+## SCR-012 — Separate historical rewards and current AI tools
+
+**Given** a user reads an old campaign or AI announcement, **when** they check the
+current guide, **then** historical balances are separated from new accrual and
+current AI controls from retired services. No fixed model, payout or release date
+is invented from old marketing.

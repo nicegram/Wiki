@@ -20,6 +20,10 @@ Supported builds can offer Premium or Premium+ access. Before confirming, review
 Cancel through the store or purchase channel that processed the subscription.
 Cancellation normally stops renewal; it is not automatically a refund.
 
+Nicegram Premium is separate from Telegram Premium. An eligible plan can include
+an account-shop allowance, but this is not a universal benefit of every Premium
+purchase. Check the displayed benefits and Telegram Sessions balance.
+
 ## Gems and usage balance
 
 Gems or a related balance can represent credit for eligible AI and paid actions.
@@ -28,14 +32,17 @@ authoritative. Do not use old conversion tables from retired Wiki pages.
 
 ## Referrals and rewards
 
-Nicegram can offer referral links, tasks, or campaign rewards to eligible accounts.
-Terms and regional restrictions apply. A campaign shown in an old post or Wiki page
-is not proof that it is still accruing rewards.
+Referral links, campaign tasks, and historical balance views are separate from
+new earning. Old scrolling, autopilot and referral earning guides are not current
+instructions. An old guide or visible historical balance does not
+prove that new rewards accrue or that a payout is due. Check the terms and status
+of a specific current campaign.
 
 The previous Scroll-to-Earn and Wallet-to-Earn guides were removed because they no
 longer represented a reliable current user promise.
 
-**Sources:** [Official download page](https://nicegram.me/download) ·
+**Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
+[ATT program update](https://t.me/nicegramapp/1011) ·
 [Terms of Use](https://nicegram.me/terms-of-use) ·
 [Apple App Store](https://apps.apple.com/app/id1608870673) ·
 [Google Play](https://play.google.com/store/apps/details?id=app.nicegram)

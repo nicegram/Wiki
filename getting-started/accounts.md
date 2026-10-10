@@ -39,6 +39,27 @@ To keep an account out of the normal app surface, use
 [Double Bottom or hidden chats](../features/privacy.md) instead of sharing an
 exported session with another device.
 
-**Sources:** [Nicegram features](https://nicegram.me/features) ·
+## Telegram Sessions and Account Shop
+
+Where available, open **Telegram Sessions → Buy Account**, choose from the
+currently offered countries or **Any country**, and review the purchase. Country
+selection does not guarantee stock. A plan benefit must be shown for your exact
+subscription; do not assume every Premium purchase includes an account.
+
+For a purchased session showing 403, a password request, or an account-deletion
+warning, keep any working access and contact [support](../help/support.md). Do not
+delete sessions or sign out as a generic repair, and never share login codes,
+passwords, or session files. Recovery needs an account-specific check.
+
+## Export messages instead of sessions
+
+A chat export and an account-session export serve different purposes. A supported
+chat-export action can turn accessible messages for the offered period into a
+Markdown document. That document is not a complete media archive and cannot
+restore deleted messages. Follow only the options visible in your installed build.
+
+**Sources:** [Account-shop announcement](https://t.me/nicegramapp/1015) ·
+[Country selection](https://t.me/nicegramapp/1023) ·
+[Product review](../docs/evidence/product-review-2026-10-10.md) ·
 [iOS source](https://github.com/nicegram/Nicegram-iOS) ·
 [Android source](https://github.com/nicegram/Nicegram-Android)

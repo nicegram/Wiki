@@ -1,43 +1,31 @@
 ---
-description: Understand Nicegram wallet and dApp surfaces before creating a wallet, connecting an app, or moving assets.
+description: The former Nicegram in-app wallet is retired. Find help with historical wallet-linked access.
 ---
 
-# How do the Nicegram wallet and dApps work?
+# Where is the Nicegram wallet?
 
-Eligible iOS and Android builds can expose a wallet, token actions, NFTs, swaps, and
-decentralized-app connections. The current stores describe wallet functionality,
-while exact chains and actions can change with version, region, and rollout.
+The former in-app wallet financial functionality is no longer available in
+Nicegram. Older instructions for creating a wallet, sending assets, swaps, NFTs
+inside the wallet, or connecting dApps do not describe the current app.
 
-## Before you begin
+## What about wallet-linked sign-in?
 
-- Confirm that the wallet surface is inside the official Nicegram build.
-- Read the recovery explanation shown by the current wallet flow.
-- Never send a password, recovery phrase, private key, or approval code to support.
-- Check the network, asset, address, amount, fees, and contract before confirming.
+Historical wallet-linked account access is separate from an in-app financial
+wallet. Seeing a linked sign-in method does not mean that asset transfers or
+other wallet functions are available.
 
-## Create or connect a wallet
+## I used the old wallet and need help
 
-Follow the wallet’s current onboarding flow and record the recovery method exactly
-as shown. Nicegram has described both local-key and account-abstraction behavior in
-public materials over time; the active screen and current Terms are authoritative
-for the wallet you are using.
+Contact [official support](../help/support.md) and describe the action you were
+trying to perform, your platform, and app version. Do not send recovery phrases,
+private keys, passwords, login codes, or exported sessions to anyone, including
+support. Avoid signing out of a working account before your access options are
+clear.
 
-## Connect a dApp
+There is no verified universal asset-migration or recovery procedure in this
+Help Center. Support must check the specific historical setup; recovery or the
+reversal of a transaction cannot be promised.
 
-A dApp connection can request account visibility, signatures, token approvals, or
-transactions. Read every request. Disconnecting later does not automatically revoke
-an on-chain token approval already granted.
+**Status:** retired financial feature; reviewed October 10, 2026.
 
-## What Nicegram cannot guarantee
-
-Nicegram cannot reverse a correctly signed blockchain transaction, guarantee an
-asset’s value, or guarantee that a third-party dApp is safe. Treat wallet actions as
-irreversible unless the active network and product explicitly provide a recovery
-mechanism.
-
-**Availability:** store-listed for eligible iOS and Android builds; platform,
-network, region, and account availability can vary.
-
-**Sources:** [Apple App Store](https://apps.apple.com/app/id1608870673) ·
-[Google Play](https://play.google.com/store/apps/details?id=app.nicegram) ·
-[Terms of Use](https://nicegram.me/terms-of-use)
+**Source:** [Nicegram wallet update](https://t.me/nicegramapp/1017).

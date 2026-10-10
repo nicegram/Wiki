@@ -10,7 +10,7 @@
    normal app surface and needs clear recovery expectations.
 4. **Cross-language communicator** — translates messages, transcribes audio, and
    uses AI assistance when available.
-5. **Advanced user** — uses wallet, AI, beta tools, or source builds and accepts
+5. **Advanced user** — uses AI, beta tools, or source builds and accepts
    that availability can depend on platform, plan, region, or rollout.
 
 ## Jobs to be done

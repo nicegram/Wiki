@@ -1,3 +1,12 @@
+Contract: brand-contract v1
+Voice pack: custom
+Locales: en (primary)
+Derived-from: inferred
+Status: draft
+Humanization: on
+Humanization pass: own
+Last calibrated: 2026-10-10
+
 # Nicegram voice
 
 ## Voice

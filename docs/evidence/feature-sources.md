@@ -47,3 +47,10 @@ source list is preferable to repeating implementation details.
   established.
 - **Source-visible** is evidence for maintainers, not a promise to users.
 - Telegram-native behavior is not presented as a Nicegram-exclusive feature.
+
+
+## Later review
+
+The [October 10 product review](product-review-2026-10-10.md) supersedes
+wallet availability, ATT earning, account-shop status and source-priority claims
+in this September snapshot. Do not reuse the earlier claims as current guidance.

@@ -13,7 +13,7 @@ to identify the feature path, not to make one blanket privacy claim.
 | Hidden-chat state, preferences, cache, downloads, and some quick replies | Primarily the local app/device, with implementation differences |
 | Nicegram account services, subscriptions, referrals, remote configuration, and feature eligibility | Nicegram services and relevant store/provider |
 | AI prompts, selected chat context, translation, or transcription | Nicegram and/or the selected processing provider, depending on the feature |
-| Wallet and dApp actions | Device/app wallet components, Nicegram services where required, and blockchain/dApp providers |
+| Historical wallet-linked access | Separate from the retired financial wallet; ask support about a specific old setup |
 | Analytics, diagnostics, attribution, and website cookies | Nicegram and the providers disclosed by the current policy or store |
 
 Nicegram’s current policy describes collection and processing needed for services,

@@ -6,8 +6,8 @@ description: Learn what Nicegram adds to Telegram, where each feature is availab
 
 Nicegram is an independent Telegram client. You sign in with your existing
 Telegram account and keep using your Telegram chats, while Nicegram adds tools for
-multiple accounts, privacy, faster messaging, translation, media, AI, and — where
-available — wallet and beta workflows.
+multiple accounts, privacy, faster messaging, translation, media, and AI tools
+where supported.
 
 Nicegram is not affiliated with Telegram. Telegram provides the underlying account
 and messaging service; Nicegram provides the client and its additional features.
@@ -20,7 +20,7 @@ and messaging service; Nicegram provides the client and its additional features.
 - [Browse every documented feature](features/README.md)
 - [Fix a feature that is missing](help/feature-not-visible.md)
 
-## The most widely available Nicegram additions
+## Core Nicegram additions
 
 - More Telegram accounts in one app, with platform-specific practical limits.
 - Hidden chats and accounts through Double Bottom.
@@ -30,7 +30,7 @@ and messaging service; Nicegram provides the client and its additional features.
 - Sending an existing video as a Telegram video message.
 - Call recording on supported iOS builds, with consent requirements.
 
-AI, wallet, agent, marketplace, and payment features can depend on the app version,
+AI, agent, account-shop, and payment features can depend on the app version,
 platform, subscription, region, account, or staged rollout. Their pages always show
 that status before explaining the feature.
 
@@ -38,10 +38,11 @@ that status before explaining the feature.
 
 | Label | Meaning |
 |---|---|
-| **Available** | Listed as available by Nicegram and supported by a current client surface |
+| **Supported build** | Use the feature when its control is present and the current eligibility checks pass |
 | **Beta** | Available to test for eligible users and subject to change |
 | **Limited rollout** | Only some platforms, accounts, regions, plans, or builds may show it |
-| **Source-visible** | Present in public source, but not confirmed in a current release |
+| **Source-visible** | Present in source, but not confirmed in a current release |
+| **Retired** | No longer a current feature; old instructions must not be reused |
 
 ## Official links
 
@@ -52,5 +53,6 @@ that status before explaining the feature.
 - [Nicegram on GitHub](https://github.com/nicegram)
 - [Community chat](https://t.me/nicegramchat)
 
-This Help Center was last reviewed against the public product, stores, and source
-repositories on **September 3, 2026**.
+Product knowledge was reviewed against implementation and product documentation
+on **October 10, 2026**. Source presence is not proof of availability in every
+released build. The [former in-app wallet](features/wallet.md) is retired.

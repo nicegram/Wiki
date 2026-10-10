@@ -1,3 +1,5 @@
+Contract: brand-contract v1
+
 # Nicegram terminology
 
 | Use | Avoid | Reason |
