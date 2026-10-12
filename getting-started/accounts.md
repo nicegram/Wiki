@@ -70,8 +70,7 @@ When you sign in again:
 Don’t wait too long. Telegram deletes an account that stays offline for the
 period set in **Settings → Privacy and Security** (“If Away For”). To move to a
 new number for good, change it while you still have access: **Settings →** your
-number **→ Change Number**. Never send your login code or two-step password to
-anyone, including people who say they are support.
+number **→ Change Number**.
 
 ## Register a new Telegram account
 
