@@ -29,6 +29,19 @@ Nicegram can expose extra controls for saving video to the gallery, automatic me
 handling, and local cache. Clearing cache removes local copies, not Telegram cloud
 messages. Files downloaded outside the app remain on the device until removed there.
 
+## Can I call WhatsApp or FaceTime from Nicegram?
+
+No. Nicegram is a Telegram app: its voice and video calls are Telegram calls, and
+they reach Telegram users only. It cannot call someone on WhatsApp, FaceTime, or
+another messenger.
+
+- **To call a Telegram user,** open their profile and choose the voice or video
+  call option.
+- **A contact who isn’t on Telegram** can only be invited to join; there is no
+  call to them from Nicegram.
+- **“Doesn’t accept calls”** means that person’s privacy settings don’t allow
+  calls from you.
+
 ## Record a call
 
 Call recording is currently documented and source-verified for iOS. Depending on
@@ -44,4 +57,5 @@ iOS in current evidence. Other platforms are not confirmed.
 
 **Sources:** [Official status labels](https://nicegram.me/download) ·
 [Terms of Use](https://nicegram.me/terms-of-use) ·
-[iOS source](https://github.com/nicegram/Nicegram-iOS)
+[iOS source](https://github.com/nicegram/Nicegram-iOS) ·
+[Evidence ledger, October 13](../docs/evidence/help-troubleshooting-2026-10-13.md)
