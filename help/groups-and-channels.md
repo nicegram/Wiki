@@ -27,7 +27,8 @@ These are Telegram rules, so another Telegram app shows the same restriction.
 
 Telegram limits how many channels and supergroups one account can join. A
 Telegram Premium account gets a higher limit. Telegram Premium is Telegram’s own
-subscription; Nicegram Premium is a separate plan.
+subscription; Nicegram Premium is a separate plan (see
+[Plans, Gems, and referrals](../features/plans-and-rewards.md)).
 
 At the limit, the app tells you to leave some groups or channels before joining a
 new one. On iPhone and iPad it lists your most inactive groups and channels to

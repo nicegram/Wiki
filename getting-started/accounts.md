@@ -34,16 +34,15 @@ on a device where you are already signed in. You also need your two-step
 password, if set.
 
 Check signed-in devices under **Settings → Devices** (or **Active Sessions**) and
-end sessions you do not recognise, but not those of accounts bought through
-Account Shop (see below).
+end sessions you do not recognise. On an account bought through Account Shop,
+[contact support](../help/support-and-source.md) first if you are unsure.
 
 ## Register a new Telegram account
 
 Enter a mobile number that has no Telegram account yet. Once it is confirmed,
 Telegram asks for your name, offers a profile photo, and creates the account when
 you accept its terms. Landlines are not supported. Telegram may also ask for an
-email address, and in some countries for an SMS fee (or a week of Telegram
-Premium instead); that is Telegram’s charge, not Nicegram’s.
+email address.
 
 After deleting and re-creating an account several times, you wait a few days
 before signing up again. For other registration problems, Telegram points to its
@@ -51,8 +50,11 @@ before signing up again. For other registration problems, Telegram points to its
 
 ## Back up, import, or export accounts
 
-Supported mobile builds expose Nicegram account-transfer tools. These tools move
-account session access; they do not create a Telegram backup of all cloud chats.
+Supported mobile builds expose Nicegram account-transfer tools. On iOS 15 or
+later they are in **Nicegram Settings → Accounts**: **iCloud Backup**, **Import
+from iCloud**, **Import from File** and **Export as File**. Android builds offer
+the same tools in Nicegram’s settings. These tools move account
+session access; they do not create a Telegram backup of all cloud chats.
 
 - Protect exported account material as you would an active login session.
 - Do not upload it to a public drive or send it through an untrusted chat.

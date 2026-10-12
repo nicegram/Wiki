@@ -25,15 +25,16 @@ Uninstalling the app signs it out on this device. You then sign in to each
 account again, including accounts hidden with Double Bottom. Some access cannot
 come back, so check first:
 
-- **Save your accounts first** where your build offers it (export, or iCloud on
-  iOS 15 or later): see the
+- **Save your accounts first** where your build offers it: save them to a file,
+  or turn on iCloud Backup (iOS 15 or later). See the
   [account-transfer tools](../getting-started/accounts.md#back-up-import-or-export-accounts).
 - **Accounts bought through Telegram Sessions or imported as a session** may use
-  a phone number you do not control, so you may not get back in. Contact support
+  a phone number you do not control, so you may not get back in. [Contact support](support-and-source.md)
   first, and do not sign out as a generic repair.
 - **The login code** often arrives in Telegram on another signed-in device. If
-  it would go to this app, tap **Didn’t get the code?** → **Get the code via SMS**.
-- **Two-step password:** you need it if you set one.
+  it would go to this app, tap **Didn’t get the code?** and choose SMS if offered.
+- **Two-step password:** you need it if you set one (forgot it? see the
+  [two-step verification FAQ](https://telegram.org/faq#q-how-does-2-step-verification-work)).
 
 Telegram keeps your cloud chats. Secret chats are lost, and local Nicegram data
 such as quick replies and downloads may not be restored.
@@ -86,8 +87,9 @@ see the [two-step verification FAQ](https://telegram.org/faq#q-how-does-2-step-v
 
 There is no passcode reset. The passcode screen says that if you forget it, you
 must uninstall and reinstall the app, and secret chats are lost. That can lose
-some accounts for good: go through “Before you reinstall Nicegram” above first,
-and contact support before uninstalling if any account was bought or imported as
-a session.
+some accounts for good. A locked app cannot save accounts; **Import from iCloud**
+works only if iCloud Backup was on before (iOS 15 or later). Otherwise each
+account needs its login code and two-step password, and for an account bought or
+imported as a session, [contact support](support-and-source.md) before uninstalling.
 
 **Sources:** [Evidence ledger](../docs/evidence/help-troubleshooting-2026-10-12.md)

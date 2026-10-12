@@ -96,8 +96,9 @@ presented as something Nicegram support or a Nicegram plan can lift.
 
 **Given** the app asks for a passcode the user does not remember, **when** they
 read the passcode section, **then** they learn that there is no reset and that
-reinstalling is the only route the app names, and they are sent to the
-reinstall checklist first: back up accounts where offered, contact support before
-deleting when an account was bought or imported as a session, and check the
-login-code route and the two-step password.
+reinstalling is the only route the app names; that a locked app cannot export
+accounts; that Import from iCloud restores them only if iCloud Backup was on
+before (iOS 15 or later); that otherwise each account needs its login code and
+two-step password; and that an account bought or imported as a session needs
+support before deleting. Every step named can be done without unlocking the app.
 
