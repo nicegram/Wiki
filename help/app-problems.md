@@ -1,5 +1,5 @@
 ---
-description: What to do when Nicegram will not open or keeps loading, asks for an update you cannot find, repeats notifications, drains the battery, or asks for a passcode you forgot.
+description: What to do when Nicegram will not open or keeps loading, asks for an update you cannot find, repeats notifications, drains the battery, or asks for a passcode you forgot, and how to use a proxy.
 ---
 
 # What can I do when Nicegram isn’t working?
@@ -78,6 +78,32 @@ If it continues, report the platform, Nicegram version, and how often it happens
 If battery use stays high, report the device model, system version, and Nicegram
 version.
 
+## Can I use a proxy in Nicegram?
+
+Yes. Nicegram has the same proxy settings as Telegram’s own apps:
+
+- **iPhone and iPad:** **Settings → Data and Storage → Proxy**. After you add a
+  proxy, **Proxy** also appears in the main Settings list.
+- **Android:** **Settings → Data and Storage → Proxy Settings**.
+
+Tap **Add Proxy** and choose the type the proxy uses:
+
+- **SOCKS5** needs a server and a port. A username and password are optional.
+- **MTProto** needs a server, a port, and a secret.
+
+While the app connects through the proxy, the top of the chat list shows
+**Connecting to Proxy…**. If it stays there, the proxy may be unavailable: open
+the proxy settings and pick another saved proxy, or turn **Use Proxy** off to
+connect without one.
+
+Use only a proxy from a source you trust. Its operator cannot read your messages,
+but can see your IP address and that you use Telegram. An MTProto proxy may also
+show a sponsored channel in your chat list.
+
+You don’t need a proxy or a VPN for Nicegram where Telegram itself works without
+one: Nicegram connects to Telegram’s official servers. Where Telegram is
+restricted, Nicegram is restricted the same way.
+
 ## I forgot my app passcode and can’t unlock Nicegram
 
 The app passcode is **Passcode Lock** in **Settings → Privacy and Security**.
@@ -92,4 +118,5 @@ works only if iCloud Backup was on before (iOS 15 or later). Otherwise each
 account needs its login code and two-step password, and for an account bought or
 imported as a session, [contact support](support-and-source.md) before uninstalling.
 
-**Sources:** [Evidence ledger](../docs/evidence/help-troubleshooting-2026-10-12.md)
+**Sources:** [Evidence ledger](../docs/evidence/help-troubleshooting-2026-10-12.md) ·
+[Evidence ledger, October 13](../docs/evidence/help-troubleshooting-2026-10-13.md)

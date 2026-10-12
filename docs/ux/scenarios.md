@@ -102,3 +102,33 @@ before (iOS 15 or later); that otherwise each account needs its login code and
 two-step password; and that an account bought or imported as a session needs
 support before deleting. Every step named can be done without unlocking the app.
 
+
+## SCR-017 — Use a proxy
+
+**Given** a user asks whether Nicegram works with a proxy, **when** they read the
+proxy section, **then** they find where the proxy settings are on iPhone, iPad and
+Android, the two types (SOCKS5: server and port, optional credentials; MTProto:
+server, port and secret), what **Connecting to Proxy…** means and how to switch or
+turn the proxy off, and why to use only a trusted proxy. The section states that
+Nicegram works without a proxy or VPN wherever Telegram does and is restricted the
+same way where Telegram is. It names no country, lists no proxy and gives no advice
+on getting around any law or restriction.
+
+## SCR-018 — Calls to other apps
+
+**Given** a user wants to call someone on WhatsApp, FaceTime or another app,
+**when** they read the calls section, **then** they learn that Nicegram's voice and
+video calls are Telegram calls to Telegram users only, that a contact who is not on
+Telegram can only be invited, that a regular phone call from a profile is made by
+the phone's own calling app, and what "doesn't accept calls" means.
+
+## SCR-019 — An account disappeared
+
+**Given** an account no longer appears in Nicegram, **when** the user reads the
+accounts section, **then** they can check each documented cause: hidden with Double
+Bottom (or other accounts hidden while Double Bottom is open), signed out on this
+device (log-out, uninstall, or session ended from another device; sign in again),
+deleted by Telegram after the If Away For period, or deleted, which cannot be
+undone. Nothing on the page guesses at bans or promises that support can restore a
+deleted account; accounts bought or imported as a session go to support first
+(consistent with SCR-011).

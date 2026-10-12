@@ -8,7 +8,7 @@ description: Diagnose missing features, review privacy guidance, and contact off
   region, rollout, and account state.
 - [App problems](app-problems.md) — the app will not open or keeps loading, an
   update prompt with no update in the store, repeated notifications, battery use,
-  and a forgotten app passcode.
+  a forgotten app passcode, and using a proxy.
 - [Groups and channels](groups-and-channels.md) — why you can read a group but not
   write, the limit on joined groups and channels, and joins that keep loading.
 - [Privacy and data](privacy-and-data.md) — understand Telegram data, Nicegram
