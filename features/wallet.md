@@ -16,7 +16,7 @@ other wallet functions are available.
 
 ## I used the old wallet and need help
 
-Contact [official support](../help/support.md) and describe the action you were
+Contact [official support](../help/support-and-source.md) and describe the action you were
 trying to perform, your platform, and app version. Do not send recovery phrases,
 private keys, passwords, login codes, or exported sessions to anyone, including
 support. Avoid signing out of a working account before your access options are

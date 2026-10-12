@@ -18,7 +18,7 @@ before following its instructions.
 | Existing video as a video message | Yes | Yes | Not confirmed | Available on mobile |
 | Call recording | Yes | Not confirmed | Not confirmed | iOS only in current evidence |
 | Nicegram AI | Yes | Yes | Separate source-visible AI compose | Beta / plan-dependent |
-| Wallet and dApps | Yes | Yes | Not confirmed | Store-listed; rollout varies |
+| Former wallet and dApps | No | No | No | No longer offered |
 | AI Agent Marketplace | Eligible builds | Eligible builds | Not confirmed | Beta |
 | Escrow / HyperLancer | Eligible builds | Eligible builds | Not confirmed | Beta |
 | Communities, rich messages, ephemeral bot messages | No mobile parity confirmed | No mobile parity confirmed | Source-visible | Release not confirmed |

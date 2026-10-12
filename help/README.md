@@ -6,6 +6,11 @@ description: Diagnose missing features, review privacy guidance, and contact off
 
 - [Feature not visible](feature-not-visible.md) — check platform, version, plan,
   region, rollout, and account state.
+- [App problems](app-problems.md) — the app will not open or keeps loading, an
+  update prompt with no update in the store, repeated notifications, battery use,
+  and a forgotten app passcode.
+- [Groups and channels](groups-and-channels.md) — why you can read a group but not
+  write, the limit on joined groups and channels, and joins that keep loading.
 - [Privacy and data](privacy-and-data.md) — understand Telegram data, Nicegram
   features, AI processing, analytics, and local storage.
 - [Support and source code](support-and-source.md) — use official community,

@@ -17,5 +17,7 @@
   * [Beta and limited-rollout features](features/beta.md)
 * [Help and safety](help/README.md)
   * [Feature not visible](help/feature-not-visible.md)
+  * [App problems](help/app-problems.md)
+  * [Groups and channels](help/groups-and-channels.md)
   * [Privacy and data](help/privacy-and-data.md)
   * [Support and source code](help/support-and-source.md)

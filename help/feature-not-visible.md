@@ -28,9 +28,8 @@ causes in order.
 4. Check Nicegram settings for a disabled tab or feature toggle.
 5. Update the app.
 
-Do not delete the app, clear all app data, or sign out of every account until you
-know how you will complete Telegram login again. Local quick replies, downloads,
-or session-transfer data may not be restored automatically.
+Do not delete the app, clear all app data, or sign out of every account before
+reading [Before you reinstall Nicegram](app-problems.md#before-you-reinstall-nicegram).
 
 If the feature is still missing, contact support with the platform, Nicegram
 version, feature name, and a screenshot that does not expose phone numbers, login

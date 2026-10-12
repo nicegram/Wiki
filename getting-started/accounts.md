@@ -26,10 +26,35 @@ guarantee that every device can run an arbitrary number.
 Open the account switcher and select an account. Before sending a message, confirm
 the active avatar and identity — especially if you manage client or channel accounts.
 
+## Sign in to the same account on several devices
+
+Telegram lets you sign in to one account on as many devices as you like, at the
+same time. On a new device, the login code may arrive in the chat with Telegram
+on a device where you are already signed in. You also need your two-step
+password, if set.
+
+Check signed-in devices under **Settings → Devices** (or **Active Sessions**) and
+end sessions you do not recognise. On an account bought through Account Shop,
+[contact support](../help/support-and-source.md) first if you are unsure.
+
+## Register a new Telegram account
+
+Enter a mobile number that has no Telegram account yet. Once it is confirmed,
+Telegram asks for your name, offers a profile photo, and creates the account when
+you accept its terms. Landlines are not supported. Telegram may also ask for an
+email address.
+
+After deleting and re-creating an account several times, you wait a few days
+before signing up again. For other registration problems, Telegram points to its
+[support form](https://telegram.org/support).
+
 ## Back up, import, or export accounts
 
-Supported mobile builds expose Nicegram account-transfer tools. These tools move
-account session access; they do not create a Telegram backup of all cloud chats.
+Supported mobile builds expose Nicegram account-transfer tools. On iOS 15 or
+later they are in **Nicegram Settings → Accounts**: **iCloud Backup**, **Import
+from iCloud**, **Import from File** and **Export as File**. Android builds offer
+the same tools in Nicegram’s settings. These tools move account
+session access; they do not create a Telegram backup of all cloud chats.
 
 - Protect exported account material as you would an active login session.
 - Do not upload it to a public drive or send it through an untrusted chat.
@@ -47,7 +72,7 @@ selection does not guarantee stock. A plan benefit must be shown for your exact
 subscription; do not assume every Premium purchase includes an account.
 
 For a purchased session showing 403, a password request, or an account-deletion
-warning, keep any working access and contact [support](../help/support.md). Do not
+warning, keep any working access and contact [support](../help/support-and-source.md). Do not
 delete sessions or sign out as a generic repair, and never share login codes,
 passwords, or session files. Recovery needs an account-specific check.
 
