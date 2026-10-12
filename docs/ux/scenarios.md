@@ -74,3 +74,26 @@ access error routes to support without telling the user to discard working sessi
 current guide, **then** historical balances are separated from new accrual and
 current AI controls from retired services. No fixed model, payout or release date
 is invented from old marketing.
+
+## SCR-013 — Recover from an app that will not open or keeps loading
+
+**Given** Nicegram does not open, crashes, or stays on Connecting…, **when** the
+user opens the app-problems page, **then** they get steps that keep their data
+first (restart, connection and proxy status, update, storage) and learn what a
+reinstall loses before they delete the app.
+
+## SCR-014 — Understand a group or join restriction
+
+**Given** a user can read a group but not write, or cannot join a group,
+**when** they open the groups page, **then** they can match the app’s message to
+its Telegram cause (admin restriction, slow mode, account limit, join limit,
+private or approval-only group) and know who can change it. No restriction is
+presented as something Nicegram support or a Nicegram plan can lift.
+
+## SCR-015 — Forgotten app passcode
+
+**Given** the app asks for a passcode the user does not remember, **when** they
+read the passcode section, **then** they learn that there is no reset, that
+reinstalling is the only route and loses secret chats, and how to make sure they
+can sign in again first.
+

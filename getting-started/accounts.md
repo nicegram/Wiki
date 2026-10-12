@@ -26,6 +26,28 @@ guarantee that every device can run an arbitrary number.
 Open the account switcher and select an account. Before sending a message, confirm
 the active avatar and identity — especially if you manage client or channel accounts.
 
+## Sign in to the same account on several devices
+
+[Telegram lets you](https://telegram.org/faq#q-which-devices-can-i-use) sign in
+to one account on as many devices as you like, all at the same time; cloud chats
+sync between them. On a new device, the login code may
+arrive in the chat with Telegram on a device where you are already signed in,
+instead of by SMS. If you set a two-step verification password, you need it too.
+
+Check signed-in devices under **Settings → Devices** (or **Active Sessions**) and
+end any session you do not recognise.
+
+## Register a new Telegram account
+
+To register, enter a mobile number that has no Telegram account yet. Once the
+number is confirmed, Telegram requests your name, offers to add a profile photo,
+and creates the account when you accept its terms of service. Landlines are not
+supported.
+
+If you deleted and re-created an account several times recently, Telegram asks
+you to wait a few days before signing up again. For other registration problems,
+Telegram points to its own [support form](https://telegram.org/support).
+
 ## Back up, import, or export accounts
 
 Supported mobile builds expose Nicegram account-transfer tools. These tools move
@@ -47,7 +69,7 @@ selection does not guarantee stock. A plan benefit must be shown for your exact
 subscription; do not assume every Premium purchase includes an account.
 
 For a purchased session showing 403, a password request, or an account-deletion
-warning, keep any working access and contact [support](../help/support.md). Do not
+warning, keep any working access and contact [support](../help/support-and-source.md). Do not
 delete sessions or sign out as a generic repair, and never share login codes,
 passwords, or session files. Recovery needs an account-specific check.
 

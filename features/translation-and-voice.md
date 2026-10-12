@@ -37,7 +37,7 @@ parity is not confirmed.
 ## If it fails
 
 Report the platform, Nicegram version, language pair, exact action, and error text
-to [support](../help/support.md). Do not send private conversation contents. A
+to [support](../help/support-and-source.md). Do not send private conversation contents. A
 single error does not identify a global outage, and purchasing another plan is
 not a verified fix. A reported fix in an older version does not establish the
 status of a new regression.
