@@ -29,8 +29,8 @@ come back, so check first:
   iOS 15 or later): see the
   [account-transfer tools](../getting-started/accounts.md#back-up-import-or-export-accounts).
 - **Accounts bought through Telegram Sessions or imported as a session** may use
-  a phone number you do not control, so you may not get back in. Contact support first, and do not sign out as a
-  generic repair.
+  a phone number you do not control, so you may not get back in. Contact support
+  first, and do not sign out as a generic repair.
 - **The login code** often arrives in Telegram on another signed-in device. If
   it would go to this app, tap **Didn’t get the code?** → **Get the code via SMS**.
 - **Two-step password:** you need it if you set one.
