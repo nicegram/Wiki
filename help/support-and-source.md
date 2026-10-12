@@ -6,6 +6,7 @@ description: Find official Nicegram support, policies, downloads, and source rep
 
 ## Product and support
 
+- Support by e-mail: [support@nicegram.me](mailto:support@nicegram.me)
 - [Nicegram website](https://nicegram.me)
 - [Download Nicegram](https://nicegram.me/download)
 - [Nicegram FAQ](https://nicegram.me/faq)
@@ -42,5 +43,5 @@ Include:
 6. a redacted screenshot or log when safe.
 
 For source-code issues, use the relevant repository’s issue tracker when enabled.
-For account, billing, wallet, or private-data problems, use the support route shown
-inside the current app or on [nicegram.me](https://nicegram.me).
+For account, billing, wallet, or private-data problems, write to
+[support@nicegram.me](mailto:support@nicegram.me), also when the app does not open.
