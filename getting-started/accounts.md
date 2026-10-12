@@ -28,25 +28,26 @@ the active avatar and identity — especially if you manage client or channel ac
 
 ## Sign in to the same account on several devices
 
-[Telegram lets you](https://telegram.org/faq#q-which-devices-can-i-use) sign in
-to one account on as many devices as you like, all at the same time; cloud chats
-sync between them. On a new device, the login code may
-arrive in the chat with Telegram on a device where you are already signed in,
-instead of by SMS. If you set a two-step verification password, you need it too.
+Telegram lets you sign in to one account on as many devices as you like, at the
+same time. On a new device, the login code may arrive in the chat with Telegram
+on a device where you are already signed in. You also need your two-step
+password, if set.
 
 Check signed-in devices under **Settings → Devices** (or **Active Sessions**) and
-end any session you do not recognise.
+end sessions you do not recognise, but not those of accounts bought through
+Account Shop (see below).
 
 ## Register a new Telegram account
 
-To register, enter a mobile number that has no Telegram account yet. Once the
-number is confirmed, Telegram requests your name, offers to add a profile photo,
-and creates the account when you accept its terms of service. Landlines are not
-supported.
+Enter a mobile number that has no Telegram account yet. Once it is confirmed,
+Telegram asks for your name, offers a profile photo, and creates the account when
+you accept its terms. Landlines are not supported. Telegram may also ask for an
+email address, and in some countries for an SMS fee (or a week of Telegram
+Premium instead); that is Telegram’s charge, not Nicegram’s.
 
-If you deleted and re-created an account several times recently, Telegram asks
-you to wait a few days before signing up again. For other registration problems,
-Telegram points to its own [support form](https://telegram.org/support).
+After deleting and re-creating an account several times, you wait a few days
+before signing up again. For other registration problems, Telegram points to its
+[support form](https://telegram.org/support).
 
 ## Back up, import, or export accounts
 

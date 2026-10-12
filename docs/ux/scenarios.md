@@ -79,8 +79,10 @@ is invented from old marketing.
 
 **Given** Nicegram does not open, crashes, or stays on Connecting…, **when** the
 user opens the app-problems page, **then** they get steps that keep their data
-first (restart, connection and proxy status, update, storage) and learn what a
-reinstall loses before they delete the app.
+first (restart, connection status, update, storage) and learn what a
+reinstall can lose for good (bought or imported accounts, the login-code route,
+secret chats, local data) before they delete the app. Nothing on the page tells
+them to sign out or delete sessions as a generic repair (consistent with SCR-011).
 
 ## SCR-014 — Understand a group or join restriction
 
@@ -93,7 +95,9 @@ presented as something Nicegram support or a Nicegram plan can lift.
 ## SCR-015 — Forgotten app passcode
 
 **Given** the app asks for a passcode the user does not remember, **when** they
-read the passcode section, **then** they learn that there is no reset, that
-reinstalling is the only route and loses secret chats, and how to make sure they
-can sign in again first.
+read the passcode section, **then** they learn that there is no reset and that
+reinstalling is the only route the app names, and they are sent to the
+reinstall checklist first: back up accounts where offered, contact support before
+deleting when an account was bought or imported as a session, and check the
+login-code route and the two-step password.
 
