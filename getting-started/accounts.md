@@ -86,6 +86,5 @@ restore deleted messages. Follow only the options visible in your installed buil
 **Sources:** [Account-shop announcement](https://t.me/nicegramapp/1015) ·
 [Country selection](https://t.me/nicegramapp/1023) ·
 [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[Evidence ledger, October 13](../docs/evidence/help-troubleshooting-2026-10-13.md) ·
 [iOS source](https://github.com/nicegram/Nicegram-iOS) ·
 [Android source](https://github.com/nicegram/Nicegram-Android)
