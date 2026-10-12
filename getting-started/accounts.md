@@ -88,8 +88,8 @@ The other way round, while Double Bottom is open, your other accounts are hidden
 
 **It was signed out on this device.** Logging out, uninstalling the app, or ending
 this device’s session from another device under **Settings → Devices** signs the
-account out here. Telegram keeps your cloud chats; secret chats on this device
-are lost. Sign in again as in [Add an account](#add-an-account): you need the
+account out here. Telegram keeps your cloud messages, but Secret Chats on this
+device are lost. Sign in again as in [Add an account](#add-an-account): you need the
 phone number, the login code, and your two-step password if you set one. For an
 account bought through Account Shop or imported as a session,
 [contact support](../help/support-and-source.md) first.

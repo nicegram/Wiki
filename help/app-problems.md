@@ -91,14 +91,14 @@ Tap **Add Proxy** and choose the type the proxy uses:
 - **SOCKS5** needs a server and a port. A username and password are optional.
 - **MTProto** needs a server, a port, and a secret.
 
-While the app connects through the proxy, the top of the chat list shows
+While the app connects through the proxy, the top of the main screen shows
 **Connecting to Proxy…**. If it stays there, the proxy may be unavailable: open
 the proxy settings and pick another saved proxy, or turn **Use Proxy** off to
 connect without one.
 
 Use only a proxy from a source you trust. Its operator cannot read your messages,
 but can see your IP address and that you use Telegram. An MTProto proxy may also
-show a sponsored channel in your chat list.
+add a sponsored channel to your list.
 
 You don’t need a proxy or a VPN for Nicegram where Telegram itself works without
 one: Nicegram connects to Telegram’s official servers. Where Telegram is
