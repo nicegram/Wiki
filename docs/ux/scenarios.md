@@ -102,3 +102,14 @@ before (iOS 15 or later); that otherwise each account needs its login code and
 two-step password; and that an account bought or imported as a session needs
 support before deleting. Every step named can be done without unlocking the app.
 
+## SCR-016 — Lost phone or SIM card
+
+**Given** a user lost the phone (or SIM) their Telegram account is registered to,
+**when** they open the accounts page, **then** they learn that getting back in needs
+the number or another signed-in device, and get the steps for each case: secure the
+account and end the lost phone's session from another device, have the operator
+reissue the SIM, then sign in with the login code and two-step password (recovery
+email if forgotten). They are warned about the inactivity deletion period and to
+change the number while they still have access. Nothing on the page promises that
+support can restore an account without the number, and an account bought or
+imported as a session is routed to support first (consistent with SCR-011).

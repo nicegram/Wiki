@@ -37,6 +37,44 @@ Check signed-in devices under **Settings → Devices** (or **Active Sessions**) 
 end sessions you do not recognise. On an account bought through Account Shop,
 [contact support](../help/support-and-source.md) first if you are unsure.
 
+## I lost my phone or SIM card
+
+Telegram knows your account only by its phone number. To get back in you need
+that number or a device where you are still signed in. Neither Telegram nor
+Nicegram support can restore an account without one of them.
+
+**Still signed in on another device** (a phone, tablet, computer, or Telegram
+Web):
+
+1. On that device, turn on **Two-Step Verification** in **Settings → Privacy and
+   Security**, so the number alone no longer opens your account.
+2. Under **Settings → Devices** (or **Active Sessions**), end the session of the
+   lost phone.
+3. Ask your mobile operator to block the old SIM and issue a new one with your
+   number.
+
+**Not signed in anywhere else:** ask your mobile operator to block the old SIM
+and issue a new one with your number. Then sign in on the new phone and end the
+lost phone’s session under **Settings → Devices**.
+
+When you sign in on the new phone:
+
+- The login code goes to Telegram on your other signed-in devices if you have
+  any. If none is available, tap **Didn’t get the code?** and choose SMS if
+  offered.
+- You also need your two-step password, if you set one. Forgot it? The recovery
+  email you added helps you reset it (see the
+  [two-step verification FAQ](https://telegram.org/faq#q-how-does-2-step-verification-work)).
+- An account bought through Account Shop or imported as a session may use a
+  number you do not control. [Contact support](../help/support-and-source.md)
+  before you try anything else.
+
+Don’t wait too long. Telegram deletes an account that stays offline for the
+period set in **Settings → Privacy and Security** (“If Away For”). If you move to
+a new number for good, change it while you still have access: **Settings →** tap
+your phone number **→ Change Number**. Never send your login code or two-step
+password to anyone, including people who say they are support.
+
 ## Register a new Telegram account
 
 Enter a mobile number that has no Telegram account yet. Once it is confirmed,
