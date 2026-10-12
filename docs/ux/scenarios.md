@@ -121,14 +121,3 @@ on getting around any law or restriction.
 video calls are Telegram calls to Telegram users only, that a contact who is not on
 Telegram can only be invited, that a regular phone call from a profile is made by
 the phone's own calling app, and what "doesn't accept calls" means.
-
-## SCR-019 — An account disappeared
-
-**Given** an account no longer appears in Nicegram, **when** the user reads the
-accounts section, **then** they can check each documented cause: hidden with Double
-Bottom (or other accounts hidden while Double Bottom is open), signed out on this
-device (log-out, uninstall, or session ended from another device; sign in again),
-deleted by Telegram after the If Away For period, or deleted, which cannot be
-undone. Nothing on the page guesses at bans or promises that support can restore a
-deleted account; accounts bought or imported as a session go to support first
-(consistent with SCR-011).

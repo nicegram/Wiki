@@ -76,35 +76,6 @@ warning, keep any working access and contact [support](../help/support-and-sourc
 delete sessions or sign out as a generic repair, and never share login codes,
 passwords, or session files. Recovery needs an account-specific check.
 
-## My account disappeared — what happened?
-
-Nicegram lists the Telegram accounts signed in on this device. When one is
-missing, check these causes.
-
-**It’s hidden with Double Bottom.** An account hidden with
-[Double Bottom](../features/privacy.md#double-bottom) does not appear when you
-unlock Nicegram the usual way; unlock with the Double Bottom passcode to see it.
-The other way round, while Double Bottom is open, your other accounts are hidden.
-
-**It was signed out on this device.** Logging out, uninstalling the app, or ending
-this device’s session from another device under **Settings → Devices** signs the
-account out here. Telegram keeps your cloud messages, but Secret Chats on this
-device are lost. Sign in again as in [Add an account](#add-an-account): you need the
-phone number, the login code, and your two-step password if you set one. For an
-account bought through Account Shop or imported as a session,
-[contact support](../help/support-and-source.md) first.
-
-**Telegram deleted it after a long time offline.** Telegram deletes an account
-that doesn’t come online for the period set in **Settings → Privacy and
-Security → If Away For**. The default is 18 months.
-
-**It was deleted.** A deleted Telegram account cannot be restored, whether you
-deleted it or it self-destructed. Signing up again with the same number creates
-a new, empty account without your history, contacts, or groups.
-
-If none of these fits, [contact support](../help/support-and-source.md). Never
-send anyone your login code or two-step password.
-
 ## Export messages instead of sessions
 
 A chat export and an account-session export serve different purposes. A supported
