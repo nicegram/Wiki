@@ -39,8 +39,6 @@ another messenger.
   call option.
 - **A contact who isn’t on Telegram** can only be invited to join; there is no
   call to them from Nicegram.
-- **A phone number in a profile** can also offer a regular phone call. That hands
-  the number to your phone’s own calling app; the call isn’t made by Nicegram.
 - **“Doesn’t accept calls”** means that person’s privacy settings don’t allow
   calls from you.
 

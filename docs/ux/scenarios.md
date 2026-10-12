@@ -119,5 +119,4 @@ on getting around any law or restriction.
 **Given** a user wants to call someone on WhatsApp, FaceTime or another app,
 **when** they read the calls section, **then** they learn that Nicegram's voice and
 video calls are Telegram calls to Telegram users only, that a contact who is not on
-Telegram can only be invited, that a regular phone call from a profile is made by
-the phone's own calling app, and what "doesn't accept calls" means.
+Telegram can only be invited, and what "doesn't accept calls" means.
