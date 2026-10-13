@@ -131,3 +131,24 @@ on getting around any law or restriction.
 **when** they read the calls section, **then** they learn that Nicegram's voice and
 video calls are Telegram calls to Telegram users only, that a contact who is not on
 Telegram can only be invited, and what "doesn't accept calls" means.
+
+## SCR-019 — Forgotten two-step password
+
+**Given** a user forgot the two-step verification password, **when** they read the
+accounts page, **then** they find the three cases: a recovery email (a 6-digit code
+removes the password, then they set a new one); no usable email but another session
+(reset from **Settings → Privacy and Security → Two-Step Verification**, done after
+7 days, cancelling restarts the wait); neither (**Reset account** deletes everything
+for good, delayed a week for an active protected account). The section says nobody
+else can recover the password, never asks for it or a code, and links the lost-phone
+section (SCR-016).
+
+## SCR-020 — Back up all chats and media
+
+**Given** a user wants a backup or export of all chats and media, **when** they read
+the accounts page, **then** they learn that cloud messages stay on Telegram's servers
+and secret chats stay on their device, how to export everything from Telegram
+Desktop (**Settings → Advanced → Export Telegram data**: what can be included, HTML
+or JSON, where it is saved) or one chat (**⋯ → Export chat history**), and that a
+copy saved before keeps messages the other side later deletes for both. Nicegram's
+own export is linked, not repeated, and no Nicegram-specific backup is promised.
