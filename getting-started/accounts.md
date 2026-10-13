@@ -60,8 +60,9 @@ When you sign in again:
 - The login code goes to Telegram on your other signed-in devices if you have
   any. If none is available, tap **Didn’t get the code?** and choose SMS if
   offered.
-- You also need your two-step password, if you set one. Forgot it? See
-  [I forgot my two-step verification password](#i-forgot-my-two-step-verification-password).
+- You also need your two-step password, if you set one. Forgot it? The recovery
+  email you added helps you reset it (see
+  [Telegram’s FAQ](https://telegram.org/faq#q-how-does-2-step-verification-work)).
 - An account bought through Account Shop or imported as a session may use a SIM
   you do not control. [Contact support](../help/support-and-source.md) before
   you try anything else.
