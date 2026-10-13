@@ -142,8 +142,8 @@ passwords, or session files. Recovery needs an account-specific check.
 
 Telegram keeps your cloud messages on its servers, so they come back on any
 device you use, even after losing your phone. Secret chats are the exception:
-they stay only on the device where they started, cannot be exported or backed
-up, and are lost if you log out or lose that device.
+they stay only on the device where they started, are left out of any copy, and
+are lost if you log out or lose that device.
 
 For your own copy on a computer, use
 [Telegram Desktop](https://desktop.telegram.org), Telegram’s computer app (on a
@@ -157,9 +157,9 @@ Mac, the one from that site), with the same number:
   Telegram Desktop running until it finishes.
 - **One conversation:** open it, then **⋯ → Export chat history**.
 
-Chats where copying is turned off cannot be exported. For security, Telegram
-may make you wait before the export starts on a newly signed-in computer; come
-back when it says and repeat the request there.
+Chats where copying is turned off are left out. On a newly signed-in computer,
+Telegram may make you wait first for security; come back when it says and
+repeat the request there.
 
 The result is a folder of files on your computer. If the other person later
 deletes messages for both sides, a copy saved before still has them. Keep it as
