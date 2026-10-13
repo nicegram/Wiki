@@ -55,9 +55,9 @@ A story is a photo or video shown above the chat list of the people you choose.
    expires) are on the same screen.
 4. Tap **Post Story**.
 
-A story lasts 24 hours. **Telegram Premium** (Telegram’s own subscription, not
-Nicegram Premium) adds 6, 12 and 48 hours, more stories at a time, links and
-formatting in captions, and Stealth Mode.
+A story lasts 24 hours. **Telegram Premium**, Telegram’s own subscription, adds
+6, 12 and 48 hours, more stories at a time, links and formatting in captions,
+and Stealth Mode.
 
 Who may post, and how many stories a week or month, is set by Telegram for every
 app. When posting is limited to Telegram Premium, the app shows that message.
