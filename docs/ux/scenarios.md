@@ -154,7 +154,7 @@ and secret chats stay on their device, how to export everything from Telegram
 Desktop (**Settings → Advanced → Export Telegram data**: what can be included, HTML
 or JSON, where it is saved) or one chat (**⋯ → Export chat history**), and that a
 copy saved before keeps messages the other side later deletes for both. It says
-secret chats cannot be exported and are lost on logout or with the device, chats with
-copying turned off cannot be exported, and a newly signed-in computer may have to
+secret chats are left out of any copy and are lost on logout or with the device, the
+one-chat export is not offered where copying is turned off, and a newly signed-in computer may have to
 wait before the export starts. Nicegram's
 own export is linked, not repeated, and no Nicegram-specific backup is promised.

@@ -154,11 +154,11 @@ Mac, the one from that site), with the same number:
   messages, stickers, GIFs, files up to a size limit). Pick HTML to read it,
   JSON for programs, or both, and a folder (Downloads by default). Keep
   Telegram Desktop running until it finishes.
-- **One conversation:** open it, then **⋯ → Export chat history**.
+- **One conversation:** open it, then **⋯ → Export chat history**. Not offered
+  for chats where copying is turned off.
 
-Chats where copying is turned off are left out. On a newly signed-in computer,
-Telegram may make you wait first for security; come back when it says and
-repeat the request there.
+On a newly signed-in computer, Telegram may make you wait first for security;
+come back when it says and repeat the request there.
 
 The result is a folder of files on your computer. If the other person later
 deletes messages for both sides, a copy saved before still has them. Keep it as
