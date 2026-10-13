@@ -37,6 +37,41 @@ Check signed-in devices under **Settings → Devices** (or **Active Sessions**) 
 end sessions you do not recognise. On an account bought through Account Shop,
 [contact support](../help/support-and-source.md) first if you are unsure.
 
+## I lost my phone or SIM card
+
+Telegram ties your account to its phone number. To get back in you need that
+number or a device where you are still signed in; neither Telegram nor Nicegram
+support can restore an account without one of them.
+
+**Still signed in on another device** (a tablet, computer, or Telegram Web):
+
+1. There, turn on **Two-Step Verification** in **Settings → Privacy and
+   Security**, so the SIM alone no longer opens your account.
+2. Under **Settings → Devices** (or **Active Sessions**), end the session of the
+   lost device.
+3. Ask your mobile operator to block the old SIM and reissue it.
+
+**Not signed in anywhere else:** ask your mobile operator to block the old SIM
+and reissue it. Then sign in again and end the lost device’s session under
+**Settings → Devices**.
+
+When you sign in again:
+
+- The login code goes to Telegram on your other signed-in devices if you have
+  any. If none is available, tap **Didn’t get the code?** and choose SMS if
+  offered.
+- You also need your two-step password, if you set one. Forgot it? The recovery
+  email you added helps you reset it (see
+  [Telegram’s FAQ](https://telegram.org/faq#q-how-does-2-step-verification-work)).
+- An account bought through Account Shop or imported as a session may use a SIM
+  you do not control. [Contact support](../help/support-and-source.md) before
+  you try anything else.
+
+Don’t wait too long. Telegram deletes an account that stays offline for the
+period set in **Settings → Privacy and Security** (“If Away For”). To move to a
+new number for good, change it while you still have access: **Settings →** your
+number **→ Change Number**.
+
 ## Register a new Telegram account
 
 Enter a mobile number that has no Telegram account yet. Once it is confirmed,

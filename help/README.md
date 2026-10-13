@@ -16,6 +16,9 @@ description: Diagnose missing features, review privacy guidance, and contact off
 - [Support and source code](support-and-source.md) — use official community,
   policies, and public repositories.
 
+Lost your phone or SIM card? See
+[I lost my phone or SIM card](../getting-started/accounts.md#i-lost-my-phone-or-sim-card).
+
 For account compromise, first secure the Telegram account from a trusted Telegram
 client: review active sessions, terminate unfamiliar sessions, and enable two-step
 verification. Never send a login code or recovery secret to support.
