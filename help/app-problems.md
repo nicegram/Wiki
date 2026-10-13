@@ -34,7 +34,7 @@ come back, so check first:
 - **The login code** often arrives in Telegram on another signed-in device. If
   it would go to this app, tap **Didn’t get the code?** and choose SMS if offered.
 - **Two-step password:** you need it if you set one (forgot it? see the
-  [two-step verification FAQ](https://telegram.org/faq#q-how-does-2-step-verification-work)).
+  [two-step password help](../getting-started/accounts.md#i-forgot-my-two-step-verification-password)).
 
 Telegram keeps your cloud chats. Secret chats are lost, and local Nicegram data
 such as quick replies and downloads may not be restored.
@@ -109,7 +109,7 @@ restricted, Nicegram is restricted the same way.
 The app passcode is **Passcode Lock** in **Settings → Privacy and Security**.
 Unlocking with your face or fingerprint is an option inside it; the passcode
 still exists. It is not the two-step password used at sign-in (forgot that one?
-see the [two-step verification FAQ](https://telegram.org/faq#q-how-does-2-step-verification-work)).
+see the [two-step password help](../getting-started/accounts.md#i-forgot-my-two-step-verification-password)).
 
 There is no passcode reset. The passcode screen says that if you forget it, you
 must uninstall and reinstall the app, and secret chats are lost. That can lose

@@ -18,6 +18,10 @@ description: Diagnose missing features, review privacy guidance, and contact off
 
 Lost your phone or SIM card? See
 [I lost my phone or SIM card](../getting-started/accounts.md#i-lost-my-phone-or-sim-card).
+Forgot your two-step verification password? See
+[I forgot my two-step verification password](../getting-started/accounts.md#i-forgot-my-two-step-verification-password).
+Want your own copy of your chats? See
+[How do I back up all my chats and media?](../getting-started/accounts.md#how-do-i-back-up-all-my-chats-and-media)
 
 For account compromise, first secure the Telegram account from a trusted Telegram
 client: review active sessions, terminate unfamiliar sessions, and enable two-step

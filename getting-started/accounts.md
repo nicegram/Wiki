@@ -60,9 +60,8 @@ When you sign in again:
 - The login code goes to Telegram on your other signed-in devices if you have
   any. If none is available, tap **Didn’t get the code?** and choose SMS if
   offered.
-- You also need your two-step password, if you set one. Forgot it? The recovery
-  email you added helps you reset it (see
-  [Telegram’s FAQ](https://telegram.org/faq#q-how-does-2-step-verification-work)).
+- You also need your two-step password, if you set one. Forgot it? See
+  [I forgot my two-step verification password](#i-forgot-my-two-step-verification-password).
 - An account bought through Account Shop or imported as a session may use a SIM
   you do not control. [Contact support](../help/support-and-source.md) before
   you try anything else.
@@ -74,21 +73,27 @@ number **→ Change Number**.
 
 ## I forgot my two-step verification password
 
+Bought this account through Account Shop or imported it as a session?
+[Contact support](../help/support-and-source.md) before you try anything below.
+
 On the password screen, tap **Forgot password?**:
 
 - **With a recovery email:** enter the 6-digit code Telegram emails you. The old
   password is removed, and you can set a new one.
 - **No recovery email (or no access to it), but Telegram is open on another
   device:** there, go to **Settings → Privacy and Security → Two-Step
-  Verification**, tap **Forgot password?** and confirm. The password is removed
-  after 7 days. Cancelling means a new request waits another 7 days.
-- **Neither:** the remaining option is **Reset account**, which permanently
-  deletes all your messages and files. If the password protects an active
-  profile, deletion waits a week and can be cancelled from another session.
+  Verification**, tap **Forgot password?** (with a recovery email, then
+  **Can’t access your email?**) and confirm the reset. After 7 days, open that
+  screen again and tap **Reset Password**; until then it shows how long is
+  left. Cancelling means a new request waits another 7 days.
+- **Neither:** the remaining option is **Reset account**. It cannot be undone:
+  your messages, media, contacts and groups are deleted, and you start again
+  as a new user on the same number. Telegram may delay it by a week if the
+  account was recently active; the app tells you when.
 
-Nobody else can recover this password. Never share it or a recovery code, even
-with someone who claims to be support. Lost the phone too? See
-[I lost my phone or SIM card](#i-lost-my-phone-or-sim-card).
+Neither Telegram nor Nicegram support can tell you this password. Never share
+it or a recovery code, even with someone who claims to be support. Lost the
+phone too? See [I lost my phone or SIM card](#i-lost-my-phone-or-sim-card).
 
 **Sources:** [Evidence ledger](../docs/evidence/help-telegram-basics-2026-10-13.md)
 
@@ -109,7 +114,9 @@ Supported mobile builds expose Nicegram account-transfer tools. On iOS 15 or
 later they are in **Nicegram Settings → Accounts**: **iCloud Backup**, **Import
 from iCloud**, **Import from File** and **Export as File**. Android builds offer
 the same tools in Nicegram’s settings. These tools move account
-session access; they do not create a Telegram backup of all cloud chats.
+session access; they do not create a Telegram backup of all cloud chats. To keep
+your own copy of your chats, see
+[How do I back up all my chats and media?](#how-do-i-back-up-all-my-chats-and-media).
 
 - Protect exported account material as you would an active login session.
 - Do not upload it to a public drive or send it through an untrusted chat.
@@ -135,11 +142,12 @@ passwords, or session files. Recovery needs an account-specific check.
 
 Telegram keeps your cloud messages on its servers, so they come back on any
 device you use, even after losing your phone. Secret chats are the exception:
-they stay only on the device where they started.
+they stay only on the device where they started, cannot be exported or backed
+up, and are lost if you log out or lose that device.
 
 For your own copy on a computer, use
-[Telegram Desktop](https://desktop.telegram.org), Telegram’s computer app, with
-the same number:
+[Telegram Desktop](https://desktop.telegram.org), Telegram’s computer app (on a
+Mac, the one from that site), with the same number:
 
 - **Everything:** **Settings → Advanced → Export Telegram data**. Tick what to
   save: profile information, contacts, story archive, personal and bot chats,
@@ -148,6 +156,10 @@ the same number:
   JSON for programs, or both, and a folder (Downloads by default). Keep
   Telegram Desktop running until it finishes.
 - **One conversation:** open it, then **⋯ → Export chat history**.
+
+Chats where copying is turned off cannot be exported. For security, Telegram
+may make you wait before the export starts on a newly signed-in computer; come
+back when it says and repeat the request there.
 
 The result is a folder of files on your computer. If the other person later
 deletes messages for both sides, a copy saved before still has them. Keep it as
