@@ -90,6 +90,8 @@ Nobody else can recover this password. Never share it or a recovery code, even
 with someone who claims to be support. Lost the phone too? See
 [I lost my phone or SIM card](#i-lost-my-phone-or-sim-card).
 
+**Sources:** [Evidence ledger](../docs/evidence/help-telegram-basics-2026-10-13.md)
+
 ## Register a new Telegram account
 
 Enter a mobile number that has no Telegram account yet. Once it is confirmed,
@@ -153,6 +155,8 @@ private as the conversations themselves.
 
 For the option some Nicegram builds offer, see
 [the section below](#export-messages-instead-of-sessions).
+
+**Sources:** [Evidence ledger](../docs/evidence/help-telegram-basics-2026-10-13.md)
 
 ## Export messages instead of sessions
 
