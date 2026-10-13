@@ -114,9 +114,7 @@ Supported mobile builds expose Nicegram account-transfer tools. On iOS 15 or
 later they are in **Nicegram Settings → Accounts**: **iCloud Backup**, **Import
 from iCloud**, **Import from File** and **Export as File**. Android builds offer
 the same tools in Nicegram’s settings. These tools move account
-session access; they do not create a Telegram backup of all cloud chats. To keep
-your own copy of your chats, see
-[How do I back up all my chats and media?](#how-do-i-back-up-all-my-chats-and-media).
+session access; they do not create a Telegram backup of all cloud chats.
 
 - Protect exported account material as you would an active login session.
 - Do not upload it to a public drive or send it through an untrusted chat.
