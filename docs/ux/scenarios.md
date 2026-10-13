@@ -131,3 +131,30 @@ on getting around any law or restriction.
 **when** they read the calls section, **then** they learn that Nicegram's voice and
 video calls are Telegram calls to Telegram users only, that a contact who is not on
 Telegram can only be invited, and what "doesn't accept calls" means.
+
+## SCR-019 — Forgotten two-step password
+
+**Given** a user forgot the two-step verification password, **when** they read the
+accounts page, **then** an account bought through Account Shop or imported as a
+session is routed to support first (consistent with SCR-011), and they find the
+three cases: a recovery email (a 6-digit code removes the password, then they set a
+new one); no usable email but another session (request the reset from **Settings →
+Privacy and Security → Two-Step Verification**, then after 7 days return and tap
+**Reset Password**; cancelling restarts the wait); neither (**Reset account** cannot
+be undone, deletes messages, media, contacts and groups and leaves an empty account
+on signing up again; Telegram may delay it a week for a recently active account). The
+section says neither Telegram nor Nicegram support can tell them the password, never
+asks for it or a code, and links the lost-phone section (SCR-016).
+
+## SCR-020 — Back up all chats and media
+
+**Given** a user wants a backup or export of all chats and media, **when** they read
+the accounts page, **then** they learn that cloud messages stay on Telegram's servers
+and secret chats stay on their device, how to export everything from Telegram
+Desktop (**Settings → Advanced → Export Telegram data**: what can be included, HTML
+or JSON, where it is saved) or one chat (**⋯ → Export chat history**), and that a
+copy saved before keeps messages the other side later deletes for both. It says
+secret chats are left out of any copy and are lost on logout or with the device, the
+one-chat export is not offered where copying is turned off, and a newly signed-in computer may have to
+wait before the export starts. Nicegram's
+own export is linked, not repeated, and no Nicegram-specific backup is promised.

@@ -1,5 +1,5 @@
 ---
-description: Add, switch, back up, and hide Telegram accounts in Nicegram.
+description: Add, switch, back up, and hide Telegram accounts in Nicegram, recover a forgotten two-step password, and export your chats.
 ---
 
 # How do accounts work in Nicegram?
@@ -72,6 +72,32 @@ period set in **Settings → Privacy and Security** (“If Away For”). To move
 new number for good, change it while you still have access: **Settings →** your
 number **→ Change Number**.
 
+## I forgot my two-step verification password
+
+Bought this account through Account Shop or imported it as a session?
+[Contact support](../help/support-and-source.md) before you try anything below.
+
+On the password screen, tap **Forgot password?**:
+
+- **With a recovery email:** enter the 6-digit code Telegram emails you. The old
+  password is removed, and you can set a new one.
+- **No recovery email (or no access to it), but Telegram is open on another
+  device:** there, go to **Settings → Privacy and Security → Two-Step
+  Verification**, tap **Forgot password?** (with a recovery email, then
+  **Can’t access your email?**) and confirm the reset. After 7 days, open that
+  screen again and tap **Reset Password**; until then it shows how long is
+  left. Cancelling means a new request waits another 7 days.
+- **Neither:** the remaining option is **Reset account**. It cannot be undone:
+  your messages, media, contacts and groups are deleted, and signing up again
+  gives you an empty account. Telegram may delay it by a week if the
+  account was recently active; the app tells you when.
+
+Neither Telegram nor Nicegram support can tell you this password. Never share
+it or a recovery code, even with someone who claims to be support. Lost the
+phone too? See [I lost my phone or SIM card](#i-lost-my-phone-or-sim-card).
+
+**Sources:** [Evidence ledger](../docs/evidence/help-telegram-basics-2026-10-13.md)
+
 ## Register a new Telegram account
 
 Enter a mobile number that has no Telegram account yet. Once it is confirmed,
@@ -110,6 +136,38 @@ For a purchased session showing 403, a password request, or an account-deletion
 warning, keep any working access and contact [support](../help/support-and-source.md). Do not
 delete sessions or sign out as a generic repair, and never share login codes,
 passwords, or session files. Recovery needs an account-specific check.
+
+## How do I back up all my chats and media?
+
+Telegram keeps your cloud messages on its servers, so they come back on any
+device you use, even after losing your phone. Secret chats are the exception:
+they stay only on the device where they started, are left out of any copy, and
+are lost if you log out or lose that device.
+
+For your own copy on a computer, use
+[Telegram Desktop](https://desktop.telegram.org), Telegram’s computer app (on a
+Mac, the one from that site), with the same number:
+
+- **Everything:** **Settings → Advanced → Export Telegram data**. Tick what to
+  save: profile information, contacts, story archive, personal and bot chats,
+  groups, channels, and the kinds of media (photos, videos, voice and video
+  messages, stickers, GIFs, files up to a size limit). Pick HTML to read it,
+  JSON for programs, or both, and a folder (Downloads by default). Keep
+  Telegram Desktop running until it finishes.
+- **One conversation:** open it, then **⋯ → Export chat history**. Not offered
+  for chats where copying is turned off.
+
+On a newly signed-in computer, Telegram may make you wait first for security;
+come back when it says and repeat the request there.
+
+The result is a folder of files on your computer. If the other person later
+deletes messages for both sides, a copy saved before still has them. Keep it as
+private as the conversations themselves.
+
+For the option some Nicegram builds offer, see
+[the section below](#export-messages-instead-of-sessions).
+
+**Sources:** [Evidence ledger](../docs/evidence/help-telegram-basics-2026-10-13.md)
 
 ## Export messages instead of sessions
 
