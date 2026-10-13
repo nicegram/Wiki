@@ -88,8 +88,8 @@ On the password screen, tap **Forgot password?**:
   screen again and tap **Reset Password**; until then it shows how long is
   left. Cancelling means a new request waits another 7 days.
 - **Neither:** the remaining option is **Reset account**. It cannot be undone:
-  your messages, media, contacts and groups are deleted, and you start again
-  as a new user on the same number. Telegram may delay it by a week if the
+  your messages, media, contacts and groups are deleted, and signing up again
+  gives you an empty account. Telegram may delay it by a week if the
   account was recently active; the app tells you when.
 
 Neither Telegram nor Nicegram support can tell you this password. Never share

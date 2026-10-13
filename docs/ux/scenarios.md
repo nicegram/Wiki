@@ -141,8 +141,8 @@ three cases: a recovery email (a 6-digit code removes the password, then they se
 new one); no usable email but another session (request the reset from **Settings →
 Privacy and Security → Two-Step Verification**, then after 7 days return and tap
 **Reset Password**; cancelling restarts the wait); neither (**Reset account** cannot
-be undone, deletes messages, media, contacts and groups and starts a new account on
-the same number; Telegram may delay it a week for a recently active account). The
+be undone, deletes messages, media, contacts and groups and leaves an empty account
+on signing up again; Telegram may delay it a week for a recently active account). The
 section says neither Telegram nor Nicegram support can tell them the password, never
 asks for it or a code, and links the lost-phone section (SCR-016).
 
