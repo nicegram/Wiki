@@ -34,15 +34,15 @@ Fetched on 2026-10-13: telegram.org/faq, telegram.org/blog/export-and-more, desk
 core.telegram.org/api/srp, core.telegram.org/method/account.resetPassword and core.telegram.org/api/account-deletion;
 tdesktop files at `4e5f92b` from raw.githubusercontent.com.
 
-## Prepared, not published: “How do I post a story?”
+## “How do I post a story?” (published after the data agent's Premium ranking fix)
 
-W5-P2 also drafted a stories section for [Media and call tools](../../features/media-and-calls.md). It was
-dropped before review: the data agent’s golden row g-06 sits at coverage 0.596 against a floor of 0.6, and any new
-public section that names Telegram Premium lowers that word’s weight enough to push g-06 over the floor with a wrong
-answer (golden misleading en 7 → 8). Rewording around the word would key the text to a test row, so the section waits
-for that fix in the data agent. Its evidence, for the next attempt:
+W5-P2 drafted this section for [Media and call tools](../../features/media-and-calls.md) and held it back: the data
+agent's golden row g-06 sat at coverage 0.596 against a floor of 0.6, and any new public section naming Telegram
+Premium pushed g-06 over the floor with a wrong answer. The data agent's premium-2fa round (agent PR #49: price
+words count only next to Premium/subscription/plan, "Telegram Premium" is its own topic) fixed that in ranking, not
+in this text, which is published as drafted.
 
-| Statement (draft) | Evidence |
+| Statement | Evidence |
 |---|---|
 | Tap **My Story** at the top of the chat list | [iOS strings:9486](https://github.com/nicegram/Nicegram-iOS/blob/f42e2ad3f3bad70322707113808d9c8cbe95c65f/Telegram/Telegram-iOS/en.lproj/Localizable.strings#L9486) · [StoryPeerListItemComponent.swift:959](https://github.com/nicegram/Nicegram-iOS/blob/f42e2ad3f3bad70322707113808d9c8cbe95c65f/submodules/TelegramUI/Components/Stories/StoryPeerListComponent/Sources/StoryPeerListItemComponent.swift#L959) · [Android strings:6519](https://github.com/nicegram/Nicegram-Android/blob/235be7c5e4f167341177ad40ec04959571e0070c/TMessagesProj/src/main/res/values/strings.xml#L6519) · [DialogStoriesCell.java:630](https://github.com/nicegram/Nicegram-Android/blob/235be7c5e4f167341177ad40ec04959571e0070c/TMessagesProj/src/main/java/org/telegram/ui/Stories/DialogStoriesCell.java#L630) |
 | Who sees it: Everyone, Contacts, Close Friends, Selected Contacts; exclude people; Allow Screenshots; Keep on My Page; Post Story | [Telegram blog: Stories](https://telegram.org/blog/stories) (“4 privacy settings … include or exclude any users”; disable screenshots) · [Telegram Stories API: posting](https://core.telegram.org/api/stories#posting-stories) · [iOS strings:9727-9729](https://github.com/nicegram/Nicegram-iOS/blob/f42e2ad3f3bad70322707113808d9c8cbe95c65f/Telegram/Telegram-iOS/en.lproj/Localizable.strings#L9727-L9729) · [iOS strings:9753-9756](https://github.com/nicegram/Nicegram-iOS/blob/f42e2ad3f3bad70322707113808d9c8cbe95c65f/Telegram/Telegram-iOS/en.lproj/Localizable.strings#L9753-L9756) · [iOS strings:9774](https://github.com/nicegram/Nicegram-iOS/blob/f42e2ad3f3bad70322707113808d9c8cbe95c65f/Telegram/Telegram-iOS/en.lproj/Localizable.strings#L9774) · [Android strings:6596-6605](https://github.com/nicegram/Nicegram-Android/blob/235be7c5e4f167341177ad40ec04959571e0070c/TMessagesProj/src/main/res/values/strings.xml#L6596-L6605) · [Android strings:6737](https://github.com/nicegram/Nicegram-Android/blob/235be7c5e4f167341177ad40ec04959571e0070c/TMessagesProj/src/main/res/values/strings.xml#L6737) · [Android strings:6744](https://github.com/nicegram/Nicegram-Android/blob/235be7c5e4f167341177ad40ec04959571e0070c/TMessagesProj/src/main/res/values/strings.xml#L6744) · [StoryPrivacyBottomSheet.java:1205-1209](https://github.com/nicegram/Nicegram-Android/blob/235be7c5e4f167341177ad40ec04959571e0070c/TMessagesProj/src/main/java/org/telegram/ui/Stories/recorder/StoryPrivacyBottomSheet.java#L1205-L1209) |
