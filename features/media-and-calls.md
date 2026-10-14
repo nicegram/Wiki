@@ -45,8 +45,10 @@ another messenger.
 ## How do I post a story?
 
 Stories are a Telegram feature: Nicegram shows and posts them as Telegram does
-and adds nothing of its own. A story is a photo or video your contacts see at
+and adds nothing of its own to posting. A story is a photo or video your contacts see at
 the top of their chat list; you choose who can see it.
+
+On iPhone, iPad or Android (Nicegram Desktop shows stories but can’t post them):
 
 1. Tap **My Story** at the top of the chat list.
 2. Take a photo or video, or pick one from your gallery. You can add text,
@@ -84,4 +86,5 @@ iOS in current evidence. Other platforms are not confirmed.
 **Sources:** [Official status labels](https://nicegram.me/download) ·
 [Terms of Use](https://nicegram.me/terms-of-use) ·
 [iOS source](https://github.com/nicegram/Nicegram-iOS) ·
-[Evidence ledger, October 13](../docs/evidence/help-troubleshooting-2026-10-13.md)
+[Evidence ledger, October 13](../docs/evidence/help-troubleshooting-2026-10-13.md) ·
+[Evidence ledger: stories](../docs/evidence/help-telegram-basics-2026-10-13.md)
