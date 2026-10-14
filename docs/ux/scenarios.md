@@ -161,9 +161,10 @@ own export is linked, not repeated, and no Nicegram-specific backup is promised.
 
 ## SCR-021 — Post a story
 
-**Given** a user asks how to post a story, **when** they read the media and calls page, **then** they find the
-steps (**My Story** → photo or video → who sees it: Everyone, Contacts, Close Friends or Selected Contacts, with
-exclusions, **Allow Screenshots**, **Keep on My Page** → **Post Story**), that a story lasts 24 hours and what
-Telegram Premium adds, that Telegram sets who may post and how often (the app says when Premium is needed), that
-stories work in Nicegram wherever they work in Telegram, that channels and groups post once boosted, and that
-nothing can be posted during a call. No Nicegram-only story feature is promised.
+**Given** a user asks how to post a story, **when** they read the media and calls page, **then** they learn that
+stories are a Telegram feature Nicegram adds nothing to, and find the steps (**My Story** → photo or video → who sees
+it: Everyone, Contacts, Close Friends or Selected Contacts, with exclusions, **Allow Screenshots**, **Keep on My
+Page** → **Post Story**), that a story lasts 24 hours and what Telegram Premium adds (Nicegram Premium is a separate
+plan and doesn't include it), that Telegram sets who may post and how often (the app says when Telegram Premium is
+needed), that channels and groups post once boosted, and that on iPhone and iPad nothing can be posted during a call.
+No Nicegram-only story feature is promised, and no story limit is presented as something a Nicegram plan lifts.

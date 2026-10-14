@@ -1,5 +1,5 @@
 ---
-description: Send existing videos as round messages, post stories, manage media, and record supported calls responsibly.
+description: Send existing videos as round messages, post Telegram stories, manage media, and record supported calls responsibly.
 ---
 
 # What media and call tools does Nicegram add?
@@ -44,7 +44,9 @@ another messenger.
 
 ## How do I post a story?
 
-A story is a photo or video shown above the chat list of the people you choose.
+Stories are a Telegram feature: Nicegram shows and posts them as Telegram does
+and adds nothing of its own. A story is a photo or video your contacts see at
+the top of their chat list; you choose who can see it.
 
 1. Tap **My Story** at the top of the chat list.
 2. Take a photo or video, or pick one from your gallery. You can add text,
@@ -57,13 +59,14 @@ A story is a photo or video shown above the chat list of the people you choose.
 
 A story lasts 24 hours. **Telegram Premium**, Telegram’s own subscription, adds
 6, 12 and 48 hours, more stories at a time, links and formatting in captions,
-and Stealth Mode.
+and Stealth Mode. Nicegram Premium is a separate plan and doesn’t include these
+(see [Plans, Gems, and referrals](plans-and-rewards.md)).
 
 Who may post, and how many stories a week or month, is set by Telegram for every
 app. When posting is limited to Telegram Premium, the app shows that message.
-Nicegram uses Telegram’s official servers, so stories work in Nicegram wherever
-they work in Telegram. A channel or group can post stories once it has enough
-boosts, through an admin allowed to post them. You can’t post during a call.
+A channel or group can post stories once it has enough boosts, through an
+admin allowed to post them. On iPhone and iPad, you can’t post during a call or
+a video chat.
 
 ## Record a call
 
