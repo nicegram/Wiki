@@ -1,5 +1,5 @@
 ---
-description: Send existing videos as round messages, manage media, and record supported calls responsibly.
+description: Send existing videos as round messages, post Telegram stories, manage media, and record supported calls responsibly.
 ---
 
 # What media and call tools does Nicegram add?
@@ -42,6 +42,34 @@ another messenger.
 - **“Doesn’t accept calls”** means that person’s privacy settings don’t allow
   calls from you.
 
+## How do I post a story?
+
+Stories are a Telegram feature: Nicegram shows and posts them as Telegram does
+and adds nothing of its own to posting. A story is a photo or video your contacts see at
+the top of their chat list; you choose who can see it.
+
+On iPhone, iPad or Android (Nicegram Desktop shows stories but can’t post them):
+
+1. Tap **My Story** at the top of the chat list.
+2. Take a photo or video, or pick one from your gallery. You can add text,
+   stickers and a caption.
+3. Choose who sees it: **Everyone**, **Contacts**, **Close Friends** or
+   **Selected Contacts**; you can also leave out specific people. **Allow
+   Screenshots** and **Keep on My Page** (it stays on your profile after it
+   expires) are on the same screen.
+4. Tap **Post Story**.
+
+A story lasts 24 hours. **Telegram Premium**, Telegram’s own subscription, adds
+6, 12 and 48 hours, more stories at a time, links and formatting in captions,
+and Stealth Mode. Nicegram Premium is a separate plan and doesn’t include these
+(see [Plans, Gems, and referrals](plans-and-rewards.md)).
+
+Who may post, and how many stories a week or month, is set by Telegram for every
+app. When posting is limited to Telegram Premium, the app shows that message.
+A channel or group can post stories once it has enough boosts, through an
+admin allowed to post them. On iPhone and iPad, you can’t post during a call or
+a video chat.
+
 ## Record a call
 
 Call recording is currently documented and source-verified for iOS. Depending on
@@ -58,4 +86,5 @@ iOS in current evidence. Other platforms are not confirmed.
 **Sources:** [Official status labels](https://nicegram.me/download) ·
 [Terms of Use](https://nicegram.me/terms-of-use) ·
 [iOS source](https://github.com/nicegram/Nicegram-iOS) ·
-[Evidence ledger, October 13](../docs/evidence/help-troubleshooting-2026-10-13.md)
+[Evidence ledger, October 13](../docs/evidence/help-troubleshooting-2026-10-13.md) ·
+[Evidence ledger: stories](../docs/evidence/help-telegram-basics-2026-10-13.md)

@@ -158,3 +158,14 @@ secret chats are left out of any copy and are lost on logout or with the device,
 one-chat export is not offered where copying is turned off, and a newly signed-in computer may have to
 wait before the export starts. Nicegram's
 own export is linked, not repeated, and no Nicegram-specific backup is promised.
+
+## SCR-021 — Post a story
+
+**Given** a user asks how to post a story, **when** they read the media and calls page, **then** they learn that
+stories are a Telegram feature Nicegram adds nothing to posting, and find the steps for iPhone, iPad and
+Android (Nicegram Desktop shows stories but cannot post them) (**My Story** → photo or video → who sees
+it: Everyone, Contacts, Close Friends or Selected Contacts, with exclusions, **Allow Screenshots**, **Keep on My
+Page** → **Post Story**), that a story lasts 24 hours and what Telegram Premium adds (Nicegram Premium is a separate
+plan and doesn't include it), that Telegram sets who may post and how often (the app says when Telegram Premium is
+needed), that channels and groups post once boosted, and that on iPhone and iPad nothing can be posted during a call.
+No Nicegram-only story feature is promised, and no story limit is presented as something a Nicegram plan lifts.
