@@ -188,3 +188,23 @@ Archive (swipe down), folder tabs (**All Chats**), Nicegram's hidden chats (not 
 The section says secret chats stay only on their device and cannot be brought back after logout or uninstall,
 links the backup section (SCR-020) and, before any reinstall, "Before you reinstall Nicegram" (SCR-013). Nothing
 that cannot be recovered is promised back.
+
+## SCR-023 — Notifications don't arrive
+
+**Given** a user gets no notifications at all, **when** they read the app-problems page, **then** they check, in
+order: system permission (the red **!** next to **Notifications and Sounds** on iPhone and iPad, **Turn on
+notifications** on Android), **Private Chats**, **Group Chats** (**Groups**) and **Channels** being on (Android:
+**More Options** → **Importance** High or Urgent), a muted chat (**Unmute**), Focus or Do Not Disturb, Android battery saving (Google
+Play Services, battery-saver allowance, **Keep-Alive Service** and **Background Connection**), **All Accounts** with
+several accounts, and Telegram's iOS alert-style reset; then they are routed to support. This section is distinct
+from "Notifications repeat or keep coming back" and promises no Nicegram-specific delivery.
+
+## SCR-024 — Change a username
+
+**Given** a user wants to change or remove their username, **when** they read the profiles page, **then** they find
+the path (**Settings → Edit → Username**, or **Set Username**, on iPhone and iPad; **Settings → Username** on
+Android), Telegram's rules (a–z, 0–9 and underscores, case-insensitive, 5–32 characters, not starting with a
+number, one account per username), that after a change the link is `t.me/` plus the new name, that clearing it
+removes it from search without touching existing chats, and that collectible usernames are bought on third-party
+platforms such as Fragment and cannot be assigned by Telegram. No Nicegram-specific username feature is promised,
+and nothing is said about when an old username becomes free.
