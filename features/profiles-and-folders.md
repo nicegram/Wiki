@@ -47,12 +47,12 @@ builds. Keyword folders and individual interface controls can be limited by roll
 ## How do I change my username?
 
 A username is the public name of your Telegram account. It is optional: anyone
-who finds you by it can write to you without knowing your phone number.
+who finds you by it can write to you by your username alone.
 
 1. Open the username screen:
    - **iPhone and iPad:** **Settings → Edit → Username**. With no username yet,
      **Set Username** is also in **Settings**.
-   - **Android:** **Settings**, then tap **Username** below your phone number.
+   - **Android:** **Settings**, then tap **Username**.
 2. Type the new username. When the app says it is available, tap the check mark
    to save.
 
