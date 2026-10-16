@@ -17,11 +17,10 @@ depending on the feature and build.
 
 ## Translate a whole chat
 
-Telegram can translate all the messages in a chat at once. Turn on **Translate
-Entire Chat** in **Settings → Language**; a chat in another language then shows a
-bar at the top with **Translate to …** and **Show Original**. Telegram makes this
-part of **Telegram Premium**: without it, the app offers Telegram Premium instead.
-One message at a time, use **Translate** as above.
+Telegram can translate a whole chat at once. Turn on **Translate Entire Chat** in
+**Settings → Language**; a chat in another language then shows a bar at the top
+with **Translate to …** and **Show Original**. Telegram makes this part of
+**Telegram Premium**: without it, the app offers Telegram Premium instead.
 
 **Sources:** [Evidence ledger](../docs/evidence/help-w7-2026-10-16.md)
 

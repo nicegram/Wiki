@@ -213,5 +213,5 @@ and nothing is said about when an old username becomes free.
 
 **Given** a user asks whether a whole chat can be translated, **when** they read the translation page, **then** they
 learn that Telegram's **Translate Entire Chat** (Settings → Language) shows a translation bar in chats in another
-language, that Telegram makes it part of Telegram Premium, and that single messages use **Translate**. No
+language, that Telegram makes it part of Telegram Premium. No
 Nicegram-only feature is promised.
