@@ -169,3 +169,22 @@ Page** → **Post Story**), that a story lasts 24 hours and what Telegram Premiu
 plan and doesn't include it), that Telegram sets who may post and how often (the app says when Telegram Premium is
 needed), that channels and groups post once boosted, and that on iPhone and iPad nothing can be posted during a call.
 No Nicegram-only story feature is promised, and no story limit is presented as something a Nicegram plan lifts.
+
+## SCR-022 — Find and restore sticker sets
+
+**Given** a user's sticker sets seem missing (gone after an update or after adding new sets), **when** they read the
+messaging page, **then** they learn that added sets are saved to their Telegram account and come back on every device
+signed in to it, that each account has its own sets (check the active account), where the sets are (**Settings →
+Appearance → Stickers and Emoji** on iPhone and iPad, **Settings → Chat Settings → Stickers** on Android), that past
+200 sets unused ones are archived and come back with **Add** under **Archived Stickers**, and that a removed set is
+re-added from any of its stickers in a chat or from its `t.me/addstickers/…` link. Missing NFT stickers or gifts are
+named as something else: a possible scam that Telegram reviews at support@telegram.org, with nothing more promised.
+
+## SCR-025 — Chats gone after an update
+
+**Given** a user's chats seem gone after an update, **when** they read the app-problems page, **then** they learn
+that cloud chats stay on Telegram's servers and come back on the same account, and check the active account, the
+Archive (swipe down), folder tabs (**All Chats**), Nicegram's hidden chats (**Unhide**) and the connection status.
+The section says secret chats stay only on their device and cannot be brought back after logout or uninstall,
+links the backup section (SCR-020) and, before any reinstall, "Before you reinstall Nicegram" (SCR-013). Nothing
+that cannot be recovered is promised back.

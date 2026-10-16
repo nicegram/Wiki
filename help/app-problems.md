@@ -54,6 +54,38 @@ If the store shows nothing newer, check the
 devices without Google Play. If Android will not install it over the store
 version, do not uninstall Nicegram; see “Before you reinstall Nicegram” above.
 
+## My chats are gone after an update
+
+Telegram keeps your cloud chats on its servers, not only on the phone, so they
+come back when you are signed in to the same account. Check these first:
+
+1. **The account.** Open the account switcher and check that the active account
+   is the one you used before: each account has its own chats (see
+   [Switch accounts](../getting-started/accounts.md#switch-accounts)). Signing
+   in with a different phone number opens a different account.
+2. **The Archive.** Swipe down on the chat list to see **Archived Chats**.
+   By default, archived chats that aren’t muted return to the list when a new
+   message arrives; muted ones stay in the Archive.
+3. **Folders.** If a folder tab is open, switch to **All Chats** (or **All**). A
+   folder shows only the chats that match it.
+4. **Hidden chats.** Chats you hid in Nicegram are not deleted; reveal them as
+   described in [Hidden chats](../features/privacy.md#hidden-chats) and choose
+   **Unhide**.
+5. **The connection.** While the chat list shows **Connecting…** or **Waiting
+   for network**, the app has not reached Telegram yet (see
+   [Nicegram won’t open, crashes, or keeps loading](#nicegram-wont-open-crashes-or-keeps-loading)).
+
+Secret chats are the exception: they stay only on the device where they
+started and are lost when you log out or uninstall the app. They cannot be
+brought back. What Telegram keeps, and how to save your own copy, is in
+[How do I back up all my chats and media?](../getting-started/accounts.md#how-do-i-back-up-all-my-chats-and-media)
+
+If the update left the app broken and you are about to reinstall it, read
+[Before you reinstall Nicegram](#before-you-reinstall-nicegram) first.
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w6a-2026-10-16.md)
+
+
 ## Notifications repeat or keep coming back
 
 1. In **Settings → Notifications and Sounds**, check the settings and mute chats
