@@ -78,7 +78,8 @@ taken, Telegram can help through @Username_bot.
 
 ## How do I get a verification checkmark?
 
-Only Telegram gives the official checkmark, and Nicegram cannot add one. Telegram
+Only Telegram gives the official verification badge (the checkmark), and Nicegram
+cannot add one. Telegram
 verifies active official channels, bots and public groups, not personal
 accounts. To apply, link your Telegram channel, bot or group from the bios of
 notable verified profiles on at least two other platforms, collect two press
