@@ -1,5 +1,5 @@
 ---
-description: What to do when Nicegram will not open or keeps loading, asks for an update you cannot find, repeats notifications, drains the battery, or asks for a passcode you forgot, and how to use a proxy.
+description: What to do when Nicegram will not open or keeps loading, asks for an update you cannot find, repeats notifications, chats missing after an update, drains the battery, or asks for a passcode you forgot, and how to use a proxy.
 ---
 
 # What can I do when Nicegram isn’t working?
@@ -65,12 +65,12 @@ come back when you are signed in to the same account. Check these first:
    in with a different phone number opens a different account.
 2. **The Archive.** Swipe down on the chat list to see **Archived Chats**.
    By default, archived chats that aren’t muted return to the list when a new
-   message arrives; muted ones stay in the Archive.
+   message comes in; muted ones stay in the Archive.
 3. **Folders.** If a folder tab is open, switch to **All Chats** (or **All**). A
    folder shows only the chats that match it.
-4. **Hidden chats.** Chats you hid in Nicegram are not deleted; reveal them as
-   described in [Hidden chats](../features/privacy.md#hidden-chats) and choose
-   **Unhide**.
+4. **Hidden chats.** Chats you hid in Nicegram are not deleted (see
+   [Hidden chats](../features/privacy.md#hidden-chats)); on iPhone and iPad, the
+   chat’s menu has **Unhide**.
 5. **The connection.** While the chat list shows **Connecting…** or **Waiting
    for network**, the app has not reached Telegram yet (see
    [Nicegram won’t open, crashes, or keeps loading](#nicegram-wont-open-crashes-or-keeps-loading)).

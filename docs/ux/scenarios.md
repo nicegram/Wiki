@@ -184,7 +184,7 @@ named as something else: a possible scam that Telegram reviews at support@telegr
 
 **Given** a user's chats seem gone after an update, **when** they read the app-problems page, **then** they learn
 that cloud chats stay on Telegram's servers and come back on the same account, and check the active account, the
-Archive (swipe down), folder tabs (**All Chats**), Nicegram's hidden chats (**Unhide**) and the connection status.
+Archive (swipe down), folder tabs (**All Chats**), Nicegram's hidden chats (not deleted; **Unhide** in the chat's menu on iPhone and iPad) and the connection status.
 The section says secret chats stay only on their device and cannot be brought back after logout or uninstall,
 links the backup section (SCR-020) and, before any reinstall, "Before you reinstall Nicegram" (SCR-013). Nothing
 that cannot be recovered is promised back.

@@ -1,5 +1,5 @@
 ---
-description: Use Nicegram quick replies, forwarding options, private replies, and message-selection tools.
+description: Use Nicegram quick replies, forwarding options, private replies, and message-selection tools, and find or restore Telegram sticker sets.
 ---
 
 # What messaging tools does Nicegram add?
@@ -63,7 +63,7 @@ Your sets are in:
 - **iPhone and iPad:** **Settings → Appearance → Stickers and Emoji**.
 - **Android:** **Settings → Chat Settings → Stickers**.
 
-**A set disappeared after you added new ones?** You can have up to 200 sticker
+**A set is missing from the list after you added new ones?** You can have up to 200 sticker
 sets; when you add more, unused sets are archived, not deleted. Open **Archived
 Stickers** on the same screen and tap **Add** next to a set to bring it back.
 
@@ -71,8 +71,8 @@ Stickers** on the same screen and tap **Add** next to a set to bring it back.
 set, then tap the button that adds it (for example, **Add 24 Stickers**). A
 sticker-set link (`t.me/addstickers/…`) opens the set the same way.
 
-NFT stickers and gifts are something else. If your NFT stickers or gifts
-disappeared, you may have been scammed: Telegram reviews such cases at
+NFT stickers and gifts are something else. If you no longer have your NFT stickers
+or gifts, you may have been scammed: Telegram reviews such cases at
 support@telegram.org.
 
 **Sources:** [Evidence ledger](../docs/evidence/help-w6a-2026-10-16.md)
