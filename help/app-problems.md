@@ -97,7 +97,7 @@ If the update left the app broken and you are about to reinstall it, read
 
 If it continues, report the platform, Nicegram version, and how often it happens.
 
-## Notifications don’t arrive at all
+## Nicegram shows no notifications
 
 1. **Allow notifications in the phone’s settings.** On iPhone and iPad, a red
    **!** next to **Notifications and Sounds** in **Settings** means they are
@@ -127,8 +127,8 @@ If it continues, report the platform, Nicegram version, and how often it happens
    the device’s Settings to None, open Nicegram, then set the alert style back
    to Banners.
 
-If notifications still don’t arrive, report the device, system version and
-Nicegram version through
+If Nicegram still shows no notifications, report the device, system version
+and Nicegram version through
 [Support and source code](support-and-source.md#reporting-a-problem).
 
 **Sources:** [Evidence ledger](../docs/evidence/help-w6-2026-10-16.md)

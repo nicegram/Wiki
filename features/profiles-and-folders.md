@@ -47,7 +47,7 @@ builds. Keyword folders and individual interface controls can be limited by roll
 ## How do I change my username?
 
 A username is the public name of your Telegram account. It is optional: anyone
-who finds you by it can message you without knowing your phone number.
+who finds you by it can write to you without knowing your phone number.
 
 1. Open the username screen:
    - **iPhone and iPad:** **Settings → Edit → Username**. With no username yet,
@@ -65,7 +65,7 @@ Telegram’s rules:
   taken.** means you need to choose another.
 
 After a change, your link is `t.me/` followed by the new username. To remove the
-username, clear the field and save: people can no longer find you by it in
+username, delete it and save: people can no longer find you by it in
 search, and your existing chats stay as they are.
 
 Collectible usernames are different: they are bought and sold on third-party
