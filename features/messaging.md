@@ -50,3 +50,29 @@ chat type, permissions, and version.
 **Sources:** [Nicegram FAQ](https://nicegram.me/faq) ·
 [iOS source](https://github.com/nicegram/Nicegram-iOS) ·
 [Android source](https://github.com/nicegram/Nicegram-Android)
+
+## Where are my stickers, and how do I get them back?
+
+Sticker sets you add are saved to your Telegram account, not to the phone, so
+they come back on every device where you sign in to that account. Each account
+has its own sets: if you use several, check in the account switcher that the
+active account is the one where you added them.
+
+Your sets are in:
+
+- **iPhone and iPad:** **Settings → Appearance → Stickers and Emoji**.
+- **Android:** **Settings → Chat Settings → Stickers**.
+
+**A set disappeared after you added new ones?** You can have up to 200 sticker
+sets; when you add more, unused sets are archived, not deleted. Open **Archived
+Stickers** on the same screen and tap **Add** next to a set to bring it back.
+
+**You removed a set?** Tap any sticker from that set in a chat to open the whole
+set, then tap the button that adds it (for example, **Add 24 Stickers**). A
+sticker-set link (`t.me/addstickers/…`) opens the set the same way.
+
+NFT stickers and gifts are something else. If your NFT stickers or gifts
+disappeared, you may have been scammed: Telegram reviews such cases at
+support@telegram.org.
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w6-2026-10-16.md)

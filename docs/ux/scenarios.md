@@ -169,3 +169,42 @@ Page** → **Post Story**), that a story lasts 24 hours and what Telegram Premiu
 plan and doesn't include it), that Telegram sets who may post and how often (the app says when Telegram Premium is
 needed), that channels and groups post once boosted, and that on iPhone and iPad nothing can be posted during a call.
 No Nicegram-only story feature is promised, and no story limit is presented as something a Nicegram plan lifts.
+
+## SCR-022 — Find and restore sticker sets
+
+**Given** a user's sticker sets seem missing (gone after an update or after adding new sets), **when** they read the
+messaging page, **then** they learn that added sets are saved to their Telegram account and come back on every device
+signed in to it, that each account has its own sets (check the active account), where the sets are (**Settings →
+Appearance → Stickers and Emoji** on iPhone and iPad, **Settings → Chat Settings → Stickers** on Android), that past
+200 sets unused ones are archived and come back with **Add** under **Archived Stickers**, and that a removed set is
+re-added from any of its stickers in a chat or from its `t.me/addstickers/…` link. Missing NFT stickers or gifts are
+named as something else: a possible scam that Telegram reviews at support@telegram.org, with nothing more promised.
+
+## SCR-023 — Notifications don't arrive
+
+**Given** a user gets no notifications at all, **when** they read the app-problems page, **then** they check, in
+order: system permission (the red **!** next to **Notifications and Sounds** on iPhone and iPad, **Turn on
+notifications** on Android), **Private Chats**, **Group Chats** (**Groups**) and **Channels** being on (Android:
+**Importance** High or Urgent), a muted chat (**Unmute**), Focus or Do Not Disturb, Android battery saving (Google
+Play Services, battery-saver allowance, **Keep-Alive Service** and **Background Connection**), **All Accounts** with
+several accounts, and Telegram's iOS alert-style reset; then they are routed to support. This section is distinct
+from "Notifications repeat or keep coming back" and promises no Nicegram-specific delivery.
+
+## SCR-024 — Change a username
+
+**Given** a user wants to change or remove their username, **when** they read the profiles page, **then** they find
+the path (**Settings → Edit → Username**, or **Set Username**, on iPhone and iPad; **Settings → Username** on
+Android), Telegram's rules (a–z, 0–9 and underscores, case-insensitive, 5–32 characters, not starting with a
+number, one account per username), that after a change the link is `t.me/` plus the new name, that clearing it
+removes it from search without touching existing chats, and that collectible usernames are bought on third-party
+platforms such as Fragment and cannot be assigned by Telegram. No Nicegram-specific username feature is promised,
+and nothing is said about when an old username becomes free.
+
+## SCR-025 — Chats gone after an update
+
+**Given** a user's chats seem gone after an update, **when** they read the app-problems page, **then** they learn
+that cloud chats stay on Telegram's servers and come back on the same account, and check the active account, the
+Archive (swipe down), folder tabs (**All Chats**), Nicegram's hidden chats (**Unhide**) and the connection status.
+The section says secret chats stay only on their device and cannot be brought back after logout or uninstall,
+links the backup section (SCR-020) and, before any reinstall, "Before you reinstall Nicegram" (SCR-013). Nothing
+that cannot be recovered is promised back.

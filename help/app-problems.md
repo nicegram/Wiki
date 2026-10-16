@@ -54,6 +54,37 @@ If the store shows nothing newer, check the
 devices without Google Play. If Android will not install it over the store
 version, do not uninstall Nicegram; see “Before you reinstall Nicegram” above.
 
+## My chats are gone after an update
+
+Telegram keeps your cloud chats on its servers, not only on the phone, so they
+come back when you are signed in to the same account. Check these first:
+
+1. **The account.** Open the account switcher and check that the active account
+   is the one you used before: each account has its own chats (see
+   [Switch accounts](../getting-started/accounts.md#switch-accounts)). Signing
+   in with a different phone number opens a different account.
+2. **The Archive.** Swipe down on the chat list to see **Archived Chats**.
+   By default, archived chats that aren’t muted return to the list when a new
+   message arrives; muted ones stay in the Archive.
+3. **Folders.** If a folder tab is open, switch to **All Chats** (or **All**). A
+   folder shows only the chats that match it.
+4. **Hidden chats.** Chats you hid in Nicegram are not deleted; reveal them as
+   described in [Hidden chats](../features/privacy.md#hidden-chats) and choose
+   **Unhide**.
+5. **The connection.** While the chat list shows **Connecting…** or **Waiting
+   for network**, the app has not reached Telegram yet (see
+   [Nicegram won’t open, crashes, or keeps loading](#nicegram-wont-open-crashes-or-keeps-loading)).
+
+Secret chats are the exception: they stay only on the device where they
+started and are lost when you log out or uninstall the app. They cannot be
+brought back. What Telegram keeps, and how to save your own copy, is in
+[How do I back up all my chats and media?](../getting-started/accounts.md#how-do-i-back-up-all-my-chats-and-media)
+
+If the update left the app broken and you are about to reinstall it, read
+[Before you reinstall Nicegram](#before-you-reinstall-nicegram) first.
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w6-2026-10-16.md)
+
 ## Notifications repeat or keep coming back
 
 1. In **Settings → Notifications and Sounds**, check the settings and mute chats
@@ -65,6 +96,42 @@ version, do not uninstall Nicegram; see “Before you reinstall Nicegram” abov
 4. Check the system notification settings, update Nicegram, and reopen it.
 
 If it continues, report the platform, Nicegram version, and how often it happens.
+
+## Notifications don’t arrive at all
+
+1. **Allow notifications in the phone’s settings.** On iPhone and iPad, a red
+   **!** next to **Notifications and Sounds** in **Settings** means they are
+   off or limited; that screen offers **Turn ON in Settings** or **Open
+   Settings**. On Android, if Nicegram asks you to **Turn on notifications**,
+   allow it.
+2. **Check Nicegram’s own settings.** In **Settings → Notifications and
+   Sounds**, make sure **Private Chats**, **Group Chats** (**Groups** on
+   Android) and **Channels** are on. On Android, open each one and set
+   **Importance** to **High** or **Urgent**.
+3. **Check whether the chat is muted.** A muted chat doesn’t notify you. On
+   iPhone and iPad, tap the chat’s name at the top and tap **Unmute**; on
+   Android, open the chat’s **⋮** menu and choose **Unmute**.
+4. **Focus and Do Not Disturb.** On iPhone and iPad, a Focus such as Do Not
+   Disturb silences apps you haven’t allowed in it (**Settings → Focus** on the
+   device). On Android, Do Not Disturb lets only higher-priority notifications
+   through.
+5. **Android battery saving.** Make sure Google Play Services are installed,
+   and allow Nicegram in any battery-saving app on the phone. On Huawei and
+   Xiaomi phones, also allow it in the security settings (**Protected Apps** or
+   **Autostart**). **Keep-Alive Service** and **Background Connection** in
+   **Notifications and Sounds** keep notifications reliable, at some battery
+   cost (see [Nicegram drains the battery](#nicegram-drains-the-battery)).
+6. **Several accounts.** If only the account you are using notifies you, turn
+   on **All Accounts** in **Notifications and Sounds**.
+7. **Still nothing on iPhone or iPad:** close Nicegram, set its alert style in
+   the device’s Settings to None, open Nicegram, then set the alert style back
+   to Banners.
+
+If notifications still don’t arrive, report the device, system version and
+Nicegram version through
+[Support and source code](support-and-source.md#reporting-a-problem).
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w6-2026-10-16.md)
 
 ## Nicegram drains the battery
 
