@@ -1,5 +1,5 @@
 ---
-description: View extra profile information and organize the Nicegram interface with folders and tab controls, and change your Telegram username.
+description: View extra profile information and organize the Nicegram interface with folders and tab controls, change your Telegram username, and see how Telegram verification works.
 ---
 
 # How do profile, folder, and interface tools work?
@@ -75,3 +75,19 @@ username you also use on at least two of Facebook, Twitter and Instagram is
 taken, Telegram can help through @Username_bot.
 
 **Sources:** [Evidence ledger](../docs/evidence/help-w6b-2026-10-16.md)
+
+## How do I get a verification checkmark?
+
+Only Telegram gives the official checkmark, and Nicegram cannot add one. Telegram
+verifies active official channels, bots and public groups, not personal
+accounts. To apply, link your Telegram channel, bot or group from the bios of
+notable verified profiles on at least two other platforms, collect two press
+articles about you or your organization, then contact @VerifyBot in Telegram.
+The full requirements are in Telegram's
+[Page Verification Guidelines](https://telegram.org/verify).
+
+Some other services show their own icons next to accounts and chats. These are
+not Telegram's checkmark.
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w8-2026-10-16.md)
+
