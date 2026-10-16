@@ -215,3 +215,9 @@ and nothing is said about when an old username becomes free.
 learn that Telegram's **Translate Entire Chat** (Settings → Language) shows a translation bar in chats in another
 language, that Telegram makes it part of Telegram Premium. No
 Nicegram-only feature is promised.
+
+## SCR-027 — Get a verification checkmark
+
+**Given** a user asks how to get a verification badge, **when** they read the profiles page, **then** they learn that only
+Telegram assigns the official checkmark (Nicegram cannot), that Telegram verifies official channels, bots and public groups
+but not personal accounts, how to apply through @VerifyBot, and that third-party icons are not Telegram's checkmark.
