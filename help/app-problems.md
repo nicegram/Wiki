@@ -1,5 +1,5 @@
 ---
-description: What to do when Nicegram will not open or keeps loading, asks for an update you cannot find, repeats notifications, chats missing after an update, drains the battery, or asks for a passcode you forgot, and how to use a proxy.
+description: What to do when Nicegram will not open or keeps loading, asks for an update you cannot find, repeats or misses notifications, chats missing after an update, drains the battery, or asks for a passcode you forgot, and how to use a proxy.
 ---
 
 # What can I do when Nicegram isn’t working?
@@ -97,6 +97,30 @@ If the update left the app broken and you are about to reinstall it, read
 4. Check the system notification settings, update Nicegram, and reopen it.
 
 If it continues, report the platform, Nicegram version, and how often it happens.
+
+**No notifications at all?**
+
+- **Phone settings.** On iPhone and iPad, a red **!** next to **Notifications and
+  Sounds** in **Settings** means they are off or limited; that screen offers a
+  button to turn them on (**Turn ON in Settings**, **Open Settings** or **Turn
+  Notifications ON**). On Android, if Nicegram asks you to **Turn on
+  notifications**, allow it.
+- **Nicegram’s settings.** In **Settings → Notifications and Sounds**, keep
+  **Private Chats**, **Group Chats** (**Groups** on Android) and **Channels** on.
+  On Android, open each one, tap **More Options**, and set **Importance** to
+  **High** or **Urgent**.
+- **Muted chats, Focus and Do Not Disturb.** A muted chat stays silent: open it
+  and choose **Unmute** (iPhone and iPad: tap the chat’s name; Android: the **⋮**
+  menu). A Focus such as Do Not Disturb on iPhone and iPad, or Do Not Disturb on
+  Android, silences apps you haven’t allowed.
+- **Android battery saving.** Keep Google Play Services installed and allow
+  Nicegram in any battery-saving app; on Huawei and Xiaomi phones, also in
+  **Protected Apps** or **Autostart**. **Keep-Alive Service** and **Background
+  Connection** in **Notifications and Sounds** help, at some battery cost.
+- **Still silent on iPhone or iPad:** close Nicegram, set its alert style in the
+  device’s Settings to None, open Nicegram, then set it back to Banners.
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w6b-2026-10-16.md)
 
 ## Nicegram drains the battery
 

@@ -1,5 +1,5 @@
 ---
-description: View extra profile information and organize the Nicegram interface with folders and tab controls.
+description: View extra profile information and organize the Nicegram interface with folders and tab controls, and change your Telegram username.
 ---
 
 # How do profile, folder, and interface tools work?
@@ -43,3 +43,35 @@ builds. Keyword folders and individual interface controls can be limited by roll
 **Sources:** [Nicegram features](https://nicegram.me/features) ·
 [iOS source](https://github.com/nicegram/Nicegram-iOS) ·
 [Android source](https://github.com/nicegram/Nicegram-Android)
+
+## How do I change my username?
+
+A username is the public name of your Telegram account. It is optional: anyone
+who finds you by it can write to you without knowing your phone number.
+
+1. Open the username screen:
+   - **iPhone and iPad:** **Settings → Edit → Username**. With no username yet,
+     **Set Username** is also in **Settings**.
+   - **Android:** **Settings**, then tap **Username** below your phone number.
+2. Type the new username. When the app says it is available, tap the check mark
+   to save.
+
+Telegram’s rules:
+
+- Use a–z, 0–9 and underscores. Capital letters don’t make it a different
+  username.
+- 5 to 32 characters, not starting with a number.
+- A username belongs to one account at a time. **Sorry, this username is already
+  taken.** means you need to choose another.
+
+After a change, your link is `t.me/` followed by the new username. To remove the
+username, leave it empty and save: people can no longer find you by it in
+search, and your existing chats stay as they are.
+
+Collectible usernames are different: they are bought and sold on third-party
+platforms such as Fragment, and Telegram cannot assign them. If the app says a
+username is taken but available for purchase, it is a collectible one. If a basic
+username you also use on at least two of Facebook, Twitter and Instagram is
+taken, Telegram can help through @Username_bot.
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w6b-2026-10-16.md)
