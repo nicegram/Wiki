@@ -100,7 +100,9 @@ phone too? See [I lost my phone or SIM card](#i-lost-my-phone-or-sim-card).
 
 ## Register a new Telegram account
 
-Enter a mobile number that has no Telegram account yet. Once it is confirmed,
+A new Telegram account can be created only in the official Telegram app; in Nicegram
+you sign in to an account you already have. In the official app, enter a mobile
+number that has no Telegram account yet. Once it is confirmed,
 Telegram asks for your name, offers a profile photo, and creates the account when
 you accept its terms. Landlines are not supported. Telegram may also ask for an
 email address.
