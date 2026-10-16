@@ -208,3 +208,10 @@ number, one account per username), that after a change the link is `t.me/` plus 
 removes it from search without touching existing chats, and that collectible usernames are bought on third-party
 platforms such as Fragment and cannot be assigned by Telegram. No Nicegram-specific username feature is promised,
 and nothing is said about when an old username becomes free.
+
+## SCR-026 — Translate a whole chat
+
+**Given** a user asks whether a whole chat can be translated, **when** they read the translation page, **then** they
+learn that Telegram's **Translate Entire Chat** (Settings → Language) shows a translation bar in chats in another
+language, that Telegram makes it part of Telegram Premium. No
+Nicegram-only feature is promised.
