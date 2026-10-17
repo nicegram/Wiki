@@ -95,10 +95,10 @@ not Telegram's checkmark.
 
 ## Someone is pretending to be me or someone else. How do I report it?
 
-Reports go to Telegram, whose moderators review them. Nicegram can't take an
-account down.
+Reports go to Telegram, whose moderators review them. Nicegram can't take a
+profile down.
 
-- **Someone is pretending to be you:** contact [@NoToScam](https://t.me/NoToScam),
+- **Someone is pretending to be you:** write to [@NoToScam](https://t.me/NoToScam),
   as Telegram's FAQ advises.
 - **A person:** on Android, open their profile, tap **⋮**, then **Report**. On
   iPhone and iPad, if the person isn't in your contacts, the bar at the top of
@@ -108,7 +108,7 @@ account down.
 - **A message in a group or channel:** press and hold it (on Android, tap it),
   choose **Report**, then the reason that fits.
 
-If Telegram limited your own account after spam reports, see
+If Telegram limited you after spam reports, see
 [Why can't I send messages in a group?](../help/groups-and-channels.md#why-cant-i-send-messages-in-a-group-only-read-it)
 
 **Sources:** [Evidence ledger](../docs/evidence/help-w9-2026-10-17.md)

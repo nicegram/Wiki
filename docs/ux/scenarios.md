@@ -224,25 +224,23 @@ but not personal accounts, how to apply through @VerifyBot, and that third-party
 ## SCR-028 — Telegram Stars that didn't arrive
 
 **Given** a user paid for Telegram Stars that never reached their balance, **when** they read the plans page, **then**
-they learn that Stars are Telegram's own currency kept on their Telegram account, check **Settings → Your Stars** on
-the account they bought them for, and are sent to whoever took the payment: the App Store or Google Play purchase
-history, or the support of the website or bot they paid (on iPhone and iPad, Nicegram's Stars screen links to
-NiceStars, Fragment and @PremiumBot). For anything else they are sent to Telegram Support in the official Telegram app,
-and told that Nicegram's **Ask a Question** on iPhone and iPad opens Nicegram's helper bot instead. No delivery,
-refund or Nicegram fix is promised.
+they learn that Stars are Telegram's own currency, check **Settings → Your Stars** on the Telegram account they bought
+them for, and, by where the Stars were bought, ask the store that charged them (its purchase history) or the site or bot
+they bought the Stars from (on iPhone and iPad, Nicegram's Stars screen links to NiceStars, Fragment and @PremiumBot).
+Other Stars questions go to Telegram Support in the official Telegram app, because Nicegram's **Ask a Question** on
+iPhone and iPad opens Nicegram's helper bot. Every step names Stars; no delivery, refund or Nicegram fix is promised.
 
-## SCR-029 — See when Nicegram Premium renews or ends
+## SCR-029 — When Nicegram Premium renews or expires
 
-**Given** a user wants to know when their Nicegram Premium renews or ends, **when** they read the plans page, **then**
-they find the subscriptions list of the App Store (Settings → your name → Subscriptions) or Google Play (subscriptions
-on Google Play) account that bought it, what Apple and Google say there (a red expiration message on a cancelled Apple
-subscription, renewal receipt emails, access until the paid time ends on Google Play), how to find the paying account,
-and `support@nicegram.me` for other payment channels. Nothing is claimed about a date shown inside Nicegram.
+**Given** a user asks when their Nicegram Premium renews or expires, or where its expiration date is, **when** they
+read the plans page, **then** they find the subscriptions list of the App Store (Settings → your name → Subscriptions,
+where a red expiration message means it will not renew) or Google Play (a subscription that will not renew works until
+the paid time ends). The Subscriptions section is unchanged, and nothing is claimed about a date shown inside Nicegram.
 
 ## SCR-030 — Report an impersonator
 
 **Given** someone is pretending to be the user or another person, **when** they read the profiles page, **then** they
-learn that Telegram reviews reports and Nicegram cannot take an account down, that @NoToScam handles someone
+learn that Telegram reviews reports and Nicegram cannot take a profile down, that @NoToScam handles someone
 pretending to be them, and how to report a person (Android: profile **⋮ → Report**; iPhone and iPad: **Report Spam** in
 a chat from a non-contact), a channel or group (**More → Report** or **⋮ → Report**) and a message in a group or
-channel; a limited own account is routed to the existing spam-limit section (SCR-014).
+channel; a user limited after spam reports is routed to the existing spam-limit section (SCR-014).
