@@ -1,5 +1,5 @@
 ---
-description: Understand Nicegram subscriptions and when Nicegram Premium renews or expires, usage credits, Gems, and referral availability without relying on retired earning guides, and what to do when Telegram Stars you bought did not arrive.
+description: Understand Nicegram subscriptions, usage credits, Gems, and referral availability without relying on retired earning guides.
 ---
 
 # How do plans, Gems, and referrals work?
@@ -24,20 +24,6 @@ Nicegram Premium is separate from Telegram Premium. An eligible plan can include
 an account-shop allowance, but this is not a universal benefit of every Premium
 purchase. Check the displayed benefits and Telegram Sessions balance.
 
-## When does my Nicegram Premium renew or expire? Where is the expiration date?
-
-If you subscribed in the App Store or Google Play, the store's subscriptions
-list shows it:
-
-- **iPhone and iPad:** in the device's **Settings**, tap your name, then
-  **Subscriptions**, then the Nicegram subscription. A red expiration message
-  means it will not renew.
-- **Android:** open [subscriptions on Google Play](https://play.google.com/store/account/subscriptions).
-  A subscription that will not renew keeps working until the end of the time
-  you already paid for.
-
-**Sources:** [Evidence ledger](../docs/evidence/help-w9-2026-10-17.md)
-
 ## Gems and usage balance
 
 Gems or a related balance can represent credit for eligible AI and paid actions.
@@ -60,24 +46,3 @@ longer represented a reliable current user promise.
 [Terms of Use](https://nicegram.me/terms-of-use) ·
 [Apple App Store](https://apps.apple.com/app/id1608870673) ·
 [Google Play](https://play.google.com/store/apps/details?id=app.nicegram)
-
-## I bought Telegram Stars, but they didn't arrive. What should I do?
-
-Telegram Stars are Telegram's own currency, kept in your Stars balance on
-Telegram.
-
-1. **Check your Stars balance:** open **Settings → Your Stars**. With several
-   Telegram accounts signed in, switch to the one you bought the Stars for.
-2. **Stars bought in the App Store or Google Play:** ask the store that charged
-   you for the Stars. The Stars purchase is in its purchase history
-   ([Apple](https://support.apple.com/en-us/118212),
-   [Google Play](https://support.google.com/googleplay/answer/2850369)).
-3. **Stars bought on a website or in a bot:** ask the site or bot you bought
-   the Stars from. On iPhone and iPad, Nicegram's Stars screen offers **Get
-   Stars (Multichain & non-KYC)** (the NiceStars website), **Get on Fragment**
-   (Fragment) and **Get on Telegram** (Telegram's @PremiumBot).
-4. **Other questions about Telegram Stars:** Telegram Support in the official
-   Telegram app, under **Settings → Ask a Question**. In Nicegram on iPhone and
-   iPad, **Ask a Question** opens Nicegram's helper bot instead.
-
-**Sources:** [Evidence ledger](../docs/evidence/help-w9-2026-10-17.md)
