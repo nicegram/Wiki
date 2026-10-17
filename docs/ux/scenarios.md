@@ -61,7 +61,6 @@ promising recovery or asking for secrets. No current create/send/swap/dApp steps
 availability guide, **then** they can distinguish platform, version, plan, region,
 rollout, and account-state causes and know where to ask for help.
 
-
 ## SCR-011 — Purchase a Telegram session with clear boundaries
 
 **Given** the purchase flow is shown, **when** a user selects a country, **then**
@@ -178,7 +177,7 @@ signed in to it, that each account has its own sets (check the active account), 
 Appearance → Stickers and Emoji** on iPhone and iPad, **Settings → Chat Settings → Stickers** on Android), that past
 200 sets unused ones are archived and come back with **Add** under **Archived Stickers**, and that a removed set is
 re-added from any of its stickers in a chat or from its `t.me/addstickers/…` link. Missing NFT stickers or gifts are
-named as something else: a possible scam that Telegram reviews at support@telegram.org, with nothing more promised.
+named as something else: a possible scam that Telegram reviews at `support@telegram.org`, with nothing more promised.
 
 ## SCR-025 — Chats gone after an update
 
@@ -221,3 +220,28 @@ Nicegram-only feature is promised.
 **Given** a user asks how to get a verification badge, **when** they read the profiles page, **then** they learn that only
 Telegram assigns the official checkmark (Nicegram cannot), that Telegram verifies official channels, bots and public groups
 but not personal accounts, how to apply through @VerifyBot, and that third-party icons are not Telegram's checkmark.
+
+## SCR-028 — Telegram Stars missing
+
+**Given** a user paid for Telegram Stars that never reached their balance, **when** they read the Telegram Stars Help
+page, **then** they learn that Stars are Telegram's own currency, check **Settings → Your Stars**, and, by where the
+Stars came from, ask the store that charged them for the Stars (Apple and Google Play help links) or the site or bot
+they bought the Stars from (on iPhone and iPad, Nicegram's Stars screen links to NiceStars, Fragment and @PremiumBot).
+Other Stars questions get one link to Telegram's FAQ. The page uses Stars words only; no delivery, refund or Nicegram
+fix is promised.
+
+## SCR-029 — When Nicegram Premium renews or expires
+
+**Given** a user asks when their Nicegram Premium renews or expires, or where its expiration date is, **when** they
+read the Premium renewal Help page, **then** they find the App Store subscriptions list (Settings → your name →
+Subscriptions, where a red expiration message means it will not renew) or subscriptions on Google Play (a subscription
+that will not renew works until its current period ends). Plans, Gems, and referrals is unchanged, and nothing is
+claimed about a date shown inside Nicegram.
+
+## SCR-030 — Report an impersonator
+
+**Given** someone is pretending to be the user or another person, **when** they read the impersonation Help page,
+**then** they learn that Telegram reviews reports and Nicegram cannot take a profile down, that @NoToScam handles
+someone pretending to be them, and how to report a person (Android: profile **⋮ → Report**; iPhone and iPad:
+**Report Spam** in a chat from a non-contact), a channel or group (**More → Report** or **⋮ → Report**) and a message
+in a group or channel, with a “See also” link to the existing group-limit section (SCR-014).
