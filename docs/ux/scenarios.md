@@ -221,7 +221,7 @@ Nicegram-only feature is promised.
 Telegram assigns the official checkmark (Nicegram cannot), that Telegram verifies official channels, bots and public groups
 but not personal accounts, how to apply through @VerifyBot, and that third-party icons are not Telegram's checkmark.
 
-## SCR-028 — Telegram Stars that didn't arrive
+## SCR-028 — Telegram Stars missing
 
 **Given** a user paid for Telegram Stars that never reached their balance, **when** they read the Telegram Stars Help
 page, **then** they learn that Stars are Telegram's own currency, check **Settings → Your Stars**, and, by where the
