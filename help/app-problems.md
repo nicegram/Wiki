@@ -85,7 +85,6 @@ If the update left the app broken and you are about to reinstall it, read
 
 **Sources:** [Evidence ledger](../docs/evidence/help-w6a-2026-10-16.md)
 
-
 ## Notifications repeat or keep coming back
 
 1. In **Settings → Notifications and Sounds**, check the settings and mute chats
@@ -98,7 +97,7 @@ If the update left the app broken and you are about to reinstall it, read
 
 If it continues, report the platform, Nicegram version, and how often it happens.
 
-**No notifications at all?**
+## I get no notifications at all
 
 - **Phone settings.** On iPhone and iPad, a red **!** next to **Notifications and
   Sounds** in **Settings** means they are off or limited; that screen offers a
