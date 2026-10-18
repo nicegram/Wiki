@@ -22,8 +22,11 @@
   * [Someone pretending to be you](help/impersonation.md)
   * [Telegram Stars missing](help/telegram-stars.md)
   * [Nicegram Premium renewal and expiration](help/premium-renewal.md)
+  * [Sensitive and restricted content](help/sensitive-content.md)
+  * [Delete your account](help/delete-account.md)
   * [Privacy and data](help/privacy-and-data.md)
   * [Support and source code](help/support-and-source.md)
+  * [Advertise on Nicegram](help/advertise-on-nicegram.md)
 <!-- generated-pages:start (generated from the Nicegram data room; do not edit between the markers) -->
 * [Quick reference](reference/README.md)
   * [Quick answers](reference/quick-answers.md)
