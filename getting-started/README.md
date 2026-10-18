@@ -16,7 +16,7 @@ and complete Telegram’s verification flow.
    feature that may be limited by build, plan, or rollout.
 
 Never share a Telegram login code, two-step verification password, wallet password,
-or recovery material with another person — including someone claiming to be
+or recovery material with another person, including someone claiming to be
 Nicegram support.
 
 **Sources:** [Official download page](https://nicegram.me/download) ·

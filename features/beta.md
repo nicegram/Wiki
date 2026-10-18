@@ -18,12 +18,12 @@ will appear on every account.
 
 ## Limited-rollout tools
 
-- **God’s Eye / Spy on Friends** — contact-activity insight surfaces listed by
+- **God’s Eye / Spy on Friends**: contact-activity insight surfaces listed by
   Nicegram. Results depend on available data and must not be treated as verified
   presence, identity, or intent.
-- **Keyword folders and chat analysis** — organization or insight features that can
+- **Keyword folders and chat analysis**: organization or insight features that can
   require eligible account processing and current consent surfaces.
-- **Telegram Sessions / Account Shop** — publicly announced purchase flow with
+- **Telegram Sessions / Account Shop**: publicly announced purchase flow with
   country selection. Stock, eligibility and recovery are separate questions; see
   [Accounts](../getting-started/accounts.md#telegram-sessions-and-account-shop).
 
