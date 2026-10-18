@@ -20,7 +20,7 @@ for file in "${required[@]}"; do
   test -f "$file" || { echo "missing required file: $file" >&2; exit 1; }
 done
 
-if rg -n 'nicegram[.]app' --glob '*.md'; then
+if rg -n 'nicegram[.]app' --glob '*.md' .; then
   echo "retired public domain found" >&2
   exit 1
 fi

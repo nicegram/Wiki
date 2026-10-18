@@ -3,78 +3,78 @@
 These scenarios define the behavior the public Wiki must explain. IDs are stable
 and should be referenced when a feature page changes.
 
-## SCR-001 — Install Nicegram
+## SCR-001: Install Nicegram
 
 **Given** a user chooses a supported platform, **when** they follow the official
 download route, **then** they reach the current App Store, Google Play, Android APK,
 or macOS package without passing through an obsolete domain.
 
-## SCR-002 — Add and switch accounts
+## SCR-002: Add and switch accounts
 
 **Given** a signed-in user, **when** they add another Telegram account, **then** the
 account appears in the account switcher until a platform or device limit is reached.
 
-## SCR-003 — Hide and reveal a private surface
+## SCR-003: Hide and reveal a private surface
 
 **Given** Double Bottom or hidden chats are enabled, **when** the user enters the
 configured alternate access action, **then** only the intended hidden surface is
 revealed. The page must also explain recovery limits.
 
-## SCR-004 — Reuse a reply
+## SCR-004: Reuse a reply
 
 **Given** a saved quick reply, **when** the user invokes it in a chat, **then** the
 stored text is inserted or sent according to the current platform flow.
 
-## SCR-005 — Translate or transcribe content
+## SCR-005: Translate or transcribe content
 
 **Given** a supported message or voice note, **when** translation or transcription
 is requested, **then** a result is shown or an actionable availability/error state
 is explained.
 
-## SCR-006 — Send existing video as a video message
+## SCR-006: Send existing video as a video message
 
 **Given** a compatible local video, **when** the user chooses video-message
 conversion, **then** Nicegram prepares it as a round video subject to media limits.
 
-## SCR-007 — Record a call responsibly
+## SCR-007: Record a call responsibly
 
 **Given** call recording is available on the device, **when** the user starts or
 enables recording, **then** the recording is saved through the documented flow and
 the user is reminded to obtain legally required consent.
 
-## SCR-008 — Use an AI feature
+## SCR-008: Use an AI feature
 
 **Given** AI is available for the account and plan, **when** the user submits a
 prompt or chat context, **then** the app returns a result or explains the limit and
 the page makes third-party processing discoverable before use.
 
-## SCR-009 — Understand wallet retirement
+## SCR-009: Understand wallet retirement
 
 **Given** a user finds an old wallet guide or asks about the missing wallet,
 **when** they open the wallet page, **then** it explains that financial functionality
 is retired, distinguishes historical sign-in, and provides official support without
 promising recovery or asking for secrets. No current create/send/swap/dApp steps remain.
 
-## SCR-010 — Resolve a missing feature
+## SCR-010: Resolve a missing feature
 
 **Given** a feature is documented but not visible, **when** the user checks the
 availability guide, **then** they can distinguish platform, version, plan, region,
 rollout, and account-state causes and know where to ask for help.
 
-## SCR-011 — Purchase a Telegram session with clear boundaries
+## SCR-011: Purchase a Telegram session with clear boundaries
 
 **Given** the purchase flow is shown, **when** a user selects a country, **then**
 the help page explains that selection does not promise stock or entitlement. An
 access error routes to support without telling the user to discard working sessions.
 
-## SCR-012 — Separate historical rewards and current AI tools
+## SCR-012: Separate historical rewards and current AI tools
 
 **Given** a user reads an old campaign or AI announcement, **when** they check the
 current guide, **then** historical balances are separated from new accrual and
 current AI controls from retired services. No fixed model, payout or release date
 is invented from old marketing.
 
-## SCR-013 — Recover from an app that will not open or keeps loading
+## SCR-013: Recover from an app that will not open or keeps loading
 
 **Given** Nicegram does not open, crashes, or stays on Connecting…, **when** the
 user opens the app-problems page, **then** they get steps that keep their data
@@ -83,7 +83,7 @@ reinstall can lose for good (bought or imported accounts, the login-code route,
 secret chats, local data) before they delete the app. Nothing on the page tells
 them to sign out or delete sessions as a generic repair (consistent with SCR-011).
 
-## SCR-014 — Understand a group or join restriction
+## SCR-014: Understand a group or join restriction
 
 **Given** a user can read a group but not write, or cannot join a group,
 **when** they open the groups page, **then** they can match the app’s message to
@@ -91,7 +91,7 @@ its Telegram cause (admin restriction, slow mode, account limit, join limit,
 private or approval-only group) and know who can change it. No restriction is
 presented as something Nicegram support or a Nicegram plan can lift.
 
-## SCR-015 — Forgotten app passcode
+## SCR-015: Forgotten app passcode
 
 **Given** the app asks for a passcode the user does not remember, **when** they
 read the passcode section, **then** they learn that there is no reset and that
@@ -101,7 +101,7 @@ before (iOS 15 or later); that otherwise each account needs its login code and
 two-step password; and that an account bought or imported as a session needs
 support before deleting. Every step named can be done without unlocking the app.
 
-## SCR-016 — Lost phone or SIM card
+## SCR-016: Lost phone or SIM card
 
 **Given** a user lost the phone (or SIM) their Telegram account is registered to,
 **when** they open the accounts page, **then** they learn that getting back in needs
@@ -113,7 +113,7 @@ change the number while they still have access. Nothing on the page promises tha
 support can restore an account without the number, and an account bought or
 imported as a session is routed to support first (consistent with SCR-011).
 
-## SCR-017 — Use a proxy
+## SCR-017: Use a proxy
 
 **Given** a user asks whether Nicegram works with a proxy, **when** they read the
 proxy section, **then** they find where the proxy settings are on iPhone, iPad and
@@ -124,14 +124,14 @@ Nicegram works without a proxy or VPN wherever Telegram does and is restricted t
 same way where Telegram is. It names no country, lists no proxy and gives no advice
 on getting around any law or restriction.
 
-## SCR-018 — Calls to other apps
+## SCR-018: Calls to other apps
 
 **Given** a user wants to call someone on WhatsApp, FaceTime or another app,
 **when** they read the calls section, **then** they learn that Nicegram's voice and
 video calls are Telegram calls to Telegram users only, that a contact who is not on
 Telegram can only be invited, and what "doesn't accept calls" means.
 
-## SCR-019 — Forgotten two-step password
+## SCR-019: Forgotten two-step password
 
 **Given** a user forgot the two-step verification password, **when** they read the
 accounts page, **then** an account bought through Account Shop or imported as a
@@ -145,7 +145,7 @@ on signing up again; Telegram may delay it a week for a recently active account)
 section says neither Telegram nor Nicegram support can tell them the password, never
 asks for it or a code, and links the lost-phone section (SCR-016).
 
-## SCR-020 — Back up all chats and media
+## SCR-020: Back up all chats and media
 
 **Given** a user wants a backup or export of all chats and media, **when** they read
 the accounts page, **then** they learn that cloud messages stay on Telegram's servers
@@ -158,7 +158,7 @@ one-chat export is not offered where copying is turned off, and a newly signed-i
 wait before the export starts. Nicegram's
 own export is linked, not repeated, and no Nicegram-specific backup is promised.
 
-## SCR-021 — Post a story
+## SCR-021: Post a story
 
 **Given** a user asks how to post a story, **when** they read the media and calls page, **then** they learn that
 stories are a Telegram feature Nicegram adds nothing to posting, and find the steps for iPhone, iPad and
@@ -169,7 +169,7 @@ plan and doesn't include it), that Telegram sets who may post and how often (the
 needed), that channels and groups post once boosted, and that on iPhone and iPad nothing can be posted during a call.
 No Nicegram-only story feature is promised, and no story limit is presented as something a Nicegram plan lifts.
 
-## SCR-022 — Find and restore sticker sets
+## SCR-022: Find and restore sticker sets
 
 **Given** a user's sticker sets seem missing (gone after an update or after adding new sets), **when** they read the
 messaging page, **then** they learn that added sets are saved to their Telegram account and come back on every device
@@ -179,7 +179,7 @@ Appearance → Stickers and Emoji** on iPhone and iPad, **Settings → Chat Sett
 re-added from any of its stickers in a chat or from its `t.me/addstickers/…` link. Missing NFT stickers or gifts are
 named as something else: a possible scam that Telegram reviews at `support@telegram.org`, with nothing more promised.
 
-## SCR-025 — Chats gone after an update
+## SCR-025: Chats gone after an update
 
 **Given** a user's chats seem gone after an update, **when** they read the app-problems page, **then** they learn
 that cloud chats stay on Telegram's servers and come back on the same account, and check the active account, the
@@ -188,7 +188,7 @@ The section says secret chats stay only on their device and cannot be brought ba
 links the backup section (SCR-020) and, before any reinstall, "Before you reinstall Nicegram" (SCR-013). Nothing
 that cannot be recovered is promised back.
 
-## SCR-023 — Notifications don't arrive
+## SCR-023: Notifications don't arrive
 
 **Given** a user gets no notifications at all, **when** they read the app-problems page, **then** they check, in
 order: system permission (the red **!** next to **Notifications and Sounds** on iPhone and iPad, **Turn on
@@ -198,7 +198,7 @@ Play Services, battery-saver allowance, **Keep-Alive Service** and **Background 
 several accounts, and Telegram's iOS alert-style reset; then they are routed to support. This section is distinct
 from "Notifications repeat or keep coming back" and promises no Nicegram-specific delivery.
 
-## SCR-024 — Change a username
+## SCR-024: Change a username
 
 **Given** a user wants to change or remove their username, **when** they read the profiles page, **then** they find
 the path (**Settings → Edit → Username**, or **Set Username**, on iPhone and iPad; **Settings → Username** on
@@ -208,20 +208,20 @@ removes it from search without touching existing chats, and that collectible use
 platforms such as Fragment and cannot be assigned by Telegram. No Nicegram-specific username feature is promised,
 and nothing is said about when an old username becomes free.
 
-## SCR-026 — Translate a whole chat
+## SCR-026: Translate a whole chat
 
 **Given** a user asks whether a whole chat can be translated, **when** they read the translation page, **then** they
 learn that Telegram's **Translate Entire Chat** (Settings → Language) shows a translation bar in chats in another
 language, that Telegram makes it part of Telegram Premium. No
 Nicegram-only feature is promised.
 
-## SCR-027 — Get a verification checkmark
+## SCR-027: Get a verification checkmark
 
 **Given** a user asks how to get a verification badge, **when** they read the profiles page, **then** they learn that only
 Telegram assigns the official checkmark (Nicegram cannot), that Telegram verifies official channels, bots and public groups
 but not personal accounts, how to apply through @VerifyBot, and that third-party icons are not Telegram's checkmark.
 
-## SCR-028 — Telegram Stars missing
+## SCR-028: Telegram Stars missing
 
 **Given** a user paid for Telegram Stars that never reached their balance, **when** they read the Telegram Stars Help
 page, **then** they learn that Stars are Telegram's own currency, check **Settings → Your Stars**, and, by where the
@@ -230,7 +230,7 @@ they bought the Stars from (on iPhone and iPad, Nicegram's Stars screen links to
 Other Stars questions get one link to Telegram's FAQ. The page uses Stars words only; no delivery, refund or Nicegram
 fix is promised.
 
-## SCR-029 — When Nicegram Premium renews or expires
+## SCR-029: When Nicegram Premium renews or expires
 
 **Given** a user asks when their Nicegram Premium renews or expires, or where its expiration date is, **when** they
 read the Premium renewal Help page, **then** they find the App Store subscriptions list (Settings → your name →
@@ -238,7 +238,7 @@ Subscriptions, where a red expiration message means it will not renew) or subscr
 that will not renew works until its current period ends). Plans, Gems, and referrals is unchanged, and nothing is
 claimed about a date shown inside Nicegram.
 
-## SCR-030 — Report an impersonator
+## SCR-030: Report an impersonator
 
 **Given** someone is pretending to be the user or another person, **when** they read the impersonation Help page,
 **then** they learn that Telegram reviews reports and Nicegram cannot take a profile down, that @NoToScam handles
@@ -255,3 +255,24 @@ platform with the newest release first, and Official links and downloads lists N
 channels, chats, bots and addresses. The pages are generated from the Nicegram data room (`generated_from` in their
 front matter) and are never edited here: only answers decided for every channel appear, release notes that name a
 retired feature are left out, and no answer that has expired is shown after the next regeneration.
+
+## SCR-032: Advertise a channel, group or bot on Nicegram
+
+**Given** a user wants to promote their channel, group, bot or project to Nicegram's audience, **when** they read
+[Quick answers](../../reference/quick-answers.md), **then** they find Nicegram Ads (@NiceAdsBot, ads.nicegram.me),
+generated from the data room's decided fact. No hand-written page restates it, so "remove ads" questions keep their
+own answer.
+
+## SCR-033: Delete my account
+
+**Given** a user asks how to delete their account, **when** they read [Quick answers](../../reference/quick-answers.md),
+**then** they can tell logging out on one device from deleting the Telegram account for good, as the data room's
+account-deletion fact states. No hand-written page restates it.
+
+## SCR-034: Sensitive (18+) or restricted content is not shown
+
+**Given** a user cannot see sensitive (18+) or restricted channels or content, **when** they read the sensitive
+content Help page, **then** they learn that Nicegram follows Telegram's rules and the App Store and Google Play
+policies (one link each), that what is shown on iPhone, iPad or Android depends on those rules and on their sensitive
+content settings on Telegram, and that Nicegram does not open deleted or private content. The page describes no way
+around a restriction.
