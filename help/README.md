@@ -11,16 +11,10 @@ description: Diagnose missing features, review privacy guidance, and contact off
   a forgotten app passcode, and using a proxy.
 - [Groups and channels](groups-and-channels.md): why you can read a group but not
   write, the limit on joined groups and channels, and joins that keep loading.
-- [Sensitive and restricted content](sensitive-content.md): why sensitive (18+)
-  or restricted channels and content may not show.
-- [Delete your account](delete-account.md): log out on one device, or delete
-  the Telegram account for good.
 - [Privacy and data](privacy-and-data.md): understand Telegram data, Nicegram
   features, AI processing, analytics, and local storage.
 - [Support and source code](support-and-source.md): use official community,
   policies, and public repositories.
-- [Advertise on Nicegram](advertise-on-nicegram.md): promote a channel, group
-  or bot with Nicegram Ads.
 
 Lost your phone or SIM card? See
 [I lost my phone or SIM card](../getting-started/accounts.md#i-lost-my-phone-or-sim-card).

@@ -258,18 +258,16 @@ retired feature are left out, and no answer that has expired is shown after the 
 
 ## SCR-032: Advertise a channel, group or bot on Nicegram
 
-**Given** a user wants to promote their channel, group, bot or project to Nicegram's audience, **when** they read the
-advertising Help page, **then** they find Nicegram Ads: @NiceAdsBot in Telegram, where they create a campaign, or the
-website ads.nicegram.me. The page names no prices, minimums or terms and says nothing about removing ads.
+**Given** a user wants to promote their channel, group, bot or project to Nicegram's audience, **when** they read
+[Quick answers](../../reference/quick-answers.md), **then** they find Nicegram Ads (@NiceAdsBot, ads.nicegram.me),
+generated from the data room's decided fact. No hand-written page restates it, so "remove ads" questions keep their
+own answer.
 
 ## SCR-033: Delete my account
 
-**Given** a user asks how to delete their account, **when** they read the account deletion Help page, **then** they
-can tell logging out of Nicegram on one device (iPhone and iPad: **Settings → Edit → Log Out**; Android:
-**Settings → ⋮ → Log out**; the Telegram account and its chats stay, Secret Chats end) from deleting the Telegram
-account for good (Telegram's deactivation page on any device, or **Settings → Privacy and Security → If Away For →
-Delete Account Now** on iPhone and iPad), and they learn that deletion cannot be undone and what happens to their
-groups, channels, contacts and messages.
+**Given** a user asks how to delete their account, **when** they read [Quick answers](../../reference/quick-answers.md),
+**then** they can tell logging out on one device from deleting the Telegram account for good, as the data room's
+account-deletion fact states. No hand-written page restates it.
 
 ## SCR-034: Sensitive (18+) or restricted content is not shown
 
