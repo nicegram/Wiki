@@ -24,3 +24,9 @@
   * [Nicegram Premium renewal and expiration](help/premium-renewal.md)
   * [Privacy and data](help/privacy-and-data.md)
   * [Support and source code](help/support-and-source.md)
+<!-- generated-pages:start (generated from the Nicegram data room; do not edit between the markers) -->
+* [Quick reference](reference/README.md)
+  * [Quick answers](reference/quick-answers.md)
+  * [What's new](reference/whats-new.md)
+  * [Official links and downloads](reference/official-links.md)
+<!-- generated-pages:end -->

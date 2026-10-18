@@ -49,7 +49,7 @@ while IFS= read -r link; do
 done < <(sed -n 's/.*](\([^)]*\)).*/\1/p' SUMMARY.md)
 
 missing_navigation="$(comm -3 \
-  <(find getting-started features help -name '*.md' -type f | sort) \
+  <(find getting-started features help reference -name '*.md' -type f | sort) \
   <(sed -n 's/.*](\([^)]*\.md\)).*/\1/p' SUMMARY.md | grep -v '^README.md$' | sort))"
 
 if [[ -n "$missing_navigation" ]]; then
