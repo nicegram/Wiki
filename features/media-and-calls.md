@@ -5,7 +5,7 @@ description: Send existing videos as round messages, post Telegram stories, mana
 # What media and call tools does Nicegram add?
 
 Nicegram adds shortcuts for video messages, capture preferences, downloads, local
-cache, and — on supported iOS builds — call recording.
+cache, and (on supported iOS builds) call recording.
 
 ## Send an existing video as a video message
 

@@ -24,7 +24,7 @@ guarantee that every device can run an arbitrary number.
 ## Switch accounts
 
 Open the account switcher and select an account. Before sending a message, confirm
-the active avatar and identity — especially if you manage client or channel accounts.
+the active avatar and identity, especially if you manage client or channel accounts.
 
 ## Sign in to the same account on several devices
 
