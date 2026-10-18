@@ -1,6 +1,7 @@
 ---
 description: Official Nicegram downloads, websites, Telegram channels and chats, support contacts, social networks and e-mail addresses.
-generated_from: nicegram/dataroom@560f28a
+generated_from: nicegram/dataroom@d169fe5
+rendered_on: 2026-10-18
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -53,14 +54,6 @@ addresses.
 - Nicegram Brazil: [@nicegram_pt](https://t.me/nicegram_pt)
 - Nicegram Vietnam: [@nicegram_vi](https://t.me/nicegram_vi)
 
-## Which Telegram bots belong to Nicegram?
-
-- Nicegram User Profile: [@NicegramUserProfileBot](https://t.me/NicegramUserProfileBot)
-- Nicegram Hub search bot: [@NiceHubSearchBot](https://t.me/NiceHubSearchBot)
-- NiceHub bot: [@NiceHubBot](https://t.me/NiceHubBot)
-- Nicegram Hub bot: [@NicegramHubBot](https://t.me/NicegramHubBot)
-- Nicegram Authenticate Bot: [@nicegram_auth_bot](https://t.me/nicegram_auth_bot)
-
 ## How do I advertise with Nicegram?
 
 - [Nicegram Ads (web)](https://ads.nicegram.me)
@@ -80,8 +73,6 @@ addresses.
 ## Which other e-mail addresses does Nicegram use?
 
 - General contact e-mail: <contact@nicegram.me>
-- Investor relations e-mail: <investor.relations@appvillis.com>
-- Legacy contact e-mail: <nicegram@appvillis.com>
 
 ## Where is Nicegram Business?
 

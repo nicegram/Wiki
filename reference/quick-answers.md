@@ -1,6 +1,7 @@
 ---
 description: Short answers about Nicegram safety, VPN, downloads, official channels, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@560f28a
+generated_from: nicegram/dataroom@d169fe5
+rendered_on: 2026-10-18
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
