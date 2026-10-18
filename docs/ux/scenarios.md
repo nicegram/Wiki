@@ -245,3 +245,13 @@ claimed about a date shown inside Nicegram.
 someone pretending to be them, and how to report a person (Android: profile **⋮ → Report**; iPhone and iPad:
 **Report Spam** in a chat from a non-contact), a channel or group (**More → Report** or **⋮ → Report**) and a message
 in a group or channel, with a “See also” link to the existing group-limit section (SCR-014).
+
+## SCR-031: Find a quick answer, the release notes or an official link
+
+**Given** a user wants a short answer (is Nicegram free or safe, where to download it, how to delete an account),
+the "What's new" text of a version, or an official channel, bot or address, **when** they open the Quick reference
+section, **then** Quick answers gives one question heading per answer, What's new lists the store's text per
+platform with the newest release first, and Official links and downloads lists Nicegram's public apps, websites,
+channels, chats, bots and addresses. The pages are generated from the Nicegram data room (`generated_from` in their
+front matter) and are never edited here: only answers decided for every channel appear, release notes that name a
+retired feature are left out, and no answer that has expired is shown after the next regeneration.
