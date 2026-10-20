@@ -1,6 +1,6 @@
 ---
-description: Short answers about Nicegram safety, VPN, downloads, official channels, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@b16c185
+description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
+generated_from: nicegram/dataroom@d9660db
 rendered_on: 2026-10-20
 ---
 
@@ -14,6 +14,8 @@ each topic step by step.
 **About Nicegram:** [How is Nicegram different from the official Telegram app?](#how-is-nicegram-different-from-the-official-telegram-app) · [Is Nicegram safe to use?](#is-nicegram-safe-to-use) · [Do I need a VPN to use Nicegram?](#do-i-need-a-vpn-to-use-nicegram) · [How many times has Nicegram been installed?](#how-many-times-has-nicegram-been-installed)
 
 **Downloads and official places:** [Where do I download Nicegram?](#where-do-i-download-nicegram) · [Which Nicegram website and Telegram channels are official?](#which-nicegram-website-and-telegram-channels-are-official)
+
+**Using the app:** [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups)
 
 **Support and advertising:** [What is the Nicegram support e-mail?](#what-is-the-nicegram-support-e-mail) · [How do I reach a person at Nicegram support?](#how-do-i-reach-a-person-at-nicegram-support) · [How do I advertise my channel or project on Nicegram?](#how-do-i-advertise-my-channel-or-project-on-nicegram)
 
@@ -52,6 +54,14 @@ Download Nicegram for iPhone and iPad from the App Store (<https://apps.apple.co
 ## Which Nicegram website and Telegram channels are official?
 
 Official Nicegram places: website <https://nicegram.me>, community chat <https://t.me/nicegramchat>, official Telegram channel <https://t.me/nicegramapp>.
+
+## How do I change the language of the app?
+
+To change the language of the Nicegram interface, open Settings, then Language, and choose a language from the list. It is the same setting as in Telegram, and the list shows the languages Telegram offers. Nicegram's own menus follow the language you choose; where a Nicegram menu has no translation into that language, it is shown in English.
+
+## How do I find Telegram channels and groups?
+
+To find Telegram channels, chats, groups, bots, stickers and Mini Apps, browse Nicegram Hub on the website: <https://nicegram.me/hub>. It lists the top ones by category and language, and opens any of them in Nicegram in one tap.
 
 ## What is the Nicegram support e-mail?
 
