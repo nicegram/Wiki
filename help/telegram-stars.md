@@ -5,7 +5,7 @@ description: Telegram Stars missing from your Stars balance, and where to ask ab
 # My Telegram Stars are missing. What should I do?
 
 Telegram Stars are Telegram's own currency, kept in your Stars balance on
-Telegram.
+Telegram. If you bought Stars and they are not showing:
 
 1. **Check your Stars balance:** open **Settings → Your Stars**, signed in as
    the Telegram user the Stars are for.
