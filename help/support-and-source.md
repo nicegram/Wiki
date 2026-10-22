@@ -7,8 +7,7 @@ description: Find official Nicegram support, policies, downloads, and source rep
 ## Product and support
 
 - Support by e-mail: [support@nicegram.me](mailto:support@nicegram.me)
-- Refunds of Nicegram subscriptions, accounts or sessions bought in Nicegram, and unusual cases: a person at
-  [@nicegram_support_manager](https://t.me/nicegram_support_manager).
+- Complex cases go to a person at [@nicegram_support_manager](https://t.me/nicegram_support_manager).
 - [Nicegram website](https://nicegram.me)
 - [Download Nicegram](https://nicegram.me/download)
 - [Nicegram FAQ](https://nicegram.me/faq)
