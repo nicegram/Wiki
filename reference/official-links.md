@@ -1,7 +1,7 @@
 ---
 description: Official Nicegram downloads, websites, Telegram channels and chats, support contacts, social networks and e-mail addresses.
-generated_from: nicegram/dataroom@d9660db
-rendered_on: 2026-10-20
+generated_from: nicegram/dataroom@ac49676
+rendered_on: 2026-10-22
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -23,8 +23,8 @@ addresses.
 
 ## How do I contact Nicegram support?
 
-- Nicegram Support (person): [@nicegram_support_manager](https://t.me/nicegram_support_manager)
 - Support e-mail: <support@nicegram.me>
+- Nicegram Support (person): [@nicegram_support_manager](https://t.me/nicegram_support_manager)
 
 ## Which websites are Nicegram's?
 
