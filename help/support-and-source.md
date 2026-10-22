@@ -6,10 +6,9 @@ description: Find official Nicegram support, policies, downloads, and source rep
 
 ## Product and support
 
-- Support in Telegram: [@NicegramHelperBot](https://t.me/NicegramHelperBot). The helper bot answers most
-  questions itself and passes complex ones to a person at
-  [@nicegram_support_manager](https://t.me/nicegram_support_manager).
 - Support by e-mail: [support@nicegram.me](mailto:support@nicegram.me)
+- Refunds of Nicegram subscriptions, accounts or sessions bought in Nicegram, and unusual cases: a person at
+  [@nicegram_support_manager](https://t.me/nicegram_support_manager).
 - [Nicegram website](https://nicegram.me)
 - [Download Nicegram](https://nicegram.me/download)
 - [Nicegram FAQ](https://nicegram.me/faq)
