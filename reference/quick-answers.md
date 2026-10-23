@@ -1,7 +1,7 @@
 ---
-description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@ac49676
-rendered_on: 2026-10-22
+description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
+generated_from: nicegram/dataroom@e1b032f
+rendered_on: 2026-10-23
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -15,21 +15,21 @@ each topic step by step.
 
 **Downloads and official places:** [Where do I download Nicegram?](#where-do-i-download-nicegram) · [Which Nicegram website and Telegram channels are official?](#which-nicegram-website-and-telegram-channels-are-official)
 
-**Using the app:** [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups)
+**Using the app:** [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
 
 **Support and advertising:** [What is the Nicegram support e-mail?](#what-is-the-nicegram-support-e-mail) · [How do I reach a person at Nicegram support?](#how-do-i-reach-a-person-at-nicegram-support) · [How do I advertise my channel or project on Nicegram?](#how-do-i-advertise-my-channel-or-project-on-nicegram)
 
-**Accounts and sign-in:** [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Nicegram say my phone was banned?](#why-does-nicegram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account)
+**Accounts and sign-in:** [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Nicegram say my phone was banned?](#why-does-nicegram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account) · [What does "Too many attempts" at sign-in mean?](#what-does-too-many-attempts-at-sign-in-mean)
 
 **Privacy and permissions:** [Can Nicegram read my messages?](#can-nicegram-read-my-messages) · [What data does Nicegram collect?](#what-data-does-nicegram-collect) · [Why does Nicegram ask for my contacts, location or call log?](#why-does-nicegram-ask-for-my-contacts-location-or-call-log) · [Why does Nicegram ask for camera and microphone access?](#why-does-nicegram-ask-for-camera-and-microphone-access)
 
 **Safety and scams:** [Can I trust someone in a Nicegram chat who offers to help?](#can-i-trust-someone-in-a-nicegram-chat-who-offers-to-help) · [Where did my NFT stickers or gifts go?](#where-did-my-nft-stickers-or-gifts-go) · [How do I report spam?](#how-do-i-report-spam)
 
-**Premium and subscriptions:** [Is Nicegram free?](#is-nicegram-free) · [How do I cancel a subscription or ask for a refund?](#how-do-i-cancel-a-subscription-or-ask-for-a-refund)
+**Premium and subscriptions:** [Is Nicegram free?](#is-nicegram-free) · [How do I cancel a subscription or ask for a refund?](#how-do-i-cancel-a-subscription-or-ask-for-a-refund) · [Why does my free trial show no active subscription?](#why-does-my-free-trial-show-no-active-subscription) · [How many AI messages does each plan include?](#how-many-ai-messages-does-each-plan-include)
 
 **Content:** [Why can't I see sensitive (18+) or restricted content?](#why-cant-i-see-sensitive-18-or-restricted-content)
 
-**Features that changed or were retired:** [Where is the Nicegram wallet?](#where-is-the-nicegram-wallet) · [Can I still earn ATT points?](#can-i-still-earn-att-points) · [When do I get rewards for my ATT points and NFT stickers?](#when-do-i-get-rewards-for-my-att-points-and-nft-stickers) · [Can I see deleted messages?](#can-i-see-deleted-messages) · [Where is Ghost mode?](#where-is-ghost-mode)
+**Features that changed or were retired:** [Where is the Nicegram wallet?](#where-is-the-nicegram-wallet) · [Can I still earn ATT points?](#can-i-still-earn-att-points) · [When do I get rewards for my ATT points and NFT stickers?](#when-do-i-get-rewards-for-my-att-points-and-nft-stickers) · [Can I see deleted messages?](#can-i-see-deleted-messages) · [Where is Ghost mode?](#where-is-ghost-mode) · [Does Nicegram have eSIM?](#does-nicegram-have-esim)
 
 ## How is Nicegram different from the official Telegram app?
 
@@ -63,6 +63,10 @@ To change the language of the Nicegram interface, open Settings, then Language, 
 
 To find Telegram channels, chats, groups, bots, stickers and Mini Apps, browse Nicegram Hub on the website: <https://nicegram.me/hub>. It lists the top ones by category and language, and opens any of them in Nicegram in one tap.
 
+## What is the magnifying glass next to the tab bar on iPhone?
+
+If a magnifying glass appeared at the right of the bottom tab bar in Nicegram for iPhone, it is the search button of the current tab. Version 2.6.4 removed it; the search field stays at the top of the list.
+
 ## What is the Nicegram support e-mail?
 
 Nicegram app support by e-mail: <support@nicegram.me>.
@@ -90,6 +94,10 @@ If your account may be compromised (someone got into it or changed your password
 ## How do I delete my account?
 
 To remove an account only from Nicegram on this device, log out of it instead (Log Out in the account's settings): the Telegram account and its chats stay, and logging out ends its Secret Chats. To delete your account, use Telegram's deactivation page: <https://my.telegram.org/auth?to=delete>. Deleting the account permanently removes your messages, contacts and other data, must be confirmed through your Telegram account and cannot be undone. Groups and channels you created stay without a creator (admins keep their rights), and your contacts keep their copies of the messages you sent them. If you sign up again, you start as a new user and do not get your history, contacts or groups back.
+
+## What does "Too many attempts" at sign-in mean?
+
+"Too many attempts, please try again later" when you sign in is Telegram's own limit on sign-in attempts, not a Nicegram error. Wait and try again later. If the message says you deleted and re-created your account too many times, wait a few days before signing up again.
 
 ## Can Nicegram read my messages?
 
@@ -127,6 +135,14 @@ Nicegram is free to download. A Nicegram Premium subscription unlocks additional
 
 Nicegram subscriptions bought in the App Store or Google Play follow that store's rules for payment, cancellation and refunds. Cancel a subscription, or change its payment method, in the App Store or Google Play account that processed it; cancelling stops renewal after the last day of the current period and is not automatically a refund. To ask for a refund, write to a person at Nicegram support in Telegram: @nicegram_support_manager (<https://t.me/nicegram_support_manager>). A free trial renews as a paid subscription unless auto-renew is turned off at least 24 hours before the trial ends.
 
+## Why does my free trial show no active subscription?
+
+If you started a free trial of Nicegram Premium but your profile shows no active subscription: the trial runs in the App Store or Google Play, and your Nicegram profile shows Premium only after Nicegram confirms the purchase. Open the Premium screen and tap "Restore purchase" while signed in with the same Apple ID or Google account that started the trial. A subscription counts for the Nicegram account that confirmed it last.
+
+## How many AI messages does each plan include?
+
+Nicegram AI has no fixed number of messages per plan. Each AI request is paid from your AI Tokens balance: a Premium subscription includes monthly tokens, Premium+ includes more, and anyone can buy a top-up. If the balance runs out, the app says there are not enough AI tokens. Between two requests there is a short pause, longer without Premium. Your balance and the current amounts are shown in the app.
+
 ## Why can't I see sensitive (18+) or restricted content?
 
 Sensitive (18+) and restricted content: Nicegram follows Telegram's rules and the App Store and Google Play policies. Whether sensitive or restricted channels and content are shown on iPhone, iPad or Android depends on those rules and on your account settings. Nicegram does not open deleted, private or paid content.
@@ -150,3 +166,7 @@ Nicegram has no option to see deleted messages. An iOS option that kept messages
 ## Where is Ghost mode?
 
 Nicegram replaced Ghost mode with Preview mode in version 5.15.4 (29 February 2020) to comply with Telegram's API terms of service.
+
+## Does Nicegram have eSIM?
+
+Nicegram has no built-in eSIM or mobile data feature. An early eSIM integration from 2022 was removed from the app in 2024.
