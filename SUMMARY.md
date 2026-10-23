@@ -20,6 +20,7 @@
   * [App problems](help/app-problems.md)
   * [Groups and channels](help/groups-and-channels.md)
   * [Someone pretending to be you](help/impersonation.md)
+  * [Get Telegram Stars](help/get-telegram-stars.md)
   * [Telegram Stars missing](help/telegram-stars.md)
   * [Nicegram Premium renewal and expiration](help/premium-renewal.md)
   * [Sensitive and restricted content](help/sensitive-content.md)
