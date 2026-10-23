@@ -93,3 +93,18 @@ not Telegram's checkmark.
 
 **Sources:** [Evidence ledger](../docs/evidence/help-w8-2026-10-16.md)
 
+
+## Where is the search button (magnifying glass)?
+
+On iPhone and iPad, where you start a search depends on your Nicegram version.
+
+- **Nicegram 2.6.4:** tap the **Search** field at the top of the chat list.
+- **Nicegram 2.4.1 to 2.6.3:** a magnifying glass button sits at the right end of
+  the tab bar at the bottom of the screen on the **Chats**, **Contacts**,
+  **Calls**, **Settings** and **Nicegram** tabs. Tap it to search.
+
+The magnifying glass is Telegram's own tab bar search, not a separate Nicegram
+feature. If it appeared or disappeared, your app version changed. Updating to
+2.6.4 from the App Store moves search to the field at the top of the chat list.
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w10-2026-10-23.md)
