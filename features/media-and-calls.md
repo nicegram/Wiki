@@ -66,6 +66,9 @@ and Stealth Mode. Nicegram Premium is a separate plan and doesn’t include thes
 
 Who may post, and how many stories a week or month, is set by Telegram for every
 app. When posting is limited to Telegram Premium, the app shows that message.
+Nicegram adds no limit of its own: if your Telegram account can post stories in
+the official Telegram app, it can post them in Nicegram for iPhone, iPad and
+Android, and Nicegram Premium does not unlock posting.
 A channel or group can post stories once it has enough boosts, through an
 admin allowed to post them. On iPhone and iPad, you can’t post during a call or
 a video chat.
