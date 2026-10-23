@@ -1,5 +1,5 @@
 ---
-description: Add, switch, back up, and hide Telegram accounts in Nicegram, recover a forgotten two-step password, and export your chats.
+description: Add, switch, back up, and hide Telegram accounts in Nicegram, sign in with a login code and a two-step password, recover a forgotten password, export your chats, and what deleted messages can come back.
 ---
 
 # How do accounts work in Nicegram?
@@ -183,3 +183,57 @@ restore deleted messages. Follow only the options visible in your installed buil
 [Product review](../docs/evidence/product-review-2026-10-10.md) ·
 [iOS source](https://github.com/nicegram/Nicegram-iOS) ·
 [Android source](https://github.com/nicegram/Nicegram-Android)
+
+## Can I get back deleted messages, chats or files?
+
+Deleted something by mistake? Usually it cannot come back: once both sides have
+deleted a message, it is deleted for good.
+
+- **Just deleted a chat or left a group?** Nicegram briefly shows **Undo**. The
+  chat goes only when that bar goes away, so tap **Undo** in time.
+- **A chat with one person:** if you deleted it only for yourself, the other
+  person still has their copy of the messages.
+- **A group or channel you left:** a public one can be found in search, and
+  anyone can join it again. A private one needs an invite link; an admin can add
+  you back only if you are mutual contacts. Whether you see earlier messages
+  depends on the group’s history setting.
+- **Files in Saved Messages:** Saved Messages is your own cloud storage, and
+  only you are in it, so a file you deleted there cannot be restored. If you
+  saved it there from another chat, the original is still in that chat unless it
+  was deleted there too.
+- **Photos and other media saved to your gallery** with **Save to Camera
+  Roll** or **Save to Gallery** (iPhone, iPad) or **Save to gallery** (Android)
+  are copies in the gallery itself. Look for them there.
+
+**If I delete messages with another person, can they get them back?** Not if
+you delete them for both of you: choose **Delete for me and** *name* (iPhone,
+iPad) or tick **Also delete for** *name* (Android). The messages then leave the
+other person’s chat too, without a mark, and Telegram cannot restore them. If
+you delete only for yourself, they keep their copy, and a copy saved earlier,
+such as a chat export, keeps the messages. In a secret chat, deleting a message
+always deletes it for the other side too. In a group you can delete only your
+own messages.
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w11-2026-10-23.md)
+
+## Can I sign in with my password or my email instead of the code?
+
+No. Signing in takes the login code Telegram sends you. If you turned on
+**Two-Step Verification**, you enter its password after the code, not instead
+of it.
+
+Telegram chooses where to send the login code:
+
+- the chat with **Telegram** (a verified account with a blue check) in any app
+  where you are already signed in;
+- SMS, or a call where offered. If you don’t get it, tap **Didn’t get the
+  code?**, and choose SMS if the app offers it;
+- email, if Telegram asked you to set up a **login email**. Telegram asks for one
+  when you sign in often; the screen then shows **Check Your Email**. That
+  address is only where the code is sent, not a way to sign in by itself.
+
+The recovery email you added for the password does not sign you in either. It
+helps only after the login code, to reset the password; the reset steps are
+earlier on this page.
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w11-2026-10-23.md)
