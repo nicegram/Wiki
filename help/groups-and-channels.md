@@ -1,5 +1,5 @@
 ---
-description: Find out why you can read a Telegram group but not write in it, why you cannot join more groups or channels, and what to do next.
+description: Find out why you can read a Telegram group but not write in it, why you can only message mutual contacts, why you cannot join more groups or channels, and what to do next.
 ---
 
 # Why can’t I write in or join a group?
@@ -18,8 +18,8 @@ The message field or the error names the reason:
 - **Slow mode is on:** one message per interval; the app shows when.
 - **An admin banned you.** Only that group’s admins can let you back.
 - **Your Telegram account is limited** after spam reports: “you can only send
-  messages to mutual contacts” or “restricted from posting to public groups”. If
-  you think it is a mistake, write to [@SpamBot](https://t.me/SpamBot).
+  messages to mutual contacts” or “restricted from posting to public groups”. The
+  last section on this page explains what to do.
 
 These are Telegram rules, so another Telegram app shows the same restriction.
 
@@ -46,3 +46,42 @@ choose from. The limit applies to each Telegram account separately.
 - **You hit the join limit.** See the section above.
 
 **Sources:** [Evidence ledger](../docs/evidence/help-troubleshooting-2026-10-12.md)
+
+## Why can I only send messages to mutual contacts?
+
+Telegram restricts an account when people mark its messages as unwanted and
+Telegram’s moderators agree. Private messages to someone who has not saved your
+number then fail with “Sorry, you can only send messages to mutual contacts at
+the moment.” You may also see “Sorry, you are currently restricted from posting
+to public groups.” On iPhone and iPad, **More Info** in that alert opens
+[@SpamBot](https://t.me/SpamBot).
+
+While it lasts, Telegram still lets you:
+
+- write to people who have your number saved as a contact;
+- reply to whoever messages you first.
+
+**How long it lasts.** The first time, it most likely ends after a few days.
+Each repeat lasts longer, and writing to strangers can be closed for good.
+Telegram does not end it early on request.
+
+**Think it is a mistake?** Write to [@SpamBot](https://t.me/SpamBot) and
+explain. A new account can also be restricted because of the number’s previous
+owner or because it is a virtual number.
+
+**Can’t send anything at all?** If the chat list says **Your account is frozen**,
+Telegram restricted the account after complaints: you can read your chats but
+can’t send messages. Tap the notice for details and **Submit an Appeal**. The appeal
+goes through @SpamBot and must be sent before the date shown, or the account is
+deleted.
+
+**Only one person can’t be reached?** Some people accept messages only from
+their contacts and Telegram Premium subscribers; the app then says only Premium
+subscribers can message them. Others ask for Telegram Stars for messages from
+people not in their contacts. That is their choice, not a restriction on your
+account.
+
+The restriction is on your Telegram account, not on the app, so every Telegram
+app, Nicegram included, shows it too.
+
+**Sources:** [Evidence ledger](../docs/evidence/help-w11-2026-10-23.md)
