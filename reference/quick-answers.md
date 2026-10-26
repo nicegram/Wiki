@@ -1,7 +1,7 @@
 ---
 description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@e1b032f
-rendered_on: 2026-10-23
+generated_from: nicegram/dataroom@d491311
+rendered_on: 2026-10-26
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -17,7 +17,7 @@ each topic step by step.
 
 **Using the app:** [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
 
-**Support and advertising:** [What is the Nicegram support e-mail?](#what-is-the-nicegram-support-e-mail) · [How do I reach a person at Nicegram support?](#how-do-i-reach-a-person-at-nicegram-support) · [How do I advertise my channel or project on Nicegram?](#how-do-i-advertise-my-channel-or-project-on-nicegram)
+**Support and advertising:** [What is the Nicegram support e-mail?](#what-is-the-nicegram-support-e-mail) · [How do I reach a person at Nicegram support?](#how-do-i-reach-a-person-at-nicegram-support) · [How do I advertise my channel or project on Nicegram?](#how-do-i-advertise-my-channel-or-project-on-nicegram) · [How do ads in Nicegram work?](#how-do-ads-in-nicegram-work) · [What is King of the Day?](#what-is-king-of-the-day)
 
 **Accounts and sign-in:** [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Nicegram say my phone was banned?](#why-does-nicegram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account) · [What does "Too many attempts" at sign-in mean?](#what-does-too-many-attempts-at-sign-in-mean)
 
@@ -78,6 +78,14 @@ For something bought in Nicegram (Account Shop, Telegram Sessions), or an unusua
 ## How do I advertise my channel or project on Nicegram?
 
 To promote your channel, group, bot or project to Nicegram's audience, use Nicegram's ad platform: the bot @NiceAdsBot (<https://t.me/NiceAdsBot>) or the website <https://ads.nicegram.me>.
+
+## How do ads in Nicegram work?
+
+Advertisers promote a Telegram channel, group, bot, Mini App or single post through Nicegram Ads: the promotion appears as a row in the chat list of the Nicegram app, among the chats people already read, and a tap opens the advertiser's Telegram link. Campaigns are created and managed in the @NiceAdsBot Telegram bot, or on <https://ads.nicegram.me> after signing in; the Nicegram app is not needed to advertise. The advertiser chooses the languages and countries (one at a time, together, or everyone), sets the budget and is charged per view or per click. A campaign can be paused at any time, and stopping it returns the unspent budget to the advertiser's wallet. No number of views is promised: the targeted audience is a ceiling, and people who already have the chat are skipped. A larger, reserved placement is arranged in a conversation through the contact on that page. Current prices and the minimum budget are on <https://ads.nicegram.me>.
+
+## What is King of the Day?
+
+King of the Day is a daily auction for advertisers: the winning bid gets the first entry in the premium pin at the very top of the Nicegram chat list for one UTC day, shown to the whole audience. The winner sits beside the entries already sold in the pin; nobody is removed. A bid's amount moves into the bidder's auction balance and is held there while the bid stands. The current starting bid and step are on the King of the Day page.
 
 ## Why didn't my login code arrive?
 

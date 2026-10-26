@@ -1,7 +1,7 @@
 ---
 description: Nicegram release notes for iPhone, iPad and Android, newest first.
-generated_from: nicegram/dataroom@e1b032f
-rendered_on: 2026-10-23
+generated_from: nicegram/dataroom@d491311
+rendered_on: 2026-10-26
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -14,7 +14,7 @@ have changed since; [Quick answers](quick-answers.md) says what is current.
 
 ## What's new in Nicegram for iPhone and iPad?
 
-- **Versions 2.2.4 to 2.6.4** (41 releases, October 2025 to October 2026): App stability improvements
+- **Versions 2.2.4 to 2.6.5** (42 releases, October 2025 to October 2026): App stability improvements
 - **Versions 2.1.7 to 2.2.3** (7 releases, July 2025 to September 2025): This update includes general improvements and fixes to enhance your app experience.
 - **2.1.6** (June 23, 2025): Fixed problem with notifications
 - **Versions 2.0.8 to 2.1.5** (8 releases, May 2025 to June 2025): We’ve made performance improvements and fixed some bugs to make your experience even smoother. Thanks for using our app!
