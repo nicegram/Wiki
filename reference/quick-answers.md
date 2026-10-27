@@ -1,7 +1,7 @@
 ---
 description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@d491311
-rendered_on: 2026-10-26
+generated_from: nicegram/dataroom@b2377c8
+rendered_on: 2026-10-27
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -13,9 +13,9 @@ each topic step by step.
 
 **About Nicegram:** [How is Nicegram different from the official Telegram app?](#how-is-nicegram-different-from-the-official-telegram-app) · [Is Nicegram safe to use?](#is-nicegram-safe-to-use) · [Do I need a VPN to use Nicegram?](#do-i-need-a-vpn-to-use-nicegram) · [How many times has Nicegram been installed?](#how-many-times-has-nicegram-been-installed)
 
-**Downloads and official places:** [Where do I download Nicegram?](#where-do-i-download-nicegram) · [Which Nicegram website and Telegram channels are official?](#which-nicegram-website-and-telegram-channels-are-official)
+**Downloads and official places:** [Where do I download Nicegram?](#where-do-i-download-nicegram) · [How do I install Nicegram on Huawei or a phone without Google Play?](#how-do-i-install-nicegram-on-huawei-or-a-phone-without-google-play) · [Which Nicegram website and Telegram channels are official?](#which-nicegram-website-and-telegram-channels-are-official)
 
-**Using the app:** [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
+**Using the app:** [How do I remove the WhiteBridge banner at the top of a chat?](#how-do-i-remove-the-whitebridge-banner-at-the-top-of-a-chat) · [What is the level badge next to a name, and how do I raise it?](#what-is-the-level-badge-next-to-a-name-and-how-do-i-raise-it) · [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
 
 **Support and advertising:** [What is the Nicegram support e-mail?](#what-is-the-nicegram-support-e-mail) · [How do I reach a person at Nicegram support?](#how-do-i-reach-a-person-at-nicegram-support) · [How do I advertise my channel or project on Nicegram?](#how-do-i-advertise-my-channel-or-project-on-nicegram) · [How do ads in Nicegram work?](#how-do-ads-in-nicegram-work) · [What is King of the Day?](#what-is-king-of-the-day)
 
@@ -25,7 +25,7 @@ each topic step by step.
 
 **Safety and scams:** [Can I trust someone in a Nicegram chat who offers to help?](#can-i-trust-someone-in-a-nicegram-chat-who-offers-to-help) · [Where did my NFT stickers or gifts go?](#where-did-my-nft-stickers-or-gifts-go) · [How do I report spam?](#how-do-i-report-spam)
 
-**Premium and subscriptions:** [Is Nicegram free?](#is-nicegram-free) · [How do I cancel a subscription or ask for a refund?](#how-do-i-cancel-a-subscription-or-ask-for-a-refund) · [Why does my free trial show no active subscription?](#why-does-my-free-trial-show-no-active-subscription) · [How many AI messages does each plan include?](#how-many-ai-messages-does-each-plan-include)
+**Premium and subscriptions:** [Is Nicegram free?](#is-nicegram-free) · [How do I get or turn on Nicegram Premium?](#how-do-i-get-or-turn-on-nicegram-premium) · [How do I cancel a subscription or ask for a refund?](#how-do-i-cancel-a-subscription-or-ask-for-a-refund) · [Why does my free trial show no active subscription?](#why-does-my-free-trial-show-no-active-subscription) · [How many AI messages does each plan include?](#how-many-ai-messages-does-each-plan-include)
 
 **Content:** [Why can't I see sensitive (18+) or restricted content?](#why-cant-i-see-sensitive-18-or-restricted-content)
 
@@ -51,9 +51,21 @@ Nicegram has been installed more than 57 million times on iPhone, iPad and Andro
 
 Download Nicegram for iPhone and iPad from the App Store (<https://apps.apple.com/us/app/nicegram-ai-for-telegram/id1608870673>), for Android from Google Play (<https://play.google.com/store/apps/details?id=app.nicegram>) or as an APK from GitHub (<https://github.com/nicegram/Nicegram-Android/releases/latest/download/app.apk>), and Nicegram Desktop for macOS from the website <https://nicegram.me>. Official Nicegram places: the website <https://nicegram.me>, the channel <https://t.me/nicegramapp>, the community chat <https://t.me/nicegramchat>, and <https://t.me/NicegramNavigation>, which lists all official chats and channels.
 
+## How do I install Nicegram on Huawei or a phone without Google Play?
+
+Nicegram on a Huawei phone, HarmonyOS or another phone without Google Play: on the phone, open <https://github.com/nicegram/Nicegram-Android/releases/latest>, tap the app file listed under Assets, open it and allow installing from that source when the phone asks. This works on phones that can install Android apps and run Android 7.0 or later.
+
 ## Which Nicegram website and Telegram channels are official?
 
 Official Nicegram places: website <https://nicegram.me>, community chat <https://t.me/nicegramchat>, official Telegram channel <https://t.me/nicegramapp>.
+
+## How do I remove the WhiteBridge banner at the top of a chat?
+
+WhiteBridge (White Bridge) in Nicegram for iPhone and iPad offers an overview of public information found online about a person. To turn off its banner at the top of a chat with a person, tap the × on the banner's left: the banner does not come back in any chat on that device, until Nicegram is reinstalled.
+
+## What is the level badge next to a name, and how do I raise it?
+
+The level badge next to a name in a profile is Telegram's rating. Telegram calculates it, and Nicegram shows it as Telegram does but does not award or sell it. Tap the level in a profile to see what affects it: gifts bought from Telegram count in full, gifts and posts bought from users and channels count at 20%, and refunds and gifts converted back lower it. Topping up a balance alone does not raise it, and new points are added after a waiting period shown on that screen.
 
 ## How do I change the language of the app?
 
@@ -138,6 +150,10 @@ To report spam in Nicegram, the same as in Telegram: in the chat, tap Report Spa
 ## Is Nicegram free?
 
 Nicegram is free to download. A Nicegram Premium subscription unlocks additional features, including features for business. The price and what it includes are shown in the app and in the store.
+
+## How do I get or turn on Nicegram Premium?
+
+To get or activate Nicegram Premium, open Settings in Nicegram: on iPhone and iPad tap Premium, on Android tap Nicegram Premium. That screen shows the plans and their prices, and you buy the subscription there through the App Store or Google Play. Premium turns on once Nicegram confirms the purchase. Already subscribed, reinstalled Nicegram or moved to a new device? Open the same screen and tap "Restore purchase" while signed in with the Apple ID or Google account that bought it.
 
 ## How do I cancel a subscription or ask for a refund?
 
