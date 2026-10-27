@@ -1,0 +1,89 @@
+# Open and merge the pull request for the generated pages the Nicegram data agent pushes from the cloud
+# (ssheleg/nicegram-data-agent `.github/workflows/wiki-sync.yml`, dataroom DR-010 wave F3d; it replaces the operator's
+# Mac job `public-wiki-sync`). The agent pushes with a deploy key and has no token for this repository's pull requests,
+# so this workflow opens one with its own GITHUB_TOKEN. `sync/public-wiki` is the agent's "may merge" branch: merged
+# (merge commit, at the checked head) only when every changed path is under `reference/` or inside the SUMMARY.md
+# generated block and `scripts/check-docs.sh` passes. `sync/public-wiki-review` (the agent's gate found an indexed
+# change) is opened and never merged here: a person reviews it.
+name: sync-pr
+
+on:
+  push:
+    branches: ['sync/public-wiki', 'sync/public-wiki-review']
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sync-pr-${{ github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  pr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Path filter and docs check
+        id: check
+        run: |
+          set -uo pipefail
+          command -v rg >/dev/null || sudo apt-get install -y -qq ripgrep
+          git diff --name-only origin/master...HEAD > "$RUNNER_TEMP/paths.txt"
+          cat "$RUNNER_TEMP/paths.txt"
+          git show origin/master:SUMMARY.md > "$RUNNER_TEMP/base-summary.md"
+          cat > "$RUNNER_TEMP/paths.py" <<'PY'
+          import sys
+          START = '<!-- generated-pages:start (generated from the Nicegram data room; do not edit between the markers) -->'
+          END = '<!-- generated-pages:end -->'
+          def outside(path):
+              lines = open(path, encoding='utf-8').read().splitlines()
+              if START not in lines or END not in lines or lines.index(START) > lines.index(END):
+                  return None
+              return lines[:lines.index(START)] + lines[lines.index(END) + 1:]
+          paths = [p.strip() for p in open(sys.argv[1]) if p.strip()]
+          bad = [p for p in paths if not p.startswith('reference/') and p != 'SUMMARY.md']
+          if not paths or bad:
+              print('paths outside reference/ and the SUMMARY.md block:', bad or 'none changed')
+              sys.exit(1)
+          if 'SUMMARY.md' in paths:
+              before, after = outside(sys.argv[2]), outside(sys.argv[3])
+              if before is None or after is None or before != after:
+                  print('SUMMARY.md changed outside the generated block')
+                  sys.exit(1)
+          PY
+          if python3 "$RUNNER_TEMP/paths.py" "$RUNNER_TEMP/paths.txt" "$RUNNER_TEMP/base-summary.md" SUMMARY.md; then
+            echo "paths=ok" >> "$GITHUB_OUTPUT"
+          else
+            echo "paths=no" >> "$GITHUB_OUTPUT"
+          fi
+          if bash scripts/check-docs.sh; then echo "docs=ok" >> "$GITHUB_OUTPUT"; else echo "docs=no" >> "$GITHUB_OUTPUT"; fi
+      - name: Open and merge the pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ github.ref_name }}
+          REPO: ${{ github.repository }}
+          HEAD_SHA: ${{ github.sha }}
+          PATHS: ${{ steps.check.outputs.paths }}
+          DOCS: ${{ steps.check.outputs.docs }}
+        run: |
+          set -euo pipefail
+          number="$(gh pr list -R "$REPO" --head "$BRANCH" --state open --json number -q '.[0].number // empty')"
+          if [ -z "$number" ]; then
+            gh pr create -R "$REPO" --base master --head "$BRANCH" \
+              --title "Generated pages: refresh from the data room ($BRANCH)" \
+              --body "Pushed by the Nicegram data agent's cloud Wiki sync (ssheleg/nicegram-data-agent wiki-sync.yml). Do not edit generated pages here: change the source in the data room. sync/public-wiki is merged by .github/workflows/sync-pr.yml when every path is under reference/ or inside the SUMMARY.md block and scripts/check-docs.sh passes; sync/public-wiki-review waits for a person (the agent's gate found an indexed change)."
+            number="$(gh pr list -R "$REPO" --head "$BRANCH" --state open --json number -q '.[0].number')"
+          fi
+          if [ "$BRANCH" = "sync/public-wiki" ] && [ "$PATHS" = ok ] && [ "$DOCS" = ok ]; then
+            gh pr merge "$number" -R "$REPO" --merge --match-head-commit "$HEAD_SHA" \
+              || [ "$(gh pr view "$number" -R "$REPO" --json state -q .state)" = MERGED ]
+          else
+            echo "::warning::PR #$number left open: branch=$BRANCH paths=$PATHS docs=$DOCS"
+          fi
