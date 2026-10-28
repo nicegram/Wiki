@@ -1,7 +1,7 @@
 ---
 description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@b2377c8
-rendered_on: 2026-10-27
+generated_from: nicegram/dataroom@5d78bc4
+rendered_on: 2026-10-28
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -15,11 +15,11 @@ each topic step by step.
 
 **Downloads and official places:** [Where do I download Nicegram?](#where-do-i-download-nicegram) · [How do I install Nicegram on Huawei or a phone without Google Play?](#how-do-i-install-nicegram-on-huawei-or-a-phone-without-google-play) · [Which Nicegram website and Telegram channels are official?](#which-nicegram-website-and-telegram-channels-are-official)
 
-**Using the app:** [How do I remove the WhiteBridge banner at the top of a chat?](#how-do-i-remove-the-whitebridge-banner-at-the-top-of-a-chat) · [What is the level badge next to a name, and how do I raise it?](#what-is-the-level-badge-next-to-a-name-and-how-do-i-raise-it) · [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
+**Using the app:** [Are my contacts told when I join, and how do I turn that notice off?](#are-my-contacts-told-when-i-join-and-how-do-i-turn-that-notice-off) · [Where is the Nicegram assistant button?](#where-is-the-nicegram-assistant-button) · [Why is the Downloads tab missing?](#why-is-the-downloads-tab-missing) · [How do I remove the WhiteBridge banner at the top of a chat?](#how-do-i-remove-the-whitebridge-banner-at-the-top-of-a-chat) · [What is the level badge next to a name, and how do I raise it?](#what-is-the-level-badge-next-to-a-name-and-how-do-i-raise-it) · [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
 
 **Support and advertising:** [What is the Nicegram support e-mail?](#what-is-the-nicegram-support-e-mail) · [How do I reach a person at Nicegram support?](#how-do-i-reach-a-person-at-nicegram-support) · [How do I advertise my channel or project on Nicegram?](#how-do-i-advertise-my-channel-or-project-on-nicegram) · [How do ads in Nicegram work?](#how-do-ads-in-nicegram-work) · [What is King of the Day?](#what-is-king-of-the-day)
 
-**Accounts and sign-in:** [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Nicegram say my phone was banned?](#why-does-nicegram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account) · [What does "Too many attempts" at sign-in mean?](#what-does-too-many-attempts-at-sign-in-mean)
+**Accounts and sign-in:** [How do I end my sessions on other devices?](#how-do-i-end-my-sessions-on-other-devices) · [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Nicegram say my phone was banned?](#why-does-nicegram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account) · [What does "Too many attempts" at sign-in mean?](#what-does-too-many-attempts-at-sign-in-mean)
 
 **Privacy and permissions:** [Can Nicegram read my messages?](#can-nicegram-read-my-messages) · [What data does Nicegram collect?](#what-data-does-nicegram-collect) · [Why does Nicegram ask for my contacts, location or call log?](#why-does-nicegram-ask-for-my-contacts-location-or-call-log) · [Why does Nicegram ask for camera and microphone access?](#why-does-nicegram-ask-for-camera-and-microphone-access)
 
@@ -58,6 +58,18 @@ Nicegram on a Huawei phone, HarmonyOS or another phone without Google Play: on t
 ## Which Nicegram website and Telegram channels are official?
 
 Official Nicegram places: website <https://nicegram.me>, community chat <https://t.me/nicegramchat>, official Telegram channel <https://t.me/nicegramapp>.
+
+## Are my contacts told when I join, and how do I turn that notice off?
+
+The notice that someone you know has joined is Telegram's own: Telegram can tell people when one of their contacts becomes available on Telegram. Each person chooses whether they get it on their own phone, with the switch called New Contacts or Contact joined Telegram, depending on the phone. The switch changes only your own phone, not what your contacts see.
+
+## Where is the Nicegram assistant button?
+
+Where the Nicegram assistant is: on iPhone and iPad, tap the button with the Nicegram logo at the top right of the chat list; press and hold the same button to show or hide your hidden chats. On Android, tap the Nicegram tab in the bar at the bottom of the screen.
+
+## Why is the Downloads tab missing?
+
+On iPhone and iPad, Downloads is a tab of the search above the chat list, and Nicegram shows it only while your list of recent downloads has files in it. If that list is empty, for example after Clear Download List, the Downloads tab disappears; it comes back as soon as you download a file again. On Android, the Downloads tab is always in search, and the download icon at the top of the chat list appears only while files are downloading or you have downloads you have not opened yet.
 
 ## How do I remove the WhiteBridge banner at the top of a chat?
 
@@ -98,6 +110,10 @@ Advertisers promote a Telegram channel, group, bot, Mini App or single post thro
 ## What is King of the Day?
 
 King of the Day is a daily auction for advertisers: the winning bid gets the first entry in the premium pin at the very top of the Nicegram chat list for one UTC day, shown to the whole audience. The winner sits beside the entries already sold in the pin; nobody is removed. A bid's amount moves into the bidder's auction balance and is held there while the bid stands. The current starting bid and step are on the King of the Day page.
+
+## How do I end my sessions on other devices?
+
+To sign your account out on every other device, open Settings, then Devices, and tap Terminate all other sessions; to end just one, tap it in the list. Only the device in your hand stays signed in. If the account was bought through Telegram Sessions, contact support before ending sessions.
 
 ## Why didn't my login code arrive?
 
