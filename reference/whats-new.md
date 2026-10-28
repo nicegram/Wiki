@@ -1,7 +1,7 @@
 ---
 description: Nicegram release notes for iPhone, iPad and Android, newest first.
-generated_from: nicegram/dataroom@b2377c8
-rendered_on: 2026-10-27
+generated_from: nicegram/dataroom@5d78bc4
+rendered_on: 2026-10-28
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
