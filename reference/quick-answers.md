@@ -1,7 +1,7 @@
 ---
 description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@5d78bc4
-rendered_on: 2026-10-28
+generated_from: nicegram/dataroom@60bbc94
+rendered_on: 2026-11-02
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -15,7 +15,7 @@ each topic step by step.
 
 **Downloads and official places:** [Where do I download Nicegram?](#where-do-i-download-nicegram) · [How do I install Nicegram on Huawei or a phone without Google Play?](#how-do-i-install-nicegram-on-huawei-or-a-phone-without-google-play) · [Which Nicegram website and Telegram channels are official?](#which-nicegram-website-and-telegram-channels-are-official)
 
-**Using the app:** [Are my contacts told when I join, and how do I turn that notice off?](#are-my-contacts-told-when-i-join-and-how-do-i-turn-that-notice-off) · [Where is the Nicegram assistant button?](#where-is-the-nicegram-assistant-button) · [Why is the Downloads tab missing?](#why-is-the-downloads-tab-missing) · [How do I remove the WhiteBridge banner at the top of a chat?](#how-do-i-remove-the-whitebridge-banner-at-the-top-of-a-chat) · [What is the level badge next to a name, and how do I raise it?](#what-is-the-level-badge-next-to-a-name-and-how-do-i-raise-it) · [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
+**Using the app:** [Are my contacts told when I join, and how do I turn that notice off?](#are-my-contacts-told-when-i-join-and-how-do-i-turn-that-notice-off) · [Where is the Nicegram assistant button?](#where-is-the-nicegram-assistant-button) · [Why is the Downloads tab missing?](#why-is-the-downloads-tab-missing) · [How do I create a group or a channel?](#how-do-i-create-a-group-or-a-channel) · [Where is my Telegram link, and how do I set a username?](#where-is-my-telegram-link-and-how-do-i-set-a-username) · [How do I remove the WhiteBridge banner at the top of a chat?](#how-do-i-remove-the-whitebridge-banner-at-the-top-of-a-chat) · [What is the level badge next to a name, and how do I raise it?](#what-is-the-level-badge-next-to-a-name-and-how-do-i-raise-it) · [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
 
 **Support and advertising:** [What is the Nicegram support e-mail?](#what-is-the-nicegram-support-e-mail) · [How do I reach a person at Nicegram support?](#how-do-i-reach-a-person-at-nicegram-support) · [How do I advertise my channel or project on Nicegram?](#how-do-i-advertise-my-channel-or-project-on-nicegram) · [How do ads in Nicegram work?](#how-do-ads-in-nicegram-work) · [What is King of the Day?](#what-is-king-of-the-day)
 
@@ -70,6 +70,14 @@ Where the Nicegram assistant is: on iPhone and iPad, tap the button with the Nic
 ## Why is the Downloads tab missing?
 
 On iPhone and iPad, Downloads is a tab of the search above the chat list, and Nicegram shows it only while your list of recent downloads has files in it. If that list is empty, for example after Clear Download List, the Downloads tab disappears; it comes back as soon as you download a file again. On Android, the Downloads tab is always in search, and the download icon at the top of the chat list appears only while files are downloading or you have downloads you have not opened yet.
+
+## How do I create a group or a channel?
+
+To create a group or channel, go to Chats, tap the pencil icon for a new message, and choose New Group or New Channel. In a group, members talk together; a channel broadcasts your posts to subscribers. Both run on Telegram, so they work the same way in any Telegram app.
+
+## Where is my Telegram link, and how do I set a username?
+
+Your Telegram link is t.me/ followed by your username, and it starts a chat with you. Without a username there is no link. To set one, go to Settings (on iPhone, tap Edit first), tap Username and choose one of at least 5 characters; the screen then shows your link. Anyone can look you up by your username.
 
 ## How do I remove the WhiteBridge banner at the top of a chat?
 
