@@ -1,7 +1,7 @@
 ---
 description: Official Nicegram downloads, websites, Telegram channels and chats, support contacts, social networks and e-mail addresses.
-generated_from: nicegram/dataroom@60bbc94
-rendered_on: 2026-11-02
+generated_from: nicegram/dataroom@8bb409c
+rendered_on: 2026-11-03
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
