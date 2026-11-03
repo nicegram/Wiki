@@ -1,7 +1,7 @@
 ---
 description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@60bbc94
-rendered_on: 2026-11-02
+generated_from: nicegram/dataroom@8bb409c
+rendered_on: 2026-11-03
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -15,11 +15,11 @@ each topic step by step.
 
 **Downloads and official places:** [Where do I download Nicegram?](#where-do-i-download-nicegram) · [How do I install Nicegram on Huawei or a phone without Google Play?](#how-do-i-install-nicegram-on-huawei-or-a-phone-without-google-play) · [Which Nicegram website and Telegram channels are official?](#which-nicegram-website-and-telegram-channels-are-official)
 
-**Using the app:** [Are my contacts told when I join, and how do I turn that notice off?](#are-my-contacts-told-when-i-join-and-how-do-i-turn-that-notice-off) · [Where is the Nicegram assistant button?](#where-is-the-nicegram-assistant-button) · [Why is the Downloads tab missing?](#why-is-the-downloads-tab-missing) · [How do I create a group or a channel?](#how-do-i-create-a-group-or-a-channel) · [Where is my Telegram link, and how do I set a username?](#where-is-my-telegram-link-and-how-do-i-set-a-username) · [How do I remove the WhiteBridge banner at the top of a chat?](#how-do-i-remove-the-whitebridge-banner-at-the-top-of-a-chat) · [What is the level badge next to a name, and how do I raise it?](#what-is-the-level-badge-next-to-a-name-and-how-do-i-raise-it) · [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
+**Using the app:** [Are my contacts told when I join, and how do I turn that notice off?](#are-my-contacts-told-when-i-join-and-how-do-i-turn-that-notice-off) · [Where is the Nicegram assistant button?](#where-is-the-nicegram-assistant-button) · [Why is the Downloads tab missing?](#why-is-the-downloads-tab-missing) · [How do I create a group or a channel?](#how-do-i-create-a-group-or-a-channel) · [Where is my Telegram link, and how do I set a username?](#where-is-my-telegram-link-and-how-do-i-set-a-username) · [How do I delete all messages in a chat?](#how-do-i-delete-all-messages-in-a-chat) · [How do I change my channel's link?](#how-do-i-change-my-channels-link) · [How do I switch to dark mode?](#how-do-i-switch-to-dark-mode) · [How do I hide my online status?](#how-do-i-hide-my-online-status) · [Why can't I find my contacts on Telegram?](#why-cant-i-find-my-contacts-on-telegram) · [How do I remove the WhiteBridge banner at the top of a chat?](#how-do-i-remove-the-whitebridge-banner-at-the-top-of-a-chat) · [What is the level badge next to a name, and how do I raise it?](#what-is-the-level-badge-next-to-a-name-and-how-do-i-raise-it) · [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
 
 **Support and advertising:** [What is the Nicegram support e-mail?](#what-is-the-nicegram-support-e-mail) · [How do I reach a person at Nicegram support?](#how-do-i-reach-a-person-at-nicegram-support) · [How do I advertise my channel or project on Nicegram?](#how-do-i-advertise-my-channel-or-project-on-nicegram) · [How do ads in Nicegram work?](#how-do-ads-in-nicegram-work) · [What is King of the Day?](#what-is-king-of-the-day)
 
-**Accounts and sign-in:** [How do I end my sessions on other devices?](#how-do-i-end-my-sessions-on-other-devices) · [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Nicegram say my phone was banned?](#why-does-nicegram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account) · [What does "Too many attempts" at sign-in mean?](#what-does-too-many-attempts-at-sign-in-mean)
+**Accounts and sign-in:** [How do I end my sessions on other devices?](#how-do-i-end-my-sessions-on-other-devices) · [How do I change my password or email?](#how-do-i-change-my-password-or-email) · [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Nicegram say my phone was banned?](#why-does-nicegram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account) · [What does "Too many attempts" at sign-in mean?](#what-does-too-many-attempts-at-sign-in-mean)
 
 **Privacy and permissions:** [Can Nicegram read my messages?](#can-nicegram-read-my-messages) · [What data does Nicegram collect?](#what-data-does-nicegram-collect) · [Why does Nicegram ask for my contacts, location or call log?](#why-does-nicegram-ask-for-my-contacts-location-or-call-log) · [Why does Nicegram ask for camera and microphone access?](#why-does-nicegram-ask-for-camera-and-microphone-access)
 
@@ -79,6 +79,26 @@ To create a group or channel, go to Chats, tap the pencil icon for a new message
 
 Your Telegram link is t.me/ followed by your username, and it starts a chat with you. Without a username there is no link. To set one, go to Settings (on iPhone, tap Edit first), tap Username and choose one of at least 5 characters; the screen then shows your link. Anyone can look you up by your username.
 
+## How do I delete all messages in a chat?
+
+To delete all messages in a chat at once: on iPhone, open the chat, tap its name, then More, then Clear Messages; on Android, open the chat, tap the three-dot menu, then Clear history. In a private chat you can also delete them for the other person.
+
+## How do I change my channel's link?
+
+To change your channel's link, open the channel, tap its name, then Edit, then Channel Type. A public channel's link is t.me/ followed by a name you choose: at least 5 characters, using a-z, 0-9 and underscores. A private channel uses an invite link instead. You need the right to change the channel's info.
+
+## How do I switch to dark mode?
+
+To switch to dark mode on iPhone, go to Settings, then Appearance, and pick the Night theme; or open Auto-Night Theme and choose System to follow your phone's dark mode. On Android, go to Settings, then Chat Settings, then Auto-Night Mode, and choose System Default, Scheduled or Adaptive, or pick a night theme in Chat Settings.
+
+## How do I hide my online status?
+
+To hide when you are online, go to Settings, then Privacy and Security, then Last Seen (Last Seen & Online on Android), and choose My Contacts or Nobody; you can also add exceptions for specific people. People you hide it from see an approximate time instead, such as recently or within a week, and you see the same for them.
+
+## Why can't I find my contacts on Telegram?
+
+Your phone contacts appear in Nicegram only if they use Telegram and let you find them by their number. To add them, turn on Sync Contacts in Settings, then Privacy and Security (on iPhone, under Data Settings). If a number you know shows as not on Telegram, that person may let only their own contacts find them by number, so they need to save your number first. Without a number, search for their username or ask them for their t.me link.
+
 ## How do I remove the WhiteBridge banner at the top of a chat?
 
 WhiteBridge (White Bridge) in Nicegram for iPhone and iPad offers an overview of public information found online about a person. To turn off its banner at the top of a chat with a person, tap the × on the banner's left: the banner does not come back in any chat on that device, until Nicegram is reinstalled.
@@ -122,6 +142,10 @@ King of the Day is a daily auction for advertisers: the winning bid gets the fir
 ## How do I end my sessions on other devices?
 
 To sign your account out on every other device, open Settings, then Devices, and tap Terminate all other sessions; to end just one, tap it in the list. Only the device in your hand stays signed in. If the account was bought through Telegram Sessions, contact support before ending sessions.
+
+## How do I change my password or email?
+
+Your Telegram password belongs to Telegram, not Nicegram: to change it, open Privacy and Security and tap Two-Step Verification. On that screen you can also change the recovery email or add one; it resets a forgotten password. The login email, where Telegram sends your login codes, is changed in the same section under Login Email (Email Login on Android); that row shows once you have one.
 
 ## Why didn't my login code arrive?
 
