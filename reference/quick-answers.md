@@ -1,7 +1,7 @@
 ---
 description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@77a7247
-rendered_on: 2026-11-05
+generated_from: nicegram/dataroom@59df6e6
+rendered_on: 2026-11-06
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -13,21 +13,21 @@ each topic step by step.
 
 **About Nicegram:** [How is Nicegram different from the official Telegram app?](#how-is-nicegram-different-from-the-official-telegram-app) · [Is Nicegram safe to use?](#is-nicegram-safe-to-use) · [Do I need a VPN to use Nicegram?](#do-i-need-a-vpn-to-use-nicegram) · [How many times has Nicegram been installed?](#how-many-times-has-nicegram-been-installed)
 
-**Downloads and official places:** [Where do I download Nicegram?](#where-do-i-download-nicegram) · [How do I install Nicegram on Huawei or a phone without Google Play?](#how-do-i-install-nicegram-on-huawei-or-a-phone-without-google-play) · [Which Nicegram website and Telegram channels are official?](#which-nicegram-website-and-telegram-channels-are-official)
+**Downloads and official places:** [Where do I download Nicegram?](#where-do-i-download-nicegram) · [Which iOS or Android version does Nicegram need?](#which-ios-or-android-version-does-nicegram-need) · [How do I install Nicegram on Huawei or a phone without Google Play?](#how-do-i-install-nicegram-on-huawei-or-a-phone-without-google-play) · [Which Nicegram website and Telegram channels are official?](#which-nicegram-website-and-telegram-channels-are-official)
 
-**Using the app:** [Are my contacts told when I join, and how do I turn that notice off?](#are-my-contacts-told-when-i-join-and-how-do-i-turn-that-notice-off) · [Where is the Nicegram assistant button?](#where-is-the-nicegram-assistant-button) · [Why is the Downloads tab missing?](#why-is-the-downloads-tab-missing) · [How do I create a group or a channel?](#how-do-i-create-a-group-or-a-channel) · [Where is my Telegram link, and how do I set a username?](#where-is-my-telegram-link-and-how-do-i-set-a-username) · [How do I delete all messages in a chat?](#how-do-i-delete-all-messages-in-a-chat) · [How do I change my channel's link?](#how-do-i-change-my-channels-link) · [How do I switch to dark mode?](#how-do-i-switch-to-dark-mode) · [How do I hide my online status?](#how-do-i-hide-my-online-status) · [Why can't I find my contacts on Telegram?](#why-cant-i-find-my-contacts-on-telegram) · [How do I remove the WhiteBridge banner at the top of a chat?](#how-do-i-remove-the-whitebridge-banner-at-the-top-of-a-chat) · [What is the level badge next to a name, and how do I raise it?](#what-is-the-level-badge-next-to-a-name-and-how-do-i-raise-it) · [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
+**Using the app:** [Are my contacts told when I join, and how do I turn that notice off?](#are-my-contacts-told-when-i-join-and-how-do-i-turn-that-notice-off) · [Where is the Nicegram assistant button?](#where-is-the-nicegram-assistant-button) · [Why is the Downloads tab missing?](#why-is-the-downloads-tab-missing) · [How do I create a group or a channel?](#how-do-i-create-a-group-or-a-channel) · [Where is my Telegram link, and how do I set a username?](#where-is-my-telegram-link-and-how-do-i-set-a-username) · [How do I get notifications from a muted channel back?](#how-do-i-get-notifications-from-a-muted-channel-back) · [How do I turn off automatic chat translation?](#how-do-i-turn-off-automatic-chat-translation) · [Where is the cache, and how do I clear it?](#where-is-the-cache-and-how-do-i-clear-it) · [How do I save a video to my phone?](#how-do-i-save-a-video-to-my-phone) · [How do I choose the quality when saving a video on iPhone?](#how-do-i-choose-the-quality-when-saving-a-video-on-iphone) · [How do I copy someone's user ID?](#how-do-i-copy-someones-user-id) · [How do I find a public group, channel or person?](#how-do-i-find-a-public-group-channel-or-person) · [How do I see all photos and videos from my chats?](#how-do-i-see-all-photos-and-videos-from-my-chats) · [Where are my archived chats, and how do I unarchive one?](#where-are-my-archived-chats-and-how-do-i-unarchive-one) · [How do I delete my story?](#how-do-i-delete-my-story) · [How do I send a Telegram gift to myself?](#how-do-i-send-a-telegram-gift-to-myself) · [How do I choose where links open?](#how-do-i-choose-where-links-open) · [Where is the history of pages I opened in the app?](#where-is-the-history-of-pages-i-opened-in-the-app) · [How do I add a song to my profile?](#how-do-i-add-a-song-to-my-profile) · [How do I get calls on only one device?](#how-do-i-get-calls-on-only-one-device) · [How do I set an automatic greeting message?](#how-do-i-set-an-automatic-greeting-message) · [Can Nicegram AI write a reply for me?](#can-nicegram-ai-write-a-reply-for-me) · [If I delete my group, is it deleted for everyone?](#if-i-delete-my-group-is-it-deleted-for-everyone) · [How do I delete an old profile photo?](#how-do-i-delete-an-old-profile-photo) · [Why did my messages disappear, and how do I turn off auto-delete?](#why-did-my-messages-disappear-and-how-do-i-turn-off-auto-delete) · [How do I turn off slow mode in my group?](#how-do-i-turn-off-slow-mode-in-my-group) · [Why do messages show the wrong time?](#why-do-messages-show-the-wrong-time) · [How do I delete all messages in a chat?](#how-do-i-delete-all-messages-in-a-chat) · [How do I change my channel's link?](#how-do-i-change-my-channels-link) · [How do I switch to dark mode?](#how-do-i-switch-to-dark-mode) · [How do I hide my online status?](#how-do-i-hide-my-online-status) · [Why can't I find my contacts on Telegram?](#why-cant-i-find-my-contacts-on-telegram) · [How do I remove the WhiteBridge banner at the top of a chat?](#how-do-i-remove-the-whitebridge-banner-at-the-top-of-a-chat) · [What is the level badge next to a name, and how do I raise it?](#what-is-the-level-badge-next-to-a-name-and-how-do-i-raise-it) · [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
 
 **Support and advertising:** [What is the Nicegram support e-mail?](#what-is-the-nicegram-support-e-mail) · [How do I reach a person at Nicegram support?](#how-do-i-reach-a-person-at-nicegram-support) · [How do I advertise my channel or project on Nicegram?](#how-do-i-advertise-my-channel-or-project-on-nicegram) · [How do ads in Nicegram work?](#how-do-ads-in-nicegram-work) · [What is King of the Day?](#what-is-king-of-the-day)
 
-**Accounts and sign-in:** [How do I end my sessions on other devices?](#how-do-i-end-my-sessions-on-other-devices) · [How do I change my password or email?](#how-do-i-change-my-password-or-email) · [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Nicegram say my phone was banned?](#why-does-nicegram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account) · [What does "Too many attempts" at sign-in mean?](#what-does-too-many-attempts-at-sign-in-mean)
+**Accounts and sign-in:** [How do I end my sessions on other devices?](#how-do-i-end-my-sessions-on-other-devices) · [How do I change my phone number?](#how-do-i-change-my-phone-number) · [Can I turn off the login email?](#can-i-turn-off-the-login-email) · [Why does the app ask me to pay for the SMS code?](#why-does-the-app-ask-me-to-pay-for-the-sms-code) · [How do I log out of Nicegram?](#how-do-i-log-out-of-nicegram) · [How do I sign in on a computer with a QR code?](#how-do-i-sign-in-on-a-computer-with-a-qr-code) · [How do I change my password or email?](#how-do-i-change-my-password-or-email) · [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Nicegram say my phone was banned?](#why-does-nicegram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account) · [What does "Too many attempts" at sign-in mean?](#what-does-too-many-attempts-at-sign-in-mean)
 
-**Privacy and permissions:** [Can Nicegram read my messages?](#can-nicegram-read-my-messages) · [What data does Nicegram collect?](#what-data-does-nicegram-collect) · [Why does Nicegram ask for my contacts, location or call log?](#why-does-nicegram-ask-for-my-contacts-location-or-call-log) · [Why does Nicegram ask for camera and microphone access?](#why-does-nicegram-ask-for-camera-and-microphone-access)
+**Privacy and permissions:** [How do I charge Stars for messages from strangers?](#how-do-i-charge-stars-for-messages-from-strangers) · [How do I stop strangers from contacting me?](#how-do-i-stop-strangers-from-contacting-me) · [How do I hide when I read messages?](#how-do-i-hide-when-i-read-messages) · [How do I unblock someone?](#how-do-i-unblock-someone) · [Can Nicegram read my messages?](#can-nicegram-read-my-messages) · [What data does Nicegram collect?](#what-data-does-nicegram-collect) · [Why does Nicegram ask for my contacts, location or call log?](#why-does-nicegram-ask-for-my-contacts-location-or-call-log) · [Why does Nicegram ask for camera and microphone access?](#why-does-nicegram-ask-for-camera-and-microphone-access)
 
 **Safety and scams:** [Can I trust someone in a Nicegram chat who offers to help?](#can-i-trust-someone-in-a-nicegram-chat-who-offers-to-help) · [Where did my NFT stickers or gifts go?](#where-did-my-nft-stickers-or-gifts-go) · [How do I report spam?](#how-do-i-report-spam)
 
 **Premium and subscriptions:** [Is Nicegram free?](#is-nicegram-free) · [How do I get or turn on Nicegram Premium?](#how-do-i-get-or-turn-on-nicegram-premium) · [How do I cancel a subscription or ask for a refund?](#how-do-i-cancel-a-subscription-or-ask-for-a-refund) · [Why does my free trial show no active subscription?](#why-does-my-free-trial-show-no-active-subscription) · [How many AI messages does each plan include?](#how-many-ai-messages-does-each-plan-include)
 
-**Content:** [Why can't I see sensitive (18+) or restricted content?](#why-cant-i-see-sensitive-18-or-restricted-content)
+**Content:** [How do I hide 18+ content?](#how-do-i-hide-18-content) · [Why can't I see sensitive (18+) or restricted content?](#why-cant-i-see-sensitive-18-or-restricted-content)
 
 **Features that changed or were retired:** [Where is the Nicegram wallet?](#where-is-the-nicegram-wallet) · [Can I still earn ATT points?](#can-i-still-earn-att-points) · [When do I get rewards for my ATT points and NFT stickers?](#when-do-i-get-rewards-for-my-att-points-and-nft-stickers) · [Can I see deleted messages?](#can-i-see-deleted-messages) · [Where is Ghost mode?](#where-is-ghost-mode) · [Does Nicegram have eSIM?](#does-nicegram-have-esim)
 
@@ -50,6 +50,10 @@ Nicegram has been installed more than 57 million times on iPhone, iPad and Andro
 ## Where do I download Nicegram?
 
 Download Nicegram for iPhone and iPad from the App Store (<https://apps.apple.com/us/app/nicegram-ai-for-telegram/id1608870673>), for Android from Google Play (<https://play.google.com/store/apps/details?id=app.nicegram>) or as an APK from GitHub (<https://github.com/nicegram/Nicegram-Android/releases/latest/download/app.apk>), and Nicegram Desktop for macOS from the website <https://nicegram.me>. Official Nicegram places: the website <https://nicegram.me>, the channel <https://t.me/nicegramapp>, the community chat <https://t.me/nicegramchat>, and <https://t.me/NicegramNavigation>, which lists all official chats and channels.
+
+## Which iOS or Android version does Nicegram need?
+
+The current Nicegram for iPhone and iPad needs iOS 15 or later, and Nicegram for Android needs Android 7.0 or later.
 
 ## How do I install Nicegram on Huawei or a phone without Google Play?
 
@@ -78,6 +82,94 @@ To create a group or channel, go to Chats, tap the pencil icon for a new message
 ## Where is my Telegram link, and how do I set a username?
 
 Your Telegram link is t.me/ followed by your username, and it starts a chat with you. Without a username there is no link. To set one, go to Settings (on iPhone, tap Edit first), tap Username and choose one of at least 5 characters; the screen then shows your link. Anyone can look you up by your username.
+
+## How do I get notifications from a muted channel back?
+
+To find a channel you muted or excluded from notifications, open Settings, then the Notifications section, then Channels. Channels with their own notification setting are listed there; tap one to change it, or tap Delete All Exceptions to reset them all.
+
+## How do I turn off automatic chat translation?
+
+When a chat shows a bar with Show Original at the top, tap it to see the messages as written. To stop it in that chat, tap the button at the right end of the bar and choose Hide or Do Not Translate. To stop it everywhere, open Settings, then Language, and turn off Translate Entire Chat.
+
+## Where is the cache, and how do I clear it?
+
+The cache is kept on your device. Open Settings, then Data and Storage, then Storage Usage to see how much space photos, videos, files and other data take; on iPhone and iPad the Chats tab shows which chats use it. You can clear all of it or only what you select. The media stays in the Telegram cloud and can be downloaded again.
+
+## How do I save a video to my phone?
+
+To save a video, press and hold it in the chat and tap Save Video on iPhone and iPad (it appears once the video has downloaded) or Save to gallery on Android. Android puts it in the Telegram folder inside Movies; iPhone adds it to the Photos library. If the chat or message restricts saving, the option is not shown.
+
+## How do I choose the quality when saving a video on iPhone?
+
+On iPhone, open the video and tap the three-dot menu in the viewer, then Save to Gallery. When the video comes in several qualities, the menu lists each one, such as Save in 720p, with its file size, and Nicegram then shows the saving progress. Save Original appears only with Telegram Premium.
+
+## How do I copy someone's user ID?
+
+With Show Profile ID on in Nicegram settings, a person's profile shows a row labelled id with their number. On iPhone and iPad, press and hold that id row and tap Copy.
+
+## How do I find a public group, channel or person?
+
+Tap the search field at the top of the chat list and type the name of the group or channel, or the person's username. Your own chats and contacts come first; public groups, channels and people from all of Telegram appear below them under Global Search.
+
+## How do I see all photos and videos from my chats?
+
+Tap the search field at the top of the chat list and switch to the Media tab to see photos and videos from your chats. For one chat, open it, tap its name at the top and open the Media tab.
+
+## Where are my archived chats, and how do I unarchive one?
+
+Archived chats are in Archived Chats at the top of your chat list; if you don't see it, swipe down on the chat list. To move a chat back, open Archived Chats, swipe left on the chat and tap Unarchive (on Android, swiping left unarchives it by default).
+
+## How do I delete my story?
+
+Open your story, tap its menu button, choose Delete Story on iPhone or Delete on Android, and confirm.
+
+## How do I send a Telegram gift to myself?
+
+Open Settings and tap Send a Gift. You are listed at the top to buy yourself a gift; tap yourself and choose the gift. You can show it on your page or keep it for later.
+
+## How do I choose where links open?
+
+On iPhone, go to Settings, then Privacy and Security, then Open Links in, and pick Telegram to open links inside the app, or Safari or another installed browser. On Android, go to Settings, then Chat Settings, and turn In-App Browser on to open links in the app, or off to use your phone's browser.
+
+## Where is the history of pages I opened in the app?
+
+On iPhone, open any web link in the in-app browser and tap the address bar: pages you opened are under Recently Visited. On Android, go to Settings, then Chat Settings, tap the In-App Browser row and tap View History.
+
+## How do I add a song to my profile?
+
+Play the song (an audio file) in any chat, open the player and tap Add to Profile. The song then shows on your profile, and you can remove it from the same player.
+
+## How do I get calls on only one device?
+
+In the app where you want calls, open Settings, then Devices, and tap the other device in the list. On iPhone turn off Incoming Calls under Accept on This Device; on Android turn off Accept Calls. That device stays signed in but does not take calls.
+
+## How do I set an automatic greeting message?
+
+Open Settings, then Telegram Business, then Greeting Messages, and create a greeting; it is sent automatically to new people who write to you. Away Messages on the same screen reply while you are away.
+
+## Can Nicegram AI write a reply for me?
+
+On iPhone and iPad, press and hold a text message someone sent you and tap Draft a Reply. Nicegram AI writes a reply into your message field; you edit it and send it yourself.
+
+## If I delete my group, is it deleted for everyone?
+
+Only if you choose so. When the owner deletes a group, Nicegram asks whether to delete it just for you or for all members; deleting it for all members removes everyone and all messages. On Android, tick Delete the group for all members in the delete dialog.
+
+## How do I delete an old profile photo?
+
+To delete an old profile photo, open Settings and tap your photo to open it full screen, then swipe to the photo you want to remove. On iPhone and iPad tap Edit, then Delete Photo, and confirm with Remove. On Android tap the three-dot menu, then Delete, and confirm.
+
+## Why did my messages disappear, and how do I turn off auto-delete?
+
+Messages can disappear because of auto-delete: a chat or group can delete messages automatically after a set time. To check or turn it off, open the chat and tap its name. On iPhone tap More, then Adjust Auto-Delete, then Disable; on Android tap the three-dot menu, then Auto-Delete, then Disable.
+
+## How do I turn off slow mode in my group?
+
+To turn off slow mode in a group you manage, open the group, tap its name, tap Edit (the pencil on Android), then Permissions, and move the Slow Mode slider to Off.
+
+## Why do messages show the wrong time?
+
+Nicegram shows message times in your phone's time zone. If the times look wrong, check the time zone in your phone's date and time settings, or let the phone set it automatically.
 
 ## How do I delete all messages in a chat?
 
@@ -143,6 +235,26 @@ King of the Day is a daily auction for advertisers: the winning bid gets the fir
 
 To sign your account out on every other device, open Settings, then Devices, and tap Terminate all other sessions; to end just one, tap it in the list. Only the device in your hand stays signed in. If the account was bought through Telegram Sessions, contact support before ending sessions.
 
+## How do I change my phone number?
+
+On iPhone, open Settings, tap Edit and then Change Number; on Android, open Settings and tap your phone number, then Change Number. Enter the new number: Telegram sends the confirmation code by SMS to that new number. If the new number already has its own Telegram account, the app tells you and the change cannot go ahead.
+
+## Can I turn off the login email?
+
+The app has no option to turn off the login email, only to change it: in Settings, then Privacy and Security, tap Login Email (Email Login on Android), and the window offers Change Email or Cancel.
+
+## Why does the app ask me to pay for the SMS code?
+
+The SMS Fee screen comes from Telegram: Nicegram shows it when Telegram's servers answer the request for a code with a payment requirement. Telegram explains that telecom providers in your country charge it very high prices for SMS and offers a short Telegram Premium subscription to cover the cost.
+
+## How do I log out of Nicegram?
+
+To log out on iPhone or iPad, open Settings, tap Edit at the top, scroll down and tap Log Out. On Android, open Settings, tap the three-dot menu at the top right and choose Log out.
+
+## How do I sign in on a computer with a QR code?
+
+When a computer's Telegram app shows a QR code to sign in, open Nicegram on your phone, go to Settings, then Devices, tap Link Desktop Device and scan the code. Nicegram needs camera access to scan it.
+
 ## How do I change my password or email?
 
 Your Telegram password belongs to Telegram, not Nicegram: to change it, open Privacy and Security and tap Two-Step Verification. On that screen you can also change the recovery email or add one; it resets a forgotten password. The login email, where Telegram sends your login codes, is changed in the same section under Login Email (Email Login on Android); that row shows once you have one.
@@ -166,6 +278,22 @@ To remove an account only from Nicegram on this device, log out of it instead (L
 ## What does "Too many attempts" at sign-in mean?
 
 "Too many attempts, please try again later" when you sign in is Telegram's own limit on sign-in attempts, not a Nicegram error. Wait and try again later. If the message says you deleted and re-created your account too many times, wait a few days before signing up again.
+
+## How do I charge Stars for messages from strangers?
+
+Open Settings, then Privacy and Security, then Messages, choose Charge for Messages and set your price per message in Stars. It applies to people outside your contacts who you haven't messaged first. On iPhone the option shows a lock without Telegram Premium, and it appears only where Telegram offers it.
+
+## How do I stop strangers from contacting me?
+
+Open Settings, then Privacy and Security. There you choose who can see your phone number and find you by it, who can call you, who can add you to groups and who can message you. Anyone you never want to hear from can be added to Blocked Users on the same screen.
+
+## How do I hide when I read messages?
+
+Hide Read Time is under Settings, then Privacy and Security, then Last Seen (Last Seen & Online on Android). The switch shows once you pick My Contacts or Nobody, or add exceptions. With it on, people who don't get your last seen don't get the time you opened their messages, and you don't get theirs. Groups are not affected.
+
+## How do I unblock someone?
+
+To unblock someone, open Settings, then Privacy and Security, then Blocked Users. On iPhone swipe left on the person and tap Unblock; on Android tap the person and choose Unblock.
 
 ## Can Nicegram read my messages?
 
@@ -193,7 +321,7 @@ If your NFT stickers or gifts disappeared, you may have been scammed. A common s
 
 ## How do I report spam?
 
-To report spam in Nicegram, the same as in Telegram: in the chat, tap Report Spam when Nicegram offers it, or press and hold a message, tap Report and choose Spam. You can also block the sender with Block User. Telegram's team reviews every report.
+To report spam in Nicegram, the same as in Telegram: in a chat with someone not in your contacts, tap Report Spam in the bar at the top when Nicegram shows it, or tap Block User there and tick Report Spam. In a group or channel, press and hold a message, tap Report and choose Spam. On Android a person's profile also has Report in its three-dot menu, even after you blocked them. Telegram's team reviews every report.
 
 ## Is Nicegram free?
 
@@ -214,6 +342,10 @@ If you started a free trial of Nicegram Premium but your profile shows no active
 ## How many AI messages does each plan include?
 
 Nicegram AI has no fixed number of messages per plan. Each AI request is paid from your AI Tokens balance: a Premium subscription includes monthly tokens, Premium+ includes more, and anyone can buy a top-up. If the balance runs out, the app says there are not enough AI tokens. Between two requests there is a short pause, longer without Premium. Your balance and the current amounts are shown in the app.
+
+## How do I hide 18+ content?
+
+To hide 18+ content, turn off Show 18+ Content: on iPhone and iPad it is in Settings, then Data and Storage; on Android in Settings, then Chat Settings. The switch appears only when Telegram lets your account change this setting.
 
 ## Why can't I see sensitive (18+) or restricted content?
 
