@@ -1,7 +1,7 @@
 ---
 description: Quick answers, release notes and official links for Nicegram.
-generated_from: nicegram/dataroom@59df6e6
-rendered_on: 2026-11-06
+generated_from: nicegram/dataroom@f851551
+rendered_on: 2026-11-09
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
