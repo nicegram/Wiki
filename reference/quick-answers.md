@@ -1,7 +1,7 @@
 ---
 description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@f851551
-rendered_on: 2026-11-09
+generated_from: nicegram/dataroom@3bf47fe
+rendered_on: 2026-11-16
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -29,7 +29,7 @@ each topic step by step.
 
 **Content:** [How do I hide 18+ content?](#how-do-i-hide-18-content) · [Why can't I see sensitive (18+) or restricted content?](#why-cant-i-see-sensitive-18-or-restricted-content)
 
-**Features that changed or were retired:** [Where is the Nicegram wallet?](#where-is-the-nicegram-wallet) · [Can I still earn ATT points?](#can-i-still-earn-att-points) · [When do I get rewards for my ATT points and NFT stickers?](#when-do-i-get-rewards-for-my-att-points-and-nft-stickers) · [Can I see deleted messages?](#can-i-see-deleted-messages) · [Where is Ghost mode?](#where-is-ghost-mode) · [Does Nicegram have eSIM?](#does-nicegram-have-esim)
+**Features that changed or were retired:** [Where is the Nicegram wallet?](#where-is-the-nicegram-wallet) · [Can I still earn ATT points?](#can-i-still-earn-att-points) · [Can I see deleted messages?](#can-i-see-deleted-messages) · [Where is Ghost mode?](#where-is-ghost-mode) · [Does Nicegram have eSIM?](#does-nicegram-have-esim)
 
 ## How is Nicegram different from the official Telegram app?
 
@@ -358,10 +358,6 @@ Nicegram no longer offers the in-app wallet (balances, sending, swaps, NFTs in t
 ## Can I still earn ATT points?
 
 Nicegram no longer gives ATT points for scrolling or chatting, and the ATT autopilot no longer runs. The old Scroll-to-Earn and autopilot guides are not current instructions.
-
-## When do I get rewards for my ATT points and NFT stickers?
-
-Rewards for the ATT points and NFT stickers you collected are being calculated now; an update with the details is coming soon in the official Nicegram channel @nicegramapp.
 
 ## Can I see deleted messages?
 
