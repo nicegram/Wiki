@@ -1,7 +1,7 @@
 ---
 description: Short answers about Nicegram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: nicegram/dataroom@d91c44e
-rendered_on: 2026-11-17
+generated_from: nicegram/dataroom@4b858de
+rendered_on: 2026-11-25
 ---
 
 <!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
@@ -25,7 +25,7 @@ each topic step by step.
 
 **Safety and scams:** [Can I trust someone in a Nicegram chat who offers to help?](#can-i-trust-someone-in-a-nicegram-chat-who-offers-to-help) · [Where did my NFT stickers or gifts go?](#where-did-my-nft-stickers-or-gifts-go) · [How do I report spam?](#how-do-i-report-spam)
 
-**Premium and subscriptions:** [Is Nicegram free?](#is-nicegram-free) · [How do I get or turn on Nicegram Premium?](#how-do-i-get-or-turn-on-nicegram-premium) · [How do I cancel a subscription or ask for a refund?](#how-do-i-cancel-a-subscription-or-ask-for-a-refund) · [Why does my free trial show no active subscription?](#why-does-my-free-trial-show-no-active-subscription) · [How many AI messages does each plan include?](#how-many-ai-messages-does-each-plan-include)
+**Premium and subscriptions:** [Is Nicegram free?](#is-nicegram-free) · [How do I get or turn on Nicegram Premium?](#how-do-i-get-or-turn-on-nicegram-premium) · [How do I cancel a subscription or ask for a refund?](#how-do-i-cancel-a-subscription-or-ask-for-a-refund) · [How do I cancel Nicegram Premium on iPhone or Android and ask Apple or Google for a refund?](#how-do-i-cancel-nicegram-premium-on-iphone-or-android-and-ask-apple-or-google-for-a-refund) · [Why does my free trial show no active subscription?](#why-does-my-free-trial-show-no-active-subscription) · [How many AI messages does each plan include?](#how-many-ai-messages-does-each-plan-include)
 
 **Content:** [How do I hide 18+ content?](#how-do-i-hide-18-content) · [Why can't I see sensitive (18+) or restricted content?](#why-cant-i-see-sensitive-18-or-restricted-content)
 
@@ -334,6 +334,10 @@ To get or activate Nicegram Premium, open Settings in Nicegram: on iPhone and iP
 ## How do I cancel a subscription or ask for a refund?
 
 Nicegram subscriptions bought in the App Store or Google Play follow that store's rules for payment, cancellation and refunds. Cancel a subscription, or change its payment method, in the App Store or Google Play account that processed it; cancelling stops renewal after the last day of the current period and is not automatically a refund. To ask for a refund, write to a person at Nicegram support in Telegram: @nicegram_support_manager (<https://t.me/nicegram_support_manager>). A free trial renews as a paid subscription unless auto-renew is turned off at least 24 hours before the trial ends.
+
+## How do I cancel Nicegram Premium on iPhone or Android and ask Apple or Google for a refund?
+
+You cancel a Nicegram Premium subscription yourself, in the store where you bought it. iPhone or iPad: open Settings, tap your name, tap Subscriptions, tap Nicegram, then tap Cancel Subscription (you may need to scroll down). Android: open your subscriptions in Google Play (<https://play.google.com/store/account/subscriptions>), select Nicegram, tap Cancel subscription and follow the instructions; uninstalling the app does not cancel the subscription. A refund for a subscription bought in the App Store or Google Play is decided by that store under its rules; Nicegram itself does not issue refunds for it. To ask Apple for a refund: sign in to <https://reportaproblem.apple.com>, choose "I'd like to", then "Request a refund", choose the reason and the Nicegram subscription, and submit. To ask Google Play: on <https://play.google.com> select your profile picture, then Payments & subscriptions, then Budget & order history, find the Nicegram order, choose Report a problem and say that you would like a refund. If you still need help, write to a person at Nicegram support in Telegram: @nicegram_support_manager (<https://t.me/nicegram_support_manager>).
 
 ## Why does my free trial show no active subscription?
 
